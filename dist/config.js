@@ -1,2 +1,2 @@
-// GAS 部署完成後填入 /exec 網址。此檔不放入帳密或 Google OAuth 憑證。
-window.LEARNING_CONFIG={gasUrl:'',appVersion:'3.0.0'};
+// 只放置資料接收端網址，不包含 Google 帳密或 OAuth 憑證。
+window.LEARNING_CONFIG={gasUrl:'https://script.google.com/macros/s/AKfycbzMY3utfDcA3OnXL1yje20vctjGaSqWpYt7QI075ba7g7kL1Gkb8oG6tK-f_Lm9T1sIxQ/exec',appVersion:'3.0.1'};
