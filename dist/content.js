@@ -1149,7 +1149,8 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true
       },
       "u0-p22": {
         "kind": "camouflage",
@@ -1179,7 +1180,8 @@ window.REVIEW_UNITS=[
           "#df6e61",
           "#e6bb51"
         ],
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true
       },
       "u0-p23": {
         "kind": "animalFamily",
@@ -1208,7 +1210,8 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true
       },
       "u0-p24": {
         "kind": "teamAnimals",
@@ -1237,7 +1240,8 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true
       }
     },
     "topicVisuals": [
@@ -2501,7 +2505,8 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true
       },
       "u1-p22": {
         "kind": "shadow",
@@ -2530,7 +2535,8 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true
       },
       "u1-p23": {
         "kind": "mirror",
@@ -2559,7 +2565,8 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true
       },
       "u1-p24": {
         "kind": "refraction",
@@ -2588,7 +2595,8 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true
       }
     },
     "topicVisuals": [
@@ -3428,10 +3436,10 @@ window.REVIEW_UNITS=[
         "type": "single",
         "passageId": "u2-p22",
         "passageTitle": "小安的從海域認識臺灣（紀錄 1）",
-        "passage": "小安讀臺灣周邊的海域示意圖，先確認北方在上，再找臺灣與周圍海域的相對位置。圖卡標出西側臺灣海峽、東側太平洋、北側東海與南側巴士海峽，協助閱讀位置關係。\n\n圖上的臺灣外形是簡化示意，不用來量真實距離，也沒有完整呈現所有島嶼。小組用方位詞描述位置，不把「靠左」當成無論圖怎麼旋轉都永遠正確的說法。\n\n看世界或區域地圖時，方向、範圍與圖例都重要。想知道更精確的位置與距離，還需要合適比例與更完整的地圖。這次練習重點是從文字與圖上的標示，找出彼此支持的資訊。",
+        "passage": "小安讀臺灣周邊的海域示意圖，先確認北方在上，再找臺灣與周圍海域的相對位置。圖上用 A、B、C、D 標記臺灣附近四個海域，請結合課堂所學判斷各代號代表的海域。\n\n圖上的臺灣外形是簡化示意，不用來量真實距離，也沒有完整呈現所有島嶼。小組用方位詞描述位置，不把「靠左」當成無論圖怎麼旋轉都永遠正確的說法。\n\n看世界或區域地圖時，方向、範圍與圖例都重要。想知道更精確的位置與距離，還需要合適比例與更完整的地圖。這次練習重點是從文字與圖上的標示，找出彼此支持的資訊。",
         "readingOrder": 1,
         "readingSkill": "讀圖取訊",
-        "text": "〈小安的從海域認識臺灣（紀錄 1）〉臺灣西側圖卡標示什麼？",
+        "text": "〈臺灣周邊海域〉依圖中的位置，A 代表哪個海域？",
         "options": [
           "臺灣海峽",
           "太平洋",
@@ -3455,10 +3463,10 @@ window.REVIEW_UNITS=[
         "type": "single",
         "passageId": "u2-p22",
         "passageTitle": "小安的從海域認識臺灣（紀錄 1）",
-        "passage": "小安讀臺灣周邊的海域示意圖，先確認北方在上，再找臺灣與周圍海域的相對位置。圖卡標出西側臺灣海峽、東側太平洋、北側東海與南側巴士海峽，協助閱讀位置關係。\n\n圖上的臺灣外形是簡化示意，不用來量真實距離，也沒有完整呈現所有島嶼。小組用方位詞描述位置，不把「靠左」當成無論圖怎麼旋轉都永遠正確的說法。\n\n看世界或區域地圖時，方向、範圍與圖例都重要。想知道更精確的位置與距離，還需要合適比例與更完整的地圖。這次練習重點是從文字與圖上的標示，找出彼此支持的資訊。",
+        "passage": "小安讀臺灣周邊的海域示意圖，先確認北方在上，再找臺灣與周圍海域的相對位置。圖上用 A、B、C、D 標記臺灣附近四個海域，請結合課堂所學判斷各代號代表的海域。\n\n圖上的臺灣外形是簡化示意，不用來量真實距離，也沒有完整呈現所有島嶼。小組用方位詞描述位置，不把「靠左」當成無論圖怎麼旋轉都永遠正確的說法。\n\n看世界或區域地圖時，方向、範圍與圖例都重要。想知道更精確的位置與距離，還需要合適比例與更完整的地圖。這次練習重點是從文字與圖上的標示，找出彼此支持的資訊。",
         "readingOrder": 2,
         "readingSkill": "比較整理",
-        "text": "〈小安的從海域認識臺灣（紀錄 1）〉東側與南側依序標示什麼？",
+        "text": "〈臺灣周邊海域〉B 與 D 代表的海域依序是哪兩個？",
         "options": [
           "太平洋、巴士海峽",
           "東海、臺灣海峽",
@@ -3482,7 +3490,7 @@ window.REVIEW_UNITS=[
         "type": "single",
         "passageId": "u2-p22",
         "passageTitle": "小安的從海域認識臺灣（紀錄 1）",
-        "passage": "小安讀臺灣周邊的海域示意圖，先確認北方在上，再找臺灣與周圍海域的相對位置。圖卡標出西側臺灣海峽、東側太平洋、北側東海與南側巴士海峽，協助閱讀位置關係。\n\n圖上的臺灣外形是簡化示意，不用來量真實距離，也沒有完整呈現所有島嶼。小組用方位詞描述位置，不把「靠左」當成無論圖怎麼旋轉都永遠正確的說法。\n\n看世界或區域地圖時，方向、範圍與圖例都重要。想知道更精確的位置與距離，還需要合適比例與更完整的地圖。這次練習重點是從文字與圖上的標示，找出彼此支持的資訊。",
+        "passage": "小安讀臺灣周邊的海域示意圖，先確認北方在上，再找臺灣與周圍海域的相對位置。圖上用 A、B、C、D 標記臺灣附近四個海域，請結合課堂所學判斷各代號代表的海域。\n\n圖上的臺灣外形是簡化示意，不用來量真實距離，也沒有完整呈現所有島嶼。小組用方位詞描述位置，不把「靠左」當成無論圖怎麼旋轉都永遠正確的說法。\n\n看世界或區域地圖時，方向、範圍與圖例都重要。想知道更精確的位置與距離，還需要合適比例與更完整的地圖。這次練習重點是從文字與圖上的標示，找出彼此支持的資訊。",
         "readingOrder": 3,
         "readingSkill": "連結原因",
         "text": "〈小安的從海域認識臺灣（紀錄 1）〉為什麼不能直接用這張圖量真實距離？",
@@ -3509,7 +3517,7 @@ window.REVIEW_UNITS=[
         "type": "single",
         "passageId": "u2-p22",
         "passageTitle": "小安的從海域認識臺灣（紀錄 1）",
-        "passage": "小安讀臺灣周邊的海域示意圖，先確認北方在上，再找臺灣與周圍海域的相對位置。圖卡標出西側臺灣海峽、東側太平洋、北側東海與南側巴士海峽，協助閱讀位置關係。\n\n圖上的臺灣外形是簡化示意，不用來量真實距離，也沒有完整呈現所有島嶼。小組用方位詞描述位置，不把「靠左」當成無論圖怎麼旋轉都永遠正確的說法。\n\n看世界或區域地圖時，方向、範圍與圖例都重要。想知道更精確的位置與距離，還需要合適比例與更完整的地圖。這次練習重點是從文字與圖上的標示，找出彼此支持的資訊。",
+        "passage": "小安讀臺灣周邊的海域示意圖，先確認北方在上，再找臺灣與周圍海域的相對位置。圖上用 A、B、C、D 標記臺灣附近四個海域，請結合課堂所學判斷各代號代表的海域。\n\n圖上的臺灣外形是簡化示意，不用來量真實距離，也沒有完整呈現所有島嶼。小組用方位詞描述位置，不把「靠左」當成無論圖怎麼旋轉都永遠正確的說法。\n\n看世界或區域地圖時，方向、範圍與圖例都重要。想知道更精確的位置與距離，還需要合適比例與更完整的地圖。這次練習重點是從文字與圖上的標示，找出彼此支持的資訊。",
         "readingOrder": 4,
         "readingSkill": "判斷證據",
         "text": "〈小安的從海域認識臺灣（紀錄 1）〉哪個描述符合資料？",
@@ -3536,7 +3544,7 @@ window.REVIEW_UNITS=[
         "type": "single",
         "passageId": "u2-p22",
         "passageTitle": "小安的從海域認識臺灣（紀錄 1）",
-        "passage": "小安讀臺灣周邊的海域示意圖，先確認北方在上，再找臺灣與周圍海域的相對位置。圖卡標出西側臺灣海峽、東側太平洋、北側東海與南側巴士海峽，協助閱讀位置關係。\n\n圖上的臺灣外形是簡化示意，不用來量真實距離，也沒有完整呈現所有島嶼。小組用方位詞描述位置，不把「靠左」當成無論圖怎麼旋轉都永遠正確的說法。\n\n看世界或區域地圖時，方向、範圍與圖例都重要。想知道更精確的位置與距離，還需要合適比例與更完整的地圖。這次練習重點是從文字與圖上的標示，找出彼此支持的資訊。",
+        "passage": "小安讀臺灣周邊的海域示意圖，先確認北方在上，再找臺灣與周圍海域的相對位置。圖上用 A、B、C、D 標記臺灣附近四個海域，請結合課堂所學判斷各代號代表的海域。\n\n圖上的臺灣外形是簡化示意，不用來量真實距離，也沒有完整呈現所有島嶼。小組用方位詞描述位置，不把「靠左」當成無論圖怎麼旋轉都永遠正確的說法。\n\n看世界或區域地圖時，方向、範圍與圖例都重要。想知道更精確的位置與距離，還需要合適比例與更完整的地圖。這次練習重點是從文字與圖上的標示，找出彼此支持的資訊。",
         "readingOrder": 5,
         "readingSkill": "生活應用",
         "text": "〈小安的從海域認識臺灣（紀錄 1）〉要查完整島嶼與距離，應怎麼做？",
@@ -3857,10 +3865,11 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true
       },
       "u2-p22": {
-        "kind": "taiwan",
+        "kind": "examTaiwan",
         "caption": "臺灣與周邊海域示意",
         "table": {
           "headers": [
@@ -3886,7 +3895,9 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "A～D 是海域代號。依北箭頭、臺灣輪廓與相對位置判讀；此圖不是測量用地圖。",
+        "examLineArt": true,
+        "hideTable": true
       },
       "u2-p23": {
         "kind": "culture",
@@ -3911,7 +3922,8 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true
       },
       "u2-p24": {
         "kind": "sharedSpace",
@@ -3936,7 +3948,8 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true
       }
     },
     "topicVisuals": [
@@ -5179,7 +5192,7 @@ window.REVIEW_UNITS=[
     "literacyAvailable": true,
     "articleVisuals": {
       "u3-p21": {
-        "kind": "terrain",
+        "kind": "examTerrain",
         "caption": "三處地勢觀察卡",
         "table": {
           "headers": [
@@ -5205,10 +5218,12 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "甲、乙、丙使用相同高度基準。海拔及地勢外形應一起判讀；水平距離為示意。",
+        "examLineArt": true,
+        "hideTable": true
       },
       "u3-p22": {
-        "kind": "rain",
+        "kind": "examBars",
         "caption": "同一天的模擬雨量",
         "table": {
           "headers": [
@@ -5230,7 +5245,12 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true,
+        "unit": "毫米",
+        "step": 5,
+        "valueColumn": 1,
+        "note": "同一天的模擬雨量"
       },
       "u3-p23": {
         "kind": "landUse",
@@ -5259,7 +5279,8 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true
       },
       "u3-p24": {
         "kind": "river",
@@ -5284,7 +5305,8 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true
       }
     },
     "topicVisuals": [
@@ -8052,121 +8074,141 @@ window.REVIEW_UNITS=[
         "kind": "story",
         "scene": "charity",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u4-p02": {
         "kind": "story",
         "scene": "charity",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u4-p03": {
         "kind": "story",
         "scene": "charity",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u4-p04": {
         "kind": "story",
         "scene": "charity",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u4-p05": {
         "kind": "story",
         "scene": "charity",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u4-p06": {
         "kind": "story",
         "scene": "landscape",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u4-p07": {
         "kind": "story",
         "scene": "landscape",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u4-p08": {
         "kind": "story",
         "scene": "landscape",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u4-p09": {
         "kind": "story",
         "scene": "landscape",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u4-p10": {
         "kind": "story",
         "scene": "landscape",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u4-p11": {
         "kind": "story",
         "scene": "climb",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u4-p12": {
         "kind": "story",
         "scene": "climb",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u4-p13": {
         "kind": "story",
         "scene": "climb",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u4-p14": {
         "kind": "story",
         "scene": "climb",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u4-p15": {
         "kind": "story",
         "scene": "climb",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u4-p16": {
         "kind": "story",
         "scene": "reading",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u4-p17": {
         "kind": "story",
         "scene": "reading",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u4-p18": {
         "kind": "story",
         "scene": "reading",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u4-p19": {
         "kind": "story",
         "scene": "reading",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u4-p20": {
         "kind": "story",
         "scene": "reading",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       }
     },
     "sources": [
@@ -10830,121 +10872,141 @@ window.REVIEW_UNITS=[
         "kind": "story",
         "scene": "museum",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u5-p02": {
         "kind": "story",
         "scene": "museum",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u5-p03": {
         "kind": "story",
         "scene": "museum",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u5-p04": {
         "kind": "story",
         "scene": "museum",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u5-p05": {
         "kind": "story",
         "scene": "museum",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u5-p06": {
         "kind": "story",
         "scene": "museum",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u5-p07": {
         "kind": "story",
         "scene": "shop",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u5-p08": {
         "kind": "story",
         "scene": "shop",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u5-p09": {
         "kind": "story",
         "scene": "shop",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u5-p10": {
         "kind": "story",
         "scene": "shop",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u5-p11": {
         "kind": "story",
         "scene": "shop",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u5-p12": {
         "kind": "story",
         "scene": "shop",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u5-p13": {
         "kind": "story",
         "scene": "animation",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u5-p14": {
         "kind": "story",
         "scene": "animation",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u5-p15": {
         "kind": "story",
         "scene": "animation",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u5-p16": {
         "kind": "story",
         "scene": "animation",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u5-p17": {
         "kind": "story",
         "scene": "animation",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u5-p18": {
         "kind": "story",
         "scene": "animation",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u5-p19": {
         "kind": "story",
         "scene": "animation",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u5-p20": {
         "kind": "story",
         "scene": "animation",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       }
     },
     "sources": [
@@ -11671,7 +11733,8 @@ window.REVIEW_UNITS=[
         "items": [
           "tea",
           "bubble tea"
-        ]
+        ],
+        "examLineArt": true
       },
       "u6-p41": {
         "kind": "menu",
@@ -11681,7 +11744,8 @@ window.REVIEW_UNITS=[
           "soy milk",
           "milk tea",
           "fruit juice"
-        ]
+        ],
+        "examLineArt": true
       },
       "u6-p42": {
         "kind": "menu",
@@ -11690,7 +11754,8 @@ window.REVIEW_UNITS=[
         "items": [
           "milk tea",
           "fruit juice"
-        ]
+        ],
+        "examLineArt": true
       },
       "u6-p43": {
         "kind": "menu",
@@ -11720,7 +11785,8 @@ window.REVIEW_UNITS=[
               "fruit juice"
             ]
           ]
-        }
+        },
+        "examLineArt": true
       }
     },
     "qualityRevision": 6,
@@ -12462,7 +12528,8 @@ window.REVIEW_UNITS=[
               2
             ]
           ]
-        }
+        },
+        "examLineArt": true
       },
       "u7-p41": {
         "kind": "fruitList",
@@ -12485,7 +12552,8 @@ window.REVIEW_UNITS=[
               2
             ]
           ]
-        }
+        },
+        "examLineArt": true
       },
       "u7-p42": {
         "kind": "fruitList",
@@ -12508,7 +12576,8 @@ window.REVIEW_UNITS=[
               4
             ]
           ]
-        }
+        },
+        "examLineArt": true
       },
       "u7-p43": {
         "kind": "fruitList",
@@ -12541,7 +12610,8 @@ window.REVIEW_UNITS=[
               3
             ]
           ]
-        }
+        },
+        "examLineArt": true
       }
     },
     "qualityRevision": 6,
@@ -12905,19 +12975,37 @@ window.REVIEW_UNITS=[
       },
       {
         "type": "numeric",
-        "text": "四天借閱量合計 120 本，週四的紀錄遺失。已知週一 20、週二 35、週三 25 本，週四幾本？",
+        "text": "借閱紀錄有一格遺失。週四借出幾本？",
         "answer": 40,
         "unitLabel": "本",
         "explanation": "120－20－35－25＝40 本；用總數減去已知三天。",
         "visual": {
-          "kind": "reasoningBoard",
-          "caption": "紀錄單缺一格",
-          "items": [
-            "週一 20 本",
-            "週二 35 本",
-            "週三 25 本",
-            "週四 ？本"
-          ]
+          "kind": "examReceipt",
+          "caption": "圖書借閱紀錄",
+          "heading": "圖書借閱紀錄",
+          "rows": [
+            [
+              "週一",
+              "20 本"
+            ],
+            [
+              "週二",
+              "35 本"
+            ],
+            [
+              "週三",
+              "25 本"
+            ],
+            [
+              "週四",
+              "？本"
+            ],
+            [
+              "四天合計",
+              "120 本"
+            ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "core",
         "family": "missing-chart-value",
@@ -13263,7 +13351,8 @@ window.REVIEW_UNITS=[
           "caption": "每組相同的數量",
           "per": 4,
           "count": 4,
-          "unit": "組"
+          "unit": "組",
+          "examLineArt": true
         },
         "family": "foundation-第幾個正倍數",
         "difficulty": "basic",
@@ -13287,7 +13376,8 @@ window.REVIEW_UNITS=[
           "kind": "packing",
           "caption": "依每盒數量分裝",
           "total": 20,
-          "per": 4
+          "per": 4,
+          "examLineArt": true
         },
         "family": "foundation-整除與分組",
         "difficulty": "basic",
@@ -13313,7 +13403,8 @@ window.REVIEW_UNITS=[
           "numbers": [
             4
           ],
-          "note": "請依題目條件計算，不只看圖案數量。"
+          "note": "請依題目條件計算，不只看圖案數量。",
+          "examLineArt": true
         },
         "family": "foundation-最大的因數",
         "difficulty": "basic",
@@ -13339,7 +13430,8 @@ window.REVIEW_UNITS=[
           "numbers": [
             4
           ],
-          "note": "請依題目條件計算，不只看圖案數量。"
+          "note": "請依題目條件計算，不只看圖案數量。",
+          "examLineArt": true
         },
         "family": "foundation-範圍內的倍數",
         "difficulty": "basic",
@@ -13365,7 +13457,8 @@ window.REVIEW_UNITS=[
           "numbers": [
             8
           ],
-          "note": "請依題目條件計算，不只看圖案數量。"
+          "note": "請依題目條件計算，不只看圖案數量。",
+          "examLineArt": true
         },
         "family": "foundation-列出所有因數",
         "difficulty": "basic",
@@ -13382,12 +13475,28 @@ window.REVIEW_UNITS=[
         "unitLabel": "種",
         "explanation": "24 的因數中，5～8 之間只有 6、8，所以有 2 種。",
         "visual": {
-          "kind": "reasoningBoard",
+          "kind": "examReceipt",
           "caption": "分裝條件",
           "items": [
             "總數 24 枝",
             "每盒 5～8 枝",
             "每盒同樣多，不剩下"
+          ],
+          "examLineArt": true,
+          "heading": "題目資料",
+          "rows": [
+            [
+              "1",
+              "總數 24 枝"
+            ],
+            [
+              "2",
+              "每盒 5～8 枝"
+            ],
+            [
+              "3",
+              "每盒同樣多，不剩下"
+            ]
           ]
         },
         "difficulty": "challenge",
@@ -13410,12 +13519,28 @@ window.REVIEW_UNITS=[
         "unitLabel": "",
         "explanation": "候選數是 36、42、48，只有 42 的個位為 2。",
         "visual": {
-          "kind": "reasoningBoard",
+          "kind": "examReceipt",
           "caption": "三個線索一起看",
           "items": [
             "6 的正倍數",
             "30＜□＜50",
             "個位數字是 2"
+          ],
+          "examLineArt": true,
+          "heading": "題目資料",
+          "rows": [
+            [
+              "1",
+              "6 的正倍數"
+            ],
+            [
+              "2",
+              "30＜□＜50"
+            ],
+            [
+              "3",
+              "個位數字是 2"
+            ]
           ]
         },
         "difficulty": "challenge",
@@ -13449,7 +13574,8 @@ window.REVIEW_UNITS=[
             24,
             8,
             3
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "factor-multiple-direction",
@@ -13471,12 +13597,28 @@ window.REVIEW_UNITS=[
         "unitLabel": "種",
         "explanation": "可排 2 排每排 18 人、3 排每排 12 人、4 排每排 9 人；6×6 不符合排數較少，共 3 種。",
         "visual": {
-          "kind": "reasoningBoard",
+          "kind": "examReceipt",
           "caption": "長方形隊伍的限制",
           "items": [
             "36 人，不剩下",
             "排數＜每排人數",
             "排數與每排人數都＞1"
+          ],
+          "examLineArt": true,
+          "heading": "題目資料",
+          "rows": [
+            [
+              "1",
+              "36 人，不剩下"
+            ],
+            [
+              "2",
+              "排數＜每排人數"
+            ],
+            [
+              "3",
+              "排數與每排人數都＞1"
+            ]
           ]
         },
         "difficulty": "challenge",
@@ -13499,12 +13641,28 @@ window.REVIEW_UNITS=[
         "unitLabel": "個",
         "explanation": "符合的是 5、15、25、35；去除同時是 10 倍數的數，共 4 個。",
         "visual": {
-          "kind": "reasoningBoard",
+          "kind": "examReceipt",
           "caption": "在兩個條件之間篩選",
           "items": [
             "1～40，含端點",
             "是 5 的倍數",
             "不是 10 的倍數"
+          ],
+          "examLineArt": true,
+          "heading": "題目資料",
+          "rows": [
+            [
+              "1",
+              "1～40，含端點"
+            ],
+            [
+              "2",
+              "是 5 的倍數"
+            ],
+            [
+              "3",
+              "不是 10 的倍數"
+            ]
           ]
         },
         "difficulty": "core",
@@ -13527,11 +13685,23 @@ window.REVIEW_UNITS=[
         "unitLabel": "",
         "explanation": "每個正整數本身也是因數；完整列表是 1、2、3、6、9、18。",
         "visual": {
-          "kind": "reasoningBoard",
+          "kind": "examReceipt",
           "caption": "檢查清單是否完整",
           "items": [
             "18 的因數清單",
             "1、2、3、6、9、□"
+          ],
+          "examLineArt": true,
+          "heading": "題目資料",
+          "rows": [
+            [
+              "1",
+              "18 的因數清單"
+            ],
+            [
+              "2",
+              "1、2、3、6、9、□"
+            ]
           ]
         },
         "difficulty": "core",
@@ -13722,7 +13892,8 @@ window.REVIEW_UNITS=[
             45,
             60,
             null
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "basic",
         "family": "third-angle",
@@ -13746,7 +13917,8 @@ window.REVIEW_UNITS=[
         "visual": {
           "kind": "isosceles",
           "caption": "相同記號表示兩腰相等",
-          "vertex": 44
+          "vertex": 44,
+          "examLineArt": true
         },
         "difficulty": "core",
         "family": "isosceles-base",
@@ -13779,7 +13951,8 @@ window.REVIEW_UNITS=[
             35,
             65,
             null
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "critique-right-triangle",
@@ -13807,7 +13980,8 @@ window.REVIEW_UNITS=[
             72,
             72,
             null
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "core",
         "family": "isosceles-vertex",
@@ -13835,7 +14009,8 @@ window.REVIEW_UNITS=[
             90,
             28,
             null
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "core",
         "family": "right-triangle-complement",
@@ -13862,12 +14037,28 @@ window.REVIEW_UNITS=[
         "answer": 0,
         "explanation": "50＋60＋80＝190 度，不符合三角形內角和 180 度。",
         "visual": {
-          "kind": "reasoningBoard",
+          "kind": "examReceipt",
           "caption": "檢查三張角卡",
           "items": [
             "50°",
             "60°",
             "80°"
+          ],
+          "examLineArt": true,
+          "heading": "題目資料",
+          "rows": [
+            [
+              "1",
+              "50°"
+            ],
+            [
+              "2",
+              "60°"
+            ],
+            [
+              "3",
+              "80°"
+            ]
           ]
         },
         "difficulty": "challenge",
@@ -13903,7 +14094,8 @@ window.REVIEW_UNITS=[
               55,
               null
             ]
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "compare-triangles",
@@ -13931,7 +14123,8 @@ window.REVIEW_UNITS=[
             5,
             9,
             null
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "core",
         "family": "triangle-shortest-side",
@@ -13959,7 +14152,8 @@ window.REVIEW_UNITS=[
             6,
             10,
             null
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "count-third-sides",
@@ -13986,12 +14180,28 @@ window.REVIEW_UNITS=[
         "answer": 0,
         "explanation": "兩短邊的和必須大於最長邊；等於時無法圍出三角形。",
         "visual": {
-          "kind": "reasoningBoard",
+          "kind": "examReceipt",
           "caption": "比較兩短邊的和",
           "items": [
             "4 公分",
             "7 公分",
             "11 公分"
+          ],
+          "examLineArt": true,
+          "heading": "題目資料",
+          "rows": [
+            [
+              "1",
+              "4 公分"
+            ],
+            [
+              "2",
+              "7 公分"
+            ],
+            [
+              "3",
+              "11 公分"
+            ]
           ]
         },
         "difficulty": "challenge",
@@ -14020,7 +14230,8 @@ window.REVIEW_UNITS=[
             7,
             9,
             null
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "core",
         "family": "perimeter-missing-side",
@@ -14053,7 +14264,8 @@ window.REVIEW_UNITS=[
             60,
             60,
             null
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "core",
         "family": "equilateral-invariance",
@@ -14077,7 +14289,8 @@ window.REVIEW_UNITS=[
         "visual": {
           "kind": "parallelogram",
           "caption": "相鄰角未知",
-          "known": 68
+          "known": 68,
+          "examLineArt": true
         },
         "difficulty": "core",
         "family": "adjacent-parallelogram",
@@ -14101,7 +14314,8 @@ window.REVIEW_UNITS=[
         "visual": {
           "kind": "parallelOpposite",
           "caption": "求相對的內角",
-          "known": 72
+          "known": 72,
+          "examLineArt": true
         },
         "difficulty": "core",
         "family": "opposite-parallelogram",
@@ -14130,7 +14344,8 @@ window.REVIEW_UNITS=[
         "visual": {
           "kind": "parallelogram",
           "caption": "核對相鄰角的紀錄",
-          "known": 70
+          "known": 70,
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "critique-adjacent-equality",
@@ -14159,7 +14374,8 @@ window.REVIEW_UNITS=[
             95,
             110,
             null
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "core",
         "family": "fourth-angle",
@@ -14188,7 +14404,8 @@ window.REVIEW_UNITS=[
             90,
             65,
             null
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "quadrilateral-angle-difference",
@@ -14216,7 +14433,8 @@ window.REVIEW_UNITS=[
         "explanation": "四邊等長可判為菱形；還要知道四角為直角，才能判為正方形。",
         "visual": {
           "kind": "rhombus",
-          "caption": "四邊有相同的等長記號"
+          "caption": "四邊有相同的等長記號",
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "sufficient-shape-condition",
@@ -14241,7 +14459,8 @@ window.REVIEW_UNITS=[
           "kind": "rectangleDimensions",
           "caption": "旋轉前後邊長不變",
           "width": 12,
-          "height": 7
+          "height": 7,
+          "examLineArt": true
         },
         "difficulty": "core",
         "family": "rectangle-perimeter-invariance",
@@ -14269,7 +14488,8 @@ window.REVIEW_UNITS=[
             6,
             12,
             null
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "isosceles-side-elimination",
@@ -14464,7 +14684,8 @@ window.REVIEW_UNITS=[
             4,
             6
           ],
-          "note": "依題目判斷是求最大公因數或最小公倍數。"
+          "note": "依題目判斷是求最大公因數或最小公倍數。",
+          "examLineArt": true
         },
         "family": "foundation-最大公因數",
         "difficulty": "basic",
@@ -14491,7 +14712,8 @@ window.REVIEW_UNITS=[
             4,
             6
           ],
-          "note": "依題目判斷是求最大公因數或最小公倍數。"
+          "note": "依題目判斷是求最大公因數或最小公倍數。",
+          "examLineArt": true
         },
         "family": "foundation-最小公倍數",
         "difficulty": "basic",
@@ -14517,7 +14739,8 @@ window.REVIEW_UNITS=[
           "intervals": [
             4,
             6
-          ]
+          ],
+          "examLineArt": true
         },
         "family": "foundation-週期間隔應用",
         "difficulty": "basic",
@@ -14544,7 +14767,8 @@ window.REVIEW_UNITS=[
             8,
             12
           ],
-          "note": "依題目判斷是求最大公因數或最小公倍數。"
+          "note": "依題目判斷是求最大公因數或最小公倍數。",
+          "examLineArt": true
         },
         "family": "foundation-最多分組",
         "difficulty": "basic",
@@ -14568,7 +14792,8 @@ window.REVIEW_UNITS=[
           "kind": "tiling",
           "caption": "大長方形與要找的正方形",
           "width": 12,
-          "height": 18
+          "height": 18,
+          "examLineArt": true
         },
         "family": "foundation-正方形鋪排",
         "difficulty": "basic",
@@ -14585,12 +14810,28 @@ window.REVIEW_UNITS=[
         "unitLabel": "公分",
         "explanation": "每段長要同時整除 24、36，最大公因數是 12。",
         "visual": {
-          "kind": "reasoningBoard",
+          "kind": "examReceipt",
           "caption": "兩條繩都要剛好剪完",
           "items": [
             "紅繩 24 公分",
             "藍繩 36 公分",
             "每段同長，不剩下"
+          ],
+          "examLineArt": true,
+          "heading": "題目資料",
+          "rows": [
+            [
+              "1",
+              "紅繩 24 公分"
+            ],
+            [
+              "2",
+              "藍繩 36 公分"
+            ],
+            [
+              "3",
+              "每段同長，不剩下"
+            ]
           ]
         },
         "difficulty": "core",
@@ -14613,12 +14854,28 @@ window.REVIEW_UNITS=[
         "unitLabel": "分",
         "explanation": "最小公倍數為 36 分鐘，8：00 再過 36 分鐘是 8：36。",
         "visual": {
-          "kind": "reasoningBoard",
+          "kind": "examReceipt",
           "caption": "從共同起點往後推",
           "items": [
             "甲：每 12 分鐘",
             "乙：每 18 分鐘",
             "共同起點 8：00"
+          ],
+          "examLineArt": true,
+          "heading": "題目資料",
+          "rows": [
+            [
+              "1",
+              "甲：每 12 分鐘"
+            ],
+            [
+              "2",
+              "乙：每 18 分鐘"
+            ],
+            [
+              "3",
+              "共同起點 8：00"
+            ]
           ]
         },
         "difficulty": "challenge",
@@ -14641,12 +14898,28 @@ window.REVIEW_UNITS=[
         "unitLabel": "枝",
         "explanation": "最多可分 6 包，每包紅筆 3 枝、藍筆 5 枝，合計 8 枝；題目問每包枝數，不是包數。",
         "visual": {
-          "kind": "reasoningBoard",
+          "kind": "examReceipt",
           "caption": "先找包數，再算每包",
           "items": [
             "18 枝紅筆",
             "30 枝藍筆",
             "最多包，每包內容相同"
+          ],
+          "examLineArt": true,
+          "heading": "題目資料",
+          "rows": [
+            [
+              "1",
+              "18 枝紅筆"
+            ],
+            [
+              "2",
+              "30 枝藍筆"
+            ],
+            [
+              "3",
+              "最多包，每包內容相同"
+            ]
           ]
         },
         "difficulty": "challenge",
@@ -14669,12 +14942,28 @@ window.REVIEW_UNITS=[
         "unitLabel": "枝",
         "explanation": "每種最少 24 枝，兩種合計 24＋24＝48 枝；不能只答最小公倍數 24。",
         "visual": {
-          "kind": "reasoningBoard",
+          "kind": "examReceipt",
           "caption": "「每種」與「合計」不同",
           "items": [
             "鉛筆：每包 6 枝",
             "原子筆：每包 8 枝",
             "兩種枝數相同"
+          ],
+          "examLineArt": true,
+          "heading": "題目資料",
+          "rows": [
+            [
+              "1",
+              "鉛筆：每包 6 枝"
+            ],
+            [
+              "2",
+              "原子筆：每包 8 枝"
+            ],
+            [
+              "3",
+              "兩種枝數相同"
+            ]
           ]
         },
         "difficulty": "challenge",
@@ -14705,7 +14994,8 @@ window.REVIEW_UNITS=[
           "kind": "tiling",
           "caption": "正方形要能排入長方形",
           "width": 24,
-          "height": 18
+          "height": 18,
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "choose-gcd-not-lcm",
@@ -14727,12 +15017,28 @@ window.REVIEW_UNITS=[
         "unitLabel": "",
         "explanation": "範圍內的公倍數為 24、36、48；排除 8 的倍數 24、48，剩下 36。",
         "visual": {
-          "kind": "reasoningBoard",
+          "kind": "examReceipt",
           "caption": "公倍數加上排除條件",
           "items": [
             "20＜□＜50",
             "同時是 4、6 的倍數",
             "不是 8 的倍數"
+          ],
+          "examLineArt": true,
+          "heading": "題目資料",
+          "rows": [
+            [
+              "1",
+              "20＜□＜50"
+            ],
+            [
+              "2",
+              "同時是 4、6 的倍數"
+            ],
+            [
+              "3",
+              "不是 8 的倍數"
+            ]
           ]
         },
         "difficulty": "challenge",
@@ -14930,7 +15236,8 @@ window.REVIEW_UNITS=[
               "count": 1
             }
           ],
-          "description": "虛線表示被遮住的邊；各模型彼此分開，未共用邊或頂點。"
+          "description": "虛線表示被遮住的邊；各模型彼此分開，未共用邊或頂點。",
+          "examLineArt": true
         },
         "family": "foundation-角柱的面",
         "difficulty": "basic",
@@ -14960,7 +15267,8 @@ window.REVIEW_UNITS=[
               "count": 1
             }
           ],
-          "description": "虛線表示被遮住的邊；各模型彼此分開，未共用邊或頂點。"
+          "description": "虛線表示被遮住的邊；各模型彼此分開，未共用邊或頂點。",
+          "examLineArt": true
         },
         "family": "foundation-角柱的頂點",
         "difficulty": "basic",
@@ -14990,7 +15298,8 @@ window.REVIEW_UNITS=[
               "count": 1
             }
           ],
-          "description": "虛線表示被遮住的邊；各模型彼此分開，未共用邊或頂點。"
+          "description": "虛線表示被遮住的邊；各模型彼此分開，未共用邊或頂點。",
+          "examLineArt": true
         },
         "family": "foundation-角柱骨架",
         "difficulty": "basic",
@@ -15020,7 +15329,8 @@ window.REVIEW_UNITS=[
               "count": 1
             }
           ],
-          "description": "虛線表示被遮住的邊；各模型彼此分開，未共用邊或頂點。"
+          "description": "虛線表示被遮住的邊；各模型彼此分開，未共用邊或頂點。",
+          "examLineArt": true
         },
         "family": "foundation-角錐的面",
         "difficulty": "basic",
@@ -15049,7 +15359,8 @@ window.REVIEW_UNITS=[
               "count": 1
             }
           ],
-          "description": "虛線表示被遮住的邊；各模型彼此分開，未共用邊或頂點。"
+          "description": "虛線表示被遮住的邊；各模型彼此分開，未共用邊或頂點。",
+          "examLineArt": true
         },
         "family": "foundation-立體形體的比較",
         "difficulty": "basic",
@@ -15075,7 +15386,8 @@ window.REVIEW_UNITS=[
               "n": 5,
               "count": 1
             }
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "core",
         "family": "inverse-prism-vertices",
@@ -15106,7 +15418,8 @@ window.REVIEW_UNITS=[
               "n": 5,
               "count": 1
             }
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "pyramid-face-to-vertices",
@@ -15141,7 +15454,8 @@ window.REVIEW_UNITS=[
               "n": 4,
               "count": 1
             }
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "mixed-skeletons",
@@ -15175,7 +15489,8 @@ window.REVIEW_UNITS=[
               "shape": "cylinder",
               "count": 1
             }
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "core",
         "family": "solid-orientation",
@@ -15213,7 +15528,8 @@ window.REVIEW_UNITS=[
               "shape": "sphere",
               "count": 1
             }
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "mixed-vertices",
@@ -15248,7 +15564,8 @@ window.REVIEW_UNITS=[
               "n": 3,
               "count": 1
             }
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "core",
         "family": "hidden-edges",
@@ -18055,121 +18372,141 @@ window.REVIEW_UNITS=[
         "kind": "story",
         "scene": "planner",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u13-p2": {
         "kind": "story",
         "scene": "planner",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u13-p3": {
         "kind": "story",
         "scene": "planner",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u13-p4": {
         "kind": "story",
         "scene": "planner",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u13-p5": {
         "kind": "story",
         "scene": "planner",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u13-p6": {
         "kind": "story",
         "scene": "planner",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u13-p7": {
         "kind": "story",
         "scene": "planner",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u13-p8": {
         "kind": "story",
         "scene": "planner",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u13-p9": {
         "kind": "story",
         "scene": "planner",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u13-p10": {
         "kind": "story",
         "scene": "planner",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u13-p11": {
         "kind": "story",
         "scene": "planner",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u13-p12": {
         "kind": "story",
         "scene": "planner",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u13-p13": {
         "kind": "story",
         "scene": "planner",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u13-p14": {
         "kind": "story",
         "scene": "planner",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u13-p15": {
         "kind": "story",
         "scene": "planner",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u13-p16": {
         "kind": "story",
         "scene": "planner",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u13-p17": {
         "kind": "story",
         "scene": "planner",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u13-p18": {
         "kind": "story",
         "scene": "planner",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u13-p19": {
         "kind": "story",
         "scene": "planner",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u13-p20": {
         "kind": "story",
         "scene": "planner",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       }
     },
     "sources": [
@@ -20959,121 +21296,141 @@ window.REVIEW_UNITS=[
         "kind": "story",
         "scene": "labels",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u14-p2": {
         "kind": "story",
         "scene": "bridge",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u14-p3": {
         "kind": "story",
         "scene": "tools",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u14-p4": {
         "kind": "story",
         "scene": "garden",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u14-p5": {
         "kind": "story",
         "scene": "pencils",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u14-p6": {
         "kind": "story",
         "scene": "lamp",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u14-p7": {
         "kind": "story",
         "scene": "poster",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u14-p8": {
         "kind": "story",
         "scene": "library",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u14-p9": {
         "kind": "story",
         "scene": "blocks",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u14-p10": {
         "kind": "story",
         "scene": "cleaning",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u14-p11": {
         "kind": "story",
         "scene": "garden",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u14-p12": {
         "kind": "story",
         "scene": "teamwork",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u14-p13": {
         "kind": "story",
         "scene": "rain",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u14-p14": {
         "kind": "story",
         "scene": "labels",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u14-p15": {
         "kind": "story",
         "scene": "map",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u14-p16": {
         "kind": "story",
         "scene": "books",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u14-p17": {
         "kind": "story",
         "scene": "museum",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u14-p18": {
         "kind": "story",
         "scene": "teamwork",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u14-p19": {
         "kind": "story",
         "scene": "garden",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       },
       "u14-p20": {
         "kind": "story",
         "scene": "wind",
         "caption": "閱讀情境圖",
-        "description": "情境示意圖，人物與物品請和文章一起理解。"
+        "description": "情境示意圖，人物與物品請和文章一起理解。",
+        "examLineArt": true
       }
     },
     "sources": [
@@ -21821,7 +22178,8 @@ window.REVIEW_UNITS=[
               "Nick"
             ]
           ]
-        }
+        },
+        "examLineArt": true
       },
       "u15-p41": {
         "kind": "nameCards",
@@ -21841,7 +22199,8 @@ window.REVIEW_UNITS=[
               "Ben"
             ]
           ]
-        }
+        },
+        "examLineArt": true
       },
       "u15-p42": {
         "kind": "nameCards",
@@ -21861,7 +22220,8 @@ window.REVIEW_UNITS=[
               "Leo"
             ]
           ]
-        }
+        },
+        "examLineArt": true
       },
       "u15-p43": {
         "kind": "nameCards",
@@ -21881,7 +22241,8 @@ window.REVIEW_UNITS=[
               "Mia"
             ]
           ]
-        }
+        },
+        "examLineArt": true
       }
     },
     "qualityRevision": 6,
@@ -22635,7 +22996,8 @@ window.REVIEW_UNITS=[
               "6"
             ]
           ]
-        }
+        },
+        "examLineArt": true
       },
       "u16-p41": {
         "kind": "nameCards",
@@ -22659,7 +23021,8 @@ window.REVIEW_UNITS=[
               8
             ]
           ]
-        }
+        },
+        "examLineArt": true
       },
       "u16-p42": {
         "kind": "nameCards",
@@ -22683,7 +23046,8 @@ window.REVIEW_UNITS=[
               "？"
             ]
           ]
-        }
+        },
+        "examLineArt": true
       },
       "u16-p43": {
         "kind": "nameCards",
@@ -22707,7 +23071,8 @@ window.REVIEW_UNITS=[
               8
             ]
           ]
-        }
+        },
+        "examLineArt": true
       }
     },
     "qualityRevision": 6,
@@ -22889,7 +23254,8 @@ window.REVIEW_UNITS=[
             2,
             0,
             3
-          ]
+          ],
+          "examLineArt": true
         },
         "family": "foundation-位值",
         "difficulty": "basic",
@@ -22917,7 +23283,8 @@ window.REVIEW_UNITS=[
             0,
             3,
             6
-          ]
+          ],
+          "examLineArt": true
         },
         "family": "foundation-數的組成",
         "difficulty": "basic",
@@ -22945,7 +23312,8 @@ window.REVIEW_UNITS=[
             2,
             0,
             3
-          ]
+          ],
+          "examLineArt": true
         },
         "family": "foundation-前一個數",
         "difficulty": "basic",
@@ -22970,7 +23338,8 @@ window.REVIEW_UNITS=[
           "caption": "每一份代表一百",
           "per": 100,
           "count": 10,
-          "unit": "百"
+          "unit": "百",
+          "examLineArt": true
         },
         "family": "foundation-百的合成",
         "difficulty": "basic",
@@ -22996,7 +23365,8 @@ window.REVIEW_UNITS=[
           "numbers": [
             1203,
             1220
-          ]
+          ],
+          "examLineArt": true
         },
         "family": "foundation-大小比較",
         "difficulty": "basic",
@@ -23020,7 +23390,8 @@ window.REVIEW_UNITS=[
             2,
             5,
             8
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "largest-even-number",
@@ -23049,7 +23420,8 @@ window.REVIEW_UNITS=[
             3,
             6,
             9
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "smallest-with-zero",
@@ -23066,16 +23438,20 @@ window.REVIEW_UNITS=[
       },
       {
         "type": "numeric",
-        "text": "數線每一大格增加同樣多。依序標著 2980、2990、□、3010，□ 是多少？",
+        "text": "觀察下方等距數線，□ 裡的數是多少？",
         "answer": 3000,
         "unitLabel": "",
         "explanation": "每格增加 10，2990 再加 10 是 3000，要注意跨過百與千。",
         "visual": {
-          "kind": "reasoningBoard",
-          "caption": "等距數線紀錄",
-          "items": [
-            "2980 → 2990 → □ → 3010"
-          ]
+          "kind": "examNumberLine",
+          "caption": "等距數線",
+          "labels": [
+            "2980",
+            "2990",
+            "□",
+            "3010"
+          ],
+          "examLineArt": true
         },
         "difficulty": "core",
         "family": "cross-thousand-sequence",
@@ -23097,13 +23473,33 @@ window.REVIEW_UNITS=[
         "unitLabel": "",
         "explanation": "12 個百是 1200，4000＋1200＋30＋6＝5236；百的數量可以再換成千。",
         "visual": {
-          "kind": "reasoningBoard",
+          "kind": "examReceipt",
           "caption": "不標準的位值分組",
           "items": [
             "4 個千",
             "12 個百",
             "3 個十",
             "6 個一"
+          ],
+          "examLineArt": true,
+          "heading": "題目資料",
+          "rows": [
+            [
+              "1",
+              "4 個千"
+            ],
+            [
+              "2",
+              "12 個百"
+            ],
+            [
+              "3",
+              "3 個十"
+            ],
+            [
+              "4",
+              "6 個一"
+            ]
           ]
         },
         "difficulty": "challenge",
@@ -23130,7 +23526,8 @@ window.REVIEW_UNITS=[
           "caption": "只交換百位與個位",
           "numbers": [
             5832
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "core",
         "family": "swap-digits",
@@ -23162,7 +23559,8 @@ window.REVIEW_UNITS=[
           "numbers": [
             4098,
             4102
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "critique-number-comparison",
@@ -23354,7 +23752,8 @@ window.REVIEW_UNITS=[
           "caption": "位值對齊來計算",
           "a": 2307,
           "b": 1184,
-          "operation": "+"
+          "operation": "+",
+          "examLineArt": true
         },
         "family": "foundation-加法",
         "difficulty": "basic",
@@ -23379,7 +23778,8 @@ window.REVIEW_UNITS=[
           "caption": "位值對齊來計算",
           "a": 2307,
           "b": 1184,
-          "operation": "−"
+          "operation": "−",
+          "examLineArt": true
         },
         "family": "foundation-減法",
         "difficulty": "basic",
@@ -23404,7 +23804,8 @@ window.REVIEW_UNITS=[
           "caption": "注意經過零的退位",
           "a": 10000,
           "b": 2307,
-          "operation": "−"
+          "operation": "−",
+          "examLineArt": true
         },
         "family": "foundation-經過零退位",
         "difficulty": "basic",
@@ -23428,7 +23829,8 @@ window.REVIEW_UNITS=[
           "kind": "equation",
           "caption": "已知總數，找另一部分",
           "a": 2307,
-          "total": 3491
+          "total": 3491,
+          "examLineArt": true
         },
         "family": "foundation-未知加數",
         "difficulty": "basic",
@@ -23453,7 +23855,8 @@ window.REVIEW_UNITS=[
           "caption": "原有與花掉的數量",
           "a": 2307,
           "b": 1184,
-          "operation": "−"
+          "operation": "−",
+          "examLineArt": true
         },
         "family": "foundation-生活應用",
         "difficulty": "basic",
@@ -23470,12 +23873,28 @@ window.REVIEW_UNITS=[
         "unitLabel": "本",
         "explanation": "先借出再還回：3250－486＋278＝3042 本。",
         "visual": {
-          "kind": "reasoningBoard",
+          "kind": "examReceipt",
           "caption": "兩種方向的數量變化",
           "items": [
             "原有 3250 本",
             "借出 486 本",
             "還回 278 本"
+          ],
+          "examLineArt": true,
+          "heading": "題目資料",
+          "rows": [
+            [
+              "1",
+              "原有 3250 本"
+            ],
+            [
+              "2",
+              "借出 486 本"
+            ],
+            [
+              "3",
+              "還回 278 本"
+            ]
           ]
         },
         "difficulty": "challenge",
@@ -23493,18 +23912,29 @@ window.REVIEW_UNITS=[
       },
       {
         "type": "numeric",
-        "text": "小晴買 1680 元的書包與 875 元的鞋子，付 3000 元，應找回多少元？",
+        "text": "依購物明細，應找回多少元？",
         "answer": 445,
         "unitLabel": "元",
         "explanation": "先算合計 1680＋875＝2555，再算找零 3000－2555＝445。",
         "visual": {
-          "kind": "reasoningBoard",
-          "caption": "先合計，再找零",
-          "items": [
-            "書包 1680 元",
-            "鞋子 875 元",
-            "付 3000 元"
-          ]
+          "kind": "examReceipt",
+          "caption": "購物明細",
+          "heading": "購物明細",
+          "rows": [
+            [
+              "書包",
+              "1680 元"
+            ],
+            [
+              "鞋子",
+              "875 元"
+            ],
+            [
+              "付出",
+              "3000 元"
+            ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "total-then-change",
@@ -23526,12 +23956,28 @@ window.REVIEW_UNITS=[
         "unitLabel": "元",
         "explanation": "用總數減甲班：4320－2500＝1820；再用 2500－1820＝680 檢查條件。",
         "visual": {
-          "kind": "reasoningBoard",
+          "kind": "examReceipt",
           "caption": "三項資訊互相核對",
           "items": [
             "合計 4320 元",
             "甲班 2500 元",
             "甲比乙多 680 元"
+          ],
+          "examLineArt": true,
+          "heading": "題目資料",
+          "rows": [
+            [
+              "1",
+              "合計 4320 元"
+            ],
+            [
+              "2",
+              "甲班 2500 元"
+            ],
+            [
+              "3",
+              "甲比乙多 680 元"
+            ]
           ]
         },
         "difficulty": "challenge",
@@ -23554,11 +24000,23 @@ window.REVIEW_UNITS=[
         "unitLabel": "張",
         "explanation": "累積數相減才是期間印量：3506－2897＝609 張。",
         "visual": {
-          "kind": "reasoningBoard",
+          "kind": "examReceipt",
           "caption": "累積數不是本次印量",
           "items": [
             "開始 2897 張",
             "結束 3506 張"
+          ],
+          "examLineArt": true,
+          "heading": "題目資料",
+          "rows": [
+            [
+              "1",
+              "開始 2897 張"
+            ],
+            [
+              "2",
+              "結束 3506 張"
+            ]
           ]
         },
         "difficulty": "core",
@@ -23581,10 +24039,18 @@ window.REVIEW_UNITS=[
         "unitLabel": "",
         "explanation": "被減數＝差＋減數，所以 2640＋1785＝4425；可代回原式檢查。",
         "visual": {
-          "kind": "reasoningBoard",
+          "kind": "examReceipt",
           "caption": "用逆運算找缺少的數",
           "items": [
             "□－1785＝2640"
+          ],
+          "examLineArt": true,
+          "heading": "題目資料",
+          "rows": [
+            [
+              "1",
+              "□－1785＝2640"
+            ]
           ]
         },
         "difficulty": "core",
@@ -23612,11 +24078,23 @@ window.REVIEW_UNITS=[
         "answer": 0,
         "explanation": "減法可用差加減數回推被減數；2115＋1987＝4102，沒有回到 4002。",
         "visual": {
-          "kind": "reasoningBoard",
+          "kind": "examReceipt",
           "caption": "檢查退位計算",
           "items": [
             "原式：4002－1987",
             "小安的答案：2115"
+          ],
+          "examLineArt": true,
+          "heading": "題目資料",
+          "rows": [
+            [
+              "1",
+              "原式：4002－1987"
+            ],
+            [
+              "2",
+              "小安的答案：2115"
+            ]
           ]
         },
         "difficulty": "challenge",
@@ -23813,7 +24291,8 @@ window.REVIEW_UNITS=[
               "label": "公分"
             }
           ],
-          "conversion": true
+          "conversion": true,
+          "examLineArt": true
         },
         "family": "foundation-公分換毫米",
         "difficulty": "basic",
@@ -23846,7 +24325,8 @@ window.REVIEW_UNITS=[
               "label": "毫米"
             }
           ],
-          "conversion": true
+          "conversion": true,
+          "examLineArt": true
         },
         "family": "foundation-複名數換算",
         "difficulty": "basic",
@@ -23878,7 +24358,8 @@ window.REVIEW_UNITS=[
               "value": 10,
               "label": "毫米"
             }
-          ]
+          ],
+          "examLineArt": true
         },
         "family": "foundation-長度相差",
         "difficulty": "basic",
@@ -23910,7 +24391,8 @@ window.REVIEW_UNITS=[
               "value": 10,
               "label": "毫米"
             }
-          ]
+          ],
+          "examLineArt": true
         },
         "family": "foundation-長度合併",
         "difficulty": "basic",
@@ -23938,7 +24420,8 @@ window.REVIEW_UNITS=[
               "value": 27,
               "label": "毫米"
             }
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "mixed-unit-subtraction",
@@ -23955,23 +24438,15 @@ window.REVIEW_UNITS=[
       },
       {
         "type": "numeric",
-        "text": "兩段紙條長 46、38 毫米，重疊 9 毫米黏成一條，整條多長？",
+        "text": "兩段紙條依圖重疊黏好，求整條紙條的長度。",
         "answer": 75,
         "unitLabel": "毫米",
         "explanation": "46＋38 先算出兩段合計，重疊部分被算了兩次，要減一次 9，得 75。",
         "visual": {
-          "kind": "lengths",
-          "caption": "有重疊，不能直接相加",
-          "segments": [
-            {
-              "value": 46,
-              "label": "毫米"
-            },
-            {
-              "value": 38,
-              "label": "毫米"
-            }
-          ]
+          "kind": "examStrips",
+          "caption": "兩段紙條重疊後的長度",
+          "mode": "overlap",
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "overlap-length",
@@ -24013,18 +24488,15 @@ window.REVIEW_UNITS=[
       },
       {
         "type": "numeric",
-        "text": "一條 9 公分長的紙帶，要剪下 4 段、每段 18 毫米。紙帶還剩多少毫米？",
+        "text": "依圖剪下 4 段後，原紙帶還剩多少毫米？",
         "answer": 18,
         "unitLabel": "毫米",
         "explanation": "9 公分＝90 毫米，4 段共 18×4＝72 毫米，90－72＝18。",
         "visual": {
-          "kind": "reasoningBoard",
-          "caption": "先算需要的總長",
-          "items": [
-            "紙帶 9 公分",
-            "每段 18 毫米",
-            "剪 4 段"
-          ]
+          "kind": "examStrips",
+          "caption": "紙帶的裁切紀錄",
+          "mode": "cut",
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "repeat-length-and-remainder",
@@ -24062,7 +24534,8 @@ window.REVIEW_UNITS=[
               "value": 4,
               "label": "毫米"
             }
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "critique-unit-comparison",
@@ -24084,11 +24557,23 @@ window.REVIEW_UNITS=[
         "unitLabel": "毫米",
         "explanation": "每條線 14÷2＝7 公分，再換成 70 毫米。",
         "visual": {
-          "kind": "reasoningBoard",
+          "kind": "examReceipt",
           "caption": "相同的兩條線",
           "items": [
             "兩條合計 14 公分",
             "每條長度相同"
+          ],
+          "examLineArt": true,
+          "heading": "題目資料",
+          "rows": [
+            [
+              "1",
+              "兩條合計 14 公分"
+            ],
+            [
+              "2",
+              "每條長度相同"
+            ]
           ]
         },
         "difficulty": "core",
@@ -24281,7 +24766,8 @@ window.REVIEW_UNITS=[
           "caption": "相同數量分成幾組",
           "per": 12,
           "count": 2,
-          "unit": "組"
+          "unit": "組",
+          "examLineArt": true
         },
         "family": "foundation-二位數乘法",
         "difficulty": "basic",
@@ -24306,7 +24792,8 @@ window.REVIEW_UNITS=[
           "caption": "相同數量分成幾組",
           "per": 102,
           "count": 2,
-          "unit": "組"
+          "unit": "組",
+          "examLineArt": true
         },
         "family": "foundation-三位數乘法",
         "difficulty": "basic",
@@ -24331,7 +24818,8 @@ window.REVIEW_UNITS=[
           "caption": "相同數量分成幾組",
           "per": 102,
           "count": 0,
-          "unit": "組"
+          "unit": "組",
+          "examLineArt": true
         },
         "family": "foundation-乘以零",
         "difficulty": "basic",
@@ -24356,7 +24844,8 @@ window.REVIEW_UNITS=[
           "caption": "相同數量分成幾組",
           "per": 20,
           "count": 2,
-          "unit": "組"
+          "unit": "組",
+          "examLineArt": true
         },
         "family": "foundation-整十數乘法",
         "difficulty": "basic",
@@ -24381,7 +24870,8 @@ window.REVIEW_UNITS=[
           "caption": "相同數量分成幾組",
           "per": 12,
           "count": 2,
-          "unit": "組"
+          "unit": "組",
+          "examLineArt": true
         },
         "family": "foundation-相同數量應用",
         "difficulty": "basic",
@@ -24402,7 +24892,8 @@ window.REVIEW_UNITS=[
           "caption": "六盒以外還有贈品",
           "per": 24,
           "count": 6,
-          "unit": "盒"
+          "unit": "盒",
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "product-plus-extra",
@@ -24419,18 +24910,29 @@ window.REVIEW_UNITS=[
       },
       {
         "type": "numeric",
-        "text": "每張票 135 元，買 4 張，付 600 元，找回多少元？",
+        "text": "依購票資料，應找回多少元？",
         "answer": 60,
         "unitLabel": "元",
         "explanation": "135×4＝540 元，600－540＝60 元。",
         "visual": {
-          "kind": "reasoningBoard",
-          "caption": "乘法與找零",
-          "items": [
-            "每張 135 元",
-            "4 張票",
-            "付 600 元"
-          ]
+          "kind": "examReceipt",
+          "caption": "購票資料",
+          "heading": "購票資料",
+          "rows": [
+            [
+              "每張票",
+              "135 元"
+            ],
+            [
+              "購買數量",
+              "4 張"
+            ],
+            [
+              "付出",
+              "600 元"
+            ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "product-and-change",
@@ -24456,7 +24958,8 @@ window.REVIEW_UNITS=[
           "caption": "先求總量，再扣除使用量",
           "per": 128,
           "count": 5,
-          "unit": "箱"
+          "unit": "箱",
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "product-minus-used",
@@ -24478,12 +24981,28 @@ window.REVIEW_UNITS=[
         "unitLabel": "頁",
         "explanation": "每天相差 18－15＝3 頁，7 天相差 3×7＝21 頁。",
         "visual": {
-          "kind": "reasoningBoard",
+          "kind": "examReceipt",
           "caption": "比較相同天數的累積量",
           "items": [
             "甲：每天 18 頁",
             "乙：每天 15 頁",
             "都讀 7 天"
+          ],
+          "examLineArt": true,
+          "heading": "題目資料",
+          "rows": [
+            [
+              "1",
+              "甲：每天 18 頁"
+            ],
+            [
+              "2",
+              "乙：每天 15 頁"
+            ],
+            [
+              "3",
+              "都讀 7 天"
+            ]
           ]
         },
         "difficulty": "challenge",
@@ -24506,11 +25025,23 @@ window.REVIEW_UNITS=[
         "unitLabel": "",
         "explanation": "正確為 812，錯誤為 92，相差 720；漏掉的 180 乘 4 也得到 720。",
         "visual": {
-          "kind": "reasoningBoard",
+          "kind": "examReceipt",
           "caption": "找出漏掉位值的影響",
           "items": [
             "正確：203×4",
             "誤算：23×4"
+          ],
+          "examLineArt": true,
+          "heading": "題目資料",
+          "rows": [
+            [
+              "1",
+              "正確：203×4"
+            ],
+            [
+              "2",
+              "誤算：23×4"
+            ]
           ]
         },
         "difficulty": "challenge",
@@ -24538,11 +25069,23 @@ window.REVIEW_UNITS=[
         "answer": 0,
         "explanation": "把 36 分成 30 與 6 時，兩部分都要乘 5，再把 150 與 30 相加。",
         "visual": {
-          "kind": "reasoningBoard",
+          "kind": "examReceipt",
           "caption": "分拆乘數後，每一部分都要處理",
           "items": [
             "36＝30＋6",
             "36×5＝？"
+          ],
+          "examLineArt": true,
+          "heading": "題目資料",
+          "rows": [
+            [
+              "1",
+              "36＝30＋6"
+            ],
+            [
+              "2",
+              "36×5＝？"
+            ]
           ]
         },
         "difficulty": "challenge",
@@ -24565,12 +25108,28 @@ window.REVIEW_UNITS=[
         "unitLabel": "",
         "explanation": "個位 6×3＝18，向十位進 1；試填 4 時，4×3＋1＝13，十位寫 3 再進 1，百位 2×3＋1＝7，符合 738。",
         "visual": {
-          "kind": "reasoningBoard",
+          "kind": "examReceipt",
           "caption": "找回直式中的缺格",
           "items": [
             "2□6",
             "×3",
             "＝738"
+          ],
+          "examLineArt": true,
+          "heading": "題目資料",
+          "rows": [
+            [
+              "1",
+              "2□6"
+            ],
+            [
+              "2",
+              "×3"
+            ],
+            [
+              "3",
+              "＝738"
+            ]
           ]
         },
         "difficulty": "challenge",
@@ -24782,7 +25341,8 @@ window.REVIEW_UNITS=[
               "rotation": 0,
               "length": 75
             }
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "core",
         "family": "compare-opening",
@@ -24825,7 +25385,8 @@ window.REVIEW_UNITS=[
               "rotation": 0,
               "length": 48
             }
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "core",
         "family": "length-invariance",
@@ -24868,7 +25429,8 @@ window.REVIEW_UNITS=[
               "rotation": 110,
               "length": 75
             }
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "core",
         "family": "rotation-invariance",
@@ -24911,7 +25473,8 @@ window.REVIEW_UNITS=[
               "rotation": 25,
               "length": 65
             }
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "basic",
         "family": "right-angle-reference",
@@ -24960,7 +25523,8 @@ window.REVIEW_UNITS=[
               "rotation": 0,
               "length": 65
             }
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "core",
         "family": "order-three",
@@ -25003,7 +25567,8 @@ window.REVIEW_UNITS=[
               "rotation": 0,
               "length": 65
             }
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "core",
         "family": "moving-one-ray",
@@ -25046,7 +25611,8 @@ window.REVIEW_UNITS=[
               "rotation": 30,
               "length": 55
             }
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "choose-method",
@@ -25074,7 +25640,8 @@ window.REVIEW_UNITS=[
           "rotations": [
             0,
             35
-          ]
+          ],
+          "examLineArt": true
         },
         "difficulty": "core",
         "family": "rectangle-rotation",
@@ -25103,7 +25670,8 @@ window.REVIEW_UNITS=[
         "explanation": "原本四個直角中有一個被剪去，其餘三個仍保留；斜切處的兩個新角不是直角。",
         "visual": {
           "kind": "cutCorner",
-          "caption": "只沿斜線剪去右上角"
+          "caption": "只沿斜線剪去右上角",
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "cut-corner",
@@ -25134,7 +25702,8 @@ window.REVIEW_UNITS=[
           "kind": "splitAngle",
           "caption": "兩個相鄰小角合成一個大角",
           "opening": 120,
-          "split": 45
+          "split": 45,
+          "examLineArt": true
         },
         "difficulty": "challenge",
         "family": "compose-angle",
@@ -25920,7 +26489,7 @@ window.REVIEW_UNITS=[
         "type": "single",
         "passageId": "u22-p22",
         "passageTitle": "小安的葉子的觀察圖卡（紀錄 1）",
-        "passage": "小安觀察三株植物，沒有摘下整株，而是畫出葉脈和葉在莖上的排列。甲株每節有兩片相對的葉，乙株每節一片、上下錯開，丙株同一節有三片以上葉子。小組把排列和葉脈分開記錄。\n\n老師提醒，葉序與葉脈是不同特徵。每節兩片相對稱為對生，每節一片常為互生，同節三片以上稱為輪生；葉脈則可以觀察網狀或大致平行。判斷時要看清楚葉子接在莖上的位置。\n\n不同植物可能有相似葉片，不能只看顏色就保證同種。小組保留圖畫與所在位置，名稱不確定的部分再查資料。圖卡只描述這次看到的特徵，不把一項特徵當成所有資訊。",
+        "passage": "小安觀察三株植物，沒有摘下整株，而是畫出葉脈和葉在莖上的排列。圖中甲、乙、丙三株的葉片排列不同，下方另附各自的葉脈放大圖。小組把排列和葉脈分開記錄。\n\n老師提醒，葉序與葉脈是不同特徵。每節兩片相對稱為對生，每節一片常為互生，同節三片以上稱為輪生；葉脈則可以觀察網狀或大致平行。判斷時要看清楚葉子接在莖上的位置。\n\n不同植物可能有相似葉片，不能只看顏色就保證同種。小組保留圖畫與所在位置，名稱不確定的部分再查資料。圖卡只描述這次看到的特徵，不把一項特徵當成所有資訊。",
         "readingOrder": 1,
         "readingSkill": "讀圖取訊",
         "text": "〈小安的葉子的觀察圖卡（紀錄 1）〉哪株的同一節有兩片相對葉子？",
@@ -25948,7 +26517,7 @@ window.REVIEW_UNITS=[
         "type": "single",
         "passageId": "u22-p22",
         "passageTitle": "小安的葉子的觀察圖卡（紀錄 1）",
-        "passage": "小安觀察三株植物，沒有摘下整株，而是畫出葉脈和葉在莖上的排列。甲株每節有兩片相對的葉，乙株每節一片、上下錯開，丙株同一節有三片以上葉子。小組把排列和葉脈分開記錄。\n\n老師提醒，葉序與葉脈是不同特徵。每節兩片相對稱為對生，每節一片常為互生，同節三片以上稱為輪生；葉脈則可以觀察網狀或大致平行。判斷時要看清楚葉子接在莖上的位置。\n\n不同植物可能有相似葉片，不能只看顏色就保證同種。小組保留圖畫與所在位置，名稱不確定的部分再查資料。圖卡只描述這次看到的特徵，不把一項特徵當成所有資訊。",
+        "passage": "小安觀察三株植物，沒有摘下整株，而是畫出葉脈和葉在莖上的排列。圖中甲、乙、丙三株的葉片排列不同，下方另附各自的葉脈放大圖。小組把排列和葉脈分開記錄。\n\n老師提醒，葉序與葉脈是不同特徵。每節兩片相對稱為對生，每節一片常為互生，同節三片以上稱為輪生；葉脈則可以觀察網狀或大致平行。判斷時要看清楚葉子接在莖上的位置。\n\n不同植物可能有相似葉片，不能只看顏色就保證同種。小組保留圖畫與所在位置，名稱不確定的部分再查資料。圖卡只描述這次看到的特徵，不把一項特徵當成所有資訊。",
         "readingOrder": 2,
         "readingSkill": "比較整理",
         "text": "〈小安的葉子的觀察圖卡（紀錄 1）〉哪兩株記錄到網狀葉脈？",
@@ -25976,7 +26545,7 @@ window.REVIEW_UNITS=[
         "type": "single",
         "passageId": "u22-p22",
         "passageTitle": "小安的葉子的觀察圖卡（紀錄 1）",
-        "passage": "小安觀察三株植物，沒有摘下整株，而是畫出葉脈和葉在莖上的排列。甲株每節有兩片相對的葉，乙株每節一片、上下錯開，丙株同一節有三片以上葉子。小組把排列和葉脈分開記錄。\n\n老師提醒，葉序與葉脈是不同特徵。每節兩片相對稱為對生，每節一片常為互生，同節三片以上稱為輪生；葉脈則可以觀察網狀或大致平行。判斷時要看清楚葉子接在莖上的位置。\n\n不同植物可能有相似葉片，不能只看顏色就保證同種。小組保留圖畫與所在位置，名稱不確定的部分再查資料。圖卡只描述這次看到的特徵，不把一項特徵當成所有資訊。",
+        "passage": "小安觀察三株植物，沒有摘下整株，而是畫出葉脈和葉在莖上的排列。圖中甲、乙、丙三株的葉片排列不同，下方另附各自的葉脈放大圖。小組把排列和葉脈分開記錄。\n\n老師提醒，葉序與葉脈是不同特徵。每節兩片相對稱為對生，每節一片常為互生，同節三片以上稱為輪生；葉脈則可以觀察網狀或大致平行。判斷時要看清楚葉子接在莖上的位置。\n\n不同植物可能有相似葉片，不能只看顏色就保證同種。小組保留圖畫與所在位置，名稱不確定的部分再查資料。圖卡只描述這次看到的特徵，不把一項特徵當成所有資訊。",
         "readingOrder": 3,
         "readingSkill": "連結原因",
         "text": "〈小安的葉子的觀察圖卡（紀錄 1）〉觀察葉序時，為什麼也要看莖？",
@@ -26004,7 +26573,7 @@ window.REVIEW_UNITS=[
         "type": "single",
         "passageId": "u22-p22",
         "passageTitle": "小安的葉子的觀察圖卡（紀錄 1）",
-        "passage": "小安觀察三株植物，沒有摘下整株，而是畫出葉脈和葉在莖上的排列。甲株每節有兩片相對的葉，乙株每節一片、上下錯開，丙株同一節有三片以上葉子。小組把排列和葉脈分開記錄。\n\n老師提醒，葉序與葉脈是不同特徵。每節兩片相對稱為對生，每節一片常為互生，同節三片以上稱為輪生；葉脈則可以觀察網狀或大致平行。判斷時要看清楚葉子接在莖上的位置。\n\n不同植物可能有相似葉片，不能只看顏色就保證同種。小組保留圖畫與所在位置，名稱不確定的部分再查資料。圖卡只描述這次看到的特徵，不把一項特徵當成所有資訊。",
+        "passage": "小安觀察三株植物，沒有摘下整株，而是畫出葉脈和葉在莖上的排列。圖中甲、乙、丙三株的葉片排列不同，下方另附各自的葉脈放大圖。小組把排列和葉脈分開記錄。\n\n老師提醒，葉序與葉脈是不同特徵。每節兩片相對稱為對生，每節一片常為互生，同節三片以上稱為輪生；葉脈則可以觀察網狀或大致平行。判斷時要看清楚葉子接在莖上的位置。\n\n不同植物可能有相似葉片，不能只看顏色就保證同種。小組保留圖畫與所在位置，名稱不確定的部分再查資料。圖卡只描述這次看到的特徵，不把一項特徵當成所有資訊。",
         "readingOrder": 4,
         "readingSkill": "判斷證據",
         "text": "〈小安的葉子的觀察圖卡（紀錄 1）〉哪個對應正確？",
@@ -26032,7 +26601,7 @@ window.REVIEW_UNITS=[
         "type": "single",
         "passageId": "u22-p22",
         "passageTitle": "小安的葉子的觀察圖卡（紀錄 1）",
-        "passage": "小安觀察三株植物，沒有摘下整株，而是畫出葉脈和葉在莖上的排列。甲株每節有兩片相對的葉，乙株每節一片、上下錯開，丙株同一節有三片以上葉子。小組把排列和葉脈分開記錄。\n\n老師提醒，葉序與葉脈是不同特徵。每節兩片相對稱為對生，每節一片常為互生，同節三片以上稱為輪生；葉脈則可以觀察網狀或大致平行。判斷時要看清楚葉子接在莖上的位置。\n\n不同植物可能有相似葉片，不能只看顏色就保證同種。小組保留圖畫與所在位置，名稱不確定的部分再查資料。圖卡只描述這次看到的特徵，不把一項特徵當成所有資訊。",
+        "passage": "小安觀察三株植物，沒有摘下整株，而是畫出葉脈和葉在莖上的排列。圖中甲、乙、丙三株的葉片排列不同，下方另附各自的葉脈放大圖。小組把排列和葉脈分開記錄。\n\n老師提醒，葉序與葉脈是不同特徵。每節兩片相對稱為對生，每節一片常為互生，同節三片以上稱為輪生；葉脈則可以觀察網狀或大致平行。判斷時要看清楚葉子接在莖上的位置。\n\n不同植物可能有相似葉片，不能只看顏色就保證同種。小組保留圖畫與所在位置，名稱不確定的部分再查資料。圖卡只描述這次看到的特徵，不把一項特徵當成所有資訊。",
         "readingOrder": 5,
         "readingSkill": "生活應用",
         "text": "〈小安的葉子的觀察圖卡（紀錄 1）〉植物名稱還不確定時，較好怎麼做？",
@@ -26060,7 +26629,7 @@ window.REVIEW_UNITS=[
         "type": "single",
         "passageId": "u22-p23",
         "passageTitle": "小晴的植物身體的小導覽（紀錄 1）",
-        "passage": "小晴替花圃做一張觀察圖。A 指向花，B 指向葉，C 指向莖，D 指向土裡的根。小組先看部位在哪裡，再把課堂學到的作用寫到表格中，不把不同構造混成同一個名稱。\n\n根通常固定植物並吸收水分，莖可以支持並輸送水分，葉也有重要作用。觀察花時，還能找花萼、花瓣、雄蕊和雌蕊等構造。不是每一株植物此刻都同時有花、果實與成熟種子。\n\n導覽圖是幫助辨認部位的示意，大小不代表每一種植物的真實比例。觀察要在原地進行，不能為了看根就任意拔掉校園植物，也不品嘗不認識的部位。",
+        "passage": "小晴替花圃做一張觀察圖。圖中用 A、B、C、D 標示四個部位，虛線表示土面。小組先看部位在哪裡，再把課堂學到的作用寫到表格中，不把不同構造混成同一個名稱。\n\n根通常固定植物並吸收水分，莖可以支持並輸送水分，葉也有重要作用。觀察花時，還能找花萼、花瓣、雄蕊和雌蕊等構造。不是每一株植物此刻都同時有花、果實與成熟種子。\n\n導覽圖是幫助辨認部位的示意，大小不代表每一種植物的真實比例。觀察要在原地進行，不能為了看根就任意拔掉校園植物，也不品嘗不認識的部位。",
         "readingOrder": 1,
         "readingSkill": "讀圖取訊",
         "text": "〈小晴的植物身體的小導覽（紀錄 1）〉哪個標記指向根？",
@@ -26088,7 +26657,7 @@ window.REVIEW_UNITS=[
         "type": "single",
         "passageId": "u22-p23",
         "passageTitle": "小晴的植物身體的小導覽（紀錄 1）",
-        "passage": "小晴替花圃做一張觀察圖。A 指向花，B 指向葉，C 指向莖，D 指向土裡的根。小組先看部位在哪裡，再把課堂學到的作用寫到表格中，不把不同構造混成同一個名稱。\n\n根通常固定植物並吸收水分，莖可以支持並輸送水分，葉也有重要作用。觀察花時，還能找花萼、花瓣、雄蕊和雌蕊等構造。不是每一株植物此刻都同時有花、果實與成熟種子。\n\n導覽圖是幫助辨認部位的示意，大小不代表每一種植物的真實比例。觀察要在原地進行，不能為了看根就任意拔掉校園植物，也不品嘗不認識的部位。",
+        "passage": "小晴替花圃做一張觀察圖。圖中用 A、B、C、D 標示四個部位，虛線表示土面。小組先看部位在哪裡，再把課堂學到的作用寫到表格中，不把不同構造混成同一個名稱。\n\n根通常固定植物並吸收水分，莖可以支持並輸送水分，葉也有重要作用。觀察花時，還能找花萼、花瓣、雄蕊和雌蕊等構造。不是每一株植物此刻都同時有花、果實與成熟種子。\n\n導覽圖是幫助辨認部位的示意，大小不代表每一種植物的真實比例。觀察要在原地進行，不能為了看根就任意拔掉校園植物，也不品嘗不認識的部位。",
         "readingOrder": 2,
         "readingSkill": "比較整理",
         "text": "〈小晴的植物身體的小導覽（紀錄 1）〉哪兩個部位的紀錄提到水分？",
@@ -26116,7 +26685,7 @@ window.REVIEW_UNITS=[
         "type": "single",
         "passageId": "u22-p23",
         "passageTitle": "小晴的植物身體的小導覽（紀錄 1）",
-        "passage": "小晴替花圃做一張觀察圖。A 指向花，B 指向葉，C 指向莖，D 指向土裡的根。小組先看部位在哪裡，再把課堂學到的作用寫到表格中，不把不同構造混成同一個名稱。\n\n根通常固定植物並吸收水分，莖可以支持並輸送水分，葉也有重要作用。觀察花時，還能找花萼、花瓣、雄蕊和雌蕊等構造。不是每一株植物此刻都同時有花、果實與成熟種子。\n\n導覽圖是幫助辨認部位的示意，大小不代表每一種植物的真實比例。觀察要在原地進行，不能為了看根就任意拔掉校園植物，也不品嘗不認識的部位。",
+        "passage": "小晴替花圃做一張觀察圖。圖中用 A、B、C、D 標示四個部位，虛線表示土面。小組先看部位在哪裡，再把課堂學到的作用寫到表格中，不把不同構造混成同一個名稱。\n\n根通常固定植物並吸收水分，莖可以支持並輸送水分，葉也有重要作用。觀察花時，還能找花萼、花瓣、雄蕊和雌蕊等構造。不是每一株植物此刻都同時有花、果實與成熟種子。\n\n導覽圖是幫助辨認部位的示意，大小不代表每一種植物的真實比例。觀察要在原地進行，不能為了看根就任意拔掉校園植物，也不品嘗不認識的部位。",
         "readingOrder": 3,
         "readingSkill": "連結原因",
         "text": "〈小晴的植物身體的小導覽（紀錄 1）〉為什麼把部位名稱與作用分欄？",
@@ -26144,7 +26713,7 @@ window.REVIEW_UNITS=[
         "type": "single",
         "passageId": "u22-p23",
         "passageTitle": "小晴的植物身體的小導覽（紀錄 1）",
-        "passage": "小晴替花圃做一張觀察圖。A 指向花，B 指向葉，C 指向莖，D 指向土裡的根。小組先看部位在哪裡，再把課堂學到的作用寫到表格中，不把不同構造混成同一個名稱。\n\n根通常固定植物並吸收水分，莖可以支持並輸送水分，葉也有重要作用。觀察花時，還能找花萼、花瓣、雄蕊和雌蕊等構造。不是每一株植物此刻都同時有花、果實與成熟種子。\n\n導覽圖是幫助辨認部位的示意，大小不代表每一種植物的真實比例。觀察要在原地進行，不能為了看根就任意拔掉校園植物，也不品嘗不認識的部位。",
+        "passage": "小晴替花圃做一張觀察圖。圖中用 A、B、C、D 標示四個部位，虛線表示土面。小組先看部位在哪裡，再把課堂學到的作用寫到表格中，不把不同構造混成同一個名稱。\n\n根通常固定植物並吸收水分，莖可以支持並輸送水分，葉也有重要作用。觀察花時，還能找花萼、花瓣、雄蕊和雌蕊等構造。不是每一株植物此刻都同時有花、果實與成熟種子。\n\n導覽圖是幫助辨認部位的示意，大小不代表每一種植物的真實比例。觀察要在原地進行，不能為了看根就任意拔掉校園植物，也不品嘗不認識的部位。",
         "readingOrder": 4,
         "readingSkill": "判斷證據",
         "text": "〈小晴的植物身體的小導覽（紀錄 1）〉哪個說法符合文章？",
@@ -26172,7 +26741,7 @@ window.REVIEW_UNITS=[
         "type": "single",
         "passageId": "u22-p23",
         "passageTitle": "小晴的植物身體的小導覽（紀錄 1）",
-        "passage": "小晴替花圃做一張觀察圖。A 指向花，B 指向葉，C 指向莖，D 指向土裡的根。小組先看部位在哪裡，再把課堂學到的作用寫到表格中，不把不同構造混成同一個名稱。\n\n根通常固定植物並吸收水分，莖可以支持並輸送水分，葉也有重要作用。觀察花時，還能找花萼、花瓣、雄蕊和雌蕊等構造。不是每一株植物此刻都同時有花、果實與成熟種子。\n\n導覽圖是幫助辨認部位的示意，大小不代表每一種植物的真實比例。觀察要在原地進行，不能為了看根就任意拔掉校園植物，也不品嘗不認識的部位。",
+        "passage": "小晴替花圃做一張觀察圖。圖中用 A、B、C、D 標示四個部位，虛線表示土面。小組先看部位在哪裡，再把課堂學到的作用寫到表格中，不把不同構造混成同一個名稱。\n\n根通常固定植物並吸收水分，莖可以支持並輸送水分，葉也有重要作用。觀察花時，還能找花萼、花瓣、雄蕊和雌蕊等構造。不是每一株植物此刻都同時有花、果實與成熟種子。\n\n導覽圖是幫助辨認部位的示意，大小不代表每一種植物的真實比例。觀察要在原地進行，不能為了看根就任意拔掉校園植物，也不品嘗不認識的部位。",
         "readingOrder": 5,
         "readingSkill": "生活應用",
         "text": "〈小晴的植物身體的小導覽（紀錄 1）〉想觀察花圃的根，應怎麼做？",
@@ -26360,10 +26929,11 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true
       },
       "u22-p22": {
-        "kind": "leaves",
+        "kind": "examLeaves",
         "caption": "葉脈與葉序紀錄",
         "table": {
           "headers": [
@@ -26389,10 +26959,12 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "上排為葉片在莖上的排列，下排為對應葉片的葉脈放大圖。",
+        "examLineArt": true,
+        "hideTable": true
       },
       "u22-p23": {
-        "kind": "plantParts",
+        "kind": "examPlant",
         "caption": "植物部位與紀錄",
         "table": {
           "headers": [
@@ -26423,7 +26995,9 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "虛線是土面。A～D 為部位代號，請依圖判斷；示意未按實物比例。",
+        "examLineArt": true,
+        "hideTable": true
       },
       "u22-p24": {
         "kind": "plantFood",
@@ -26448,7 +27022,8 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true
       }
     },
     "topicVisuals": [
@@ -27738,7 +28313,7 @@ window.REVIEW_UNITS=[
     "literacyAvailable": true,
     "articleVisuals": {
       "u23-p21": {
-        "kind": "syringes",
+        "kind": "examSyringes",
         "caption": "封好出口後的刻度",
         "table": {
           "headers": [
@@ -27760,7 +28335,9 @@ window.REVIEW_UNITS=[
           ]
         },
         "airAfter": 6,
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "刻度單位為格。四幅圖使用相同裝置，出口都封好；依刻度與活塞位置比較。",
+        "examLineArt": true,
+        "hideTable": true
       },
       "u23-p22": {
         "kind": "cupAir",
@@ -27781,10 +28358,11 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true
       },
       "u23-p23": {
-        "kind": "wind",
+        "kind": "examBars",
         "caption": "相同時間內的風車轉圈數",
         "table": {
           "headers": [
@@ -27806,7 +28384,12 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true,
+        "unit": "圈",
+        "step": 2,
+        "valueColumn": 1,
+        "note": "同條件下的教學模擬資料"
       },
       "u23-p24": {
         "kind": "pistons",
@@ -27835,7 +28418,8 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true
       }
     },
     "topicVisuals": [
@@ -29107,7 +29691,8 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true
       },
       "u24-p22": {
         "kind": "teamwork",
@@ -29132,7 +29717,8 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true
       },
       "u24-p23": {
         "kind": "resources",
@@ -29157,7 +29743,8 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true
       },
       "u24-p24": {
         "kind": "studySteps",
@@ -29182,7 +29769,8 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true
       }
     },
     "topicVisuals": [
@@ -30426,7 +31014,7 @@ window.REVIEW_UNITS=[
     "literacyAvailable": true,
     "articleVisuals": {
       "u25-p21": {
-        "kind": "votes",
+        "kind": "examBars",
         "caption": "活動方案表決結果",
         "table": {
           "headers": [
@@ -30448,7 +31036,12 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true,
+        "unit": "票",
+        "step": 2,
+        "valueColumn": 1,
+        "note": "同條件下的教學模擬資料"
       },
       "u25-p22": {
         "kind": "libraryRules",
@@ -30473,7 +31066,8 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true
       },
       "u25-p23": {
         "kind": "duty",
@@ -30498,10 +31092,11 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true
       },
       "u25-p24": {
-        "kind": "beforeAfter",
+        "kind": "examBars",
         "caption": "相同時段的觀察次數",
         "table": {
           "headers": [
@@ -30519,7 +31114,12 @@ window.REVIEW_UNITS=[
             ]
           ]
         },
-        "description": "原創教學情境圖；資料請與文章一起閱讀。"
+        "description": "原創教學情境圖；資料請與文章一起閱讀。",
+        "examLineArt": true,
+        "unit": "次",
+        "step": 2,
+        "valueColumn": 1,
+        "note": "同條件下的教學模擬資料"
       }
     },
     "topicVisuals": [

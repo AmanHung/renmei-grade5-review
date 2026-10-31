@@ -7,7 +7,7 @@ window.REVIEW_EXAMS=[
     "publisher": "翰林",
     "scope": "第 1 課～統整活動二（第 1～6 課）",
     "minutes": 45,
-    "signature": "6dff8553e92e264ba915",
+    "signature": "6621a2b1aa308394b5a7",
     "total": 100,
     "entries": [
       {
@@ -359,7 +359,7 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 30,
-    "formatVersion": 8
+    "formatVersion": 9
   },
   {
     "id": "g5-chinese-a",
@@ -721,7 +721,7 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 30,
-    "formatVersion": 8
+    "formatVersion": 9
   },
   {
     "id": "g3-english-a",
@@ -1083,7 +1083,7 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 30,
-    "formatVersion": 8
+    "formatVersion": 9
   },
   {
     "id": "g5-english-a",
@@ -1093,7 +1093,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒 Wonder World 5",
     "scope": "Get Ready、Unit 1、Unit 2、Review 1",
     "minutes": 40,
-    "signature": "a21bef5e7ae1acac3b9d",
+    "signature": "e2c38381bcf15f3ce68d",
     "total": 100,
     "entries": [
       {
@@ -1445,7 +1445,7 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 30,
-    "formatVersion": 8
+    "formatVersion": 9
   },
   {
     "id": "g5-science-a",
@@ -1907,7 +1907,7 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 40,
-    "formatVersion": 8
+    "formatVersion": 9
   },
   {
     "id": "g5-social-a",
@@ -1917,7 +1917,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒",
     "scope": "第 1～2 單元",
     "minutes": 40,
-    "signature": "e0385ee873c47d9992b5",
+    "signature": "803c17072985cf45517e",
     "total": 100,
     "entries": [
       {
@@ -2369,7 +2369,7 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 40,
-    "formatVersion": 8
+    "formatVersion": 9
   },
   {
     "id": "g3-science-a",
@@ -2379,7 +2379,7 @@ window.REVIEW_EXAMS=[
     "publisher": "南一",
     "scope": "第 1～2 單元",
     "minutes": 40,
-    "signature": "6a650613df414e036afc",
+    "signature": "8bef4b011455af849c7e",
     "total": 100,
     "entries": [
       {
@@ -2831,7 +2831,7 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 40,
-    "formatVersion": 8
+    "formatVersion": 9
   },
   {
     "id": "g3-social-a",
@@ -3293,7 +3293,7 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 40,
-    "formatVersion": 8
+    "formatVersion": 9
   },
   {
     "id": "g3-math-a",
@@ -3303,7 +3303,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒",
     "scope": "第 1～5 單元、統整與應用一",
     "minutes": 50,
-    "signature": "60d2e865088e48b1e8c4",
+    "signature": "a57755937797270622fc",
     "total": 100,
     "entries": [
       {
@@ -3623,7 +3623,7 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 25,
-    "formatVersion": 8
+    "formatVersion": 9
   },
   {
     "id": "g5-math-a",
@@ -3633,7 +3633,7 @@ window.REVIEW_EXAMS=[
     "publisher": "翰林",
     "scope": "第 1～5 單元、學習加油讚（一）",
     "minutes": 50,
-    "signature": "55ae0596c17b6cfad4f8",
+    "signature": "030ead70a1cdf79f00a0",
     "total": 100,
     "entries": [
       {
@@ -3647,7 +3647,7 @@ window.REVIEW_EXAMS=[
         "section": "choice"
       },
       {
-        "questionId": "u10-t58-n1",
+        "questionId": "u10-t95-a",
         "points": 2,
         "section": "choice"
       },
@@ -3732,12 +3732,12 @@ window.REVIEW_EXAMS=[
         "section": "application"
       },
       {
-        "questionId": "u10-t53-n1",
+        "questionId": "u10-t96-n1",
         "points": 6,
         "section": "application"
       },
       {
-        "questionId": "u10-t60-n1",
+        "questionId": "u10-t97-n1",
         "points": 6,
         "section": "application"
       },
@@ -3812,7 +3812,7 @@ window.REVIEW_EXAMS=[
             "section": "choice"
           },
           {
-            "questionId": "u10-t58-n1",
+            "questionId": "u10-t95-a",
             "points": 2,
             "section": "choice"
           },
@@ -3917,12 +3917,12 @@ window.REVIEW_EXAMS=[
             "section": "application"
           },
           {
-            "questionId": "u10-t53-n1",
+            "questionId": "u10-t96-n1",
             "points": 6,
             "section": "application"
           },
           {
-            "questionId": "u10-t60-n1",
+            "questionId": "u10-t97-n1",
             "points": 6,
             "section": "application"
           },
@@ -3953,7 +3953,7 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 25,
-    "formatVersion": 8
+    "formatVersion": 9
   }
 ];
 window.REVIEW_EXAM_ITEMS=[
@@ -3983,11 +3983,19 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依 Get Ready 三位數範圍編寫的延伸閱讀",
     "visual": {
-      "kind": "reasoningBoard",
+      "kind": "examReceipt",
       "caption": "Ticket board",
       "description": "看板的號碼依序是 124、142。",
       "items": [
         "124 → 142"
+      ],
+      "examLineArt": true,
+      "heading": "題目資料",
+      "rows": [
+        [
+          "1",
+          "124 → 142"
+        ]
       ]
     }
   },
@@ -4017,11 +4025,19 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依 Get Ready 三位數範圍編寫的延伸閱讀",
     "visual": {
-      "kind": "reasoningBoard",
+      "kind": "examReceipt",
       "caption": "Ticket board",
       "description": "看板的號碼依序是 124、142。",
       "items": [
         "124 → 142"
+      ],
+      "examLineArt": true,
+      "heading": "題目資料",
+      "rows": [
+        [
+          "1",
+          "124 → 142"
+        ]
       ]
     }
   },
@@ -4051,7 +4067,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "reasoningBoard",
+      "kind": "examReceipt",
       "caption": "閱讀資料卡",
       "description": "請把資料卡與文章的前後情況一起對照。",
       "items": [
@@ -4059,6 +4075,26 @@ window.REVIEW_EXAM_ITEMS=[
         "等待晚餐：15 分鐘",
         "整理常用物品",
         "等待時讀幾頁書"
+      ],
+      "examLineArt": true,
+      "heading": "題目資料",
+      "rows": [
+        [
+          "1",
+          "找作業本：10 分鐘"
+        ],
+        [
+          "2",
+          "等待晚餐：15 分鐘"
+        ],
+        [
+          "3",
+          "整理常用物品"
+        ],
+        [
+          "4",
+          "等待時讀幾頁書"
+        ]
       ]
     }
   },
@@ -4088,7 +4124,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "reasoningBoard",
+      "kind": "examReceipt",
       "caption": "閱讀資料卡",
       "description": "請把資料卡與文章的前後情況一起對照。",
       "items": [
@@ -4096,6 +4132,26 @@ window.REVIEW_EXAM_ITEMS=[
         "等待晚餐：15 分鐘",
         "整理常用物品",
         "等待時讀幾頁書"
+      ],
+      "examLineArt": true,
+      "heading": "題目資料",
+      "rows": [
+        [
+          "1",
+          "找作業本：10 分鐘"
+        ],
+        [
+          "2",
+          "等待晚餐：15 分鐘"
+        ],
+        [
+          "3",
+          "整理常用物品"
+        ],
+        [
+          "4",
+          "等待時讀幾頁書"
+        ]
       ]
     }
   },
@@ -4125,7 +4181,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "reasoningBoard",
+      "kind": "examReceipt",
       "caption": "閱讀資料卡",
       "description": "請把資料卡與文章的前後情況一起對照。",
       "items": [
@@ -4133,6 +4189,26 @@ window.REVIEW_EXAM_ITEMS=[
         "等待晚餐：15 分鐘",
         "整理常用物品",
         "等待時讀幾頁書"
+      ],
+      "examLineArt": true,
+      "heading": "題目資料",
+      "rows": [
+        [
+          "1",
+          "找作業本：10 分鐘"
+        ],
+        [
+          "2",
+          "等待晚餐：15 分鐘"
+        ],
+        [
+          "3",
+          "整理常用物品"
+        ],
+        [
+          "4",
+          "等待時讀幾頁書"
+        ]
       ]
     }
   },
@@ -4162,15 +4238,19 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "reasoningBoard",
-      "caption": "閱讀資料卡",
-      "description": "請把資料卡與文章的前後情況一起對照。",
-      "items": [
-        "原便條：別忘了帶來！",
-        "新便條：週五早自習",
-        "用品：彩色筆",
-        "地點：教室／第三組"
-      ]
+      "kind": "examNotes",
+      "caption": "兩張便條的比較",
+      "notes": [
+        [
+          "別忘了帶來！"
+        ],
+        [
+          "星期五早自習",
+          "帶彩色筆到教室",
+          "和第三組一起畫海報"
+        ]
+      ],
+      "examLineArt": true
     }
   },
   {
@@ -4199,15 +4279,19 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "reasoningBoard",
-      "caption": "閱讀資料卡",
-      "description": "請把資料卡與文章的前後情況一起對照。",
-      "items": [
-        "原便條：別忘了帶來！",
-        "新便條：週五早自習",
-        "用品：彩色筆",
-        "地點：教室／第三組"
-      ]
+      "kind": "examNotes",
+      "caption": "兩張便條的比較",
+      "notes": [
+        [
+          "別忘了帶來！"
+        ],
+        [
+          "星期五早自習",
+          "帶彩色筆到教室",
+          "和第三組一起畫海報"
+        ]
+      ],
+      "examLineArt": true
     }
   },
   {
@@ -4236,15 +4320,19 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "reasoningBoard",
-      "caption": "閱讀資料卡",
-      "description": "請把資料卡與文章的前後情況一起對照。",
-      "items": [
-        "原便條：別忘了帶來！",
-        "新便條：週五早自習",
-        "用品：彩色筆",
-        "地點：教室／第三組"
-      ]
+      "kind": "examNotes",
+      "caption": "兩張便條的比較",
+      "notes": [
+        [
+          "別忘了帶來！"
+        ],
+        [
+          "星期五早自習",
+          "帶彩色筆到教室",
+          "和第三組一起畫海報"
+        ]
+      ],
+      "examLineArt": true
     }
   },
   {
@@ -4273,7 +4361,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "reasoningBoard",
+      "kind": "examReceipt",
       "caption": "閱讀資料卡",
       "description": "請把資料卡與文章的前後情況一起對照。",
       "items": [
@@ -4281,6 +4369,26 @@ window.REVIEW_EXAM_ITEMS=[
         "08：10　集合",
         "晴天：中庭",
         "雨天：一樓穿堂"
+      ],
+      "examLineArt": true,
+      "heading": "題目資料",
+      "rows": [
+        [
+          "1",
+          "08：05　離開教室前"
+        ],
+        [
+          "2",
+          "08：10　集合"
+        ],
+        [
+          "3",
+          "晴天：中庭"
+        ],
+        [
+          "4",
+          "雨天：一樓穿堂"
+        ]
       ]
     }
   },
@@ -4310,7 +4418,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "reasoningBoard",
+      "kind": "examReceipt",
       "caption": "閱讀資料卡",
       "description": "請把資料卡與文章的前後情況一起對照。",
       "items": [
@@ -4318,6 +4426,26 @@ window.REVIEW_EXAM_ITEMS=[
         "08：10　集合",
         "晴天：中庭",
         "雨天：一樓穿堂"
+      ],
+      "examLineArt": true,
+      "heading": "題目資料",
+      "rows": [
+        [
+          "1",
+          "08：05　離開教室前"
+        ],
+        [
+          "2",
+          "08：10　集合"
+        ],
+        [
+          "3",
+          "晴天：中庭"
+        ],
+        [
+          "4",
+          "雨天：一樓穿堂"
+        ]
       ]
     }
   },
@@ -4347,7 +4475,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "reasoningBoard",
+      "kind": "examReceipt",
       "caption": "閱讀資料卡",
       "description": "請把資料卡與文章的前後情況一起對照。",
       "items": [
@@ -4355,6 +4483,26 @@ window.REVIEW_EXAM_ITEMS=[
         "08：10　集合",
         "晴天：中庭",
         "雨天：一樓穿堂"
+      ],
+      "examLineArt": true,
+      "heading": "題目資料",
+      "rows": [
+        [
+          "1",
+          "08：05　離開教室前"
+        ],
+        [
+          "2",
+          "08：10　集合"
+        ],
+        [
+          "3",
+          "晴天：中庭"
+        ],
+        [
+          "4",
+          "雨天：一樓穿堂"
+        ]
       ]
     }
   },
@@ -4384,7 +4532,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "reasoningBoard",
+      "kind": "examReceipt",
       "caption": "閱讀資料卡",
       "description": "請把資料卡與文章的前後情況一起對照。",
       "items": [
@@ -4392,6 +4540,26 @@ window.REVIEW_EXAM_ITEMS=[
         "08：10　集合",
         "晴天：中庭",
         "雨天：一樓穿堂"
+      ],
+      "examLineArt": true,
+      "heading": "題目資料",
+      "rows": [
+        [
+          "1",
+          "08：05　離開教室前"
+        ],
+        [
+          "2",
+          "08：10　集合"
+        ],
+        [
+          "3",
+          "晴天：中庭"
+        ],
+        [
+          "4",
+          "雨天：一樓穿堂"
+        ]
       ]
     }
   },
@@ -4421,7 +4589,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "reasoningBoard",
+      "kind": "examReceipt",
       "caption": "閱讀資料卡",
       "description": "請把資料卡與文章的前後情況一起對照。",
       "items": [
@@ -4429,6 +4597,26 @@ window.REVIEW_EXAM_ITEMS=[
         "觀察欄：壺嘴附近有白霧",
         "創作欄：水怪的想像",
         "操作熱水壺：由老師進行"
+      ],
+      "examLineArt": true,
+      "heading": "題目資料",
+      "rows": [
+        [
+          "1",
+          "觀察欄：聲音有變化"
+        ],
+        [
+          "2",
+          "觀察欄：壺嘴附近有白霧"
+        ],
+        [
+          "3",
+          "創作欄：水怪的想像"
+        ],
+        [
+          "4",
+          "操作熱水壺：由老師進行"
+        ]
       ]
     }
   },
@@ -4458,7 +4646,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "reasoningBoard",
+      "kind": "examReceipt",
       "caption": "閱讀資料卡",
       "description": "請把資料卡與文章的前後情況一起對照。",
       "items": [
@@ -4466,6 +4654,26 @@ window.REVIEW_EXAM_ITEMS=[
         "觀察欄：壺嘴附近有白霧",
         "創作欄：水怪的想像",
         "操作熱水壺：由老師進行"
+      ],
+      "examLineArt": true,
+      "heading": "題目資料",
+      "rows": [
+        [
+          "1",
+          "觀察欄：聲音有變化"
+        ],
+        [
+          "2",
+          "觀察欄：壺嘴附近有白霧"
+        ],
+        [
+          "3",
+          "創作欄：水怪的想像"
+        ],
+        [
+          "4",
+          "操作熱水壺：由老師進行"
+        ]
       ]
     }
   },
@@ -4495,7 +4703,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "reasoningBoard",
+      "kind": "examReceipt",
       "caption": "閱讀資料卡",
       "description": "請把資料卡與文章的前後情況一起對照。",
       "items": [
@@ -4503,6 +4711,26 @@ window.REVIEW_EXAM_ITEMS=[
         "觀察欄：壺嘴附近有白霧",
         "創作欄：水怪的想像",
         "操作熱水壺：由老師進行"
+      ],
+      "examLineArt": true,
+      "heading": "題目資料",
+      "rows": [
+        [
+          "1",
+          "觀察欄：聲音有變化"
+        ],
+        [
+          "2",
+          "觀察欄：壺嘴附近有白霧"
+        ],
+        [
+          "3",
+          "創作欄：水怪的想像"
+        ],
+        [
+          "4",
+          "操作熱水壺：由老師進行"
+        ]
       ]
     }
   },
@@ -4532,7 +4760,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "reasoningBoard",
+      "kind": "examReceipt",
       "caption": "閱讀資料卡",
       "description": "請把資料卡與文章的前後情況一起對照。",
       "items": [
@@ -4540,6 +4768,26 @@ window.REVIEW_EXAM_ITEMS=[
         "先請教，再安全固定傘",
         "放晴：重新評估需要",
         "一週後：記下觀察"
+      ],
+      "examLineArt": true,
+      "heading": "題目資料",
+      "rows": [
+        [
+          "1",
+          "大雨：幼苗被直打"
+        ],
+        [
+          "2",
+          "先請教，再安全固定傘"
+        ],
+        [
+          "3",
+          "放晴：重新評估需要"
+        ],
+        [
+          "4",
+          "一週後：記下觀察"
+        ]
       ]
     }
   },
@@ -4569,7 +4817,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "reasoningBoard",
+      "kind": "examReceipt",
       "caption": "閱讀資料卡",
       "description": "請把資料卡與文章的前後情況一起對照。",
       "items": [
@@ -4577,6 +4825,26 @@ window.REVIEW_EXAM_ITEMS=[
         "先請教，再安全固定傘",
         "放晴：重新評估需要",
         "一週後：記下觀察"
+      ],
+      "examLineArt": true,
+      "heading": "題目資料",
+      "rows": [
+        [
+          "1",
+          "大雨：幼苗被直打"
+        ],
+        [
+          "2",
+          "先請教，再安全固定傘"
+        ],
+        [
+          "3",
+          "放晴：重新評估需要"
+        ],
+        [
+          "4",
+          "一週後：記下觀察"
+        ]
       ]
     }
   },
@@ -4606,7 +4874,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "reasoningBoard",
+      "kind": "examReceipt",
       "caption": "閱讀資料卡",
       "description": "請把資料卡與文章的前後情況一起對照。",
       "items": [
@@ -4614,6 +4882,26 @@ window.REVIEW_EXAM_ITEMS=[
         "先請教，再安全固定傘",
         "放晴：重新評估需要",
         "一週後：記下觀察"
+      ],
+      "examLineArt": true,
+      "heading": "題目資料",
+      "rows": [
+        [
+          "1",
+          "大雨：幼苗被直打"
+        ],
+        [
+          "2",
+          "先請教，再安全固定傘"
+        ],
+        [
+          "3",
+          "放晴：重新評估需要"
+        ],
+        [
+          "4",
+          "一週後：記下觀察"
+        ]
       ]
     }
   },
@@ -4643,7 +4931,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "reasoningBoard",
+      "kind": "examReceipt",
       "caption": "閱讀資料卡",
       "description": "請把資料卡與文章的前後情況一起對照。",
       "items": [
@@ -4651,6 +4939,26 @@ window.REVIEW_EXAM_ITEMS=[
         "都輕放，不用力推",
         "較緩：圓筆滾／六角筆停",
         "更斜：六角筆也滑動"
+      ],
+      "examLineArt": true,
+      "heading": "題目資料",
+      "rows": [
+        [
+          "1",
+          "同一塊板子、同一起點"
+        ],
+        [
+          "2",
+          "都輕放，不用力推"
+        ],
+        [
+          "3",
+          "較緩：圓筆滾／六角筆停"
+        ],
+        [
+          "4",
+          "更斜：六角筆也滑動"
+        ]
       ]
     }
   },
@@ -4680,7 +4988,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "reasoningBoard",
+      "kind": "examReceipt",
       "caption": "閱讀資料卡",
       "description": "請把資料卡與文章的前後情況一起對照。",
       "items": [
@@ -4688,6 +4996,26 @@ window.REVIEW_EXAM_ITEMS=[
         "都輕放，不用力推",
         "較緩：圓筆滾／六角筆停",
         "更斜：六角筆也滑動"
+      ],
+      "examLineArt": true,
+      "heading": "題目資料",
+      "rows": [
+        [
+          "1",
+          "同一塊板子、同一起點"
+        ],
+        [
+          "2",
+          "都輕放，不用力推"
+        ],
+        [
+          "3",
+          "較緩：圓筆滾／六角筆停"
+        ],
+        [
+          "4",
+          "更斜：六角筆也滑動"
+        ]
       ]
     }
   },
@@ -4717,7 +5045,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "reasoningBoard",
+      "kind": "examReceipt",
       "caption": "閱讀資料卡",
       "description": "請把資料卡與文章的前後情況一起對照。",
       "items": [
@@ -4725,6 +5053,26 @@ window.REVIEW_EXAM_ITEMS=[
         "都輕放，不用力推",
         "較緩：圓筆滾／六角筆停",
         "更斜：六角筆也滑動"
+      ],
+      "examLineArt": true,
+      "heading": "題目資料",
+      "rows": [
+        [
+          "1",
+          "同一塊板子、同一起點"
+        ],
+        [
+          "2",
+          "都輕放，不用力推"
+        ],
+        [
+          "3",
+          "較緩：圓筆滾／六角筆停"
+        ],
+        [
+          "4",
+          "更斜：六角筆也滑動"
+        ]
       ]
     }
   },
@@ -4754,7 +5102,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "reasoningBoard",
+      "kind": "examReceipt",
       "caption": "閱讀資料卡",
       "description": "請把資料卡與文章的前後情況一起對照。",
       "items": [
@@ -4762,6 +5110,26 @@ window.REVIEW_EXAM_ITEMS=[
         "都輕放，不用力推",
         "較緩：圓筆滾／六角筆停",
         "更斜：六角筆也滑動"
+      ],
+      "examLineArt": true,
+      "heading": "題目資料",
+      "rows": [
+        [
+          "1",
+          "同一塊板子、同一起點"
+        ],
+        [
+          "2",
+          "都輕放，不用力推"
+        ],
+        [
+          "3",
+          "較緩：圓筆滾／六角筆停"
+        ],
+        [
+          "4",
+          "更斜：六角筆也滑動"
+        ]
       ]
     }
   },
@@ -6225,7 +6593,103 @@ window.REVIEW_EXAM_ITEMS=[
           "rotation": 25,
           "length": 65
         }
-      ]
+      ],
+      "examLineArt": true
     }
+  },
+  {
+    "id": "u10-t95-a",
+    "type": "single",
+    "text": "圖中哪一組三根木棒可以圍成三角形？（端點相接，不彎曲木棒。）",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answer": 1,
+    "explanation": "三角形任兩邊長的和必須大於第三邊。乙的 5＋7＞10；甲、丙剛好相等，丁則小於最長邊，不能圍成三角形。",
+    "visual": {
+      "kind": "examRods",
+      "caption": "四組木棒的長度",
+      "sets": [
+        [
+          4,
+          7,
+          11
+        ],
+        [
+          5,
+          7,
+          10
+        ],
+        [
+          3,
+          6,
+          9
+        ],
+        [
+          2,
+          4,
+          8
+        ]
+      ],
+      "examLineArt": true
+    },
+    "unit": 10,
+    "topic": 94,
+    "concept": "平面圖形的圖像推理",
+    "sourceIds": [
+      "M5",
+      "M5B"
+    ],
+    "sourceType": "參考公開原卷的線圖、角度記號及圖形比較形式；依仁美五上平面圖形範圍改編"
+  },
+  {
+    "id": "u10-t96-n1",
+    "type": "numeric",
+    "text": "左下角是直角，另有 50°、30°、70° 如圖。求交點下方標示的 x 是多少度？",
+    "answer": 100,
+    "unitLabel": "度",
+    "explanation": "先看右上方小三角形：交點上方的角＝180－30－70＝80 度。x 與它在同一直線旁互補，所以 x＝180－80＝100 度。亦可先求左大三角形右端角 40 度，再用另一個三角形檢查。",
+    "visual": {
+      "kind": "examCompound",
+      "caption": "相交三角形：依角度標記推理",
+      "leftTop": 50,
+      "top": 30,
+      "rightBetween": 70,
+      "examLineArt": true
+    },
+    "unit": 10,
+    "topic": 95,
+    "concept": "平面圖形的圖像推理",
+    "sourceIds": [
+      "M5",
+      "M5B"
+    ],
+    "sourceType": "參考公開原卷的線圖、角度記號及圖形比較形式；依仁美五上平面圖形範圍改編"
+  },
+  {
+    "id": "u10-t97-n1",
+    "type": "numeric",
+    "text": "ABCD 是平行四邊形，BD 是對角線。B 的整個內角是 112°，其中 ∠ABD＝35°。求 ∠ADB，也就是圖中的 x。",
+    "answer": 77,
+    "unitLabel": "度",
+    "explanation": "平行四邊形相鄰內角和為 180 度，所以 A＝180－112＝68 度。在三角形 ABD 中，x＝180－68－35＝77 度。",
+    "visual": {
+      "kind": "examParallel",
+      "caption": "平行四邊形與對角線",
+      "corner": 112,
+      "diagonal": 35,
+      "examLineArt": true
+    },
+    "unit": 10,
+    "topic": 96,
+    "concept": "平面圖形的圖像推理",
+    "sourceIds": [
+      "M5",
+      "M5B"
+    ],
+    "sourceType": "參考公開原卷的線圖、角度記號及圖形比較形式；依仁美五上平面圖形範圍改編"
   }
 ];

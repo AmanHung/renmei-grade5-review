@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import {createHash} from 'node:crypto';
 import chineseExamItems from './mock-chinese.mjs';
 import redesign,{writeBlueprint} from './exam-format-v8.mjs';
+import {upgradeExamDiagrams} from './exam-diagram-content.mjs';
 
 // 固定 A 卷的命題藍圖；不用隨機抽題，也不用只換數字的題目湊分。
 export default function writeMockExams(units){
@@ -41,6 +42,9 @@ export default function writeMockExams(units){
  add(3,'數學','math','第 1～5 單元、統整與應用一',math3);
  add(5,'數學','math','第 1～5 單元、學習加油讚（一）',math5);
  redesign(papers,units,extras);
+ upgradeExamDiagrams(papers,units,extras);
+ const examBank=new Map(units.flatMap(u=>u.questions).concat(extras).map(q=>[q.id,q]));
+ for(const p of papers)p.signature=createHash('sha256').update(JSON.stringify({entries:p.entries,questions:p.entries.map(e=>examBank.get(e.questionId))})).digest('hex').slice(0,20);
  fs.writeFileSync('dist/mock-content.js','window.REVIEW_EXAMS='+JSON.stringify(papers,null,2)+';\nwindow.REVIEW_EXAM_ITEMS='+JSON.stringify(extras,null,2)+';\n');
  writeBlueprint(papers);
  return papers;

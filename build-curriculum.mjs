@@ -12,6 +12,7 @@ import grade3Concepts from './curriculum/grade3-concepts.mjs';
 import addVisualLiteracy from './curriculum/visual-literacy.mjs';
 import attachLearningVisuals from './curriculum/learning-visuals.mjs';
 import reviewQuality from './curriculum/quality-review.mjs';
+import upgradeDiagramContent from './curriculum/exam-diagram-content.mjs';
 import reports from './curriculum/quality-reports.mjs';
 const names=['動物世界','探索聲光世界','臺灣我的家','臺灣的自然環境與生活'];
 const tips=[['動物聚在一起，不一定有分工合作。','卵生、胎生與是否育幼，應分開判斷。','觀察與推論要區分，也要尊重動物棲地。'],['音量與音高不同，反射與折射也不同。','實驗一次聚焦一個變因，其餘條件盡量相同。','不直視太陽、不用強光照眼，也不以高音量刺激聽覺。'],['方位要有參考點，讀圖先看方向標示。','不同族群與家庭之間，也會有個別差異。','團體規則、道德與法律，不宜直接畫上等號。'],['地形分類要看地勢，不能只看名字或顏色。','天氣與氣候不同；結論要符合資料時間範圍。','地形與氣候會影響生活，也要考慮人文與技術條件。']];
@@ -37,6 +38,7 @@ units.push(...grade3Reading,...grade3Math,...grade3Concepts);
 addVisualLiteracy(units);
 attachLearningVisuals(units);
 reviewQuality(units);
+upgradeDiagramContent(units);
 // 數字型閱讀選項遇到相同數值時，改用其他合理數量，避免重複選項。
 for(const u of units)for(const q of u.questions){if(q.options){const used=new Set();q.options=q.options.map((o,i)=>{if(used.has(o)&&u.subject==='英語'&&/^\d+$/.test(o)){let n=Number(o)+1;while(used.has(String(n))||q.options.includes(String(n)))n++;o=String(n);}used.add(o);return o;});}}
 for(const u of units){
