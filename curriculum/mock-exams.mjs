@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import {createHash} from 'node:crypto';
 import chineseExamItems from './mock-chinese.mjs';
+import redesign,{writeBlueprint} from './exam-format-v8.mjs';
 
 // 固定 A 卷的命題藍圖；不用隨機抽題，也不用只換數字的題目湊分。
 export default function writeMockExams(units){
@@ -39,7 +40,8 @@ export default function writeMockExams(units){
  const math5=[['u8-t01-n1','u8-t42-n1','u8-t43-n1','u8-t46-n1'],['u9-t01-n5','u9-t45-n1','u9-t46-n1','u9-t41-n1'],['u10-t41-n1','u10-t56-n1','u10-t53-n1','u10-t60-n1'],['u11-t01-n2','u11-t41-n1','u11-t42-n1','u11-t43-n1'],['u12-t01-n1','u12-t01-n4','u12-t44-n1','u12-t46-n1']].flat();
  add(3,'數學','math','第 1～5 單元、統整與應用一',math3);
  add(5,'數學','math','第 1～5 單元、學習加油讚（一）',math5);
+ redesign(papers,units,extras);
  fs.writeFileSync('dist/mock-content.js','window.REVIEW_EXAMS='+JSON.stringify(papers,null,2)+';\nwindow.REVIEW_EXAM_ITEMS='+JSON.stringify(extras,null,2)+';\n');
- fs.writeFileSync('模擬考命題藍圖.md','# 三上、五上期中模擬考\n\n共 10 份固定 A 卷；每卷 20 題，每題 5 分，滿分 100 分。必須全部答完才可送出，送出前不評分、不揭露答案。重作是相同考卷，與隨機練習分開。\n\n依已核對的版本、考試範圍及公開考題參考挑選現有精選題，另補五上 Get Ready 三位數閱讀 2 題及三上國語考卷專用的 6 篇延伸文本、20 題；不標示為學校原卷。來源及查閱限制見 [考題參考與刪重.md](考題參考與刪重.md)。國語是課次主題延伸閱讀，不能取代生字、注音與課文複習；英語為紙筆閱讀，不含聽力。\n\n命題以資訊擷取、比較、因果、整合及證據推論為主，保留必要基本能力。目標為難度適中，尚未經學生施測校準。國語每卷 6 篇，英語 4～5 篇；自然每卷 4 篇加應用題，社會三上 4 篇、五上 4 篇加應用題。數學各單元 4 題，計算填數字，圖形判讀與理由採選擇題，三上不考角度數計算。\n\n草稿依裝置與名字保存，出題內容改版則不沿用舊草稿。全卷送出才產生 20 筆作答與 1 筆總成績，透過原有 GAS 回執機制同步；用穩定事件 ID 防止重送重複計分。作答秒數是整卷時間平均分配，並非各題實際停留時間。\n\n'+papers.map(p=>`## ${p.title}\n\n${p.publisher}；${p.scope}。建議 ${p.minutes} 分鐘（不強制倒數）。\n\n${p.coverage.map(c=>`- ${c.name}：${c.count} 題／${c.count*5} 分`).join('\n')}\n\n題號：${p.entries.map(e=>e.questionId).join('、')}。\n`).join('\n'));
+ writeBlueprint(papers);
  return papers;
 }

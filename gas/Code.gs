@@ -24,9 +24,19 @@ function normalizeEvent_(e) {
   if(typeof e.learner!=='string'||!e.learner.trim()||e.learner.length>20)throw new Error('請輸入有效暱稱');
   if(['answer','session'].indexOf(e.kind)<0)throw new Error('紀錄種類不支援');
   if(!Number.isFinite(Number(e.elapsedSeconds))||Number(e.elapsedSeconds)<0)throw new Error('作答時間格式錯誤');
-  if(e.kind==='answer'&&(!/^u\d{1,2}-t\d{2}-(a|b|tf|multi|match|r[1-5]|n[1-5])$/.test(String(e.questionId||''))||['single','boolean','multiple','matching','numeric'].indexOf(e.questionType)<0||typeof e.correct!=='boolean'))throw new Error('題目資料格式錯誤');
-  if(e.kind==='session'&&(!Number.isInteger(e.total)||e.total<1||e.total>100||!Number.isInteger(e.right)||e.right<0||e.right>e.total||e.score!==Math.round(e.right/e.total*100)))throw new Error('成績格式錯誤');
+  if(e.kind==='answer'&&(!/^u\d{1,2}-t\d{2}-(a|b|tf|multi|match|r[1-5]|n[1-5])$/.test(String(e.questionId||''))||['single','boolean','multiple','matching','numeric','text'].indexOf(e.questionType)<0||typeof e.correct!=='boolean'))throw new Error('題目資料格式錯誤');
+  if(e.kind==='session'&&(!Number.isInteger(e.total)||e.total<1||e.total>100||!Number.isInteger(e.right)||e.right<0||e.right>e.total||!validScore_(e)))throw new Error('成績格式錯誤');
   return e;
+}
+
+function validScore_(e) {
+  if(e.weights!==undefined||e.outcomes!==undefined){
+    if(!Array.isArray(e.weights)||!Array.isArray(e.outcomes)||e.weights.length!==e.total||e.outcomes.length!==e.total)return false;
+    if(e.weights.some(function(p){return !Number.isInteger(p)||p<1||p>10;})||e.outcomes.some(function(v){return typeof v!=='boolean';}))return false;
+    var total=e.weights.reduce(function(n,p){return n+p;},0),score=e.weights.reduce(function(n,p,i){return n+(e.outcomes[i]?p:0);},0),right=e.outcomes.filter(function(v){return v;}).length;
+    return total===100&&e.score===score&&e.right===right;
+  }
+  return e.score===Math.round(e.right/e.total*100);
 }
 
 function safeCell_(value) {
@@ -69,7 +79,7 @@ function doPost(request) {
 
 function doGet(request) {
   var p=request&&request.parameter||{};
-  var result={ok:true,service:'little-study-log',schemaVersion:1};
+  var result={ok:true,service:'little-study-log',schemaVersion:1,features:['weighted-v1','text-v1']};
   if(p.action==='receipt') {
     if(!/^[-\w]{12,100}$/.test(String(p.id||'')))result={ok:false};
     else {

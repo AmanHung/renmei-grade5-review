@@ -26,13 +26,20 @@ const examContext={window:{}};vm.createContext(examContext);vm.runInContext(fs.r
 for(const paper of examContext.window.REVIEW_EXAMS){
  const bank=examContext.window.REVIEW_UNITS.flatMap(u=>u.questions).concat(examContext.window.REVIEW_EXAM_ITEMS);
  const rows=paper.entries.map((item,i)=>{const q=bank.find(q=>q.id===item.questionId);return {...event,id:`exam-${paper.id}-answer-${i}`,sessionId:`session-${paper.id}-mock`,grade:paper.grade,subject:paper.subject,unitName:`${paper.grade}上｜${paper.subject}期中模擬考 A 卷`,questionId:q.id,questionType:q.type,question:(q.passage||'')+'\n'+q.text,selected:[String(q.answer)],expected:[String(q.answer)],correct:i!==0};});
- rows.push({...event,id:`exam-${paper.id}-summary`,sessionId:`session-${paper.id}-mock`,grade:paper.grade,subject:paper.subject,unitName:`${paper.grade}上｜${paper.subject}期中模擬考 A 卷`,kind:'session',right:19,total:20,score:95});
+ rows.push({...event,id:`exam-${paper.id}-summary`,sessionId:`session-${paper.id}-mock`,grade:paper.grade,subject:paper.subject,unitName:`${paper.grade}上｜${paper.subject}期中模擬考 A 卷`,kind:'session',right:paper.count-1,total:paper.count,score:100-paper.entries[0].points,weights:paper.entries.map(e=>e.points),outcomes:paper.entries.map((e,i)=>i!==0)});
  const before=logs.length;
  for(let offset=0;offset<rows.length;offset+=10){const data={...payload,requestId:`request-${paper.id}-${offset}`,events:rows.slice(offset,offset+10)};assert.equal(post(data).ok,true);assert.equal(post(data).ok,true);}
- assert.equal(logs.length,before+21);assert.equal(logs.at(-1)[12],'95');
+ assert.equal(logs.length,before+paper.count+1);assert.equal(logs.at(-1)[12],String(100-paper.entries[0].points));
 }
-console.log('10 份模擬考的 210 筆資料，分批寫入、100 分制總成績與重送去重通過。');
+console.log('10 份不同題數與配分的模擬考資料，分批寫入、100 分制總成績與重送去重通過。');
 
 const grade3={...event,id:'event-grade3-0001',grade:3,subject:'數學',unitName:'三上｜毫米',questionId:'u19-t20-n5',questionType:'numeric',correct:true,selected:['12'],expected:['12']};assert.equal(post({...payload,requestId:'request-grade3-01',events:[grade3]}).ok,true);assert.equal(logs.at(-1)[5],'三上｜毫米');const grade3Social={...grade3,id:'event-grade3-0002',subject:'社會',unitName:'三上｜校園規範和班級自治',questionId:'u25-t20-match',questionType:'matching'};assert.equal(post({...payload,requestId:'request-grade3-02',events:[grade3Social]}).ok,true);console.log('三上題號及年級單元標記寫入通過。');
 
 for(const [questionId,subject,grade] of [['u0-t40-r5','自然',5],['u25-t40-r5','社會',3]]){assert.equal(post({...payload,requestId:'visual-'+questionId,events:[{...event,id:'event-visual-'+questionId,questionId,subject,grade,question:'圖文閱讀與圖卡資料',questionType:'single'}]}).ok,true);}console.log('新增自然社會圖文閱讀題號寫入通過。');
+
+const weighted={...summary,id:'weighted-valid-0001',total:3,right:2,score:70,weights:[20,30,50],outcomes:[true,false,true]};
+assert.equal(post({...payload,requestId:'request-weighted-invalid',events:[weighted]}).ok,false,'單題配分上限10，拒絕偽造配分');
+const goodWeighted={...summary,id:'weighted-valid-0002',total:25,right:24,score:94,weights:[...Array(5).fill(2),...Array(10).fill(3),...Array(10).fill(6)],outcomes:[...Array(24).fill(true),false]};
+assert.equal(post({...payload,requestId:'request-weighted-good',events:[goodWeighted]}).ok,true);
+for(const bad of [{score:96},{right:25},{weights:Array(25).fill(3)},{outcomes:[true]}])assert.equal(post({...payload,requestId:'request-weighted-bad',events:[{...goodWeighted,...bad,id:'weighted-bad-'+Math.random().toString().slice(2)}]}).ok,false);
+console.log('加權實得分、作答題數、配分總和及不合法配分檢查通過。');

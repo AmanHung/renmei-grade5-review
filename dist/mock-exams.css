@@ -6,3 +6,5 @@
 
 .exam-nav-return{display:inline-block;font-size:14px;margin-left:12px}.mock-question,.mock-article,.exam-navigator{scroll-margin-top:130px}
 .mock-question .article-return{float:none;display:block;margin:0 0 12px;position:static}.mock-question .mock-q-head{align-items:flex-start}.mock-question .mock-q-head span:first-child{max-width:80%}
+
+.exam-card-sections{font-size:15px;line-height:1.9;padding-left:20px}.exam-section-heading{background:#e9efdf;padding:22px 26px;border-radius:16px;scroll-margin-top:125px}.exam-section-heading h2{font-size:25px;margin:0}.exam-section-heading p{line-height:1.8;margin:8px 0 0}.exam-section{margin-top:35px;scroll-margin-top:125px}.exam-section-links{display:flex;flex-wrap:wrap;gap:10px;margin:20px 0}.exam-section-links a{background:#e9efdf;padding:10px 14px;border-radius:10px;text-decoration:none;min-height:44px}.mock-question .boolean-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.mock-question .boolean-options .option{justify-content:center;font-size:23px;font-weight:700;min-height:65px}.exam-unit-breakdown{margin:16px 0}.exam-unit-breakdown summary{cursor:pointer;padding:10px 0}
