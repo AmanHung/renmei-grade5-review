@@ -22,7 +22,7 @@ function renderReadingSet(){
    if(!ready())return;
    const elapsed=(Date.now()-quiz.questionStartedAt)/1000;
    quiz.checked=true;
-   group.forEach(q=>{const selected=draft[q.id],right=E.correct(q,selected);quiz.results.push({id:q.id,correct:right});Learner.log({kind:'answer',sessionId:quiz.sessionId,subject:u.subject,unitName:u.name,questionId:q.id,questionType:q.type,question:q.passageTitle+'\n'+q.passage+'\n'+q.text,selected:selectionText(q,selected),expected:selectionText(q,q.answer),correct:right,elapsedSeconds:elapsed/group.length});if(!right&&!saved.mistakes.includes(q.id))saved.mistakes.push(q.id);if(right)saved.mistakes=saved.mistakes.filter(id=>id!==q.id);});
+   group.forEach(q=>{const selected=draft[q.id],right=E.correct(q,selected);quiz.results.push({id:q.id,correct:right});Learner.log({kind:'answer',sessionId:quiz.sessionId,subject:u.subject,unitName:gradeLabel(u.grade)+'｜'+u.name,grade:u.grade,questionId:q.id,questionType:q.type,question:q.passageTitle+'\n'+q.passage+'\n'+q.text,selected:selectionText(q,selected),expected:selectionText(q,q.answer),correct:right,elapsedSeconds:elapsed/group.length});if(!right&&!saved.mistakes.includes(q.id))saved.mistakes.push(q.id);if(right)saved.mistakes=saved.mistakes.filter(id=>id!==q.id);});
    persist();updateCount();renderReadingSet();
    document.querySelector('#reading-questions').scrollIntoView({behavior:'instant',block:'start'});
   }else if(quiz.index+group.length===quiz.questions.length)finish();
