@@ -3,3 +3,6 @@ node_modules/
 *.tar.gz
 .env*
 *.log
+
+research/
+qa/

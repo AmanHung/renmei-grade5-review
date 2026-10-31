@@ -24,7 +24,7 @@ function normalizeEvent_(e) {
   if(typeof e.learner!=='string'||!e.learner.trim()||e.learner.length>20)throw new Error('請輸入有效暱稱');
   if(['answer','session'].indexOf(e.kind)<0)throw new Error('紀錄種類不支援');
   if(!Number.isFinite(Number(e.elapsedSeconds))||Number(e.elapsedSeconds)<0)throw new Error('作答時間格式錯誤');
-  if(e.kind==='answer'&&(!/^u[0-3]-t\d{2}-(a|b|tf|multi|match)$/.test(String(e.questionId||''))||['single','boolean','multiple','matching'].indexOf(e.questionType)<0||typeof e.correct!=='boolean'))throw new Error('題目資料格式錯誤');
+  if(e.kind==='answer'&&(!/^u\d{1,2}-t\d{2}-(a|b|tf|multi|match|r[1-5]|n[1-5])$/.test(String(e.questionId||''))||['single','boolean','multiple','matching','numeric'].indexOf(e.questionType)<0||typeof e.correct!=='boolean'))throw new Error('題目資料格式錯誤');
   if(e.kind==='session'&&(!Number.isInteger(e.total)||e.total<1||e.total>100||!Number.isInteger(e.right)||e.right<0||e.right>e.total||e.score!==Math.round(e.right/e.total*100)))throw new Error('成績格式錯誤');
   return e;
 }

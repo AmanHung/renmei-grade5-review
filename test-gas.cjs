@@ -17,3 +17,7 @@ const summary={...event,id:'event-summary-001',kind:'session',right:9,total:10,s
 const invalidSummary={...summary,id:'event-invalid-002',score:100};assert.equal(post({...payload,requestId:'request-invalid-2',events:[invalidSummary]}).ok,false);assert.equal(logs.length,2);
 const jsonp=context.doGet({parameter:{action:'receipt',id:payload.requestId,callback:'studyReceipt_123_1'}}).text;assert.ok(jsonp.startsWith('studyReceipt_123_1('));
 assert.equal(held,false);console.log('GAS 檢查通過：逐題紀錄、成績、去重、回執、無公開姓名、資料驗證與公式防護。');
+
+for(const [questionId,questionType,subject] of [['u4-t01-r1','single','國語'],['u7-t20-r5','single','英語'],['u12-t20-n5','numeric','數學']]){const e={...event,id:'event-new-'+questionId,questionId,questionType,subject,selected:['２０'],expected:['20'],correct:true};assert.equal(post({...payload,requestId:'request-new-'+questionId,events:[e]}).ok,true);assert.equal(logs.at(-1)[4],subject);assert.equal(logs.at(-1)[7],questionType);assert.equal(logs.at(-1)[9],'["２０"]');}
+assert.equal(post({...payload,events:[{...event,questionId:'u12-t20-x5',id:'event-badtype-001'}]}).ok,false);
+console.log('新增國語、英語、數學題號與數字填答紀錄通過。');
