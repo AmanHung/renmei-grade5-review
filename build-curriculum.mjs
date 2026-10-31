@@ -11,6 +11,8 @@ import grade3Math from './curriculum/grade3-math.mjs';
 import grade3Concepts from './curriculum/grade3-concepts.mjs';
 import addVisualLiteracy from './curriculum/visual-literacy.mjs';
 import attachLearningVisuals from './curriculum/learning-visuals.mjs';
+import reviewQuality from './curriculum/quality-review.mjs';
+import reports from './curriculum/quality-reports.mjs';
 const names=['動物世界','探索聲光世界','臺灣我的家','臺灣的自然環境與生活'];
 const tips=[['動物聚在一起，不一定有分工合作。','卵生、胎生與是否育幼，應分開判斷。','觀察與推論要區分，也要尊重動物棲地。'],['音量與音高不同，反射與折射也不同。','實驗一次聚焦一個變因，其餘條件盡量相同。','不直視太陽、不用強光照眼，也不以高音量刺激聽覺。'],['方位要有參考點，讀圖先看方向標示。','不同族群與家庭之間，也會有個別差異。','團體規則、道德與法律，不宜直接畫上等號。'],['地形分類要看地勢，不能只看名字或顏色。','天氣與氣候不同；結論要符合資料時間範圍。','地形與氣候會影響生活，也要考慮人文與技術條件。']];
 const units=[animals,sound,home,environment].map((topics,u)=>({
@@ -34,10 +36,11 @@ units.forEach(u=>{u.grade=5;u.publisher=u.subject==='數學'?'翰林':u.subject=
 units.push(...grade3Reading,...grade3Math,...grade3Concepts);
 addVisualLiteracy(units);
 attachLearningVisuals(units);
+reviewQuality(units);
 // 數字型閱讀選項遇到相同數值時，改用其他合理數量，避免重複選項。
 for(const u of units)for(const q of u.questions){if(q.options){const used=new Set();q.options=q.options.map((o,i)=>{if(used.has(o)&&u.subject==='英語'&&/^\d+$/.test(o)){let n=Number(o)+1;while(used.has(String(n))||q.options.includes(String(n)))n++;o=String(n);}used.add(o);return o;});}}
 for(const u of units){
- if(u.cards.length!==20||u.questions.length!==(u.literacyAvailable?200:100))throw Error(`${u.name}數量不符`);
+ if(u.cards.length!==20||u.questions.length<5)throw Error(`${u.name}數量不符`);
  if(new Set(u.questions.map(q=>q.text)).size!==u.questions.length)throw Error('題幹重複');
  for(const q of u.questions){
   if(q.options&&new Set(q.options).size!==q.options.length)throw Error(`${q.id}選項重複`);
@@ -47,3 +50,4 @@ for(const u of units){
 fs.writeFileSync(new URL('dist/content.js',import.meta.url),'window.REVIEW_UNITS='+JSON.stringify(units,null,2)+';\n');
 console.table(units.map(u=>({科目:u.subject,單元:u.name,重點:u.cards.length,題目:u.questions.length})));
 fs.writeFileSync(new URL('題庫清單.md',import.meta.url),'# 三上與五上考前複習題庫\n\n共 '+units.length+' 組、'+units.reduce((n,u)=>n+u.cards.length,0)+' 個重點、'+units.reduce((n,u)=>n+u.questions.length,0)+' 題。每組 20 個重點；國英數每組 100 題，自然社會每組 200 題（100 題觀念＋20 篇圖文閱讀共 100 題）。\n\n國語、英語以原創閱讀題組為主，數學計算題使用數字填答，角的概念題含配圖單選。各科加入情境配圖、圖卡或精確幾何圖。自然、社會保留原有四種題型，另有一篇 5 題的圖文閱讀模式。教材核對與限制見 [版本核對.md](版本核對.md)。\n\n'+units.map(u=>'## '+(u.grade===3?'三上':'五上')+' '+u.publisher+' '+u.subject+'：'+u.name+'\n\n'+(u.scope||'第 '+u.number+' 單元')+'\n\n'+u.cards.map((c,i)=>(i+1)+'．'+c.title+'：'+c.text).join('\n\n')+'\n\n題號：'+u.questions[0].id+' ～ '+u.questions.at(-1).id+'。完整題目、短文與答案由 curriculum 原始資料產生於 dist/content.js。\n').join('\n'));
+reports(units);

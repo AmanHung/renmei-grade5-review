@@ -12,22 +12,10 @@
     const previous=shuffle(groups.filter(g=>g.some(q=>last.has(q.id))),rng);
     return [...fresh,...old,...previous].slice(0,count/size).flat();
    }
-   const types=[...new Set(bank.map(q=>q.type))];
-   const quotas=types.map(type=>({type,exact:count*bank.filter(q=>q.type===type).length/bank.length}));
-   quotas.forEach(q=>q.n=Math.floor(q.exact));
-   let remaining=count-quotas.reduce((s,q)=>s+q.n,0);
-   [...quotas].sort((a,b)=>(b.exact-b.n)-(a.exact-a.n)).slice(0,remaining).forEach(q=>q.n++);
-   const picked=[];
-   types.forEach(type=>{
-    const pool=bank.filter(q=>q.type===type),n=quotas.find(q=>q.type===type).n;
-    const unseen=shuffle(pool.filter(q=>!seen.has(q.id)&&!last.has(q.id)),rng);
-    const old=shuffle(pool.filter(q=>seen.has(q.id)&&!last.has(q.id)),rng);
-    const previous=shuffle(pool.filter(q=>last.has(q.id)),rng);
-    picked.push(...[...unseen,...old,...previous].slice(0,n));
-   });
-   const ids=new Set(picked.map(q=>q.id));
-   if(picked.length<count)picked.push(...shuffle(bank.filter(q=>!ids.has(q.id)),rng).slice(0,count-picked.length));
-   return shuffle(picked.slice(0,count),rng);
+   const fresh=shuffle(bank.filter(q=>!seen.has(q.id)&&!last.has(q.id)),rng),old=shuffle(bank.filter(q=>seen.has(q.id)&&!last.has(q.id)),rng),previous=shuffle(bank.filter(q=>last.has(q.id)),rng),picked=[],ids=new Set(),families=new Set();
+   const choose=(pool,limits=true)=>{for(const q of pool){if(picked.length===count)break;if(ids.has(q.id))continue;const family=q.family||q.id;if(limits&&(families.has(family)||q.difficulty==='basic'&&picked.filter(x=>x.difficulty==='basic').length>=Math.max(1,Math.floor(count*.2))))continue;picked.push(q);ids.add(q.id);families.add(family);}};
+   choose(fresh);choose(old);choose([...fresh,...old],false);choose(previous);choose(previous,false);
+   return shuffle(picked,rng);
  }
  function prepare(q,rng=Math.random){
   if(q.type==='numeric')return {...q};
@@ -46,6 +34,7 @@
  function readingGroups(bank){const groups=new Map();for(const q of bank){const key=q.passageId||q.id;if(!groups.has(key))groups.set(key,[]);groups.get(key).push(q);}return [...groups.values()].map(g=>g.sort((a,b)=>(a.readingOrder||0)-(b.readingOrder||0)));}
  function quizOrder(questions,bank=questions,review=false,rng=Math.random){const ordered=[],added=new Set();for(const q of shuffle(questions,rng)){if(added.has(q.passageId||q.id))continue;const group=q.passageId?(review?bank:questions).filter(x=>x.passageId===q.passageId).sort((a,b)=>a.readingOrder-b.readingOrder):[q];if(review&&ordered.length+group.length>20)continue;ordered.push(...group);added.add(q.passageId||q.id);}return ordered;}
  function practiceBank(unit,mode){return unit.literacyAvailable?unit.questions.filter(q=>mode==='reading'?!!q.passageId:!q.passageId):unit.questions;}
- const api={shuffle,sample,prepare,ready,correct,numeric,readingGroups,quizOrder,practiceBank};
+ function practiceCounts(bank){const cap=Math.floor(bank.length/2);return [5,10,20,40].filter(n=>n<=cap&&(!bank[0]?.passageId||n%5===0));}
+ const api={shuffle,sample,prepare,ready,correct,numeric,readingGroups,quizOrder,practiceBank,practiceCounts};
  if(typeof module!=='undefined'&&module.exports)module.exports=api;else root.ReviewEngine=api;
 })(globalThis);
