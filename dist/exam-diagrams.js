@@ -77,7 +77,7 @@
   if(v.kind==='examStrips')return strips(v);
   if(v.kind==='examReceipt')return receipt(v);
   if(v.kind==='examNotes')return notePair(v);
-  if(v.kind==='examRods')return {box:'0 0 650 360',body:v.sets.map((set,i)=>`<g transform="translate(${i%2*320} ${Math.floor(i/2)*175})">${text(30,40,['甲','乙','丙','丁'][i],24)}${set.map((n,j)=>line([85,35+j*42],[85+n*11,35+j*42])+text(245,42+j*42,n+' cm',19)).join('')}</g>`).join(''),alt:v.sets.map((s,i)=>['甲','乙','丙','丁'][i]+'：'+s.join('、')+'公分').join('；')};
+  if(v.kind==='examRods')return {box:'0 0 650 '+(Math.ceil(v.sets.length/2)*175+10),body:v.sets.map((set,i)=>`<g transform="translate(${i%2*320} ${Math.floor(i/2)*175})">${text(30,40,['甲','乙','丙','丁'][i],24)}${set.map((n,j)=>line([85,35+j*42],[85+n*9,35+j*42])+text(270,42+j*42,n+' cm',19)).join('')}</g>`).join(''),alt:v.sets.map((s,i)=>['甲','乙','丙','丁'][i]+'：'+s.join('、')+'公分').join('；')};
   return null;
  }
  window.ExamDiagrams={draw,compound,parallelogram};

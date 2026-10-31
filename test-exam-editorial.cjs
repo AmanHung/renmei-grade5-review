@@ -1,12 +1,12 @@
 const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
 const c={window:{},document:{addEventListener(){}}};vm.createContext(c);
-for(const f of ['content','mock-content','reasoning-visuals','exam-diagrams','learning-visuals'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
+for(const f of ['content','mock-content','reasoning-visuals','exam-diagrams','exam-b-diagrams','learning-visuals'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
 const W=c.window,all=W.REVIEW_UNITS.flatMap(u=>u.questions).concat(W.REVIEW_EXAM_ITEMS),byId=new Map(all.map(q=>[q.id,q]));
 assert.equal(byId.size,all.length,'新題號不可與舊題或其他科重複');
 let revised=0,groups=0;
 for(const p of W.REVIEW_EXAMS){
  const qs=p.entries.map(e=>byId.get(e.questionId));assert.ok(qs.every(Boolean));
- if(!['自然','社會'].includes(p.subject))continue;
+ if(p.variant==='B'||!['自然','社會'].includes(p.subject))continue;
  assert.ok(qs.every(q=>q.reviewVersion===10),'四份考卷必須整份換入已複核內容');
  for(const q of qs){assert.match(q.id,/^u\d{1,2}-t\d{2}-(?:a|tf|r[1-5])$/);assert.ok(q.sourceIds?.length);assert.equal(new Set(q.options).size,q.options.length);revised++;}
  const articles=new Map();for(const q of qs.filter(q=>q.passageId)){if(!articles.has(q.passageId))articles.set(q.passageId,[]);articles.get(q.passageId).push(q);}

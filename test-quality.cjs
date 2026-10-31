@@ -1,5 +1,5 @@
 const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict'),E=require('./dist/engine.js');
-const box={window:{},document:{addEventListener(){}}};for(const f of ['content.js','reasoning-visuals.js','exam-diagrams.js','learning-visuals.js'])vm.runInNewContext(fs.readFileSync('dist/'+f,'utf8'),box);const units=JSON.parse(JSON.stringify(box.window.REVIEW_UNITS)),V=box.window.LearningVisuals;
+const box={window:{},document:{addEventListener(){}}};for(const f of ['content.js','reasoning-visuals.js','exam-diagrams.js','exam-b-diagrams.js','learning-visuals.js'])vm.runInNewContext(fs.readFileSync('dist/'+f,'utf8'),box);const units=JSON.parse(JSON.stringify(box.window.REVIEW_UNITS)),V=box.window.LearningVisuals;
 function validate(){assert.equal(units.length,26);let checked=0,draws=0;const all=units.flatMap(u=>u.questions);assert.equal(new Set(all.map(q=>q.id)).size,all.length);
 for(const u of units){assert.equal(u.cards.length,20);assert.ok(u.questions.length>=10);assert.equal(new Set(u.questions.map(q=>q.text)).size,u.questions.length);assert.ok(u.sources.length>0);
  for(const q of u.questions){assert.equal(q.unit,u.id);assert.ok(q.explanation.length>10,q.id);assert.match(q.id,/^u\d{1,2}-t\d{2}-(a|b|tf|multi|match|r[1-5]|n[1-5])$/);assert.ok(q.sourceIds.length);if(q.options)assert.equal(new Set(q.options).size,q.options.length,q.id);

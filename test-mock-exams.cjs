@@ -2,7 +2,7 @@ const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/st
 const E=require('./dist/engine.js'),M=require('./dist/mock-engine.js');
 const context={window:{}};vm.createContext(context);for(const file of ['content','mock-content'])vm.runInContext(fs.readFileSync(`dist/${file}.js`,'utf8'),context);
 const units=context.window.REVIEW_UNITS,papers=context.window.REVIEW_EXAMS,bank=units.flatMap(u=>u.questions).concat(context.window.REVIEW_EXAM_ITEMS);
-assert.equal(papers.length,10);assert.equal(new Set(papers.map(p=>p.id)).size,10);
+assert.equal(papers.length,20);assert.equal(new Set(papers.map(p=>p.id)).size,20);
 let number=0;
 for(const p of papers){
  assert.equal(p.count,p.subject==='數學'?25:['自然','社會'].includes(p.subject)?40:30);

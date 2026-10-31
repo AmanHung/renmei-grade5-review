@@ -1,7 +1,7 @@
 const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
 const ctx={window:{},document:{addEventListener(){}}};
 vm.createContext(ctx);
-for(const f of ['content','mock-content','reasoning-visuals','exam-diagrams','learning-visuals'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),ctx);
+for(const f of ['content','mock-content','reasoning-visuals','exam-diagrams','exam-b-diagrams','learning-visuals'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),ctx);
 const W=ctx.window,D=W.ExamDiagrams,bank=W.REVIEW_UNITS.flatMap(u=>u.questions).concat(W.REVIEW_EXAM_ITEMS);
 const byId=id=>bank.find(q=>q.id===id);
 const degrees=(p,a,b)=>{const u=a.map((n,i)=>n-p[i]),v=b.map((n,i)=>n-p[i]);return Math.acos(Math.max(-1,Math.min(1,(u[0]*v[0]+u[1]*v[1])/Math.hypot(...u)/Math.hypot(...v))))*180/Math.PI;};
