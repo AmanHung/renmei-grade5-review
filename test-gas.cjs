@@ -23,3 +23,5 @@ assert.equal(post({...payload,events:[{...event,questionId:'u12-t20-x5',id:'even
 console.log('新增國語、英語、數學題號與數字填答紀錄通過。');
 
 const grade3={...event,id:'event-grade3-0001',grade:3,subject:'數學',unitName:'三上｜毫米',questionId:'u19-t20-n5',questionType:'numeric',correct:true,selected:['12'],expected:['12']};assert.equal(post({...payload,requestId:'request-grade3-01',events:[grade3]}).ok,true);assert.equal(logs.at(-1)[5],'三上｜毫米');const grade3Social={...grade3,id:'event-grade3-0002',subject:'社會',unitName:'三上｜校園規範和班級自治',questionId:'u25-t20-match',questionType:'matching'};assert.equal(post({...payload,requestId:'request-grade3-02',events:[grade3Social]}).ok,true);console.log('三上題號及年級單元標記寫入通過。');
+
+for(const [questionId,subject,grade] of [['u0-t40-r5','自然',5],['u25-t40-r5','社會',3]]){assert.equal(post({...payload,requestId:'visual-'+questionId,events:[{...event,id:'event-visual-'+questionId,questionId,subject,grade,question:'圖文閱讀與圖卡資料',questionType:'single'}]}).ok,true);}console.log('新增自然社會圖文閱讀題號寫入通過。');

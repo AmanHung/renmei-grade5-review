@@ -25,6 +25,7 @@ jobs:
       - run: node test-gas.cjs
       - run: node test-reading.cjs
       - run: node test-grades.cjs
+      - run: node test-visuals.cjs
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:
