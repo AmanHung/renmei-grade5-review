@@ -3,7 +3,7 @@ let activeGrade=5;
 function gradeLabel(grade){return Number(grade)===3?'三上':'五上';}
 function loadGrade(initial=false){try{const parameter=new URL(location.href).searchParams.get('grade'),stored=localStorage.getItem(Learner.key()+':grade');if(initial&&['3','5'].includes(parameter))activeGrade=Number(parameter);else if(['3','5'].includes(stored))activeGrade=Number(stored);}catch{}}
 function selectedUnits(){return units.filter(u=>u.grade===activeGrade);}
-function gradeMistakeCount(){const ids=new Set(selectedUnits().flatMap(u=>u.questions.map(q=>q.id)));return saved.mistakes.filter(id=>ids.has(id)).length;}
+function gradeMistakeCount(){const ids=new Set([...selectedUnits().flatMap(u=>u.questions.map(q=>q.id)),...(typeof window!=='undefined'?window.REVIEW_EXAM_ITEMS||[]:[]).filter(q=>units[q.unit].grade===activeGrade).map(q=>q.id)]);return saved.mistakes.filter(id=>ids.has(id)).length;}
 function gradeOfRecord(e){return Number(e.grade)===3||String(e.unitName||'').startsWith('三上｜')?3:5;}
 function examScope(){return activeGrade===3?'期中考：11/5（四）、11/6（五）。<br>國語第 1 課～統整活動二；數學第 1 單元～統整與應用一；社會第 1～2 單元；英文 Unit 1、Unit 2、Review 1；自然 Unit 1、Unit 2。':'11/5：國語第 1～6 課、學習地圖一、二；自然第 1～2 單元；英語 Get Ready、Unit 1～2、Review 1。<br>11/6：數學第 1～5 單元、學習加油讚（一）；社會第 1～2 單元。';}
 function renderGradePicker(){

@@ -51,3 +51,5 @@ fs.writeFileSync(new URL('dist/content.js',import.meta.url),'window.REVIEW_UNITS
 console.table(units.map(u=>({科目:u.subject,單元:u.name,重點:u.cards.length,題目:u.questions.length})));
 fs.writeFileSync(new URL('題庫清單.md',import.meta.url),'# 三上與五上考前複習題庫\n\n共 '+units.length+' 組、'+units.reduce((n,u)=>n+u.cards.length,0)+' 個重點、'+units.reduce((n,u)=>n+u.questions.length,0)+' 題。每組 20 個重點；國英數每組 100 題，自然社會每組 200 題（100 題觀念＋20 篇圖文閱讀共 100 題）。\n\n國語、英語以原創閱讀題組為主，數學計算題使用數字填答，角的概念題含配圖單選。各科加入情境配圖、圖卡或精確幾何圖。自然、社會保留原有四種題型，另有一篇 5 題的圖文閱讀模式。教材核對與限制見 [版本核對.md](版本核對.md)。\n\n'+units.map(u=>'## '+(u.grade===3?'三上':'五上')+' '+u.publisher+' '+u.subject+'：'+u.name+'\n\n'+(u.scope||'第 '+u.number+' 單元')+'\n\n'+u.cards.map((c,i)=>(i+1)+'．'+c.title+'：'+c.text).join('\n\n')+'\n\n題號：'+u.questions[0].id+' ～ '+u.questions.at(-1).id+'。完整題目、短文與答案由 curriculum 原始資料產生於 dist/content.js。\n').join('\n'));
 reports(units);
+const {default:writeMockExams}=await import('./curriculum/mock-exams.mjs');
+writeMockExams(units);
