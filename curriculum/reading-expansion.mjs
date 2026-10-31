@@ -50,6 +50,11 @@ const scenes=[
 ['a garden party','Their class is having a small party near the school garden. They will share the food with friends. A clear plan will help them get ready on time.'],
 ['a school show','The children are getting ready for a school show. They will have a break before it begins. They are helping their class prepare something for that break.']
 ];
+const factDistractors={4:[
+['販售手工餅乾','收取活動入場費','舉辦付費跑步比賽'],['只靠記憶記住總數','依活動照片估算','活動結束才猜收入'],['裝飾華麗的禮盒','昂貴的透明盒','印滿花紋的布袋'],['所有孩子都不再生病','每個家庭都收到援助','不再需要追蹤使用情形'],['第一次看見新聞的經過','邀請同學時被拒絕','第一次修改海報的過程'],['山峰與湖泊','公園與校園','港口與市集'],['所有屋頂都沒有植物','只有路邊種著植物','屋頂上都是太陽能板'],['展場導覽員','合作的公益團體','設計招牌的店主'],['五天','五個月','十年'],['作者的喜好與評分','受訪學生的年級','所有河段的水質數據'],['立刻往上衝','先決定成功後怎麼慶祝','沒有檢查就模仿別人的動作'],['遠行的旅人','急忙送信的郵差','舞臺上的表演者'],['窗簾','屋頂','岩壁'],['一分鐘','一整天','十天'],['山頂商店的購物清單','手機遊戲裡的地圖','展覽的導覽手冊'],['月光映著海面','太陽躲在雲後','山頂蓋滿白雪'],['兩人的年齡','兩人衣服的顏色','兩人走路的速度'],['整個村落的分布','河口周圍的地形','整條河流的長度'],['動畫發展的時間線','郊遊的步道路線','麵包店的新標誌'],['作者沒有交代的想法','其他地方的活動成效','讀者自己創作的結局']
+],5:[
+['桌上的花瓶','窗外的海面','地上的玩具'],['前景的紅花','中景的小橋','畫框上的花紋'],['清晨時分','正午時分','半夜時分'],['完全平整光滑','缺了一大塊','鑲上金色的邊'],['畫作的售價','作者的簽名','相框的大小'],['視覺','聽覺','觸覺'],['打開的書本','一片葉子','明亮的星星'],['只比較招牌的綠色','只看兩家店相隔多遠','只詢問店員年齡'],['山形','小鳥','紅花'],['學校縮寫與星星','第一版的所有小圖案','沒有任何文字的圓框'],['創辦人的故事','產品的價格','聽眾的個人意見'],['遊戲角','辦公室','洗手間'],['一朵花','一個人','一輛車'],['種下種子','澆水','果實成熟'],['先依喜好排列','先刪掉較早的事件','先挑選最漂亮的圖片'],['小人完全不動','小人自然地慢慢移動','小人的顏色改變'],['一夜','幾秒','一小時'],['小青','小德','老師'],['故事的前後順序','聲音的細微變化','人物動作的線索'],['我看到的','我推想的','已確認的年份']
+]};
 export default function expandReading(units){
  for(const u of units){
   u.readingSetSize=5;
@@ -57,6 +62,7 @@ export default function expandReading(units){
    q.passageId=`u${u.id}-p${String(q.topic+1).padStart(2,'0')}`;
    q.readingOrder=Number(q.id.at(-1));
    if(u.subject==='國語'){
+    if(q.readingOrder===1)q.options=[q.options[0],...factDistractors[u.id][q.topic]];
     q.passage=q.passage+'\n\n'+(u.id===4?dream:art)[q.topic];
     q.readingSkill=['提取訊息','理解原因','推論判斷','詞語理解','統整主旨'][q.readingOrder-1];
     if(q.readingOrder===1)q.explanation=`本題答案是「${q.options[0]}」。這題要找文章直接交代的訊息，請核對人物的行動及敘述，不要把其他段落的資訊當成答案。`;
