@@ -23,6 +23,7 @@ jobs:
           node-version: '22'
       - run: node prepare.mjs
       - run: node test-v12.cjs
+      - run: node test-all-subject-visuals.cjs
       - run: node validate.cjs
       - run: node test-gas.cjs
       - run: node test-reading.cjs

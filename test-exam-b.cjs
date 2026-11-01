@@ -3,9 +3,9 @@ const c={window:{},document:{addEventListener(){}}};vm.createContext(c);
 for(const f of ['content','mock-content','exam-diagrams','exam-b-diagrams','reasoning-visuals','learning-visuals'])vm.runInContext(fs.readFileSync('dist/'+f+'.js','utf8'),c);
 const W=c.window,bank=W.REVIEW_UNITS.flatMap(u=>u.questions).concat(W.REVIEW_EXAM_ITEMS),byId=new Map(bank.map(q=>[q.id,q]));
 assert.equal(byId.size,bank.length);assert.equal(W.REVIEW_EXAMS.length,20);
-// 新增 B 卷不得使原有 A 卷的草稿簽章失效。
-const oldA={'g3-chinese-a':'90a939c549602ee19104','g5-chinese-a':'3f6f55edefc47950fb56','g3-english-a':'85f81bdc49179840bade','g5-english-a':'89c4b52f7501e1ed30a0','g5-science-a':'c269e58813582bfe2ec6','g5-social-a':'ac094c67f7bf5f361389','g3-science-a':'ad1b2594c59ed15a916b','g3-social-a':'a5574769ebf05d6d4223','g3-math-a':'a57755937797270622fc','g5-math-a':'030ead70a1cdf79f00a0'};
-for(const p of W.REVIEW_EXAMS.filter(p=>p.variant==='A'&&p.subject!=='數學'))assert.equal(p.signature,oldA[p.id],p.id+' 不應隨新增B卷改變');
+// 配圖或範圍變更必須使簽章反映最新題目，避免沿用舊草稿。
+const {createHash}=require('node:crypto');
+for(const p of W.REVIEW_EXAMS)assert.equal(p.signature,createHash('sha256').update(JSON.stringify({entries:p.entries,questions:p.entries.map(e=>byId.get(e.questionId))})).digest('hex').slice(0,20),p.id+' 簽章應反映本次完整內容');
 let count=0,reading=0,figures=0;
 for(const b of W.REVIEW_EXAMS.filter(p=>p.variant==='B')){
  const a=W.REVIEW_EXAMS.find(p=>p.id===b.id.replace(/-b$/,'-a')),aq=a.entries.map(e=>byId.get(e.questionId)),aIds=new Set(aq.map(q=>q.id)),aTexts=new Set(aq.map(q=>q.text));

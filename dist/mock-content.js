@@ -7,7 +7,7 @@ window.REVIEW_EXAMS=[
     "publisher": "翰林",
     "scope": "第 1 課～統整活動二（第 1～6 課）",
     "minutes": 45,
-    "signature": "90a939c549602ee19104",
+    "signature": "41c9113a173c938f8a5f",
     "total": 100,
     "entries": [
       {
@@ -370,7 +370,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒",
     "scope": "第 1～6 課、學習地圖一、二",
     "minutes": 45,
-    "signature": "3f6f55edefc47950fb56",
+    "signature": "b973cf1e0ab27f3e51bc",
     "total": 100,
     "entries": [
       {
@@ -1096,7 +1096,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒 Wonder World 5",
     "scope": "Get Ready、Unit 1、Unit 2、Review 1",
     "minutes": 40,
-    "signature": "89c4b52f7501e1ed30a0",
+    "signature": "dfdd38e56c118f028413",
     "total": 100,
     "entries": [
       {
@@ -1459,7 +1459,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒",
     "scope": "第 1～2 單元",
     "minutes": 40,
-    "signature": "c269e58813582bfe2ec6",
+    "signature": "f2edd03399247e8f20c1",
     "total": 100,
     "entries": [
       {
@@ -1922,7 +1922,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒",
     "scope": "第 1～2 單元",
     "minutes": 40,
-    "signature": "ac094c67f7bf5f361389",
+    "signature": "24a3be64ae1ad0252971",
     "total": 100,
     "entries": [
       {
@@ -2385,7 +2385,7 @@ window.REVIEW_EXAMS=[
     "publisher": "南一",
     "scope": "第 1～2 單元",
     "minutes": 40,
-    "signature": "ad1b2594c59ed15a916b",
+    "signature": "4d9953d9649b499ba3e4",
     "total": 100,
     "entries": [
       {
@@ -2848,7 +2848,7 @@ window.REVIEW_EXAMS=[
     "publisher": "翰林",
     "scope": "第 1～2 單元",
     "minutes": 40,
-    "signature": "a5574769ebf05d6d4223",
+    "signature": "9f1bda8c3e5a12efeba2",
     "total": 100,
     "entries": [
       {
@@ -3967,7 +3967,7 @@ window.REVIEW_EXAMS=[
     "publisher": "翰林",
     "scope": "第 1 課～統整活動二（第 1～6 課）",
     "minutes": 55,
-    "signature": "035cd853edfe18e33220",
+    "signature": "9d817ef58067cd80472d",
     "total": 100,
     "entries": [
       {
@@ -4331,7 +4331,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒",
     "scope": "第 1～6 課、學習地圖一、二",
     "minutes": 55,
-    "signature": "494c83e08109cb657e0b",
+    "signature": "d2def1188fc6ea5f5a2f",
     "total": 100,
     "entries": [
       {
@@ -5059,7 +5059,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒 Wonder World 5",
     "scope": "Get Ready、Unit 1、Unit 2、Review 1",
     "minutes": 50,
-    "signature": "0841812095156d16ef92",
+    "signature": "da6dd2d184daf0b3c19b",
     "total": 100,
     "entries": [
       {
@@ -5423,7 +5423,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒",
     "scope": "第 1～2 單元",
     "minutes": 55,
-    "signature": "6037e293b98b50f22455",
+    "signature": "58ce67d2bfc1f34319dc",
     "total": 100,
     "entries": [
       {
@@ -5887,7 +5887,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒",
     "scope": "第 1～2 單元",
     "minutes": 55,
-    "signature": "b0f70de71021d80aecb2",
+    "signature": "7fc451152d67ac1174c4",
     "total": 100,
     "entries": [
       {
@@ -6351,7 +6351,7 @@ window.REVIEW_EXAMS=[
     "publisher": "南一",
     "scope": "第 1～2 單元",
     "minutes": 55,
-    "signature": "30fb20219cf56f52b6d0",
+    "signature": "fc34e94e8c4ac830c4a5",
     "total": 100,
     "entries": [
       {
@@ -6815,7 +6815,7 @@ window.REVIEW_EXAMS=[
     "publisher": "翰林",
     "scope": "第 1～2 單元",
     "minutes": 55,
-    "signature": "fa74cf621b892ae57404",
+    "signature": "6f1ed74aa6a0c6d2b4f4",
     "total": 100,
     "entries": [
       {
@@ -8041,16 +8041,16 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "examReceipt",
+      "kind": "subjectScene",
       "caption": "閱讀資料卡",
-      "description": "請把資料卡與文章的前後情況一起對照。",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
       "items": [
         "找作業本：10 分鐘",
         "等待晚餐：15 分鐘",
         "整理常用物品",
         "等待時讀幾頁書"
       ],
-      "examLineArt": true,
+      "examLineArt": false,
       "heading": "題目資料",
       "rows": [
         [
@@ -8069,7 +8069,13 @@ window.REVIEW_EXAM_ITEMS=[
           "4",
           "等待時讀幾頁書"
         ]
-      ]
+      ],
+      "mode": "schedule"
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "schedule"
     }
   },
   {
@@ -8098,16 +8104,16 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "examReceipt",
+      "kind": "subjectScene",
       "caption": "閱讀資料卡",
-      "description": "請把資料卡與文章的前後情況一起對照。",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
       "items": [
         "找作業本：10 分鐘",
         "等待晚餐：15 分鐘",
         "整理常用物品",
         "等待時讀幾頁書"
       ],
-      "examLineArt": true,
+      "examLineArt": false,
       "heading": "題目資料",
       "rows": [
         [
@@ -8126,7 +8132,13 @@ window.REVIEW_EXAM_ITEMS=[
           "4",
           "等待時讀幾頁書"
         ]
-      ]
+      ],
+      "mode": "schedule"
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "schedule"
     }
   },
   {
@@ -8155,16 +8167,16 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "examReceipt",
+      "kind": "subjectScene",
       "caption": "閱讀資料卡",
-      "description": "請把資料卡與文章的前後情況一起對照。",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
       "items": [
         "找作業本：10 分鐘",
         "等待晚餐：15 分鐘",
         "整理常用物品",
         "等待時讀幾頁書"
       ],
-      "examLineArt": true,
+      "examLineArt": false,
       "heading": "題目資料",
       "rows": [
         [
@@ -8183,7 +8195,13 @@ window.REVIEW_EXAM_ITEMS=[
           "4",
           "等待時讀幾頁書"
         ]
-      ]
+      ],
+      "mode": "schedule"
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "schedule"
     }
   },
   {
@@ -8212,7 +8230,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "examNotes",
+      "kind": "subjectScene",
       "caption": "兩張便條的比較",
       "notes": [
         [
@@ -8224,7 +8242,14 @@ window.REVIEW_EXAM_ITEMS=[
           "和第三組一起畫海報"
         ]
       ],
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "schoolbag",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "schoolbag"
     }
   },
   {
@@ -8253,7 +8278,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "examNotes",
+      "kind": "subjectScene",
       "caption": "兩張便條的比較",
       "notes": [
         [
@@ -8265,7 +8290,14 @@ window.REVIEW_EXAM_ITEMS=[
           "和第三組一起畫海報"
         ]
       ],
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "schoolbag",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "schoolbag"
     }
   },
   {
@@ -8294,7 +8326,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "examNotes",
+      "kind": "subjectScene",
       "caption": "兩張便條的比較",
       "notes": [
         [
@@ -8306,7 +8338,14 @@ window.REVIEW_EXAM_ITEMS=[
           "和第三組一起畫海報"
         ]
       ],
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "schoolbag",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "schoolbag"
     }
   },
   {
@@ -8335,16 +8374,16 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "examReceipt",
+      "kind": "subjectScene",
       "caption": "閱讀資料卡",
-      "description": "請把資料卡與文章的前後情況一起對照。",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
       "items": [
         "08：05　離開教室前",
         "08：10　集合",
         "晴天：中庭",
         "雨天：一樓穿堂"
       ],
-      "examLineArt": true,
+      "examLineArt": false,
       "heading": "題目資料",
       "rows": [
         [
@@ -8363,7 +8402,13 @@ window.REVIEW_EXAM_ITEMS=[
           "4",
           "雨天：一樓穿堂"
         ]
-      ]
+      ],
+      "mode": "schedule"
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "schedule"
     }
   },
   {
@@ -8392,16 +8437,16 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "examReceipt",
+      "kind": "subjectScene",
       "caption": "閱讀資料卡",
-      "description": "請把資料卡與文章的前後情況一起對照。",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
       "items": [
         "08：05　離開教室前",
         "08：10　集合",
         "晴天：中庭",
         "雨天：一樓穿堂"
       ],
-      "examLineArt": true,
+      "examLineArt": false,
       "heading": "題目資料",
       "rows": [
         [
@@ -8420,7 +8465,13 @@ window.REVIEW_EXAM_ITEMS=[
           "4",
           "雨天：一樓穿堂"
         ]
-      ]
+      ],
+      "mode": "schedule"
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "schedule"
     }
   },
   {
@@ -8449,16 +8500,16 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "examReceipt",
+      "kind": "subjectScene",
       "caption": "閱讀資料卡",
-      "description": "請把資料卡與文章的前後情況一起對照。",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
       "items": [
         "08：05　離開教室前",
         "08：10　集合",
         "晴天：中庭",
         "雨天：一樓穿堂"
       ],
-      "examLineArt": true,
+      "examLineArt": false,
       "heading": "題目資料",
       "rows": [
         [
@@ -8477,7 +8528,13 @@ window.REVIEW_EXAM_ITEMS=[
           "4",
           "雨天：一樓穿堂"
         ]
-      ]
+      ],
+      "mode": "schedule"
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "schedule"
     }
   },
   {
@@ -8506,16 +8563,16 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "examReceipt",
+      "kind": "subjectScene",
       "caption": "閱讀資料卡",
-      "description": "請把資料卡與文章的前後情況一起對照。",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
       "items": [
         "08：05　離開教室前",
         "08：10　集合",
         "晴天：中庭",
         "雨天：一樓穿堂"
       ],
-      "examLineArt": true,
+      "examLineArt": false,
       "heading": "題目資料",
       "rows": [
         [
@@ -8534,7 +8591,13 @@ window.REVIEW_EXAM_ITEMS=[
           "4",
           "雨天：一樓穿堂"
         ]
-      ]
+      ],
+      "mode": "schedule"
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "schedule"
     }
   },
   {
@@ -8563,16 +8626,16 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "examReceipt",
+      "kind": "subjectScene",
       "caption": "閱讀資料卡",
-      "description": "請把資料卡與文章的前後情況一起對照。",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
       "items": [
         "觀察欄：聲音有變化",
         "觀察欄：壺嘴附近有白霧",
         "創作欄：水怪的想像",
         "操作熱水壺：由老師進行"
       ],
-      "examLineArt": true,
+      "examLineArt": false,
       "heading": "題目資料",
       "rows": [
         [
@@ -8591,7 +8654,13 @@ window.REVIEW_EXAM_ITEMS=[
           "4",
           "操作熱水壺：由老師進行"
         ]
-      ]
+      ],
+      "mode": "kettle"
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "kettle"
     }
   },
   {
@@ -8620,16 +8689,16 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "examReceipt",
+      "kind": "subjectScene",
       "caption": "閱讀資料卡",
-      "description": "請把資料卡與文章的前後情況一起對照。",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
       "items": [
         "觀察欄：聲音有變化",
         "觀察欄：壺嘴附近有白霧",
         "創作欄：水怪的想像",
         "操作熱水壺：由老師進行"
       ],
-      "examLineArt": true,
+      "examLineArt": false,
       "heading": "題目資料",
       "rows": [
         [
@@ -8648,7 +8717,13 @@ window.REVIEW_EXAM_ITEMS=[
           "4",
           "操作熱水壺：由老師進行"
         ]
-      ]
+      ],
+      "mode": "kettle"
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "kettle"
     }
   },
   {
@@ -8677,16 +8752,16 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "examReceipt",
+      "kind": "subjectScene",
       "caption": "閱讀資料卡",
-      "description": "請把資料卡與文章的前後情況一起對照。",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
       "items": [
         "觀察欄：聲音有變化",
         "觀察欄：壺嘴附近有白霧",
         "創作欄：水怪的想像",
         "操作熱水壺：由老師進行"
       ],
-      "examLineArt": true,
+      "examLineArt": false,
       "heading": "題目資料",
       "rows": [
         [
@@ -8705,7 +8780,13 @@ window.REVIEW_EXAM_ITEMS=[
           "4",
           "操作熱水壺：由老師進行"
         ]
-      ]
+      ],
+      "mode": "kettle"
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "kettle"
     }
   },
   {
@@ -8734,16 +8815,16 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "examReceipt",
+      "kind": "subjectScene",
       "caption": "閱讀資料卡",
-      "description": "請把資料卡與文章的前後情況一起對照。",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
       "items": [
         "大雨：幼苗被直打",
         "先請教，再安全固定傘",
         "放晴：重新評估需要",
         "一週後：記下觀察"
       ],
-      "examLineArt": true,
+      "examLineArt": false,
       "heading": "題目資料",
       "rows": [
         [
@@ -8762,7 +8843,13 @@ window.REVIEW_EXAM_ITEMS=[
           "4",
           "一週後：記下觀察"
         ]
-      ]
+      ],
+      "mode": "umbrellaPlant"
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "umbrellaPlant"
     }
   },
   {
@@ -8791,16 +8878,16 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "examReceipt",
+      "kind": "subjectScene",
       "caption": "閱讀資料卡",
-      "description": "請把資料卡與文章的前後情況一起對照。",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
       "items": [
         "大雨：幼苗被直打",
         "先請教，再安全固定傘",
         "放晴：重新評估需要",
         "一週後：記下觀察"
       ],
-      "examLineArt": true,
+      "examLineArt": false,
       "heading": "題目資料",
       "rows": [
         [
@@ -8819,7 +8906,13 @@ window.REVIEW_EXAM_ITEMS=[
           "4",
           "一週後：記下觀察"
         ]
-      ]
+      ],
+      "mode": "umbrellaPlant"
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "umbrellaPlant"
     }
   },
   {
@@ -8848,16 +8941,16 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "examReceipt",
+      "kind": "subjectScene",
       "caption": "閱讀資料卡",
-      "description": "請把資料卡與文章的前後情況一起對照。",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
       "items": [
         "大雨：幼苗被直打",
         "先請教，再安全固定傘",
         "放晴：重新評估需要",
         "一週後：記下觀察"
       ],
-      "examLineArt": true,
+      "examLineArt": false,
       "heading": "題目資料",
       "rows": [
         [
@@ -8876,7 +8969,13 @@ window.REVIEW_EXAM_ITEMS=[
           "4",
           "一週後：記下觀察"
         ]
-      ]
+      ],
+      "mode": "umbrellaPlant"
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "umbrellaPlant"
     }
   },
   {
@@ -8905,16 +9004,16 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "examReceipt",
+      "kind": "subjectScene",
       "caption": "閱讀資料卡",
-      "description": "請把資料卡與文章的前後情況一起對照。",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
       "items": [
         "同一塊板子、同一起點",
         "都輕放，不用力推",
         "較緩：圓筆滾／六角筆停",
         "更斜：六角筆也滑動"
       ],
-      "examLineArt": true,
+      "examLineArt": false,
       "heading": "題目資料",
       "rows": [
         [
@@ -8933,7 +9032,13 @@ window.REVIEW_EXAM_ITEMS=[
           "4",
           "更斜：六角筆也滑動"
         ]
-      ]
+      ],
+      "mode": "pencilTray"
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "pencilTray"
     }
   },
   {
@@ -8962,16 +9067,16 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "examReceipt",
+      "kind": "subjectScene",
       "caption": "閱讀資料卡",
-      "description": "請把資料卡與文章的前後情況一起對照。",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
       "items": [
         "同一塊板子、同一起點",
         "都輕放，不用力推",
         "較緩：圓筆滾／六角筆停",
         "更斜：六角筆也滑動"
       ],
-      "examLineArt": true,
+      "examLineArt": false,
       "heading": "題目資料",
       "rows": [
         [
@@ -8990,7 +9095,13 @@ window.REVIEW_EXAM_ITEMS=[
           "4",
           "更斜：六角筆也滑動"
         ]
-      ]
+      ],
+      "mode": "pencilTray"
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "pencilTray"
     }
   },
   {
@@ -9019,16 +9130,16 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "examReceipt",
+      "kind": "subjectScene",
       "caption": "閱讀資料卡",
-      "description": "請把資料卡與文章的前後情況一起對照。",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
       "items": [
         "同一塊板子、同一起點",
         "都輕放，不用力推",
         "較緩：圓筆滾／六角筆停",
         "更斜：六角筆也滑動"
       ],
-      "examLineArt": true,
+      "examLineArt": false,
       "heading": "題目資料",
       "rows": [
         [
@@ -9047,7 +9158,13 @@ window.REVIEW_EXAM_ITEMS=[
           "4",
           "更斜：六角筆也滑動"
         ]
-      ]
+      ],
+      "mode": "pencilTray"
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "pencilTray"
     }
   },
   {
@@ -9076,16 +9193,16 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
     "visual": {
-      "kind": "examReceipt",
+      "kind": "subjectScene",
       "caption": "閱讀資料卡",
-      "description": "請把資料卡與文章的前後情況一起對照。",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
       "items": [
         "同一塊板子、同一起點",
         "都輕放，不用力推",
         "較緩：圓筆滾／六角筆停",
         "更斜：六角筆也滑動"
       ],
-      "examLineArt": true,
+      "examLineArt": false,
       "heading": "題目資料",
       "rows": [
         [
@@ -9104,7 +9221,13 @@ window.REVIEW_EXAM_ITEMS=[
           "4",
           "更斜：六角筆也滑動"
         ]
-      ]
+      ],
+      "mode": "pencilTray"
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "pencilTray"
     }
   },
   {
@@ -9145,7 +9268,19 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "division",
+      "caption": "動物世界",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "division"
+    }
   },
   {
     "id": "u0-t82-tf",
@@ -9165,7 +9300,19 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "thermoregulation",
+      "caption": "動物世界",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "thermoregulation"
+    }
   },
   {
     "id": "u0-t83-tf",
@@ -9185,7 +9332,19 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "birth",
+      "caption": "動物世界",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "birth"
+    }
   },
   {
     "id": "u0-t84-tf",
@@ -9225,7 +9384,19 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "waveFrequency",
+      "caption": "探索聲光世界",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "waveFrequency"
+    }
   },
   {
     "id": "u1-t81-tf",
@@ -9285,7 +9456,19 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "mirror",
+      "caption": "探索聲光世界",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "mirror"
+    }
   },
   {
     "id": "u1-t84-tf",
@@ -9325,7 +9508,19 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "compass",
+      "caption": "臺灣我的家",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "compass"
+    }
   },
   {
     "id": "u2-t81-tf",
@@ -9345,7 +9540,19 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "compass",
+      "caption": "臺灣我的家",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "compass"
+    }
   },
   {
     "id": "u2-t82-tf",
@@ -9385,7 +9592,19 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "discussion",
+      "caption": "臺灣我的家",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "discussion"
+    }
   },
   {
     "id": "u2-t84-tf",
@@ -9425,7 +9644,19 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "terrain",
+      "caption": "臺灣的自然環境與生活",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "terrain"
+    }
   },
   {
     "id": "u3-t81-tf",
@@ -9465,7 +9696,19 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "weatherClimate",
+      "caption": "臺灣的自然環境與生活",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "weatherClimate"
+    }
   },
   {
     "id": "u3-t83-tf",
@@ -9485,7 +9728,19 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "weatherClimate",
+      "caption": "臺灣的自然環境與生活",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "weatherClimate"
+    }
   },
   {
     "id": "u3-t84-tf",
@@ -9547,7 +9802,19 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "leafOrder",
+      "caption": "認識植物",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "leafOrder"
+    }
   },
   {
     "id": "u22-t82-tf",
@@ -9568,7 +9835,19 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "leafVeins",
+      "caption": "認識植物",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "leafVeins"
+    }
   },
   {
     "id": "u22-t83-tf",
@@ -9589,7 +9868,19 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "fruitSeeds",
+      "caption": "認識植物",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "fruitSeeds"
+    }
   },
   {
     "id": "u22-t84-tf",
@@ -9673,7 +9964,19 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "airCompression",
+      "caption": "空氣和水",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "airCompression"
+    }
   },
   {
     "id": "u23-t83-tf",
@@ -9815,7 +10118,19 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "schedule",
+      "caption": "升上三年級的新學習",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "schedule"
+    }
   },
   {
     "id": "u25-t80-tf",
@@ -9835,7 +10150,19 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "discussion",
+      "caption": "校園規範和班級自治",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "discussion"
+    }
   },
   {
     "id": "u25-t81-tf",
@@ -9875,7 +10202,19 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "vote",
+      "caption": "校園規範和班級自治",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "vote"
+    }
   },
   {
     "id": "u25-t83-tf",
@@ -9895,7 +10234,19 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "vote",
+      "caption": "校園規範和班級自治",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "vote"
+    }
   },
   {
     "id": "u25-t84-tf",
@@ -9915,7 +10266,19 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "discussion",
+      "caption": "校園規範和班級自治",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "discussion"
+    }
   },
   {
     "id": "u13-t85-a",
@@ -10787,7 +11150,19 @@ window.REVIEW_EXAM_ITEMS=[
       "N5"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "teeth",
+      "caption": "牙齒也是線索",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "teeth"
+    }
   },
   {
     "concept": "逃避與防禦",
@@ -10994,7 +11369,19 @@ window.REVIEW_EXAM_ITEMS=[
       "N5"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "mirror",
+      "caption": "實驗紀錄與光聲安全",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "mirror"
+    }
   },
   {
     "id": "u0-t70-r1",
@@ -11308,7 +11695,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "觀察簿摘錄",
       "table": {
         "headers": [
@@ -11334,10 +11721,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "「影片只拍到產卵」表示資料範圍，不等同已證明後續行為。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "birth"
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "birth"
+    }
   },
   {
     "id": "u0-t71-r2",
@@ -11366,7 +11759,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "觀察簿摘錄",
       "table": {
         "headers": [
@@ -11392,10 +11785,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "「影片只拍到產卵」表示資料範圍，不等同已證明後續行為。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "birth"
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "birth"
+    }
   },
   {
     "id": "u0-t71-r3",
@@ -11424,7 +11823,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "觀察簿摘錄",
       "table": {
         "headers": [
@@ -11450,10 +11849,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "「影片只拍到產卵」表示資料範圍，不等同已證明後續行為。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "birth"
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "birth"
+    }
   },
   {
     "id": "u0-t71-r4",
@@ -11482,7 +11887,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "觀察簿摘錄",
       "table": {
         "headers": [
@@ -11508,10 +11913,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "「影片只拍到產卵」表示資料範圍，不等同已證明後續行為。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "birth"
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "birth"
+    }
   },
   {
     "id": "u0-t71-r5",
@@ -11540,7 +11951,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "觀察簿摘錄",
       "table": {
         "headers": [
@@ -11566,10 +11977,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "「影片只拍到產卵」表示資料範圍，不等同已證明後續行為。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "birth"
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "birth"
+    }
   },
   {
     "id": "u1-t70-r1",
@@ -12161,7 +12578,19 @@ window.REVIEW_EXAM_ITEMS=[
       "S5"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "compass",
+      "caption": "平等與公平",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "compass"
+    }
   },
   {
     "concept": "隱私與數位生活",
@@ -12207,7 +12636,19 @@ window.REVIEW_EXAM_ITEMS=[
       "S5"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "terrain",
+      "caption": "盆地",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "terrain"
+    }
   },
   {
     "concept": "海岸與利用",
@@ -12623,7 +13064,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "三名受訪者同意公開的紀錄",
       "table": {
         "headers": [
@@ -12649,10 +13090,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "個人訪談不是整個地區或族群的統計。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "culture"
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "culture"
+    }
   },
   {
     "id": "u2-t71-r2",
@@ -12681,7 +13128,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "三名受訪者同意公開的紀錄",
       "table": {
         "headers": [
@@ -12707,10 +13154,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "個人訪談不是整個地區或族群的統計。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "culture"
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "culture"
+    }
   },
   {
     "id": "u2-t71-r3",
@@ -12739,7 +13192,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "三名受訪者同意公開的紀錄",
       "table": {
         "headers": [
@@ -12765,10 +13218,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "個人訪談不是整個地區或族群的統計。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "culture"
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "culture"
+    }
   },
   {
     "id": "u2-t71-r4",
@@ -12797,7 +13256,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "三名受訪者同意公開的紀錄",
       "table": {
         "headers": [
@@ -12823,10 +13282,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "個人訪談不是整個地區或族群的統計。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "culture"
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "culture"
+    }
   },
   {
     "id": "u2-t71-r5",
@@ -12855,7 +13320,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "三名受訪者同意公開的紀錄",
       "table": {
         "headers": [
@@ -12881,10 +13346,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "個人訪談不是整個地區或族群的統計。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "culture"
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "culture"
+    }
   },
   {
     "id": "u3-t70-r1",
@@ -13531,7 +14002,19 @@ window.REVIEW_EXAM_ITEMS=[
       "N3B"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "flower",
+      "caption": "花的構造",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "flower"
+    }
   },
   {
     "unit": 22,
@@ -13675,7 +14158,19 @@ window.REVIEW_EXAM_ITEMS=[
       "N3B"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "airCompression",
+      "caption": "空氣傳送動力",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "airCompression"
+    }
   },
   {
     "unit": 23,
@@ -14912,7 +15407,19 @@ window.REVIEW_EXAM_ITEMS=[
       "S3"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "division",
+      "caption": "尊重差異",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "division"
+    }
   },
   {
     "unit": 24,
@@ -14935,7 +15442,19 @@ window.REVIEW_EXAM_ITEMS=[
       "S3"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "discussion",
+      "caption": "和善溝通",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "discussion"
+    }
   },
   {
     "unit": 24,
@@ -15004,7 +15523,19 @@ window.REVIEW_EXAM_ITEMS=[
       "S3"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "division",
+      "caption": "學習與生活",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "division"
+    }
   },
   {
     "unit": 25,
@@ -15050,7 +15581,19 @@ window.REVIEW_EXAM_ITEMS=[
       "S3"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "discussion",
+      "caption": "班會準備",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "discussion"
+    }
   },
   {
     "unit": 25,
@@ -15073,7 +15616,19 @@ window.REVIEW_EXAM_ITEMS=[
       "S3"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "discussion",
+      "caption": "輪流發言",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "discussion"
+    }
   },
   {
     "unit": 25,
@@ -15096,7 +15651,19 @@ window.REVIEW_EXAM_ITEMS=[
       "S3"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "discussion",
+      "caption": "會議紀錄",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "discussion"
+    }
   },
   {
     "unit": 25,
@@ -15418,7 +15985,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "三種資源與目前找到的線索",
       "table": {
         "headers": [
@@ -15444,10 +16011,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "請將問題與合適資源連結；這不是資料可靠性的固定排名。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "resources"
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "resources"
+    }
   },
   {
     "id": "u24-t71-r2",
@@ -15476,7 +16049,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "三種資源與目前找到的線索",
       "table": {
         "headers": [
@@ -15502,10 +16075,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "請將問題與合適資源連結；這不是資料可靠性的固定排名。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "resources"
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "resources"
+    }
   },
   {
     "id": "u24-t71-r3",
@@ -15534,7 +16113,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "三種資源與目前找到的線索",
       "table": {
         "headers": [
@@ -15560,10 +16139,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "請將問題與合適資源連結；這不是資料可靠性的固定排名。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "resources"
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "resources"
+    }
   },
   {
     "id": "u24-t71-r4",
@@ -15592,7 +16177,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "三種資源與目前找到的線索",
       "table": {
         "headers": [
@@ -15618,10 +16203,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "請將問題與合適資源連結；這不是資料可靠性的固定排名。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "resources"
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "resources"
+    }
   },
   {
     "id": "u24-t71-r5",
@@ -15650,7 +16241,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "三種資源與目前找到的線索",
       "table": {
         "headers": [
@@ -15676,10 +16267,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "請將問題與合適資源連結；這不是資料可靠性的固定排名。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "resources"
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "resources"
+    }
   },
   {
     "id": "u25-t70-r1",
@@ -16477,7 +17074,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "借書卡",
       "table": {
         "headers": [
@@ -16503,11 +17100,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "schoolbag",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u13-t99-r1"
+    "family": "b-u13-t99-r1",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "schoolbag"
+    }
   },
   {
     "id": "u13-t99-r2",
@@ -16535,7 +17139,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "借書卡",
       "table": {
         "headers": [
@@ -16561,11 +17165,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "schoolbag",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u13-t99-r2"
+    "family": "b-u13-t99-r2",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "schoolbag"
+    }
   },
   {
     "id": "u13-t99-r3",
@@ -16593,7 +17204,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "借書卡",
       "table": {
         "headers": [
@@ -16619,11 +17230,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "schoolbag",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u13-t99-r3"
+    "family": "b-u13-t99-r3",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "schoolbag"
+    }
   },
   {
     "id": "u13-t99-r4",
@@ -16652,7 +17270,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "借書卡",
       "table": {
         "headers": [
@@ -16678,11 +17296,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "schoolbag",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u13-t99-r4"
+    "family": "b-u13-t99-r4",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "schoolbag"
+    }
   },
   {
     "id": "u13-t99-r5",
@@ -16710,7 +17335,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "借書卡",
       "table": {
         "headers": [
@@ -16736,11 +17361,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "schoolbag",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u13-t99-r5"
+    "family": "b-u13-t99-r5",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "schoolbag"
+    }
   },
   {
     "id": "u13-t98-r1",
@@ -16768,7 +17400,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "修改後的安排",
       "table": {
         "headers": [
@@ -16794,11 +17426,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "schedule",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u13-t98-r1"
+    "family": "b-u13-t98-r1",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "schedule"
+    }
   },
   {
     "id": "u13-t98-r2",
@@ -16826,7 +17465,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "修改後的安排",
       "table": {
         "headers": [
@@ -16852,11 +17491,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "schedule",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u13-t98-r2"
+    "family": "b-u13-t98-r2",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "schedule"
+    }
   },
   {
     "id": "u13-t98-r3",
@@ -16884,7 +17530,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "修改後的安排",
       "table": {
         "headers": [
@@ -16910,11 +17556,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "schedule",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u13-t98-r3"
+    "family": "b-u13-t98-r3",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "schedule"
+    }
   },
   {
     "id": "u13-t98-r4",
@@ -16943,7 +17596,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "修改後的安排",
       "table": {
         "headers": [
@@ -16969,11 +17622,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "schedule",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u13-t98-r4"
+    "family": "b-u13-t98-r4",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "schedule"
+    }
   },
   {
     "id": "u13-t98-r5",
@@ -17001,7 +17661,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "修改後的安排",
       "table": {
         "headers": [
@@ -17027,11 +17687,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "schedule",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u13-t98-r5"
+    "family": "b-u13-t98-r5",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "schedule"
+    }
   },
   {
     "id": "u14-t99-r1",
@@ -17059,7 +17726,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "兩次試做",
       "table": {
         "headers": [
@@ -17085,11 +17752,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "paperBridge",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u14-t99-r1"
+    "family": "b-u14-t99-r1",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "paperBridge"
+    }
   },
   {
     "id": "u14-t99-r2",
@@ -17117,7 +17791,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "兩次試做",
       "table": {
         "headers": [
@@ -17143,11 +17817,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "paperBridge",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u14-t99-r2"
+    "family": "b-u14-t99-r2",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "paperBridge"
+    }
   },
   {
     "id": "u14-t99-r3",
@@ -17175,7 +17856,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "兩次試做",
       "table": {
         "headers": [
@@ -17201,11 +17882,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "paperBridge",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u14-t99-r3"
+    "family": "b-u14-t99-r3",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "paperBridge"
+    }
   },
   {
     "id": "u14-t99-r4",
@@ -17234,7 +17922,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "兩次試做",
       "table": {
         "headers": [
@@ -17260,11 +17948,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "paperBridge",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u14-t99-r4"
+    "family": "b-u14-t99-r4",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "paperBridge"
+    }
   },
   {
     "id": "u14-t99-r5",
@@ -17292,7 +17987,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "兩次試做",
       "table": {
         "headers": [
@@ -17318,11 +18013,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "paperBridge",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u14-t99-r5"
+    "family": "b-u14-t99-r5",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "paperBridge"
+    }
   },
   {
     "id": "u14-t98-r1",
@@ -17350,7 +18052,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "觀察與待查",
       "table": {
         "headers": [
@@ -17372,11 +18074,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "plantWater",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u14-t98-r1"
+    "family": "b-u14-t98-r1",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "plantWater"
+    }
   },
   {
     "id": "u14-t98-r2",
@@ -17404,7 +18113,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "觀察與待查",
       "table": {
         "headers": [
@@ -17426,11 +18135,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "plantWater",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u14-t98-r2"
+    "family": "b-u14-t98-r2",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "plantWater"
+    }
   },
   {
     "id": "u14-t98-r3",
@@ -17458,7 +18174,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "觀察與待查",
       "table": {
         "headers": [
@@ -17480,11 +18196,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "plantWater",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u14-t98-r3"
+    "family": "b-u14-t98-r3",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "plantWater"
+    }
   },
   {
     "id": "u14-t98-r4",
@@ -17513,7 +18236,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "觀察與待查",
       "table": {
         "headers": [
@@ -17535,11 +18258,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "plantWater",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u14-t98-r4"
+    "family": "b-u14-t98-r4",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "plantWater"
+    }
   },
   {
     "id": "u14-t98-r5",
@@ -17567,7 +18297,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "觀察與待查",
       "table": {
         "headers": [
@@ -17589,11 +18319,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "plantWater",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u14-t98-r5"
+    "family": "b-u14-t98-r5",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "plantWater"
+    }
   },
   {
     "type": "text",
@@ -17820,7 +18557,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "追加的包裝比較",
       "table": {
         "headers": [
@@ -17841,11 +18578,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "storageLabels",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "core",
     "variant": "B",
-    "family": "b-u4-t99-r1"
+    "family": "b-u4-t99-r1",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "storageLabels"
+    }
   },
   {
     "id": "u4-t99-r2",
@@ -17872,7 +18616,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "追加的包裝比較",
       "table": {
         "headers": [
@@ -17893,11 +18637,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "storageLabels",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "core",
     "variant": "B",
-    "family": "b-u4-t99-r2"
+    "family": "b-u4-t99-r2",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "storageLabels"
+    }
   },
   {
     "id": "u4-t99-r3",
@@ -17924,7 +18675,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "追加的包裝比較",
       "table": {
         "headers": [
@@ -17945,11 +18696,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "storageLabels",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u4-t99-r3"
+    "family": "b-u4-t99-r3",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "storageLabels"
+    }
   },
   {
     "id": "u4-t99-r4",
@@ -17976,7 +18734,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "追加的包裝比較",
       "table": {
         "headers": [
@@ -17997,11 +18755,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "storageLabels",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u4-t99-r4"
+    "family": "b-u4-t99-r4",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "storageLabels"
+    }
   },
   {
     "id": "u4-t99-r5",
@@ -18028,7 +18793,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "追加的包裝比較",
       "table": {
         "headers": [
@@ -18049,11 +18814,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "storageLabels",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u4-t99-r5"
+    "family": "b-u4-t99-r5",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "storageLabels"
+    }
   },
   {
     "id": "u4-t98-r1",
@@ -18080,7 +18852,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "照片與訪談的分工",
       "table": {
         "headers": [
@@ -18102,11 +18874,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "roofGarden",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "core",
     "variant": "B",
-    "family": "b-u4-t98-r1"
+    "family": "b-u4-t98-r1",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "roofGarden"
+    }
   },
   {
     "id": "u4-t98-r2",
@@ -18133,7 +18912,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "照片與訪談的分工",
       "table": {
         "headers": [
@@ -18155,11 +18934,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "roofGarden",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "core",
     "variant": "B",
-    "family": "b-u4-t98-r2"
+    "family": "b-u4-t98-r2",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "roofGarden"
+    }
   },
   {
     "id": "u4-t98-r3",
@@ -18186,7 +18972,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "照片與訪談的分工",
       "table": {
         "headers": [
@@ -18208,11 +18994,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "roofGarden",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u4-t98-r3"
+    "family": "b-u4-t98-r3",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "roofGarden"
+    }
   },
   {
     "id": "u4-t98-r4",
@@ -18239,7 +19032,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "照片與訪談的分工",
       "table": {
         "headers": [
@@ -18261,11 +19054,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "roofGarden",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u4-t98-r4"
+    "family": "b-u4-t98-r4",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "roofGarden"
+    }
   },
   {
     "id": "u4-t98-r5",
@@ -18292,7 +19092,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "照片與訪談的分工",
       "table": {
         "headers": [
@@ -18314,11 +19114,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "roofGarden",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u4-t98-r5"
+    "family": "b-u4-t98-r5",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "roofGarden"
+    }
   },
   {
     "id": "u5-t99-r1",
@@ -18345,7 +19152,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "小柔的兩種紀錄",
       "table": {
         "headers": [
@@ -18363,11 +19170,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "gallery",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "core",
     "variant": "B",
-    "family": "b-u5-t99-r1"
+    "family": "b-u5-t99-r1",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "gallery"
+    }
   },
   {
     "id": "u5-t99-r2",
@@ -18394,7 +19208,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "小柔的兩種紀錄",
       "table": {
         "headers": [
@@ -18412,11 +19226,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "gallery",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "core",
     "variant": "B",
-    "family": "b-u5-t99-r2"
+    "family": "b-u5-t99-r2",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "gallery"
+    }
   },
   {
     "id": "u5-t99-r3",
@@ -18443,7 +19264,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "小柔的兩種紀錄",
       "table": {
         "headers": [
@@ -18461,11 +19282,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "gallery",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u5-t99-r3"
+    "family": "b-u5-t99-r3",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "gallery"
+    }
   },
   {
     "id": "u5-t99-r4",
@@ -18492,7 +19320,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "小柔的兩種紀錄",
       "table": {
         "headers": [
@@ -18510,11 +19338,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "gallery",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u5-t99-r4"
+    "family": "b-u5-t99-r4",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "gallery"
+    }
   },
   {
     "id": "u5-t99-r5",
@@ -18541,7 +19376,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "小柔的兩種紀錄",
       "table": {
         "headers": [
@@ -18559,11 +19394,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "gallery",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u5-t99-r5"
+    "family": "b-u5-t99-r5",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "gallery"
+    }
   },
   {
     "id": "u5-t98-r1",
@@ -18590,7 +19432,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "修改稿的細節清單",
       "table": {
         "headers": [
@@ -18612,11 +19454,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "bakery",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "core",
     "variant": "B",
-    "family": "b-u5-t98-r1"
+    "family": "b-u5-t98-r1",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "bakery"
+    }
   },
   {
     "id": "u5-t98-r2",
@@ -18643,7 +19492,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "修改稿的細節清單",
       "table": {
         "headers": [
@@ -18665,11 +19514,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "bakery",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "core",
     "variant": "B",
-    "family": "b-u5-t98-r2"
+    "family": "b-u5-t98-r2",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "bakery"
+    }
   },
   {
     "id": "u5-t98-r3",
@@ -18696,7 +19552,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "修改稿的細節清單",
       "table": {
         "headers": [
@@ -18718,11 +19574,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "bakery",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u5-t98-r3"
+    "family": "b-u5-t98-r3",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "bakery"
+    }
   },
   {
     "id": "u5-t98-r4",
@@ -18749,7 +19612,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "修改稿的細節清單",
       "table": {
         "headers": [
@@ -18771,11 +19634,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "bakery",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u5-t98-r4"
+    "family": "b-u5-t98-r4",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "bakery"
+    }
   },
   {
     "id": "u5-t98-r5",
@@ -18802,7 +19672,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "examEvidenceTable",
+      "kind": "subjectScene",
       "caption": "修改稿的細節清單",
       "table": {
         "headers": [
@@ -18824,11 +19694,18 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "bakery",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u5-t98-r5"
+    "family": "b-u5-t98-r5",
+    "visualAudit": {
+      "version": 12,
+      "subject": "國語",
+      "mode": "bakery"
+    }
   },
   {
     "type": "text",
@@ -20854,7 +21731,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "fruitList",
+      "kind": "subjectScene",
       "caption": "水果準備清單",
       "table": {
         "headers": [
@@ -20875,9 +21752,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "pictureInventory",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "英語",
+      "mode": "pictureInventory"
+    }
   },
   {
     "id": "u7-t99-r2",
@@ -20908,7 +21792,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "fruitList",
+      "kind": "subjectScene",
       "caption": "水果準備清單",
       "table": {
         "headers": [
@@ -20929,9 +21813,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "pictureInventory",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "英語",
+      "mode": "pictureInventory"
+    }
   },
   {
     "id": "u7-t99-r3",
@@ -20962,7 +21853,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "fruitList",
+      "kind": "subjectScene",
       "caption": "水果準備清單",
       "table": {
         "headers": [
@@ -20983,9 +21874,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "pictureInventory",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "英語",
+      "mode": "pictureInventory"
+    }
   },
   {
     "id": "u7-t99-r4",
@@ -21016,7 +21914,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "fruitList",
+      "kind": "subjectScene",
       "caption": "水果準備清單",
       "table": {
         "headers": [
@@ -21037,9 +21935,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "pictureInventory",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "英語",
+      "mode": "pictureInventory"
+    }
   },
   {
     "id": "u7-t99-r5",
@@ -21070,7 +21975,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "fruitList",
+      "kind": "subjectScene",
       "caption": "水果準備清單",
       "table": {
         "headers": [
@@ -21091,9 +21996,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "pictureInventory",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "英語",
+      "mode": "pictureInventory"
+    }
   },
   {
     "id": "u7-t98-r1",
@@ -21124,7 +22036,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "fruitList",
+      "kind": "subjectScene",
       "caption": "水果準備清單",
       "table": {
         "headers": [
@@ -21155,9 +22067,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "pictureInventory",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "英語",
+      "mode": "pictureInventory"
+    }
   },
   {
     "id": "u7-t98-r2",
@@ -21188,7 +22107,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "fruitList",
+      "kind": "subjectScene",
       "caption": "水果準備清單",
       "table": {
         "headers": [
@@ -21219,9 +22138,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "pictureInventory",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "英語",
+      "mode": "pictureInventory"
+    }
   },
   {
     "id": "u7-t98-r3",
@@ -21252,7 +22178,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "fruitList",
+      "kind": "subjectScene",
       "caption": "水果準備清單",
       "table": {
         "headers": [
@@ -21283,9 +22209,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "pictureInventory",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "英語",
+      "mode": "pictureInventory"
+    }
   },
   {
     "id": "u7-t98-r4",
@@ -21316,7 +22249,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "fruitList",
+      "kind": "subjectScene",
       "caption": "水果準備清單",
       "table": {
         "headers": [
@@ -21347,9 +22280,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "pictureInventory",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "英語",
+      "mode": "pictureInventory"
+    }
   },
   {
     "id": "u7-t98-r5",
@@ -21380,7 +22320,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "fruitList",
+      "kind": "subjectScene",
       "caption": "水果準備清單",
       "table": {
         "headers": [
@@ -21411,9 +22351,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "examLineArt": true
+      "examLineArt": false,
+      "mode": "pictureInventory",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "英語",
+      "mode": "pictureInventory"
+    }
   },
   {
     "type": "boolean",
@@ -21434,7 +22381,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u0-t99-tf"
+    "family": "b-u0-t99-tf",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "beaks",
+      "caption": "動物世界",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "beaks"
+    }
   },
   {
     "type": "boolean",
@@ -21518,7 +22477,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u0-t95-tf"
+    "family": "b-u0-t95-tf",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "division",
+      "caption": "動物世界",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "division"
+    }
   },
   {
     "type": "boolean",
@@ -21560,7 +22531,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u1-t98-tf"
+    "family": "b-u1-t98-tf",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "rubberLab",
+      "caption": "探索聲光世界",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "rubberLab"
+    }
   },
   {
     "type": "boolean",
@@ -21581,7 +22564,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u1-t97-tf"
+    "family": "b-u1-t97-tf",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "shadow",
+      "caption": "探索聲光世界",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "shadow"
+    }
   },
   {
     "type": "boolean",
@@ -21602,7 +22597,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u1-t96-tf"
+    "family": "b-u1-t96-tf",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "mirror",
+      "caption": "探索聲光世界",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "mirror"
+    }
   },
   {
     "type": "boolean",
@@ -21669,7 +22676,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u0-t98-b"
+    "family": "b-u0-t98-b",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "fruitSeeds",
+      "caption": "動物世界",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "fruitSeeds"
+    }
   },
   {
     "type": "single",
@@ -21738,7 +22757,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u0-t95-b"
+    "family": "b-u0-t95-b",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "parentYoung",
+      "caption": "動物世界",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "parentYoung"
+    }
   },
   {
     "type": "single",
@@ -21761,7 +22792,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u1-t99-b"
+    "family": "b-u1-t99-b",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "rubberLab",
+      "caption": "探索聲光世界",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "rubberLab"
+    }
   },
   {
     "type": "single",
@@ -21807,7 +22850,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u1-t97-b"
+    "family": "b-u1-t97-b",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "mirror",
+      "caption": "探索聲光世界",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "mirror"
+    }
   },
   {
     "type": "single",
@@ -23060,7 +24115,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u2-t98-tf"
+    "family": "b-u2-t98-tf",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "compass",
+      "caption": "臺灣我的家",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "compass"
+    }
   },
   {
     "type": "boolean",
@@ -23123,7 +24190,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u2-t95-tf"
+    "family": "b-u2-t95-tf",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "compass",
+      "caption": "臺灣我的家",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "compass"
+    }
   },
   {
     "type": "boolean",
@@ -23144,7 +24223,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u3-t99-tf"
+    "family": "b-u3-t99-tf",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "terrain",
+      "caption": "臺灣的自然環境與生活",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "terrain"
+    }
   },
   {
     "type": "boolean",
@@ -23165,7 +24256,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u3-t98-tf"
+    "family": "b-u3-t98-tf",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "river",
+      "caption": "臺灣的自然環境與生活",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "river"
+    }
   },
   {
     "type": "boolean",
@@ -23186,7 +24289,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u3-t97-tf"
+    "family": "b-u3-t97-tf",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "weatherClimate",
+      "caption": "臺灣的自然環境與生活",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "weatherClimate"
+    }
   },
   {
     "type": "boolean",
@@ -23251,7 +24366,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u2-t99-b"
+    "family": "b-u2-t99-b",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "compass",
+      "caption": "臺灣我的家",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "compass"
+    }
   },
   {
     "type": "single",
@@ -23320,7 +24447,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u2-t96-b"
+    "family": "b-u2-t96-b",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "compass",
+      "caption": "臺灣我的家",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "compass"
+    }
   },
   {
     "type": "single",
@@ -23366,7 +24505,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u3-t99-b"
+    "family": "b-u3-t99-b",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "terrain",
+      "caption": "臺灣的自然環境與生活",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "terrain"
+    }
   },
   {
     "type": "single",
@@ -23389,7 +24540,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u3-t98-b"
+    "family": "b-u3-t98-b",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "weatherClimate",
+      "caption": "臺灣的自然環境與生活",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "weatherClimate"
+    }
   },
   {
     "type": "single",
@@ -23777,7 +24940,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "sharedSpace",
+      "kind": "subjectScene",
       "caption": "共用教室的約定",
       "table": {
         "headers": [
@@ -23799,10 +24962,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "sharedRules"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "sharedRules"
+    }
   },
   {
     "id": "u2-t98-r2",
@@ -23831,7 +25000,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "sharedSpace",
+      "kind": "subjectScene",
       "caption": "共用教室的約定",
       "table": {
         "headers": [
@@ -23853,10 +25022,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "sharedRules"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "sharedRules"
+    }
   },
   {
     "id": "u2-t98-r3",
@@ -23885,7 +25060,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "sharedSpace",
+      "kind": "subjectScene",
       "caption": "共用教室的約定",
       "table": {
         "headers": [
@@ -23907,10 +25082,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "sharedRules"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "sharedRules"
+    }
   },
   {
     "id": "u2-t98-r4",
@@ -23939,7 +25120,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "sharedSpace",
+      "kind": "subjectScene",
       "caption": "共用教室的約定",
       "table": {
         "headers": [
@@ -23961,10 +25142,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "sharedRules"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "sharedRules"
+    }
   },
   {
     "id": "u2-t98-r5",
@@ -23993,7 +25180,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "sharedSpace",
+      "kind": "subjectScene",
       "caption": "共用教室的約定",
       "table": {
         "headers": [
@@ -24015,10 +25202,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "sharedRules"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "sharedRules"
+    }
   },
   {
     "id": "u3-t99-r1",
@@ -24047,7 +25240,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "landUse",
+      "kind": "subjectScene",
       "caption": "環境線索與規劃重點",
       "table": {
         "headers": [
@@ -24073,10 +25266,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "landUse"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "landUse"
+    }
   },
   {
     "id": "u3-t99-r2",
@@ -24105,7 +25304,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "landUse",
+      "kind": "subjectScene",
       "caption": "環境線索與規劃重點",
       "table": {
         "headers": [
@@ -24131,10 +25330,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "landUse"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "landUse"
+    }
   },
   {
     "id": "u3-t99-r3",
@@ -24163,7 +25368,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "landUse",
+      "kind": "subjectScene",
       "caption": "環境線索與規劃重點",
       "table": {
         "headers": [
@@ -24189,10 +25394,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "landUse"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "landUse"
+    }
   },
   {
     "id": "u3-t99-r4",
@@ -24221,7 +25432,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "landUse",
+      "kind": "subjectScene",
       "caption": "環境線索與規劃重點",
       "table": {
         "headers": [
@@ -24247,10 +25458,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "landUse"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "landUse"
+    }
   },
   {
     "id": "u3-t99-r5",
@@ -24279,7 +25496,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "landUse",
+      "kind": "subjectScene",
       "caption": "環境線索與規劃重點",
       "table": {
         "headers": [
@@ -24305,10 +25522,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "landUse"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "landUse"
+    }
   },
   {
     "id": "u3-t98-r1",
@@ -24600,7 +25823,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u22-t99-tf"
+    "family": "b-u22-t99-tf",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "leafVeins",
+      "caption": "認識植物",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "leafVeins"
+    }
   },
   {
     "type": "boolean",
@@ -24622,7 +25857,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u22-t98-tf"
+    "family": "b-u22-t98-tf",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "leafVeins",
+      "caption": "認識植物",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "leafVeins"
+    }
   },
   {
     "type": "boolean",
@@ -24644,7 +25891,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u22-t97-tf"
+    "family": "b-u22-t97-tf",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "fruitSeeds",
+      "caption": "認識植物",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "fruitSeeds"
+    }
   },
   {
     "type": "boolean",
@@ -24732,7 +25991,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u23-t98-tf"
+    "family": "b-u23-t98-tf",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "cupAir",
+      "caption": "空氣和水",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "cupAir"
+    }
   },
   {
     "type": "boolean",
@@ -24754,7 +26025,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u23-t97-tf"
+    "family": "b-u23-t97-tf",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "airCompression",
+      "caption": "空氣和水",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "airCompression"
+    }
   },
   {
     "type": "boolean",
@@ -24776,7 +26059,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u23-t96-tf"
+    "family": "b-u23-t96-tf",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "wind",
+      "caption": "空氣和水",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "wind"
+    }
   },
   {
     "type": "boolean",
@@ -24798,7 +26093,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u23-t95-tf"
+    "family": "b-u23-t95-tf",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "airCompression",
+      "caption": "空氣和水",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "airCompression"
+    }
   },
   {
     "type": "single",
@@ -24822,7 +26129,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u22-t99-b"
+    "family": "b-u22-t99-b",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "leafOrder",
+      "caption": "認識植物",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "leafOrder"
+    }
   },
   {
     "type": "single",
@@ -24918,7 +26237,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u22-t95-b"
+    "family": "b-u22-t95-b",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "flower",
+      "caption": "認識植物",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "flower"
+    }
   },
   {
     "type": "single",
@@ -24942,7 +26273,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u23-t99-b"
+    "family": "b-u23-t99-b",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "cupAir",
+      "caption": "空氣和水",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "cupAir"
+    }
   },
   {
     "type": "single",
@@ -24966,7 +26309,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u23-t98-b"
+    "family": "b-u23-t98-b",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "airCompression",
+      "caption": "空氣和水",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "airCompression"
+    }
   },
   {
     "type": "single",
@@ -25014,7 +26369,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u23-t96-b"
+    "family": "b-u23-t96-b",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "wind",
+      "caption": "空氣和水",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "自然",
+      "mode": "wind"
+    }
   },
   {
     "type": "single",
@@ -26169,7 +27536,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u24-t99-tf"
+    "family": "b-u24-t99-tf",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "division",
+      "caption": "升上三年級的新學習",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "division"
+    }
   },
   {
     "type": "boolean",
@@ -26211,7 +27590,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u24-t97-tf"
+    "family": "b-u24-t97-tf",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "schedule",
+      "caption": "升上三年級的新學習",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "schedule"
+    }
   },
   {
     "type": "boolean",
@@ -26232,7 +27623,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u24-t96-tf"
+    "family": "b-u24-t96-tf",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "discussion",
+      "caption": "升上三年級的新學習",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "discussion"
+    }
   },
   {
     "type": "boolean",
@@ -26274,7 +27677,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u25-t99-tf"
+    "family": "b-u25-t99-tf",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "vote",
+      "caption": "校園規範和班級自治",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "vote"
+    }
   },
   {
     "type": "boolean",
@@ -26295,7 +27710,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u25-t98-tf"
+    "family": "b-u25-t98-tf",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "vote",
+      "caption": "校園規範和班級自治",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "vote"
+    }
   },
   {
     "type": "boolean",
@@ -26316,7 +27743,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u25-t97-tf"
+    "family": "b-u25-t97-tf",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "discussion",
+      "caption": "校園規範和班級自治",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "discussion"
+    }
   },
   {
     "type": "boolean",
@@ -26337,7 +27776,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u25-t96-tf"
+    "family": "b-u25-t96-tf",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "division",
+      "caption": "校園規範和班級自治",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "division"
+    }
   },
   {
     "type": "boolean",
@@ -26358,7 +27809,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u25-t95-tf"
+    "family": "b-u25-t95-tf",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "discussion",
+      "caption": "校園規範和班級自治",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "discussion"
+    }
   },
   {
     "type": "single",
@@ -26427,7 +27890,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u24-t97-b"
+    "family": "b-u24-t97-b",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "division",
+      "caption": "升上三年級的新學習",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "division"
+    }
   },
   {
     "type": "single",
@@ -26473,7 +27948,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u24-t95-b"
+    "family": "b-u24-t95-b",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "discussion",
+      "caption": "升上三年級的新學習",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "discussion"
+    }
   },
   {
     "type": "single",
@@ -26496,7 +27983,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u25-t99-b"
+    "family": "b-u25-t99-b",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "vote",
+      "caption": "校園規範和班級自治",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "vote"
+    }
   },
   {
     "type": "single",
@@ -26519,7 +28018,19 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u25-t98-b"
+    "family": "b-u25-t98-b",
+    "visual": {
+      "kind": "subjectScene",
+      "mode": "discussion",
+      "caption": "校園規範和班級自治",
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false
+    },
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "discussion"
+    }
   },
   {
     "type": "single",
@@ -26617,7 +28128,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "teamwork",
+      "kind": "subjectScene",
       "caption": "這次海報的分工",
       "table": {
         "headers": [
@@ -26639,10 +28150,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "teamSkills"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "teamSkills"
+    }
   },
   {
     "id": "u24-t99-r2",
@@ -26671,7 +28188,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "teamwork",
+      "kind": "subjectScene",
       "caption": "這次海報的分工",
       "table": {
         "headers": [
@@ -26693,10 +28210,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "teamSkills"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "teamSkills"
+    }
   },
   {
     "id": "u24-t99-r3",
@@ -26725,7 +28248,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "teamwork",
+      "kind": "subjectScene",
       "caption": "這次海報的分工",
       "table": {
         "headers": [
@@ -26747,10 +28270,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "teamSkills"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "teamSkills"
+    }
   },
   {
     "id": "u24-t99-r4",
@@ -26779,7 +28308,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "teamwork",
+      "kind": "subjectScene",
       "caption": "這次海報的分工",
       "table": {
         "headers": [
@@ -26801,10 +28330,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "teamSkills"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "teamSkills"
+    }
   },
   {
     "id": "u24-t99-r5",
@@ -26833,7 +28368,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "teamwork",
+      "kind": "subjectScene",
       "caption": "這次海報的分工",
       "table": {
         "headers": [
@@ -26855,10 +28390,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "teamSkills"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "teamSkills"
+    }
   },
   {
     "id": "u24-t98-r1",
@@ -26887,7 +28428,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "studySteps",
+      "kind": "subjectScene",
       "caption": "三種訂正做法",
       "table": {
         "headers": [
@@ -26909,10 +28450,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "revise"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "revise"
+    }
   },
   {
     "id": "u24-t98-r2",
@@ -26941,7 +28488,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "studySteps",
+      "kind": "subjectScene",
       "caption": "三種訂正做法",
       "table": {
         "headers": [
@@ -26963,10 +28510,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "revise"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "revise"
+    }
   },
   {
     "id": "u24-t98-r3",
@@ -26995,7 +28548,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "studySteps",
+      "kind": "subjectScene",
       "caption": "三種訂正做法",
       "table": {
         "headers": [
@@ -27017,10 +28570,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "revise"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "revise"
+    }
   },
   {
     "id": "u24-t98-r4",
@@ -27049,7 +28608,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "studySteps",
+      "kind": "subjectScene",
       "caption": "三種訂正做法",
       "table": {
         "headers": [
@@ -27071,10 +28630,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "revise"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "revise"
+    }
   },
   {
     "id": "u24-t98-r5",
@@ -27103,7 +28668,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "studySteps",
+      "kind": "subjectScene",
       "caption": "三種訂正做法",
       "table": {
         "headers": [
@@ -27125,10 +28690,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "revise"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "revise"
+    }
   },
   {
     "id": "u25-t99-r1",
@@ -27157,7 +28728,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "libraryRules",
+      "kind": "subjectScene",
       "caption": "閱讀角的約定與目的",
       "table": {
         "headers": [
@@ -27179,10 +28750,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "library"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "library"
+    }
   },
   {
     "id": "u25-t99-r2",
@@ -27211,7 +28788,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "libraryRules",
+      "kind": "subjectScene",
       "caption": "閱讀角的約定與目的",
       "table": {
         "headers": [
@@ -27233,10 +28810,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "library"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "library"
+    }
   },
   {
     "id": "u25-t99-r3",
@@ -27265,7 +28848,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "libraryRules",
+      "kind": "subjectScene",
       "caption": "閱讀角的約定與目的",
       "table": {
         "headers": [
@@ -27287,10 +28870,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "library"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "library"
+    }
   },
   {
     "id": "u25-t99-r4",
@@ -27319,7 +28908,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "libraryRules",
+      "kind": "subjectScene",
       "caption": "閱讀角的約定與目的",
       "table": {
         "headers": [
@@ -27341,10 +28930,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "library"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "library"
+    }
   },
   {
     "id": "u25-t99-r5",
@@ -27373,7 +28968,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "libraryRules",
+      "kind": "subjectScene",
       "caption": "閱讀角的約定與目的",
       "table": {
         "headers": [
@@ -27395,10 +28990,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "library"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "library"
+    }
   },
   {
     "id": "u25-t98-r1",
@@ -27427,7 +29028,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "duty",
+      "kind": "subjectScene",
       "caption": "這一週的值日分工",
       "table": {
         "headers": [
@@ -27449,10 +29050,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "division"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "division"
+    }
   },
   {
     "id": "u25-t98-r2",
@@ -27481,7 +29088,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "duty",
+      "kind": "subjectScene",
       "caption": "這一週的值日分工",
       "table": {
         "headers": [
@@ -27503,10 +29110,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "division"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "division"
+    }
   },
   {
     "id": "u25-t98-r3",
@@ -27535,7 +29148,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "duty",
+      "kind": "subjectScene",
       "caption": "這一週的值日分工",
       "table": {
         "headers": [
@@ -27557,10 +29170,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "division"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "division"
+    }
   },
   {
     "id": "u25-t98-r4",
@@ -27589,7 +29208,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "duty",
+      "kind": "subjectScene",
       "caption": "這一週的值日分工",
       "table": {
         "headers": [
@@ -27611,10 +29230,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "division"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "division"
+    }
   },
   {
     "id": "u25-t98-r5",
@@ -27643,7 +29268,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "duty",
+      "kind": "subjectScene",
       "caption": "這一週的值日分工",
       "table": {
         "headers": [
@@ -27665,10 +29290,16 @@ window.REVIEW_EXAM_ITEMS=[
           ]
         ]
       },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
+      "examLineArt": false,
+      "mode": "division"
     },
-    "variant": "B"
+    "variant": "B",
+    "visualAudit": {
+      "version": 12,
+      "subject": "社會",
+      "mode": "division"
+    }
   },
   {
     "type": "single",
