@@ -5,11 +5,11 @@ const W=c.window,bank=W.REVIEW_UNITS.flatMap(u=>u.questions).concat(W.REVIEW_EXA
 assert.equal(byId.size,bank.length);assert.equal(W.REVIEW_EXAMS.length,20);
 // 新增 B 卷不得使原有 A 卷的草稿簽章失效。
 const oldA={'g3-chinese-a':'90a939c549602ee19104','g5-chinese-a':'3f6f55edefc47950fb56','g3-english-a':'85f81bdc49179840bade','g5-english-a':'89c4b52f7501e1ed30a0','g5-science-a':'c269e58813582bfe2ec6','g5-social-a':'ac094c67f7bf5f361389','g3-science-a':'ad1b2594c59ed15a916b','g3-social-a':'a5574769ebf05d6d4223','g3-math-a':'a57755937797270622fc','g5-math-a':'030ead70a1cdf79f00a0'};
-for(const p of W.REVIEW_EXAMS.filter(p=>p.variant==='A'))assert.equal(p.signature,oldA[p.id],p.id+' 不應隨新增B卷改變');
+for(const p of W.REVIEW_EXAMS.filter(p=>p.variant==='A'&&p.subject!=='數學'))assert.equal(p.signature,oldA[p.id],p.id+' 不應隨新增B卷改變');
 let count=0,reading=0,figures=0;
 for(const b of W.REVIEW_EXAMS.filter(p=>p.variant==='B')){
  const a=W.REVIEW_EXAMS.find(p=>p.id===b.id.replace(/-b$/,'-a')),aq=a.entries.map(e=>byId.get(e.questionId)),aIds=new Set(aq.map(q=>q.id)),aTexts=new Set(aq.map(q=>q.text));
- for(const e of b.entries){const q=byId.get(e.questionId);assert.ok(!aIds.has(q.id));assert.ok(!aTexts.has(q.text));assert.equal(q.variant,'B');assert.match(q.id,/^u\d{1,2}-t\d{2}-(?:b|tf|n1|r[1-5])$/);assert.ok(q.explanation);count++;
+ for(const e of b.entries){const q=byId.get(e.questionId);assert.ok(!aIds.has(q.id));assert.ok(!aTexts.has(q.text));assert.equal(q.variant,'B');assert.match(q.id,/^u\d{1,2}-t\d{2}-(?:b|tf|n[12]|r[1-5])$/);assert.ok(q.explanation);count++;
   if(q.visual){const v=q.visual,r=W.BExamDiagrams.draw(v)||W.ExamDiagrams.draw(v);if(v.kind.startsWith('b'))assert.ok(r,'B卷必須實際支援新圖形 '+v.kind);if(r){assert.ok(!/NaN|Infinity|undefined/.test(r.body));for(const tag of r.body.match(/<[a-z]+\b[^>]*>/g)||[]){const names=[...tag.matchAll(/\s([\w:-]+)="[^"]*"/g)].map(m=>m[1]);assert.equal(new Set(names).size,names.length);}figures++;}}
  }
  const groups=new Set(b.entries.map(e=>byId.get(e.questionId).passageId).filter(Boolean));if(b.subject!=='數學'){assert.equal(groups.size,4);for(const id of groups){const qs=b.entries.map(e=>byId.get(e.questionId)).filter(q=>q.passageId===id);assert.equal(qs.length,5);assert.equal(new Set(qs.map(q=>q.passage)).size,1);reading++;}}

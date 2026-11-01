@@ -3,6 +3,14 @@
  function shuffle(items,rng=Math.random){const a=[...items];for(let i=a.length-1;i>0;i--){const j=Math.floor(rng()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
  function sample(bank,count,history={},rng=Math.random){
    count=Math.min(count,bank.length);
+   // Exclude as many recent complete sessions as the pool can support.
+   const recent=history.recent||[];let blocked=new Set(history.last||[]);
+   for(const session of [...recent].reverse()){
+    const next=new Set([...blocked,...session]);
+    const available=bank.every(q=>q.passageId)?readingGroups(bank).filter(g=>g.every(q=>!next.has(q.id))).flat().length:bank.filter(q=>!next.has(q.id)).length;
+    if(available>=count)blocked=next;else break;
+   }
+   if(bank.filter(q=>!blocked.has(q.id)).length>=count)bank=bank.filter(q=>!blocked.has(q.id));
    const seen=new Set(history.seen||[]),last=new Set(history.last||[]);
    if(bank.length&&bank.every(q=>q.passageId)){
     const groups=readingGroups(bank),size=groups[0].length;

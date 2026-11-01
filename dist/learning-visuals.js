@@ -81,8 +81,48 @@
   if(s==='garden')return {body:`<rect x="100" y="235" width="410" height="50" rx="16" fill="#d9c09a"/>${plant(250,235,.9)}${plant(410,235,.65)}${kid(90,185,'#92b7c4',.9)}`,alt:'照顧與觀察花圃植物的情境示意。'};
   return {body:`<rect x="180" y="200" width="330" height="24" rx="10" fill="#c5ad87"/><path d="M205 223V290M480 223V290" stroke="#b99d78" stroke-width="12"/>${book(280,127)}${kid(105,185,'#8cbcb0',1.0)}${kid(525,185,'#e0af7d',.85)}<rect x="220" y="25" width="210" height="82" rx="16" fill="#eee5c8"/>${[0,1,2].map(j=>`<rect x="${238+j*60}" y="40" width="43" height="47" rx="7" fill="${palette[j]}" fill-opacity=".8"/>`).join('')}`,alt:'人物在桌邊閱讀、討論與安排工作的情境示意。'};
  }
+ function supplement(v){
+  const t=(x,y,s,size=20)=>`<text x="${x}" y="${y}" text-anchor="middle" font-size="${size}" fill="#233c36">${escape(s)}</text>`;
+  const rect=(x,y,w,h,fill='#e2eee7')=>`<rect x="${x}" y="${y}" width="${w}" height="${h}" fill="${fill}" stroke="#35594c" stroke-width="2"/>`;
+  const line=(x,y,a,b)=>`<line x1="${x}" y1="${y}" x2="${a}" y2="${b}" stroke="#35594c" stroke-width="2"/>`;
+  let body='',box='0 0 650 330';
+  if(v.kind==='quantityBars'||v.kind==='rodCompare'){
+   const max=Math.max(...v.values.filter(x=>x!==null));
+   v.values.forEach((n,i)=>{const y=45+i*80,w=n===null?240:n/max*420;body+=t(90,y+25,v.labels?.[i]||['甲','乙','丙','丁'][i],18)+rect(160,y,w,35)+t(160+w/2,y+25,(n??'？')+' '+(v.unit||''));});
+   body+=t(325,310,v.total||'依標示數值計算；未知長度未按比例',18);
+  }else if(v.kind==='quantityFlow'){
+   box='0 0 650 260';v.labels.forEach((label,i)=>{const x=20+i*158;body+=rect(x,65,135,105)+label.match(/.{1,7}/gu).map((s,j)=>t(x+67,108+j*26,s,19)).join('');if(i<v.labels.length-1)body+=t(x+146,127,'→',25);});
+  }else if(v.kind==='placePiles'){
+   box='0 0 650 400';v.counts.forEach((n,i)=>{const x=20+i*158;body+=rect(x,45,145,290,'#fff')+t(x+72,30,['千','百','十','個'][i],24);for(let j=0;j<n;j++){const xx=x+15+j%3*40,yy=65+Math.floor(j/3)*42;body+=rect(xx,yy,28,28,['#a8c8bb','#d6d8a9','#dfbf98','#aac8db'][i]);}body+=t(x+72,365,n+' 個'+['千','百','十','一'][i]);});
+  }else if(v.kind==='repeatGroups'){
+   box='0 0 650 310';v.rows.forEach((r,i)=>{const y=45+i*110,w=Math.min(65,500/r.count);body+=t(58,y+35,r.label);for(let j=0;j<r.count;j++)body+=rect(110+j*w,y,w-6,60)+t(110+j*w+(w-6)/2,y+36,r.per,18);});body+=t(325,290,v.note||'每個方框是一組，框內標示每組數量。',18);
+  }else if(v.kind==='dotArray'){
+   for(let r=0;r<v.rows;r++)for(let c=0;c<v.cols;c++)body+=`<circle cx="${180+c*40}" cy="${40+r*40}" r="10" fill="#497969"/>`;body+=t(325,310,'試想其他排法；不是所有排列都符合條件。',18);
+  }else if(v.kind==='labelledAngles'){
+   v.angles.forEach((a,i)=>{const x=55+i*210,y=210,rad=a*Math.PI/180;body+=line(x,y,x+140,y)+line(x,y,x+140*Math.cos(rad),y-140*Math.sin(rad))+`<path d="M${x+40} ${y} A40 40 0 0 0 ${x+40*Math.cos(rad)} ${y-40*Math.sin(rad)}" fill="none" stroke="#b87449"/>`+t(x+90,y-15,a+'°');});
+  }else if(v.kind==='equalStrips'){
+   const w=500/v.count;for(let i=0;i<v.count;i++)body+=rect(75+i*w,100,w,50)+t(75+(i+.5)*w,133,'？');body+=line(75,190,575,190)+line(75,180,75,200)+line(575,180,575,200)+t(325,230,'合計 '+v.total);
+  }else if(v.kind==='splitArray'){
+   for(let i=0;i<v.count;i++)body+=rect(80,35+i*48,360,42)+rect(440,35+i*48,72,42,'#f0dcc0')+t(260,63+i*48,v.a)+t(476,63+i*48,v.b);body+=t(325,310,'每一列都是 '+v.a+'＋'+v.b+'，共有 '+v.count+' 列。');
+  }else if(v.kind==='verticalProblem'){
+   body=v.lines.map((s,i)=>t(325,65+i*75,s,40)).join('')+line(230,170,420,170);
+  }else if(v.kind==='intervalTracks'){
+   v.intervals.forEach((n,i)=>{const y=95+i*125;body+=line(70,y,600,y)+t(80,y-42,i?'乙':'甲');for(let k=0;k<=v.max;k+=n){const x=90+k/v.max*490;body+=line(x,y-12,x,y+12)+t(x,y+40,k,19);}});
+   }else if(v.kind==='overlapStrips'){
+   const scale=500/(v.a+v.b-v.overlap),x=65+(v.a-v.overlap)*scale;
+   body+=rect(65,75,v.a*scale,32)+rect(x,135,v.b*scale,32,'#f0dcc0')+t(65+v.a*scale/2,60,v.a+' 毫米')+t(x+v.b*scale/2,205,v.b+' 毫米')+line(x,110,x,240)+line(65+v.a*scale,110,65+v.a*scale,240)+t(x+v.overlap*scale/2,275,'重疊 '+v.overlap+' 毫米',18);
+  }else if(v.kind==='cutStrip'){
+   let x=60;for(const n of v.cuts){const w=n/v.total*530;body+=rect(x,100,w,50)+t(x+w/2,132,n);x+=w;}body+=rect(x,100,590-x,50,'#f0dcc0')+t((x+590)/2,132,'？')+line(60,70,590,70)+t(325,45,'原長 '+v.total+' '+v.unit)+t(325,230,'各段緊接，沒有重疊或裁切損耗。',18);
+  }else if(v.kind==='rulerMove'){
+   box='0 0 650 360';const scale=550/v.max,X=n=>55+n*scale;
+   for(const [i,start,end]of [[0,v.start,v.end],[1,v.shift,null]]){const y=85+i*165;body+=line(55,y,605,y);for(let n=0;n<=v.max;n++)body+=line(X(n),y,X(n),y+(n%10===0?20:n%5===0?13:7))+(n%10===0?t(X(n),y+43,n,17):'');const right=end??start+(v.end-v.start);body+=rect(X(start),y-28,(right-start)*scale,16)+line(X(start),y-30,X(start),y+8)+line(X(right),y-30,X(right),y+8)+t(X(start),y-40,start,18)+t(X(right),y-40,end??'？',18);}
+   body+=t(325,345,'刻度單位：毫米；同一根細棒只平移，不伸縮。',18);
+  }else return null;
+  return {body,box,alt:v.caption+'。圖上標示為題目已知條件，問號為待求量。'};
+ }
+
  function dataFor(q){if(q.figure||q.chart)return null;const u=window.REVIEW_UNITS[q.unit];return q.visual||u.articleVisuals?.[q.passageId]||u.topicVisuals?.[q.topic]||null;}
- function render(v,zoom=false,key=''){const drawing=window.BExamDiagrams?.draw(v)||window.ExamDiagrams?.draw(v)||window.ReasoningVisuals?.draw(v)||math(v)||scene(v),uid='learning-visual-'+(++serial);const caption=v.caption||'圖像觀察卡',description=v.description||drawing.alt||'教學情境示意；請依圖文提供的資料作答。';return `<figure class="learning-visual ${v.examLineArt&&v.kind!=='camouflage'?'exam-line-art':''} ${v.kind.startsWith('triangle')||['isosceles','quadrilateral','parallelogram'].includes(v.kind)?'geometry-visual':''}"><figcaption><span>${escape(caption)}</span>${!zoom?`<button type="button" class="visual-zoom" data-zoom-visual="${escape(key)}">放大圖卡 ↗</button>`:''}</figcaption>${drawing.tableOnly?'':`<svg viewBox="${drawing.box||'0 0 600 330'}" role="img" aria-labelledby="${uid}"><title id="${uid}">${escape(drawing.alt||description)}</title><rect width="100%" height="100%" rx="22" fill="#fffaf0"/>${drawing.body}</svg>`}${v.table&&!v.hideTable?`<div class="visual-table-scroll"><table><caption>${escape(caption)}・資料表</caption><thead><tr>${v.table.headers.map(h=>`<th scope="col">${escape(h)}</th>`).join('')}</tr></thead><tbody>${v.table.rows.map(row=>`<tr>${row.map((value,i)=>i===0?`<th scope="row">${escape(value)}</th>`:`<td>${escape(value)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`:''}<p class="visual-description">${escape(description)}</p></figure>`;}
+ function render(v,zoom=false,key=''){const drawing=supplement(v)||window.BExamDiagrams?.draw(v)||window.ExamDiagrams?.draw(v)||window.ReasoningVisuals?.draw(v)||math(v)||scene(v),uid='learning-visual-'+(++serial);const caption=v.caption||'圖像觀察卡',description=v.description||drawing.alt||'教學情境示意；請依圖文提供的資料作答。';return `<figure class="learning-visual ${v.examLineArt&&v.kind!=='camouflage'?'exam-line-art':''} ${v.kind.startsWith('triangle')||['isosceles','quadrilateral','parallelogram'].includes(v.kind)?'geometry-visual':''}"><figcaption><span>${escape(caption)}</span>${!zoom?`<button type="button" class="visual-zoom" data-zoom-visual="${escape(key)}">放大圖卡 ↗</button>`:''}</figcaption>${drawing.tableOnly?'':`<svg viewBox="${drawing.box||'0 0 600 330'}" role="img" aria-labelledby="${uid}"><title id="${uid}">${escape(drawing.alt||description)}</title><rect width="100%" height="100%" rx="22" fill="#fffaf0"/>${drawing.body}</svg>`}${v.table&&!v.hideTable?`<div class="visual-table-scroll"><table><caption>${escape(caption)}・資料表</caption><thead><tr>${v.table.headers.map(h=>`<th scope="col">${escape(h)}</th>`).join('')}</tr></thead><tbody>${v.table.rows.map(row=>`<tr>${row.map((value,i)=>i===0?`<th scope="row">${escape(value)}</th>`:`<td>${escape(value)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`:''}<p class="visual-description">${escape(description)}</p></figure>`;}
  function markup(q){const v=dataFor(q);if(!v)return '';registry.set(q.id,v);return render(v,false,q.id);}
  function logText(q){const v=dataFor(q);return v?'\n【圖卡資料】'+JSON.stringify(v)+'\n':'';}
  document.addEventListener('click',e=>{const button=e.target.closest('[data-zoom-visual]');if(!button)return;const visual=registry.get(button.dataset.zoomVisual);if(!visual)return;let dialog=document.querySelector('#learning-visual-dialog');if(!dialog){dialog=document.createElement('dialog');dialog.id='learning-visual-dialog';dialog.className='learning-visual-dialog';dialog.setAttribute('aria-label','放大圖卡');document.body.appendChild(dialog);}dialog.innerHTML='<button class="visual-close secondary" type="button">關閉圖卡 ×</button>'+render(visual,true);dialog.querySelector('.visual-close').onclick=()=>dialog.close();dialog.showModal();});

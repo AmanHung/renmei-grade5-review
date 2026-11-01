@@ -21,6 +21,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - run: node prepare.mjs
+      - run: node test-v12.cjs
       - run: node validate.cjs
       - run: node test-gas.cjs
       - run: node test-reading.cjs

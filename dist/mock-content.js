@@ -3309,9 +3309,9 @@ window.REVIEW_EXAMS=[
     "subject": "數學",
     "title": "三上數學期中模擬考 A 卷",
     "publisher": "康軒",
-    "scope": "第 1～5 單元、統整與應用一",
+    "scope": "第 1～4 單元（10000 以內的數、四位數的加減、毫米、乘法）",
     "minutes": 50,
-    "signature": "a57755937797270622fc",
+    "signature": "ffbd2e23be9bfdbb9967",
     "total": 100,
     "entries": [
       {
@@ -3335,7 +3335,7 @@ window.REVIEW_EXAMS=[
         "section": "choice"
       },
       {
-        "questionId": "u21-t43-n1",
+        "questionId": "u17-t82-n2",
         "points": 2,
         "section": "choice"
       },
@@ -3380,12 +3380,12 @@ window.REVIEW_EXAMS=[
         "section": "fill"
       },
       {
-        "questionId": "u21-t48-n1",
+        "questionId": "u18-t83-n2",
         "points": 3,
         "section": "fill"
       },
       {
-        "questionId": "u21-t85-a",
+        "questionId": "u19-t84-n2",
         "points": 3,
         "section": "fill"
       },
@@ -3430,12 +3430,12 @@ window.REVIEW_EXAMS=[
         "section": "application"
       },
       {
-        "questionId": "u21-t41-n1",
+        "questionId": "u20-t85-n2",
         "points": 6,
         "section": "application"
       },
       {
-        "questionId": "u21-t47-n1",
+        "questionId": "u19-t86-n2",
         "points": 6,
         "section": "application"
       }
@@ -3444,32 +3444,26 @@ window.REVIEW_EXAMS=[
       {
         "unit": 17,
         "name": "10000 以內的數",
-        "count": 5,
-        "points": 20
+        "count": 6,
+        "points": 22
       },
       {
         "unit": 18,
         "name": "四位數的加減",
-        "count": 5,
-        "points": 20
+        "count": 6,
+        "points": 23
       },
       {
         "unit": 19,
         "name": "毫米",
-        "count": 5,
-        "points": 20
+        "count": 7,
+        "points": 29
       },
       {
         "unit": 20,
         "name": "乘法",
-        "count": 5,
-        "points": 20
-      },
-      {
-        "unit": 21,
-        "name": "角",
-        "count": 5,
-        "points": 20
+        "count": 6,
+        "points": 26
       }
     ],
     "readingCount": 0,
@@ -3500,7 +3494,7 @@ window.REVIEW_EXAMS=[
             "section": "choice"
           },
           {
-            "questionId": "u21-t43-n1",
+            "questionId": "u17-t82-n2",
             "points": 2,
             "section": "choice"
           }
@@ -3512,7 +3506,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "fill",
         "title": "二、計算與看圖填答",
-        "instructions": "計算後填數字；角的分類題填要求的名稱。",
+        "instructions": "依題目與圖示計算，填入數字。",
         "entries": [
           {
             "questionId": "u17-t01-n2",
@@ -3555,12 +3549,12 @@ window.REVIEW_EXAMS=[
             "section": "fill"
           },
           {
-            "questionId": "u21-t48-n1",
+            "questionId": "u18-t83-n2",
             "points": 3,
             "section": "fill"
           },
           {
-            "questionId": "u21-t85-a",
+            "questionId": "u19-t84-n2",
             "points": 3,
             "section": "fill"
           }
@@ -3571,7 +3565,7 @@ window.REVIEW_EXAMS=[
       },
       {
         "id": "application",
-        "title": "三、應用與圖形推理",
+        "title": "三、應用與數量推理",
         "instructions": "可用紙筆計算，依題目填數字或選答案。本卷依最終答案計分，不評紙筆過程。",
         "entries": [
           {
@@ -3615,12 +3609,12 @@ window.REVIEW_EXAMS=[
             "section": "application"
           },
           {
-            "questionId": "u21-t41-n1",
+            "questionId": "u20-t85-n2",
             "points": 6,
             "section": "application"
           },
           {
-            "questionId": "u21-t47-n1",
+            "questionId": "u19-t86-n2",
             "points": 6,
             "section": "application"
           }
@@ -3631,7 +3625,7 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 25,
-    "formatVersion": 10,
+    "formatVersion": 12,
     "variant": "A"
   },
   {
@@ -3642,7 +3636,7 @@ window.REVIEW_EXAMS=[
     "publisher": "翰林",
     "scope": "第 1～5 單元、學習加油讚（一）",
     "minutes": 50,
-    "signature": "030ead70a1cdf79f00a0",
+    "signature": "734725a308c0c1d7c754",
     "total": 100,
     "entries": [
       {
@@ -7283,9 +7277,9 @@ window.REVIEW_EXAMS=[
     "subject": "數學",
     "title": "三上數學期中模擬考 B 卷",
     "publisher": "康軒",
-    "scope": "第 1～5 單元、統整與應用一",
+    "scope": "第 1～4 單元（10000 以內的數、四位數的加減、毫米、乘法）",
     "minutes": 60,
-    "signature": "d1121e548dd3a29fdc8f",
+    "signature": "9f22daffdb1f96ce7285",
     "total": 100,
     "entries": [
       {
@@ -7309,7 +7303,7 @@ window.REVIEW_EXAMS=[
         "section": "choice"
       },
       {
-        "questionId": "u21-t99-b",
+        "questionId": "u17-t88-n2",
         "points": 2,
         "section": "choice"
       },
@@ -7354,12 +7348,12 @@ window.REVIEW_EXAMS=[
         "section": "fill"
       },
       {
-        "questionId": "u21-t99-n1",
+        "questionId": "u18-t89-n2",
         "points": 3,
         "section": "fill"
       },
       {
-        "questionId": "u21-t98-b",
+        "questionId": "u19-t90-n2",
         "points": 3,
         "section": "fill"
       },
@@ -7404,12 +7398,12 @@ window.REVIEW_EXAMS=[
         "section": "application"
       },
       {
-        "questionId": "u21-t97-b",
+        "questionId": "u20-t91-n2",
         "points": 6,
         "section": "application"
       },
       {
-        "questionId": "u21-t96-b",
+        "questionId": "u19-t92-n2",
         "points": 6,
         "section": "application"
       }
@@ -7418,32 +7412,26 @@ window.REVIEW_EXAMS=[
       {
         "unit": 17,
         "name": "10000 以內的數",
-        "count": 5,
-        "points": 20
+        "count": 6,
+        "points": 22
       },
       {
         "unit": 18,
         "name": "四位數的加減",
-        "count": 5,
-        "points": 20
+        "count": 6,
+        "points": 23
       },
       {
         "unit": 19,
         "name": "毫米",
-        "count": 5,
-        "points": 20
+        "count": 7,
+        "points": 29
       },
       {
         "unit": 20,
         "name": "乘法",
-        "count": 5,
-        "points": 20
-      },
-      {
-        "unit": 21,
-        "name": "角",
-        "count": 5,
-        "points": 20
+        "count": 6,
+        "points": 26
       }
     ],
     "readingCount": 0,
@@ -7477,7 +7465,7 @@ window.REVIEW_EXAMS=[
             "section": "choice"
           },
           {
-            "questionId": "u21-t99-b",
+            "questionId": "u17-t88-n2",
             "points": 2,
             "section": "choice"
           }
@@ -7486,7 +7474,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "fill",
         "title": "二、條件計算與看圖填答",
-        "instructions": "留意單位、範圍與起點；計算後填數字或指定名稱。",
+        "instructions": "依題目與圖示計算，填入數字。",
         "count": 10,
         "points": 30,
         "pointsEach": 3,
@@ -7532,12 +7520,12 @@ window.REVIEW_EXAMS=[
             "section": "fill"
           },
           {
-            "questionId": "u21-t99-n1",
+            "questionId": "u18-t89-n2",
             "points": 3,
             "section": "fill"
           },
           {
-            "questionId": "u21-t98-b",
+            "questionId": "u19-t90-n2",
             "points": 3,
             "section": "fill"
           }
@@ -7545,7 +7533,7 @@ window.REVIEW_EXAMS=[
       },
       {
         "id": "application",
-        "title": "三、多步驟應用與推理",
+        "title": "三、應用與數量推理",
         "instructions": "先整理已知與所求，再計算或判斷。可用紙筆；依最終答案計分。",
         "count": 10,
         "points": 60,
@@ -7592,12 +7580,12 @@ window.REVIEW_EXAMS=[
             "section": "application"
           },
           {
-            "questionId": "u21-t97-b",
+            "questionId": "u20-t91-n2",
             "points": 6,
             "section": "application"
           },
           {
-            "questionId": "u21-t96-b",
+            "questionId": "u19-t92-n2",
             "points": 6,
             "section": "application"
           }
@@ -7605,7 +7593,7 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 25,
-    "formatVersion": 11,
+    "formatVersion": 12,
     "variant": "B",
     "level": "進階：整合、推論與多步驟應用"
   },
@@ -27713,24 +27701,14 @@ window.REVIEW_EXAM_ITEMS=[
     "unitLabel": "張",
     "explanation": "2000＋1300＋60＝3360；13 個百可換成 1 個千和 3 個百。",
     "visual": {
-      "kind": "examReceipt",
-      "heading": "回收登記",
-      "caption": "回收登記",
-      "rows": [
-        [
-          "千積木",
-          "2 個"
-        ],
-        [
-          "百積木",
-          "13 個"
-        ],
-        [
-          "十積木",
-          "6 個"
-        ]
-      ],
-      "examLineArt": true
+      "kind": "placePiles",
+      "caption": "回收登記：尚未整理進位的積木",
+      "counts": [
+        2,
+        13,
+        6,
+        0
+      ]
     },
     "id": "u17-t99-n1",
     "unit": 17,
@@ -27752,20 +27730,14 @@ window.REVIEW_EXAM_ITEMS=[
     "unitLabel": "",
     "explanation": "千位 7；剩下數字依百、十、個位由小到大放 0、3、8，得 7038。",
     "visual": {
-      "kind": "examReceipt",
-      "heading": "四張卡，每張用一次",
-      "caption": "四張卡，每張用一次",
-      "rows": [
-        [
-          "卡片",
-          "0、3、7、8"
-        ],
-        [
-          "條件",
-          "大於 7000 且最小"
-        ]
-      ],
-      "examLineArt": true
+      "kind": "numberCards",
+      "caption": "每張卡用一次，千位先選 7",
+      "numbers": [
+        0,
+        3,
+        7,
+        8
+      ]
     },
     "id": "u17-t98-n1",
     "unit": 17,
@@ -27826,24 +27798,14 @@ window.REVIEW_EXAM_ITEMS=[
     "unitLabel": "",
     "explanation": "千位 5、百位 0；剩 8 與 2，十位較大，所以 5082。",
     "visual": {
-      "kind": "examReceipt",
-      "heading": "密碼條件",
-      "caption": "密碼條件",
-      "rows": [
-        [
-          "數字卡",
-          "2、0、5、8"
-        ],
-        [
-          "範圍",
-          "5000～5100"
-        ],
-        [
-          "另需符合",
-          "十位比個位大"
-        ]
-      ],
-      "examLineArt": true
+      "kind": "numberCards",
+      "caption": "每張卡用一次，依範圍與位值排卡",
+      "numbers": [
+        2,
+        0,
+        5,
+        8
+      ]
     },
     "id": "u17-t96-n1",
     "unit": 17,
@@ -27889,24 +27851,14 @@ window.REVIEW_EXAM_ITEMS=[
     "unitLabel": "元",
     "explanation": "6000－2785－946＝2269。",
     "visual": {
-      "kind": "examReceipt",
-      "heading": "修繕帳目",
-      "caption": "修繕帳目",
-      "rows": [
-        [
-          "原有",
-          "6000 元"
-        ],
-        [
-          "材料",
-          "2785 元"
-        ],
-        [
-          "工具",
-          "946 元"
-        ]
-      ],
-      "examLineArt": true
+      "kind": "quantityFlow",
+      "caption": "修繕支出",
+      "labels": [
+        "原有 6000 元",
+        "材料 2785 元",
+        "工具 946 元",
+        "剩餘？元"
+      ]
     },
     "id": "u18-t99-n1",
     "unit": 18,
@@ -27986,28 +27938,14 @@ window.REVIEW_EXAM_ITEMS=[
     "unitLabel": "人",
     "explanation": "現有 2186－975＋1288＝2499；3500－2499＝1001。",
     "visual": {
-      "kind": "examReceipt",
-      "heading": "人數紀錄",
-      "caption": "人數紀錄",
-      "rows": [
-        [
-          "上限",
-          "3500 人"
-        ],
-        [
-          "原有",
-          "2186 人"
-        ],
-        [
-          "離場",
-          "975 人"
-        ],
-        [
-          "進場",
-          "1288 人"
-        ]
-      ],
-      "examLineArt": true
+      "kind": "quantityFlow",
+      "caption": "上限 3500 人",
+      "labels": [
+        "原有 2186 人",
+        "離場 975 人",
+        "進場 1288 人",
+        "還能容納？人"
+      ]
     },
     "id": "u18-t96-n1",
     "unit": 18,
@@ -28053,24 +27991,12 @@ window.REVIEW_EXAM_ITEMS=[
     "unitLabel": "毫米",
     "explanation": "原長 96－17＝79，平移後右端 5＋79＝84。",
     "visual": {
-      "kind": "examReceipt",
-      "heading": "尺上位置",
-      "caption": "尺上位置",
-      "rows": [
-        [
-          "原左端",
-          "17 毫米"
-        ],
-        [
-          "原右端",
-          "96 毫米"
-        ],
-        [
-          "新左端",
-          "5 毫米"
-        ]
-      ],
-      "examLineArt": true
+      "kind": "rulerMove",
+      "caption": "細棒平移前後",
+      "start": 17,
+      "end": 96,
+      "shift": 5,
+      "max": 100
     },
     "id": "u19-t99-n1",
     "unit": 19,
@@ -28111,24 +28037,16 @@ window.REVIEW_EXAM_ITEMS=[
     "unitLabel": "毫米",
     "explanation": "160－28×3－40＝36 毫米。",
     "visual": {
-      "kind": "examReceipt",
-      "heading": "裁切清單",
-      "caption": "裁切清單",
-      "rows": [
-        [
-          "原長",
-          "16 公分"
-        ],
-        [
-          "第一輪",
-          "3 段，各 28 毫米"
-        ],
-        [
-          "第二輪",
-          "1 段，4 公分"
-        ]
+      "kind": "cutStrip",
+      "caption": "16 公分紙帶的裁切位置",
+      "total": 160,
+      "cuts": [
+        28,
+        28,
+        28,
+        40
       ],
-      "examLineArt": true
+      "unit": "毫米"
     },
     "id": "u19-t97-n1",
     "unit": 19,
@@ -28231,20 +28149,20 @@ window.REVIEW_EXAM_ITEMS=[
     "unitLabel": "瓶",
     "explanation": "24×8－30×5＝192－150＝42。",
     "visual": {
-      "kind": "examReceipt",
-      "heading": "飲品分配",
-      "caption": "飲品分配",
+      "kind": "repeatGroups",
+      "caption": "購入與發出比較",
       "rows": [
-        [
-          "購入",
-          "8 箱，各 24 瓶"
-        ],
-        [
-          "發出",
-          "5 班，各 30 瓶"
-        ]
-      ],
-      "examLineArt": true
+        {
+          "label": "購入",
+          "count": 8,
+          "per": 24
+        },
+        {
+          "label": "發出",
+          "count": 5,
+          "per": 30
+        }
+      ]
     },
     "id": "u20-t97-n1",
     "unit": 20,
@@ -29110,5 +29028,304 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u12-t98-b"
+  },
+  {
+    "id": "u17-t82-n2",
+    "unit": 17,
+    "topic": 81,
+    "concept": "10000 以內的數",
+    "type": "single",
+    "text": "用 0、2、5、9 各一次排成最大的四位數，哪一個正確？",
+    "answer": 0,
+    "explanation": "先把較大的數字放在高位，依序是 9、5、2、0，因此為 9520。",
+    "options": [
+      "9520",
+      "9502",
+      "9250",
+      "9025"
+    ],
+    "visual": {
+      "kind": "numberCards",
+      "caption": "每張卡片用一次",
+      "numbers": [
+        0,
+        2,
+        5,
+        9
+      ],
+      "examLineArt": true
+    },
+    "family": "scope-A-1",
+    "sourceIds": [
+      "M3",
+      "M3B"
+    ],
+    "sourceType": "依三上第 1～4 單元原創命題",
+    "variant": "A"
+  },
+  {
+    "id": "u18-t83-n2",
+    "unit": 18,
+    "topic": 82,
+    "concept": "四位數的加減",
+    "type": "numeric",
+    "text": "倉庫有 4020 張色紙，上午用掉 975 張，下午補進 648 張，現在有幾張？",
+    "answer": 3693,
+    "explanation": "先減去上午用量，再加補入：4020－975＋648＝3693 張。",
+    "visual": {
+      "kind": "quantityFlow",
+      "caption": "色紙的數量變化",
+      "labels": [
+        "原有 4020 張",
+        "用掉 975 張",
+        "補進 648 張",
+        "現在？張"
+      ],
+      "examLineArt": true
+    },
+    "family": "scope-A-2",
+    "sourceIds": [
+      "M3",
+      "M3B"
+    ],
+    "sourceType": "依三上第 1～4 單元原創命題",
+    "variant": "A"
+  },
+  {
+    "id": "u19-t84-n2",
+    "unit": 19,
+    "topic": 83,
+    "concept": "毫米",
+    "type": "numeric",
+    "text": "兩段紙條分別長 38 毫米與 27 毫米，黏接時重疊 9 毫米。總長是多少毫米？",
+    "answer": 56,
+    "explanation": "相加後扣掉重複計算的部分：38＋27－9＝56 毫米。",
+    "visual": {
+      "kind": "overlapStrips",
+      "caption": "兩段紙條重疊",
+      "a": 38,
+      "b": 27,
+      "overlap": 9,
+      "examLineArt": true
+    },
+    "family": "scope-A-3",
+    "sourceIds": [
+      "M3",
+      "M3B"
+    ],
+    "sourceType": "依三上第 1～4 單元原創命題",
+    "variant": "A"
+  },
+  {
+    "id": "u20-t85-n2",
+    "unit": 20,
+    "topic": 84,
+    "concept": "乘法",
+    "type": "numeric",
+    "text": "每盒 125 枝筆，買 6 盒，送出 238 枝後，還有幾枝？",
+    "answer": 512,
+    "explanation": "先算總量 125×6＝750，再算 750－238＝512 枝。",
+    "visual": {
+      "kind": "quantityFlow",
+      "caption": "買入與送出",
+      "labels": [
+        "每盒 125 枝",
+        "共 6 盒",
+        "送出 238 枝",
+        "剩餘？枝"
+      ],
+      "examLineArt": true
+    },
+    "family": "scope-A-4",
+    "sourceIds": [
+      "M3",
+      "M3B"
+    ],
+    "sourceType": "依三上第 1～4 單元原創命題",
+    "variant": "A"
+  },
+  {
+    "id": "u19-t86-n2",
+    "unit": 19,
+    "topic": 85,
+    "concept": "毫米",
+    "type": "numeric",
+    "text": "細棒起點是 9 毫米，終點是 36 毫米。左端移到 4 毫米後，右端在幾毫米？",
+    "answer": 31,
+    "explanation": "細棒長度為 36－9＝27 毫米；平移後右端為 4＋27＝31 毫米。",
+    "visual": {
+      "kind": "rulerMove",
+      "caption": "細棒平移",
+      "start": 9,
+      "end": 36,
+      "shift": 4,
+      "max": 40,
+      "examLineArt": true
+    },
+    "family": "scope-A-5",
+    "sourceIds": [
+      "M3",
+      "M3B"
+    ],
+    "sourceType": "依三上第 1～4 單元原創命題",
+    "variant": "A"
+  },
+  {
+    "id": "u17-t88-n2",
+    "unit": 17,
+    "topic": 81,
+    "concept": "10000 以內的數",
+    "type": "single",
+    "text": "用 1、0、6、8 各一次排成最小的四位數，下列哪個說明正確？",
+    "answer": 0,
+    "explanation": "千位不能為 0，先選最小的非零數字 1，再依序放 0、6、8，得到 1068。",
+    "options": [
+      "1068，千位不能是 0",
+      "0168，從小到大排列即可",
+      "1608，0 必須放十位",
+      "1680，0 必須放最後"
+    ],
+    "visual": {
+      "kind": "numberCards",
+      "caption": "每張卡用一次",
+      "numbers": [
+        1,
+        0,
+        6,
+        8
+      ],
+      "examLineArt": true
+    },
+    "family": "scope-B-1",
+    "sourceIds": [
+      "M3",
+      "M3B"
+    ],
+    "sourceType": "依三上第 1～4 單元原創命題",
+    "variant": "B"
+  },
+  {
+    "id": "u18-t89-n2",
+    "unit": 18,
+    "topic": 82,
+    "concept": "四位數的加減",
+    "type": "numeric",
+    "text": "有 5000 元，買書用 1685 元，文具比書少 476 元。買完兩樣剩幾元？",
+    "answer": 2106,
+    "explanation": "文具是 1685－476＝1209 元。剩下 5000－1685－1209＝2106 元。",
+    "visual": {
+      "kind": "quantityFlow",
+      "caption": "購物預算",
+      "labels": [
+        "原有 5000 元",
+        "書 1685 元",
+        "文具少 476 元",
+        "剩餘？元"
+      ],
+      "examLineArt": true
+    },
+    "family": "scope-B-2",
+    "sourceIds": [
+      "M3",
+      "M3B"
+    ],
+    "sourceType": "依三上第 1～4 單元原創命題",
+    "variant": "B"
+  },
+  {
+    "id": "u19-t90-n2",
+    "unit": 19,
+    "topic": 83,
+    "concept": "毫米",
+    "type": "numeric",
+    "text": "長 12 公分的紙帶，剪下 3 段各 27 毫米，不計損耗。剩下多少毫米？",
+    "answer": 39,
+    "explanation": "12 公分＝120 毫米，剪下 27×3＝81 毫米，剩下 120－81＝39 毫米。",
+    "visual": {
+      "kind": "cutStrip",
+      "caption": "紙帶裁切",
+      "total": 120,
+      "cuts": [
+        27,
+        27,
+        27
+      ],
+      "unit": "毫米",
+      "examLineArt": true
+    },
+    "family": "scope-B-3",
+    "sourceIds": [
+      "M3",
+      "M3B"
+    ],
+    "sourceType": "依三上第 1～4 單元原創命題",
+    "variant": "B"
+  },
+  {
+    "id": "u20-t91-n2",
+    "unit": 20,
+    "topic": 84,
+    "concept": "乘法",
+    "type": "numeric",
+    "text": "每天讀 24 頁，連讀 8 天。另一本每天讀 18 頁，連讀 7 天。兩本合計讀幾頁？",
+    "answer": 318,
+    "explanation": "第一本讀 24×8＝192 頁，第二本讀 18×7＝126 頁，合計 318 頁。",
+    "visual": {
+      "kind": "repeatGroups",
+      "caption": "兩本書的閱讀量",
+      "rows": [
+        {
+          "label": "第一本",
+          "per": 24,
+          "count": 8
+        },
+        {
+          "label": "第二本",
+          "per": 18,
+          "count": 7
+        }
+      ],
+      "examLineArt": true
+    },
+    "family": "scope-B-4",
+    "sourceIds": [
+      "M3",
+      "M3B"
+    ],
+    "sourceType": "依三上第 1～4 單元原創命題",
+    "variant": "B"
+  },
+  {
+    "id": "u19-t92-n2",
+    "unit": 19,
+    "topic": 85,
+    "concept": "毫米",
+    "type": "numeric",
+    "text": "兩段線分別長 47 毫米和 6 公分，接起來不重疊。比 10 公分長多少毫米？",
+    "answer": 7,
+    "explanation": "6 公分＝60 毫米，10 公分＝100 毫米；47＋60－100＝7 毫米。",
+    "visual": {
+      "kind": "quantityBars",
+      "caption": "比較接起來的總長與 10 公分",
+      "labels": [
+        "第一段",
+        "第二段",
+        "比較基準"
+      ],
+      "values": [
+        47,
+        60,
+        100
+      ],
+      "unit": "毫米",
+      "examLineArt": true
+    },
+    "family": "scope-B-5",
+    "sourceIds": [
+      "M3",
+      "M3B"
+    ],
+    "sourceType": "依三上第 1～4 單元原創命題",
+    "variant": "B"
   }
 ];
