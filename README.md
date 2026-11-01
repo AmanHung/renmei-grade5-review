@@ -25,3 +25,6 @@
 推送 main 後 GitHub Actions 先測試，再發布 dist/ 到 GitHub Pages。
 
 版本與範圍證據見 [三上版本核對.md](三上版本核對.md)、[版本核對.md](版本核對.md)。
+# 家長後台
+
+開啟 `parent.html`，可查看各孩子的單元進度、成績趨勢、錯題與完整練習歷程。支援本機紀錄、原試算表 CSV 匯入及家長金鑰保護的雲端查詢。雲端功能需更新原 Apps Script 部署，詳見 [GAS 設定說明](GAS設定說明.md)。驗證指令：`node test-parent.cjs`。

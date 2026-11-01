@@ -1,4 +1,4 @@
-/** 小小複習室：專用紀錄表，只接受寫入，不提供公開查詢孩子紀錄。 */
+/** 小小複習室：紀錄寫入及家長金鑰保護的唯讀查詢。 */
 var STUDY_HEADERS=['接收時間（臺北）','小朋友名字','紀錄種類','練習編號','科目','單元','題號','題型','題目','作答內容','正確答案','是否答對','分數','答對題數','總題數','作答秒數','紀錄編號','裝置作答時間','網站版本'];
 
 function setup() {
@@ -79,6 +79,13 @@ function doPost(request) {
 
 function doGet(request) {
   var p=request&&request.parameter||{};
+  if(p.action==='parent') {
+    // 不接受任意回呼名稱，未授權時也不讀取試算表。
+    if(!/^studyParent_\d+_\d+$/.test(String(p.callback||'')))return json_({ok:false,error:'查詢格式錯誤'});
+    var parentResult;
+    try { parentResult=parentRecords_(p); } catch(error) { parentResult={ok:false,error:'讀取失敗，請確認後端試算表設定。'}; }
+    return ContentService.createTextOutput(p.callback+'('+JSON.stringify(parentResult).replace(/</g,'\\u003c').replace(/\u2028/g,'\\u2028').replace(/\u2029/g,'\\u2029')+');').setMimeType(ContentService.MimeType.JAVASCRIPT);
+  }
   var result={ok:true,service:'little-study-log',schemaVersion:1,features:['weighted-v1','text-v1']};
   if(p.action==='receipt') {
     if(!/^[-\w]{12,100}$/.test(String(p.id||'')))result={ok:false};
@@ -97,3 +104,18 @@ function doGet(request) {
 }
 
 function json_(value){return ContentService.createTextOutput(JSON.stringify(value)).setMimeType(ContentService.MimeType.JSON);}
+
+function parentRecords_(p) {
+  var expected=PropertiesService.getScriptProperties().getProperty('STUDY_PARENT_TOKEN')||'';
+  var supplied=String(p.token||'');
+  if(expected.length<24||supplied.length!==expected.length)return {ok:false,error:'家長金鑰不正確，或後端尚未設定金鑰。'};
+  var mismatch=0;for(var i=0;i<expected.length;i++)mismatch|=expected.charCodeAt(i)^supplied.charCodeAt(i);
+  if(mismatch)return {ok:false,error:'家長金鑰不正確，或後端尚未設定金鑰。'};
+  if(!/^\d+(?:_\d+)?$/.test(String(p.cursor||'2')))return {ok:false,error:'分頁格式錯誤'};
+  var parts=String(p.cursor||'2').split('_'),start=Number(parts[0]),sheet=getBook_().getSheetByName('作答紀錄'),last=sheet.getLastRow(),end=parts.length>1?Number(parts[1]):last;
+  if(start<2||end>last||end<1||start>end+1)return {ok:false,error:'分頁範圍錯誤'};
+  var count=Math.min(250,Math.max(0,end-start+1)),rows=count?sheet.getRange(start,1,count,STUDY_HEADERS.length).getValues():[];
+  var array=function(v){try{var a=JSON.parse(v);return Array.isArray(a)?a:[String(v)];}catch(e){return [String(v||'')];}};
+  var events=rows.filter(function(r){return r[16]&&r[1];}).map(function(r){return {id:String(r[16]),learner:String(r[1]),kind:r[2]==='逐題作答'?'answer':'session',sessionId:String(r[3]),subject:String(r[4]),unitName:String(r[5]),questionId:String(r[6]),questionType:String(r[7]),question:String(r[8]),selected:array(r[9]),expected:array(r[10]),correct:r[11]==='答對',score:Number(r[12]),right:Number(r[13]),total:Number(r[14]),elapsedSeconds:Number(r[15]),createdAt:r[17] instanceof Date?r[17].toISOString():String(r[17]),appVersion:String(r[18])};});
+  return {ok:true,events:events,end:end,next:start+count<=end?start+count:0};
+}
