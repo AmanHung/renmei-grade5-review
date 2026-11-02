@@ -35,7 +35,7 @@
     rows=M.merge(rows,r.events);snapshot=r.end;const next=Number(r.next);if(next&&next<=cursor)throw Error('後端分頁資料異常');cursor=next;
    }while(cursor);
    cloud=rows;sourceNote='Google Sheet 已連線・最後更新 '+date(new Date().toISOString())+'・每 60 秒自動更新';options();render();
-   $('#connection').textContent=`已自動讀取 ${cloud.length} 筆雲端紀錄，不需要匯入 CSV。`;
+   $('#connection').textContent=`已自動讀取 ${cloud.length} 筆雲端紀錄，不需要匯入 CSV。`;if($('#source-dialog').open)$('#source-dialog').close();
   }catch(err){if(generation===connectionGeneration){sourceNote='雲端更新失敗：'+err.message+'；保留上次資料，稍後會自動重試。';$('#connection').textContent=sourceNote;render();}}
   finally{busy=false;button.disabled=false;}
  }
