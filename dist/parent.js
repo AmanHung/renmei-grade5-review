@@ -1,7 +1,8 @@
 (function(){
  'use strict';
  const M=ParentModel,units=window.REVIEW_UNITS,bank=new Map(units.flatMap(u=>u.questions).concat(window.REVIEW_EXAM_ITEMS||[]).map(q=>[q.id,q])),active=units.filter(u=>u.active!==false),$=s=>document.querySelector(s),esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
- let imported=[],cloud=[],local=[],busy=false,sourceNote='',wrongLimit=30,wrongQuery='',wrongMode='open',historyLimit=30;
+ const AUTH_KEY='little-study-parent-connection-v1';
+ let imported=[],cloud=[],local=[],busy=false,sourceNote='',wrongLimit=30,wrongQuery='',wrongMode='open',historyLimit=30,connectionToken='',connectionGeneration=0;
  const read=(k,f)=>{try{return JSON.parse(localStorage.getItem(k))??f;}catch{return f;}},date=s=>{const d=new Date(s);return Number.isFinite(+d)?d.toLocaleString('zh-TW',{timeZone:'Asia/Taipei',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit'}):'時間未提供';};
  const list=a=>Array.isArray(a)?a.join('\n'):String(a??''),rate=(a,b)=>b?Math.round(a/b*100)+'％':'—';
  function loadLocal(){local=M.merge(...read('little-study-names-v3',[]).filter(n=>typeof n==='string').map(n=>read('little-study-v3:'+encodeURIComponent(n)+':records',[])));}
@@ -21,8 +22,39 @@
  function renderWrong(s){const items=s.wrong.filter(w=>(wrongMode==='all'||(wrongMode==='resolved'?w.resolved:!w.resolved))&&[w.latest.question,w.latest.unitName,w.latest.questionId].join(' ').toLowerCase().includes(wrongQuery.toLowerCase())).sort((a,b)=>b.count-a.count||String(b.latest.createdAt).localeCompare(String(a.latest.createdAt)));const el=$('#wrong-list');el.innerHTML=`<p class="hint">共 ${items.length} 題，先顯示答錯次數較多的題目。</p>`+items.slice(0,wrongLimit).map((w,i)=>`<details data-key="${i}"><summary><span class="tag ${w.resolved?'ok':''}">${w.resolved?'已再答對':'待複習'}・錯 ${w.count} 次</span>${esc(bank.get(w.latest.questionId)?.text||w.latest.question||w.latest.questionId)}</summary><div class="detail-body"></div></details>`).join('')+(items.length>wrongLimit?'<button id="more-wrong">再顯示 30 題</button>':'');wireDetails(el,i=>detail(items[i].latest)+'<h4>這一題的作答足跡</h4>'+items[i].attempts.slice().reverse().map(e=>`<p>${date(e.createdAt)}・${e.correct?'答對':'答錯'}・${esc(list(e.selected))}</p>`).join(''));if($('#more-wrong'))$('#more-wrong').onclick=()=>{wrongLimit+=30;renderWrong(s);};}
  function renderSessions(s){const sessions=s.sessions.slice().reverse(),el=$('#sessions');el.innerHTML=sessions.slice(0,historyLimit).map((e,i)=>`<details data-key="${i}"><summary><span class="tag ${e.score>=80?'ok':''}">${esc(e.score)} 分</span>${esc(e.unitName)}・${esc(e.right)} / ${esc(e.total)} 題・${date(e.createdAt)}</summary><div class="detail-body"></div></details>`).join('')||'<p class="empty">尚無已完成練習。</p>';if(sessions.length>historyLimit)el.insertAdjacentHTML('beforeend','<button id="more-sessions">再顯示 30 份</button>');wireDetails(el,i=>{const a=s.answers.filter(e=>e.sessionId===sessions[i].sessionId);return `<p>用時約 ${Math.round(Number(sessions[i].elapsedSeconds||0)/60)} 分鐘・已讀取 ${a.length} / ${esc(sessions[i].total)} 筆逐題紀錄</p>`+a.map(e=>`<details><summary>${e.correct?'✓ 答對':'○ 答錯'}・${esc(bank.get(e.questionId)?.text||e.question)}</summary>${detail(e)}</details>`).join('');});if($('#more-sessions'))$('#more-sessions').onclick=()=>{historyLimit+=30;renderSessions(s);};}
  function request(token,cursor){return new Promise((resolve,reject)=>{const callback='studyParent_'+Date.now()+'_'+Math.floor(Math.random()*1e8),script=document.createElement('script');const clean=()=>{clearTimeout(timer);script.remove();delete window[callback];};const timer=setTimeout(()=>{clean();reject(Error('雲端讀取逾時，請確認後端已更新部署。'));},30000);window[callback]=r=>{clean();r.ok?resolve(r):reject(Error(r.error||'無法讀取雲端資料'));};script.onerror=()=>{clean();reject(Error('連線失敗，請確認網路與後端部署。'));};const url=new URL(window.LEARNING_CONFIG.gasUrl);url.searchParams.set('action','parent');url.searchParams.set('token',token);url.searchParams.set('cursor',cursor);url.searchParams.set('callback',callback);script.referrerPolicy='no-referrer';script.src=url.href;document.head.appendChild(script);});}
- $('#sources').onclick=()=>$('#source-dialog').showModal();$('#refresh').onclick=()=>{loadLocal();options();render();};for(const id of ['child','grade','subject','period'])$('#'+id).onchange=()=>{wrongLimit=30;historyLimit=30;render();};
+ $('#sources').onclick=()=>$('#source-dialog').showModal();$('#refresh').onclick=()=>{loadLocal();options();render();if(connectionToken)syncCloud();};for(const id of ['child','grade','subject','period'])$('#'+id).onchange=()=>{wrongLimit=30;historyLimit=30;render();};
  $('#import').onchange=async e=>{const f=e.target.files[0];if(!f)return;try{if(f.size>30*1024*1024)throw Error('檔案超過 30 MB，請先分批匯出。');imported=M.merge(imported,M.fromCSV(await f.text()));options();render();$('#connection').textContent=`已匯入 ${imported.length} 筆紀錄。可關閉此視窗查看。`;}catch(err){$('#connection').textContent=err.message;}e.target.value='';};
- $('#connect').onsubmit=async e=>{e.preventDefault();if(busy)return;busy=true;const button=$('#connect button');button.disabled=true;const token=$('#token').value.trim();$('#token').value='';try{let cursor=2,rows=[],pages=0,snapshot;do{if(++pages>1000)throw Error('資料過多，請改以 CSV 匯入。');$('#connection').textContent=`正在讀取雲端紀錄…已讀取 ${rows.length} 筆`;const r=await request(token,cursor+(snapshot?'_'+snapshot:''));if(!Array.isArray(r.events))throw Error('後端尚未支援家長查詢，請先更新部署。');rows=M.merge(rows,r.events);snapshot=r.end;const next=Number(r.next);if(next&&next<=cursor)throw Error('後端分頁資料異常');cursor=next;}while(cursor);cloud=rows;sourceNote='雲端快照讀取於 '+date(new Date().toISOString())+'；需要最新資料時請重新連線。';options();render();$('#connection').textContent=`雲端已讀取 ${cloud.length} 筆。金鑰不會儲存在網站。`;}catch(err){$('#connection').textContent=err.message;}finally{busy=false;button.disabled=false;}};
- $('#disconnect').onclick=()=>{imported=[];cloud=[];sourceNote='';$('#token').value='';options();render();$('#connection').textContent='已清除匯入與雲端暫存；本機孩子紀錄仍保留。';};window.addEventListener('storage',()=>{loadLocal();options();render();});loadLocal();options();render();
+ async function syncCloud(){
+  if(busy||!connectionToken)return;
+  busy=true;const generation=connectionGeneration,token=connectionToken,button=$('#connect button');button.disabled=true;
+  try{let cursor=2,rows=[],pages=0,snapshot;
+   do{if(++pages>1000)throw Error('資料過多，請聯絡家長協助。');
+    sourceNote=`正在自動同步 Google Sheet…已讀取 ${rows.length} 筆`;$('#connection').textContent=sourceNote;render();
+    const r=await request(token,cursor+(snapshot?'_'+snapshot:''));if(generation!==connectionGeneration)return;
+    if(!Array.isArray(r.events))throw Error('後端尚未支援家長查詢，請先更新部署。');
+    rows=M.merge(rows,r.events);snapshot=r.end;const next=Number(r.next);if(next&&next<=cursor)throw Error('後端分頁資料異常');cursor=next;
+   }while(cursor);
+   cloud=rows;sourceNote='Google Sheet 已連線・最後更新 '+date(new Date().toISOString())+'・每 60 秒自動更新';options();render();
+   $('#connection').textContent=`已自動讀取 ${cloud.length} 筆雲端紀錄，不需要匯入 CSV。`;
+  }catch(err){if(generation===connectionGeneration){sourceNote='雲端更新失敗：'+err.message+'；保留上次資料，稍後會自動重試。';$('#connection').textContent=sourceNote;render();}}
+  finally{busy=false;button.disabled=false;}
+ }
+ $('#connect').onsubmit=e=>{
+  e.preventDefault();if(busy)return;
+  connectionGeneration++;connectionToken=$('#token').value.trim();$('#token').value='';
+  try{if($('#remember').checked)localStorage.setItem(AUTH_KEY,JSON.stringify({token:connectionToken}));else localStorage.removeItem(AUTH_KEY);}
+  catch{$('#connection').textContent='瀏覽器不允許記住連線，本次分頁仍可自動更新。';}
+  syncCloud();
+ };
+ $('#disconnect').onclick=()=>{
+  connectionGeneration++;connectionToken='';try{localStorage.removeItem(AUTH_KEY);}catch{}
+  imported=[];cloud=[];sourceNote='已中斷自動連線並清除本裝置保存的金鑰。';$('#token').value='';$('#remember').checked=false;
+  options();render();$('#connection').textContent=sourceNote;
+ };
+ window.addEventListener('storage',e=>{loadLocal();options();render();if(e.key===AUTH_KEY){const auth=read(AUTH_KEY,null);connectionGeneration++;connectionToken=auth?.token||'';if(connectionToken)syncCloud();else{cloud=[];sourceNote='自動連線已在另一分頁中斷。';options();render();}}});
+ window.addEventListener('online',()=>{if(connectionToken)syncCloud();});
+ setInterval(()=>{if(connectionToken&&!document.hidden)syncCloud();},60000);
+ document.addEventListener('visibilitychange',()=>{if(!document.hidden&&connectionToken)syncCloud();});
+ loadLocal();options();render();
+ const auth=read(AUTH_KEY,null);if(typeof auth?.token==='string'&&auth.token.length>=24){connectionToken=auth.token;$('#remember').checked=true;syncCloud();}
 })();

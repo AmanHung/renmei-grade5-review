@@ -15,6 +15,19 @@ const parse=t=>JSON.parse(t.slice(t.indexOf('(')+1,-2));let result=parse(query({
 props.delete('STUDY_PARENT_TOKEN');assert.ok(query({token:'x'.repeat(32)}).includes('"ok":false'));
 // Smoke-render the empty page and a populated report without a browser or real child data.
 const nodes=new Map(),node=id=>{if(!nodes.has(id))nodes.set(id,{value:id==='#period'?'0':'',innerHTML:'',textContent:'',querySelectorAll:()=>[],addEventListener(){},insertAdjacentHTML(){}});return nodes.get(id);};
-const browser={window:{REVIEW_UNITS:[],REVIEW_EXAM_ITEMS:[],addEventListener(){}},ParentModel:M,document:{querySelector:node,querySelectorAll:()=>[]},localStorage:{getItem:()=>null},console,Date,Map,Set,URL};vm.createContext(browser);vm.runInContext(fs.readFileSync('dist/parent.js','utf8'),browser);assert.ok(node('#report').innerHTML.includes('目前篩選條件下沒有作答紀錄'));
+const browser={window:{REVIEW_UNITS:[],REVIEW_EXAM_ITEMS:[],addEventListener(){}},ParentModel:M,document:{querySelector:node,querySelectorAll:()=>[],addEventListener(){}},setInterval(){},localStorage:{getItem:()=>null},console,Date,Map,Set,URL};vm.createContext(browser);vm.runInContext(fs.readFileSync('dist/parent.js','utf8'),browser);assert.ok(node('#report').innerHTML.includes('目前篩選條件下沒有作答紀錄'));
 browser.localStorage.getItem=k=>JSON.stringify(k==='little-study-names-v3'?['晴晴']:[a,b,c,{...a,id:'summary-1',kind:'session',right:1,total:3,score:33}]);node('#child').value='晴晴';node('#refresh').onclick();assert.ok(node('#report').innerHTML.includes('各單元複習進度'));assert.ok(node('#wrong-list').innerHTML.includes('待複習'));assert.ok(node('#sessions').innerHTML.includes('33 分'));
 console.log('家長後台通過：CSV 引號換行、紀錄去重、錯題狀態、正確率、空白與有資料畫面、家長查詢授權及快照分頁。');
+
+(async()=>{
+ const store=new Map([['little-study-parent-connection-v1',JSON.stringify({token:'x'.repeat(32)})]]),nodes=new Map(),events={},timers=[];let calls=0,reply;
+ const node=k=>{if(!nodes.has(k))nodes.set(k,{value:k==='#period'?'0':'晴晴',innerHTML:'',querySelectorAll:()=>[],addEventListener(){},insertAdjacentHTML(){}});return nodes.get(k);};
+ const w={REVIEW_UNITS:[],REVIEW_EXAM_ITEMS:[],addEventListener:(k,fn)=>events[k]=fn};
+ const d={hidden:false,querySelector:node,querySelectorAll:()=>[],addEventListener:(k,fn)=>events[k]=fn,createElement:()=>({remove(){}}),head:{appendChild(script){calls++;const cb=new URL(script.src).searchParams.get('callback');reply=()=>w[cb]({ok:true,events:[a,b],end:3,next:0});}}};
+ const ctx={window:w,document:d,ParentModel:M,localStorage:{getItem:k=>store.get(k)||null,setItem:(k,v)=>store.set(k,v),removeItem:k=>store.delete(k)},setInterval:fn=>timers.push(fn),setTimeout:()=>1,clearTimeout(){},Date,URL,Map,Set};w.LEARNING_CONFIG={gasUrl:'https://script.google.com/macros/s/test/exec'};
+ vm.createContext(ctx);vm.runInContext(fs.readFileSync('dist/parent.js','utf8'),ctx);
+ assert.equal(calls,1,'開啟後台應自動讀取已記住的連線');reply();await new Promise(r=>setImmediate(r));assert.ok(node('#status').textContent.includes('雲端 2 筆'));assert.ok(node('#status').textContent.includes('每 60 秒自動更新'));
+ timers[0]();assert.equal(calls,2,'定時自動更新');timers[0]();assert.equal(calls,2,'同步進行中不可重複送出');reply();await new Promise(r=>setImmediate(r));
+ node('#refresh').onclick();assert.equal(calls,3,'更新按鈕須重新讀取雲端');node('#disconnect').onclick();assert.equal(store.has('little-study-parent-connection-v1'),false);reply();await new Promise(r=>setImmediate(r));assert.ok(node('#status').textContent.includes('雲端 0 筆'),'中斷後不可被舊請求填回資料');timers[0]();assert.equal(calls,3);
+ console.log('自動連線通過：開啟即讀取、定時更新、防重複連線、手動刷新及中斷後取消舊結果。');
+})().catch(e=>{console.error(e);process.exitCode=1;});
