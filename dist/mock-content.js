@@ -7,156 +7,156 @@ window.REVIEW_EXAMS=[
     "publisher": "翰林",
     "scope": "第 1 課～統整活動二（第 1～6 課）",
     "minutes": 45,
-    "signature": "41c9113a173c938f8a5f",
+    "signature": "d086ccecd321ad2d650d",
     "total": 100,
     "entries": [
       {
-        "questionId": "u13-t85-a",
+        "questionId": "u13-t94-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u13-t86-a",
+        "questionId": "u13-t93-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u13-t87-a",
+        "questionId": "u13-t92-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u14-t88-a",
+        "questionId": "u14-t94-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u14-t89-a",
+        "questionId": "u14-t93-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u13-t90-a",
+        "questionId": "u13-t91-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u13-t91-a",
+        "questionId": "u13-t90-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u14-t92-a",
+        "questionId": "u14-t92-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u14-t93-a",
+        "questionId": "u14-t91-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u14-t94-a",
+        "questionId": "u14-t90-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u13-t72-r1",
+        "questionId": "u13-t89-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u13-t72-r2",
+        "questionId": "u13-t88-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u13-t72-r3",
+        "questionId": "u13-t87-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u13-t73-r1",
+        "questionId": "u13-t86-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u13-t73-r2",
+        "questionId": "u13-t85-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u13-t73-r3",
+        "questionId": "u13-t84-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u13-t74-r1",
+        "questionId": "u13-t83-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u13-t74-r2",
+        "questionId": "u13-t82-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u13-t74-r3",
+        "questionId": "u13-t81-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u13-t74-r4",
+        "questionId": "u13-t80-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u14-t75-r1",
+        "questionId": "u14-t89-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u14-t75-r2",
+        "questionId": "u14-t88-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u14-t75-r3",
+        "questionId": "u14-t87-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u14-t76-r1",
+        "questionId": "u14-t86-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u14-t76-r2",
+        "questionId": "u14-t85-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u14-t76-r3",
+        "questionId": "u14-t84-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u14-t77-r1",
+        "questionId": "u14-t83-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u14-t77-r2",
+        "questionId": "u14-t82-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u14-t77-r3",
+        "questionId": "u14-t81-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u14-t77-r4",
+        "questionId": "u14-t80-b",
         "points": 4,
         "section": "reading"
       }
@@ -179,31 +179,31 @@ window.REVIEW_EXAMS=[
     "sections": [
       {
         "id": "words",
-        "title": "一、語詞訂正",
-        "instructions": "依句意訂正錯字，每格只填一個字。",
+        "title": "一、語詞與句型判讀",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "entries": [
           {
-            "questionId": "u13-t85-a",
+            "questionId": "u13-t94-b",
             "points": 2,
             "section": "words"
           },
           {
-            "questionId": "u13-t86-a",
+            "questionId": "u13-t93-b",
             "points": 2,
             "section": "words"
           },
           {
-            "questionId": "u13-t87-a",
+            "questionId": "u13-t92-b",
             "points": 2,
             "section": "words"
           },
           {
-            "questionId": "u14-t88-a",
+            "questionId": "u14-t94-b",
             "points": 2,
             "section": "words"
           },
           {
-            "questionId": "u14-t89-a",
+            "questionId": "u14-t93-b",
             "points": 2,
             "section": "words"
           }
@@ -215,30 +215,30 @@ window.REVIEW_EXAMS=[
       {
         "id": "sentences",
         "title": "二、語句運用",
-        "instructions": "選擇最合適的答案。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "entries": [
           {
-            "questionId": "u13-t90-a",
+            "questionId": "u13-t91-b",
             "points": 2,
             "section": "sentences"
           },
           {
-            "questionId": "u13-t91-a",
+            "questionId": "u13-t90-b",
             "points": 2,
             "section": "sentences"
           },
           {
-            "questionId": "u14-t92-a",
+            "questionId": "u14-t92-b",
             "points": 2,
             "section": "sentences"
           },
           {
-            "questionId": "u14-t93-a",
+            "questionId": "u14-t91-b",
             "points": 2,
             "section": "sentences"
           },
           {
-            "questionId": "u14-t94-a",
+            "questionId": "u14-t90-b",
             "points": 2,
             "section": "sentences"
           }
@@ -250,105 +250,105 @@ window.REVIEW_EXAMS=[
       {
         "id": "reading",
         "title": "三、閱讀理解",
-        "instructions": "先讀完整篇文章與圖表，再回答同篇題目。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "entries": [
           {
-            "questionId": "u13-t72-r1",
+            "questionId": "u13-t89-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u13-t72-r2",
+            "questionId": "u13-t88-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u13-t72-r3",
+            "questionId": "u13-t87-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u13-t73-r1",
+            "questionId": "u13-t86-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u13-t73-r2",
+            "questionId": "u13-t85-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u13-t73-r3",
+            "questionId": "u13-t84-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u13-t74-r1",
+            "questionId": "u13-t83-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u13-t74-r2",
+            "questionId": "u13-t82-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u13-t74-r3",
+            "questionId": "u13-t81-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u13-t74-r4",
+            "questionId": "u13-t80-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u14-t75-r1",
+            "questionId": "u14-t89-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u14-t75-r2",
+            "questionId": "u14-t88-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u14-t75-r3",
+            "questionId": "u14-t87-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u14-t76-r1",
+            "questionId": "u14-t86-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u14-t76-r2",
+            "questionId": "u14-t85-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u14-t76-r3",
+            "questionId": "u14-t84-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u14-t77-r1",
+            "questionId": "u14-t83-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u14-t77-r2",
+            "questionId": "u14-t82-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u14-t77-r3",
+            "questionId": "u14-t81-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u14-t77-r4",
+            "questionId": "u14-t80-b",
             "points": 4,
             "section": "reading"
           }
@@ -359,8 +359,9 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 30,
-    "formatVersion": 10,
-    "variant": "A"
+    "formatVersion": 16,
+    "variant": "A",
+    "level": "依課內句型與情境理解練習"
   },
   {
     "id": "g5-chinese-a",
@@ -370,7 +371,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒",
     "scope": "第 1～6 課、學習地圖一、二",
     "minutes": 45,
-    "signature": "b973cf1e0ab27f3e51bc",
+    "signature": "bf358871b2c5a6675791",
     "total": 100,
     "entries": [
       {
@@ -543,7 +544,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "words",
         "title": "一、語詞訂正",
-        "instructions": "依句意訂正錯字，每格只填一個字。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "entries": [
           {
             "questionId": "u4-t85-a",
@@ -578,7 +579,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "sentences",
         "title": "二、語句運用",
-        "instructions": "選擇最合適的答案。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "entries": [
           {
             "questionId": "u4-t90-a",
@@ -613,7 +614,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "reading",
         "title": "三、閱讀理解",
-        "instructions": "先讀完整篇文章與圖表，再回答同篇題目。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "entries": [
           {
             "questionId": "u4-t01-r1",
@@ -722,7 +723,7 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 30,
-    "formatVersion": 10,
+    "formatVersion": 16,
     "variant": "A"
   },
   {
@@ -733,156 +734,156 @@ window.REVIEW_EXAMS=[
     "publisher": "翰林 Here We Go 1",
     "scope": "Unit 1、Unit 2、Review 1",
     "minutes": 40,
-    "signature": "85f81bdc49179840bade",
+    "signature": "daba6f9d076a13b533d9",
     "total": 100,
     "entries": [
       {
-        "questionId": "u15-t85-a",
+        "questionId": "u15-t94-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u15-t86-a",
+        "questionId": "u15-t93-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u15-t87-a",
+        "questionId": "u15-t92-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u16-t88-a",
+        "questionId": "u16-t94-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u16-t89-a",
+        "questionId": "u16-t93-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u15-t90-a",
+        "questionId": "u15-t91-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u15-t91-a",
+        "questionId": "u15-t90-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u16-t92-a",
+        "questionId": "u16-t92-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u16-t93-a",
+        "questionId": "u16-t91-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u16-t94-a",
+        "questionId": "u16-t90-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u15-t01-r1",
+        "questionId": "u15-t89-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u15-t01-r2",
+        "questionId": "u15-t88-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u15-t01-r3",
+        "questionId": "u15-t87-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u15-t01-r4",
+        "questionId": "u15-t86-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u15-t01-r5",
+        "questionId": "u15-t85-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u15-t41-r1",
+        "questionId": "u15-t84-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u15-t41-r2",
+        "questionId": "u15-t83-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u15-t41-r3",
+        "questionId": "u15-t82-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u15-t41-r4",
+        "questionId": "u15-t81-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u15-t41-r5",
+        "questionId": "u15-t80-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u16-t01-r1",
+        "questionId": "u16-t89-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u16-t01-r2",
+        "questionId": "u16-t88-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u16-t01-r3",
+        "questionId": "u16-t87-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u16-t01-r4",
+        "questionId": "u16-t86-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u16-t01-r5",
+        "questionId": "u16-t85-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u16-t42-r1",
+        "questionId": "u16-t84-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u16-t42-r2",
+        "questionId": "u16-t83-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u16-t42-r3",
+        "questionId": "u16-t82-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u16-t42-r4",
+        "questionId": "u16-t81-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u16-t42-r5",
+        "questionId": "u16-t80-b",
         "points": 4,
         "section": "reading"
       }
@@ -905,31 +906,31 @@ window.REVIEW_EXAMS=[
     "sections": [
       {
         "id": "words",
-        "title": "一、字詞填寫",
-        "instructions": "依句意填入英文單字，大小寫不影響判分。",
+        "title": "一、字詞與句型選擇",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "entries": [
           {
-            "questionId": "u15-t85-a",
+            "questionId": "u15-t94-b",
             "points": 2,
             "section": "words"
           },
           {
-            "questionId": "u15-t86-a",
+            "questionId": "u15-t93-b",
             "points": 2,
             "section": "words"
           },
           {
-            "questionId": "u15-t87-a",
+            "questionId": "u15-t92-b",
             "points": 2,
             "section": "words"
           },
           {
-            "questionId": "u16-t88-a",
+            "questionId": "u16-t94-b",
             "points": 2,
             "section": "words"
           },
           {
-            "questionId": "u16-t89-a",
+            "questionId": "u16-t93-b",
             "points": 2,
             "section": "words"
           }
@@ -941,30 +942,30 @@ window.REVIEW_EXAMS=[
       {
         "id": "sentences",
         "title": "二、對話與句型",
-        "instructions": "選擇最合適的答案。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "entries": [
           {
-            "questionId": "u15-t90-a",
+            "questionId": "u15-t91-b",
             "points": 2,
             "section": "sentences"
           },
           {
-            "questionId": "u15-t91-a",
+            "questionId": "u15-t90-b",
             "points": 2,
             "section": "sentences"
           },
           {
-            "questionId": "u16-t92-a",
+            "questionId": "u16-t92-b",
             "points": 2,
             "section": "sentences"
           },
           {
-            "questionId": "u16-t93-a",
+            "questionId": "u16-t91-b",
             "points": 2,
             "section": "sentences"
           },
           {
-            "questionId": "u16-t94-a",
+            "questionId": "u16-t90-b",
             "points": 2,
             "section": "sentences"
           }
@@ -976,105 +977,105 @@ window.REVIEW_EXAMS=[
       {
         "id": "reading",
         "title": "三、閱讀理解",
-        "instructions": "先讀完整篇文章與圖表，再回答同篇題目。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "entries": [
           {
-            "questionId": "u15-t01-r1",
+            "questionId": "u15-t89-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u15-t01-r2",
+            "questionId": "u15-t88-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u15-t01-r3",
+            "questionId": "u15-t87-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u15-t01-r4",
+            "questionId": "u15-t86-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u15-t01-r5",
+            "questionId": "u15-t85-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u15-t41-r1",
+            "questionId": "u15-t84-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u15-t41-r2",
+            "questionId": "u15-t83-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u15-t41-r3",
+            "questionId": "u15-t82-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u15-t41-r4",
+            "questionId": "u15-t81-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u15-t41-r5",
+            "questionId": "u15-t80-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u16-t01-r1",
+            "questionId": "u16-t89-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u16-t01-r2",
+            "questionId": "u16-t88-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u16-t01-r3",
+            "questionId": "u16-t87-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u16-t01-r4",
+            "questionId": "u16-t86-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u16-t01-r5",
+            "questionId": "u16-t85-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u16-t42-r1",
+            "questionId": "u16-t84-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u16-t42-r2",
+            "questionId": "u16-t83-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u16-t42-r3",
+            "questionId": "u16-t82-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u16-t42-r4",
+            "questionId": "u16-t81-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u16-t42-r5",
+            "questionId": "u16-t80-b",
             "points": 4,
             "section": "reading"
           }
@@ -1085,8 +1086,9 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 30,
-    "formatVersion": 10,
-    "variant": "A"
+    "formatVersion": 16,
+    "variant": "A",
+    "level": "依課內句型與情境理解練習"
   },
   {
     "id": "g5-english-a",
@@ -1096,156 +1098,156 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒 Wonder World 5",
     "scope": "Get Ready、Unit 1、Unit 2、Review 1",
     "minutes": 40,
-    "signature": "dfdd38e56c118f028413",
+    "signature": "d2db3bc5c5214a317688",
     "total": 100,
     "entries": [
       {
-        "questionId": "u6-t85-a",
+        "questionId": "u6-t94-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u6-t86-a",
+        "questionId": "u6-t93-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u6-t87-a",
+        "questionId": "u6-t92-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u7-t88-a",
+        "questionId": "u7-t94-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u7-t89-a",
+        "questionId": "u7-t93-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u6-t90-a",
+        "questionId": "u6-t91-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u6-t91-a",
+        "questionId": "u6-t90-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u7-t92-a",
+        "questionId": "u7-t92-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u7-t93-a",
+        "questionId": "u7-t91-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u7-t94-a",
+        "questionId": "u7-t90-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u6-t71-r1",
+        "questionId": "u6-t89-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u6-t71-r2",
+        "questionId": "u6-t88-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u6-t01-r1",
+        "questionId": "u6-t87-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u6-t01-r2",
+        "questionId": "u6-t86-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u6-t01-r3",
+        "questionId": "u6-t85-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u6-t01-r5",
+        "questionId": "u6-t84-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u6-t41-r1",
+        "questionId": "u6-t83-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u6-t41-r2",
+        "questionId": "u6-t82-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u6-t41-r3",
+        "questionId": "u6-t81-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u6-t41-r4",
+        "questionId": "u6-t80-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u6-t41-r5",
+        "questionId": "u6-t79-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u7-t42-r1",
+        "questionId": "u7-t89-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u7-t42-r2",
+        "questionId": "u7-t88-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u7-t42-r3",
+        "questionId": "u7-t87-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u7-t42-r4",
+        "questionId": "u7-t86-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u7-t01-r1",
+        "questionId": "u7-t85-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u7-t01-r2",
+        "questionId": "u7-t84-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u7-t01-r3",
+        "questionId": "u7-t83-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u7-t01-r4",
+        "questionId": "u7-t82-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u7-t01-r5",
+        "questionId": "u7-t81-b",
         "points": 4,
         "section": "reading"
       }
@@ -1268,31 +1270,31 @@ window.REVIEW_EXAMS=[
     "sections": [
       {
         "id": "words",
-        "title": "一、字詞填寫",
-        "instructions": "依句意填入英文單字，大小寫不影響判分。",
+        "title": "一、字詞與句型選擇",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "entries": [
           {
-            "questionId": "u6-t85-a",
+            "questionId": "u6-t94-b",
             "points": 2,
             "section": "words"
           },
           {
-            "questionId": "u6-t86-a",
+            "questionId": "u6-t93-b",
             "points": 2,
             "section": "words"
           },
           {
-            "questionId": "u6-t87-a",
+            "questionId": "u6-t92-b",
             "points": 2,
             "section": "words"
           },
           {
-            "questionId": "u7-t88-a",
+            "questionId": "u7-t94-b",
             "points": 2,
             "section": "words"
           },
           {
-            "questionId": "u7-t89-a",
+            "questionId": "u7-t93-b",
             "points": 2,
             "section": "words"
           }
@@ -1304,30 +1306,30 @@ window.REVIEW_EXAMS=[
       {
         "id": "sentences",
         "title": "二、對話與句型",
-        "instructions": "選擇最合適的答案。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "entries": [
           {
-            "questionId": "u6-t90-a",
+            "questionId": "u6-t91-b",
             "points": 2,
             "section": "sentences"
           },
           {
-            "questionId": "u6-t91-a",
+            "questionId": "u6-t90-b",
             "points": 2,
             "section": "sentences"
           },
           {
-            "questionId": "u7-t92-a",
+            "questionId": "u7-t92-b",
             "points": 2,
             "section": "sentences"
           },
           {
-            "questionId": "u7-t93-a",
+            "questionId": "u7-t91-b",
             "points": 2,
             "section": "sentences"
           },
           {
-            "questionId": "u7-t94-a",
+            "questionId": "u7-t90-b",
             "points": 2,
             "section": "sentences"
           }
@@ -1339,105 +1341,105 @@ window.REVIEW_EXAMS=[
       {
         "id": "reading",
         "title": "三、閱讀理解",
-        "instructions": "先讀完整篇文章與圖表，再回答同篇題目。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "entries": [
           {
-            "questionId": "u6-t71-r1",
+            "questionId": "u6-t89-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u6-t71-r2",
+            "questionId": "u6-t88-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u6-t01-r1",
+            "questionId": "u6-t87-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u6-t01-r2",
+            "questionId": "u6-t86-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u6-t01-r3",
+            "questionId": "u6-t85-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u6-t01-r5",
+            "questionId": "u6-t84-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u6-t41-r1",
+            "questionId": "u6-t83-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u6-t41-r2",
+            "questionId": "u6-t82-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u6-t41-r3",
+            "questionId": "u6-t81-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u6-t41-r4",
+            "questionId": "u6-t80-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u6-t41-r5",
+            "questionId": "u6-t79-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u7-t42-r1",
+            "questionId": "u7-t89-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u7-t42-r2",
+            "questionId": "u7-t88-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u7-t42-r3",
+            "questionId": "u7-t87-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u7-t42-r4",
+            "questionId": "u7-t86-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u7-t01-r1",
+            "questionId": "u7-t85-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u7-t01-r2",
+            "questionId": "u7-t84-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u7-t01-r3",
+            "questionId": "u7-t83-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u7-t01-r4",
+            "questionId": "u7-t82-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u7-t01-r5",
+            "questionId": "u7-t81-b",
             "points": 4,
             "section": "reading"
           }
@@ -1448,8 +1450,9 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 30,
-    "formatVersion": 10,
-    "variant": "A"
+    "formatVersion": 16,
+    "variant": "A",
+    "level": "依課內句型與情境理解練習"
   },
   {
     "id": "g5-science-a",
@@ -1459,7 +1462,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒",
     "scope": "第 1～2 單元",
     "minutes": 40,
-    "signature": "f2edd03399247e8f20c1",
+    "signature": "b415b956d6007c266669",
     "total": 100,
     "entries": [
       {
@@ -1682,7 +1685,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "truefalse",
         "title": "一、是非題",
-        "instructions": "正確選 ○，錯誤選 ×。",
+        "instructions": "判斷敘述正確或錯誤；其他題目依提示作答。",
         "entries": [
           {
             "questionId": "u0-t80-tf",
@@ -1742,7 +1745,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "choice",
         "title": "二、選擇題",
-        "instructions": "依情境選出最合適的答案。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "entries": [
           {
             "questionId": "u0-t95-a",
@@ -1802,7 +1805,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "reading",
         "title": "三、圖文閱讀與資料判讀",
-        "instructions": "閱讀文章、實驗紀錄或圖表，再回答問題。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "entries": [
           {
             "questionId": "u0-t70-r1",
@@ -1911,7 +1914,7 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 40,
-    "formatVersion": 10,
+    "formatVersion": 16,
     "variant": "A"
   },
   {
@@ -1922,7 +1925,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒",
     "scope": "第 1～2 單元",
     "minutes": 40,
-    "signature": "24a3be64ae1ad0252971",
+    "signature": "65f3b9cae45bfe1f0588",
     "total": 100,
     "entries": [
       {
@@ -2145,7 +2148,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "truefalse",
         "title": "一、是非題",
-        "instructions": "正確選 ○，錯誤選 ×。",
+        "instructions": "判斷敘述正確或錯誤；其他題目依提示作答。",
         "entries": [
           {
             "questionId": "u2-t80-tf",
@@ -2205,7 +2208,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "choice",
         "title": "二、選擇題",
-        "instructions": "依情境選出最合適的答案。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "entries": [
           {
             "questionId": "u2-t95-a",
@@ -2265,7 +2268,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "reading",
         "title": "三、圖文閱讀與資料判讀",
-        "instructions": "閱讀文章、實驗紀錄或圖表，再回答問題。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "entries": [
           {
             "questionId": "u2-t70-r1",
@@ -2374,7 +2377,7 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 40,
-    "formatVersion": 10,
+    "formatVersion": 16,
     "variant": "A"
   },
   {
@@ -2385,7 +2388,7 @@ window.REVIEW_EXAMS=[
     "publisher": "南一",
     "scope": "第 1～2 單元",
     "minutes": 40,
-    "signature": "4d9953d9649b499ba3e4",
+    "signature": "868fdd4a3ff25630fb96",
     "total": 100,
     "entries": [
       {
@@ -2608,7 +2611,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "truefalse",
         "title": "一、是非題",
-        "instructions": "正確選 ○，錯誤選 ×。",
+        "instructions": "判斷敘述正確或錯誤；其他題目依提示作答。",
         "entries": [
           {
             "questionId": "u22-t80-tf",
@@ -2668,7 +2671,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "choice",
         "title": "二、選擇題",
-        "instructions": "依情境選出最合適的答案。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "entries": [
           {
             "questionId": "u22-t95-a",
@@ -2728,7 +2731,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "reading",
         "title": "三、圖文閱讀與資料判讀",
-        "instructions": "閱讀文章、實驗紀錄或圖表，再回答問題。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "entries": [
           {
             "questionId": "u22-t70-r1",
@@ -2837,7 +2840,7 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 40,
-    "formatVersion": 10,
+    "formatVersion": 16,
     "variant": "A"
   },
   {
@@ -2848,7 +2851,7 @@ window.REVIEW_EXAMS=[
     "publisher": "翰林",
     "scope": "第 1～2 單元",
     "minutes": 40,
-    "signature": "9f1bda8c3e5a12efeba2",
+    "signature": "b37ff8143df9bf67127c",
     "total": 100,
     "entries": [
       {
@@ -3071,7 +3074,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "truefalse",
         "title": "一、是非題",
-        "instructions": "正確選 ○，錯誤選 ×。",
+        "instructions": "判斷敘述正確或錯誤；其他題目依提示作答。",
         "entries": [
           {
             "questionId": "u24-t80-tf",
@@ -3131,7 +3134,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "choice",
         "title": "二、選擇題",
-        "instructions": "依情境選出最合適的答案。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "entries": [
           {
             "questionId": "u24-t95-a",
@@ -3191,7 +3194,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "reading",
         "title": "三、圖文閱讀與資料判讀",
-        "instructions": "閱讀文章、實驗紀錄或圖表，再回答問題。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "entries": [
           {
             "questionId": "u24-t70-r1",
@@ -3300,7 +3303,7 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 40,
-    "formatVersion": 10,
+    "formatVersion": 16,
     "variant": "A"
   },
   {
@@ -3471,7 +3474,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "choice",
         "title": "一、選擇題",
-        "instructions": "選擇最合適的答案。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "entries": [
           {
             "questionId": "u17-t46-n1",
@@ -3506,7 +3509,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "fill",
         "title": "二、計算與看圖填答",
-        "instructions": "依題目與圖示計算，填入數字。",
+        "instructions": "依題目計算；數字題只填數字，其他題目依提示作答。",
         "entries": [
           {
             "questionId": "u17-t01-n2",
@@ -3566,7 +3569,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "application",
         "title": "三、應用與數量推理",
-        "instructions": "可用紙筆計算，依題目填數字或選答案。本卷依最終答案計分，不評紙筆過程。",
+        "instructions": "依題目計算；數字題只填數字，其他題目依提示作答。",
         "entries": [
           {
             "questionId": "u17-t41-n1",
@@ -3625,7 +3628,7 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 25,
-    "formatVersion": 12,
+    "formatVersion": 16,
     "variant": "A"
   },
   {
@@ -3802,7 +3805,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "choice",
         "title": "一、選擇題",
-        "instructions": "選擇最合適的答案。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "entries": [
           {
             "questionId": "u8-t45-n1",
@@ -3837,7 +3840,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "fill",
         "title": "二、計算與看圖填答",
-        "instructions": "計算後填數字；角的分類題填要求的名稱。",
+        "instructions": "依題目計算；數字題只填數字，其他題目依提示作答。",
         "entries": [
           {
             "questionId": "u8-t01-n1",
@@ -3897,7 +3900,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "application",
         "title": "三、應用與圖形推理",
-        "instructions": "可用紙筆計算，依題目填數字或選答案。本卷依最終答案計分，不評紙筆過程。",
+        "instructions": "依題目計算；數字題只填數字，其他題目依提示作答。",
         "entries": [
           {
             "questionId": "u8-t43-n1",
@@ -3956,7 +3959,7 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 25,
-    "formatVersion": 10,
+    "formatVersion": 16,
     "variant": "A"
   },
   {
@@ -3967,156 +3970,156 @@ window.REVIEW_EXAMS=[
     "publisher": "翰林",
     "scope": "第 1 課～統整活動二（第 1～6 課）",
     "minutes": 55,
-    "signature": "9d817ef58067cd80472d",
+    "signature": "dbf0bea777e7b5605c0b",
     "total": 100,
     "entries": [
       {
-        "questionId": "u13-t99-b",
+        "questionId": "u13-t79-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u13-t98-b",
+        "questionId": "u13-t78-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u13-t97-b",
+        "questionId": "u13-t77-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u14-t99-b",
+        "questionId": "u14-t79-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u14-t98-b",
+        "questionId": "u14-t78-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u13-t96-b",
+        "questionId": "u13-t76-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u13-t95-b",
+        "questionId": "u13-t75-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u14-t97-b",
+        "questionId": "u14-t77-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u14-t96-b",
+        "questionId": "u14-t76-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u14-t95-b",
+        "questionId": "u14-t75-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u13-t99-r1",
+        "questionId": "u13-t74-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u13-t99-r2",
+        "questionId": "u13-t73-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u13-t99-r3",
+        "questionId": "u13-t72-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u13-t99-r4",
+        "questionId": "u13-t71-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u13-t99-r5",
+        "questionId": "u13-t70-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u13-t98-r1",
+        "questionId": "u13-t69-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u13-t98-r2",
+        "questionId": "u13-t68-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u13-t98-r3",
+        "questionId": "u13-t67-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u13-t98-r4",
+        "questionId": "u13-t66-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u13-t98-r5",
+        "questionId": "u13-t65-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u14-t99-r1",
+        "questionId": "u14-t74-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u14-t99-r2",
+        "questionId": "u14-t73-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u14-t99-r3",
+        "questionId": "u14-t72-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u14-t99-r4",
+        "questionId": "u14-t71-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u14-t99-r5",
+        "questionId": "u14-t70-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u14-t98-r1",
+        "questionId": "u14-t69-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u14-t98-r2",
+        "questionId": "u14-t68-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u14-t98-r3",
+        "questionId": "u14-t67-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u14-t98-r4",
+        "questionId": "u14-t66-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u14-t98-r5",
+        "questionId": "u14-t65-b",
         "points": 4,
         "section": "reading"
       }
@@ -4139,34 +4142,34 @@ window.REVIEW_EXAMS=[
     "sections": [
       {
         "id": "words",
-        "title": "一、語境中的字詞訂正",
-        "instructions": "依句意訂正指定錯字，每格只填一個字。",
+        "title": "一、語詞與句型判讀",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "count": 5,
         "points": 10,
         "pointsEach": 2,
         "entries": [
           {
-            "questionId": "u13-t99-b",
+            "questionId": "u13-t79-b",
             "points": 2,
             "section": "words"
           },
           {
-            "questionId": "u13-t98-b",
+            "questionId": "u13-t78-b",
             "points": 2,
             "section": "words"
           },
           {
-            "questionId": "u13-t97-b",
+            "questionId": "u13-t77-b",
             "points": 2,
             "section": "words"
           },
           {
-            "questionId": "u14-t99-b",
+            "questionId": "u14-t79-b",
             "points": 2,
             "section": "words"
           },
           {
-            "questionId": "u14-t98-b",
+            "questionId": "u14-t78-b",
             "points": 2,
             "section": "words"
           }
@@ -4175,33 +4178,33 @@ window.REVIEW_EXAMS=[
       {
         "id": "sentences",
         "title": "二、語句與資訊連結",
-        "instructions": "比較完整句意、人物與條件，選出最合適的回應。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "count": 5,
         "points": 10,
         "pointsEach": 2,
         "entries": [
           {
-            "questionId": "u13-t96-b",
+            "questionId": "u13-t76-b",
             "points": 2,
             "section": "sentences"
           },
           {
-            "questionId": "u13-t95-b",
+            "questionId": "u13-t75-b",
             "points": 2,
             "section": "sentences"
           },
           {
-            "questionId": "u14-t97-b",
+            "questionId": "u14-t77-b",
             "points": 2,
             "section": "sentences"
           },
           {
-            "questionId": "u14-t96-b",
+            "questionId": "u14-t76-b",
             "points": 2,
             "section": "sentences"
           },
           {
-            "questionId": "u14-t95-b",
+            "questionId": "u14-t75-b",
             "points": 2,
             "section": "sentences"
           }
@@ -4210,108 +4213,108 @@ window.REVIEW_EXAMS=[
       {
         "id": "reading",
         "title": "三、深度閱讀與資料核對",
-        "instructions": "每篇五題。原始紀錄與追加情境可能有不同條件，請依題目指定的資料作答。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "count": 20,
         "points": 80,
         "pointsEach": 4,
         "entries": [
           {
-            "questionId": "u13-t99-r1",
+            "questionId": "u13-t74-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u13-t99-r2",
+            "questionId": "u13-t73-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u13-t99-r3",
+            "questionId": "u13-t72-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u13-t99-r4",
+            "questionId": "u13-t71-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u13-t99-r5",
+            "questionId": "u13-t70-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u13-t98-r1",
+            "questionId": "u13-t69-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u13-t98-r2",
+            "questionId": "u13-t68-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u13-t98-r3",
+            "questionId": "u13-t67-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u13-t98-r4",
+            "questionId": "u13-t66-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u13-t98-r5",
+            "questionId": "u13-t65-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u14-t99-r1",
+            "questionId": "u14-t74-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u14-t99-r2",
+            "questionId": "u14-t73-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u14-t99-r3",
+            "questionId": "u14-t72-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u14-t99-r4",
+            "questionId": "u14-t71-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u14-t99-r5",
+            "questionId": "u14-t70-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u14-t98-r1",
+            "questionId": "u14-t69-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u14-t98-r2",
+            "questionId": "u14-t68-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u14-t98-r3",
+            "questionId": "u14-t67-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u14-t98-r4",
+            "questionId": "u14-t66-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u14-t98-r5",
+            "questionId": "u14-t65-b",
             "points": 4,
             "section": "reading"
           }
@@ -4319,9 +4322,9 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 30,
-    "formatVersion": 11,
+    "formatVersion": 16,
     "variant": "B",
-    "level": "進階：整合、推論與多步驟應用"
+    "level": "依課內句型與情境理解練習"
   },
   {
     "id": "g5-chinese-b",
@@ -4331,7 +4334,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒",
     "scope": "第 1～6 課、學習地圖一、二",
     "minutes": 55,
-    "signature": "d2def1188fc6ea5f5a2f",
+    "signature": "30957c0e6d4b52c964fd",
     "total": 100,
     "entries": [
       {
@@ -4504,7 +4507,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "words",
         "title": "一、語境中的字詞訂正",
-        "instructions": "依句意訂正指定錯字，每格只填一個字。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "count": 5,
         "points": 10,
         "pointsEach": 2,
@@ -4539,7 +4542,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "sentences",
         "title": "二、語句與資訊連結",
-        "instructions": "比較完整句意、人物與條件，選出最合適的回應。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "count": 5,
         "points": 10,
         "pointsEach": 2,
@@ -4574,7 +4577,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "reading",
         "title": "三、深度閱讀與資料核對",
-        "instructions": "每篇五題。原始紀錄與追加情境可能有不同條件，請依題目指定的資料作答。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "count": 20,
         "points": 80,
         "pointsEach": 4,
@@ -4683,7 +4686,7 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 30,
-    "formatVersion": 11,
+    "formatVersion": 16,
     "variant": "B",
     "level": "進階：整合、推論與多步驟應用"
   },
@@ -4695,156 +4698,156 @@ window.REVIEW_EXAMS=[
     "publisher": "翰林 Here We Go 1",
     "scope": "Unit 1、Unit 2、Review 1",
     "minutes": 50,
-    "signature": "26c39cf9d297f4f21669",
+    "signature": "1f80ccbd1f4e6aad7920",
     "total": 100,
     "entries": [
       {
-        "questionId": "u15-t99-b",
+        "questionId": "u15-t79-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u15-t98-b",
+        "questionId": "u15-t78-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u15-t97-b",
+        "questionId": "u15-t77-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u16-t99-b",
+        "questionId": "u16-t79-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u16-t98-b",
+        "questionId": "u16-t78-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u15-t96-b",
+        "questionId": "u15-t76-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u15-t95-b",
+        "questionId": "u15-t75-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u16-t97-b",
+        "questionId": "u16-t77-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u16-t96-b",
+        "questionId": "u16-t76-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u16-t95-b",
+        "questionId": "u16-t75-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u15-t99-r1",
+        "questionId": "u15-t74-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u15-t99-r2",
+        "questionId": "u15-t73-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u15-t99-r3",
+        "questionId": "u15-t72-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u15-t99-r4",
+        "questionId": "u15-t71-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u15-t99-r5",
+        "questionId": "u15-t70-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u15-t98-r1",
+        "questionId": "u15-t69-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u15-t98-r2",
+        "questionId": "u15-t68-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u15-t98-r3",
+        "questionId": "u15-t67-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u15-t98-r4",
+        "questionId": "u15-t66-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u15-t98-r5",
+        "questionId": "u15-t65-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u16-t99-r1",
+        "questionId": "u16-t74-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u16-t99-r2",
+        "questionId": "u16-t73-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u16-t99-r3",
+        "questionId": "u16-t72-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u16-t99-r4",
+        "questionId": "u16-t71-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u16-t99-r5",
+        "questionId": "u16-t70-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u16-t98-r1",
+        "questionId": "u16-t69-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u16-t98-r2",
+        "questionId": "u16-t68-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u16-t98-r3",
+        "questionId": "u16-t67-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u16-t98-r4",
+        "questionId": "u16-t66-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u16-t98-r5",
+        "questionId": "u16-t65-b",
         "points": 4,
         "section": "reading"
       }
@@ -4867,34 +4870,34 @@ window.REVIEW_EXAMS=[
     "sections": [
       {
         "id": "words",
-        "title": "一、語境字詞填寫",
-        "instructions": "核對情境，填完整單字；留意單複數。",
+        "title": "一、字詞與句型選擇",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "count": 5,
         "points": 10,
         "pointsEach": 2,
         "entries": [
           {
-            "questionId": "u15-t99-b",
+            "questionId": "u15-t79-b",
             "points": 2,
             "section": "words"
           },
           {
-            "questionId": "u15-t98-b",
+            "questionId": "u15-t78-b",
             "points": 2,
             "section": "words"
           },
           {
-            "questionId": "u15-t97-b",
+            "questionId": "u15-t77-b",
             "points": 2,
             "section": "words"
           },
           {
-            "questionId": "u16-t99-b",
+            "questionId": "u16-t79-b",
             "points": 2,
             "section": "words"
           },
           {
-            "questionId": "u16-t98-b",
+            "questionId": "u16-t78-b",
             "points": 2,
             "section": "words"
           }
@@ -4903,33 +4906,33 @@ window.REVIEW_EXAMS=[
       {
         "id": "sentences",
         "title": "二、語句與資訊連結",
-        "instructions": "比較完整句意、人物與條件，選出最合適的回應。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "count": 5,
         "points": 10,
         "pointsEach": 2,
         "entries": [
           {
-            "questionId": "u15-t96-b",
+            "questionId": "u15-t76-b",
             "points": 2,
             "section": "sentences"
           },
           {
-            "questionId": "u15-t95-b",
+            "questionId": "u15-t75-b",
             "points": 2,
             "section": "sentences"
           },
           {
-            "questionId": "u16-t97-b",
+            "questionId": "u16-t77-b",
             "points": 2,
             "section": "sentences"
           },
           {
-            "questionId": "u16-t96-b",
+            "questionId": "u16-t76-b",
             "points": 2,
             "section": "sentences"
           },
           {
-            "questionId": "u16-t95-b",
+            "questionId": "u16-t75-b",
             "points": 2,
             "section": "sentences"
           }
@@ -4938,108 +4941,108 @@ window.REVIEW_EXAMS=[
       {
         "id": "reading",
         "title": "三、深度閱讀與資料核對",
-        "instructions": "每篇五題。原始紀錄與追加情境可能有不同條件，請依題目指定的資料作答。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "count": 20,
         "points": 80,
         "pointsEach": 4,
         "entries": [
           {
-            "questionId": "u15-t99-r1",
+            "questionId": "u15-t74-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u15-t99-r2",
+            "questionId": "u15-t73-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u15-t99-r3",
+            "questionId": "u15-t72-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u15-t99-r4",
+            "questionId": "u15-t71-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u15-t99-r5",
+            "questionId": "u15-t70-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u15-t98-r1",
+            "questionId": "u15-t69-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u15-t98-r2",
+            "questionId": "u15-t68-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u15-t98-r3",
+            "questionId": "u15-t67-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u15-t98-r4",
+            "questionId": "u15-t66-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u15-t98-r5",
+            "questionId": "u15-t65-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u16-t99-r1",
+            "questionId": "u16-t74-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u16-t99-r2",
+            "questionId": "u16-t73-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u16-t99-r3",
+            "questionId": "u16-t72-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u16-t99-r4",
+            "questionId": "u16-t71-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u16-t99-r5",
+            "questionId": "u16-t70-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u16-t98-r1",
+            "questionId": "u16-t69-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u16-t98-r2",
+            "questionId": "u16-t68-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u16-t98-r3",
+            "questionId": "u16-t67-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u16-t98-r4",
+            "questionId": "u16-t66-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u16-t98-r5",
+            "questionId": "u16-t65-b",
             "points": 4,
             "section": "reading"
           }
@@ -5047,9 +5050,9 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 30,
-    "formatVersion": 11,
+    "formatVersion": 16,
     "variant": "B",
-    "level": "進階：整合、推論與多步驟應用"
+    "level": "依課內句型與情境理解練習"
   },
   {
     "id": "g5-english-b",
@@ -5059,156 +5062,156 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒 Wonder World 5",
     "scope": "Get Ready、Unit 1、Unit 2、Review 1",
     "minutes": 50,
-    "signature": "da6dd2d184daf0b3c19b",
+    "signature": "cb8b4d88e1a1bc988e31",
     "total": 100,
     "entries": [
       {
-        "questionId": "u6-t99-b",
+        "questionId": "u6-t78-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u6-t98-b",
+        "questionId": "u6-t77-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u6-t97-b",
+        "questionId": "u6-t76-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u7-t99-b",
+        "questionId": "u7-t80-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u7-t98-b",
+        "questionId": "u7-t79-b",
         "points": 2,
         "section": "words"
       },
       {
-        "questionId": "u6-t96-b",
+        "questionId": "u6-t75-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u6-t95-b",
+        "questionId": "u6-t74-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u7-t97-b",
+        "questionId": "u7-t78-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u7-t96-b",
+        "questionId": "u7-t77-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u7-t95-b",
+        "questionId": "u7-t76-b",
         "points": 2,
         "section": "sentences"
       },
       {
-        "questionId": "u6-t99-r1",
+        "questionId": "u6-t73-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u6-t99-r2",
+        "questionId": "u6-t72-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u6-t99-r3",
+        "questionId": "u6-t71-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u6-t99-r4",
+        "questionId": "u6-t70-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u6-t99-r5",
+        "questionId": "u6-t69-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u6-t98-r1",
+        "questionId": "u6-t68-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u6-t98-r2",
+        "questionId": "u6-t67-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u6-t98-r3",
+        "questionId": "u6-t66-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u6-t98-r4",
+        "questionId": "u6-t65-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u6-t98-r5",
+        "questionId": "u6-t64-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u7-t99-r1",
+        "questionId": "u7-t75-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u7-t99-r2",
+        "questionId": "u7-t74-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u7-t99-r3",
+        "questionId": "u7-t73-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u7-t99-r4",
+        "questionId": "u7-t72-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u7-t99-r5",
+        "questionId": "u7-t71-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u7-t98-r1",
+        "questionId": "u7-t70-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u7-t98-r2",
+        "questionId": "u7-t69-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u7-t98-r3",
+        "questionId": "u7-t68-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u7-t98-r4",
+        "questionId": "u7-t67-b",
         "points": 4,
         "section": "reading"
       },
       {
-        "questionId": "u7-t98-r5",
+        "questionId": "u7-t66-b",
         "points": 4,
         "section": "reading"
       }
@@ -5231,34 +5234,34 @@ window.REVIEW_EXAMS=[
     "sections": [
       {
         "id": "words",
-        "title": "一、語境字詞填寫",
-        "instructions": "核對情境，填完整單字；留意單複數。",
+        "title": "一、字詞與句型選擇",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "count": 5,
         "points": 10,
         "pointsEach": 2,
         "entries": [
           {
-            "questionId": "u6-t99-b",
+            "questionId": "u6-t78-b",
             "points": 2,
             "section": "words"
           },
           {
-            "questionId": "u6-t98-b",
+            "questionId": "u6-t77-b",
             "points": 2,
             "section": "words"
           },
           {
-            "questionId": "u6-t97-b",
+            "questionId": "u6-t76-b",
             "points": 2,
             "section": "words"
           },
           {
-            "questionId": "u7-t99-b",
+            "questionId": "u7-t80-b",
             "points": 2,
             "section": "words"
           },
           {
-            "questionId": "u7-t98-b",
+            "questionId": "u7-t79-b",
             "points": 2,
             "section": "words"
           }
@@ -5267,33 +5270,33 @@ window.REVIEW_EXAMS=[
       {
         "id": "sentences",
         "title": "二、語句與資訊連結",
-        "instructions": "比較完整句意、人物與條件，選出最合適的回應。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "count": 5,
         "points": 10,
         "pointsEach": 2,
         "entries": [
           {
-            "questionId": "u6-t96-b",
+            "questionId": "u6-t75-b",
             "points": 2,
             "section": "sentences"
           },
           {
-            "questionId": "u6-t95-b",
+            "questionId": "u6-t74-b",
             "points": 2,
             "section": "sentences"
           },
           {
-            "questionId": "u7-t97-b",
+            "questionId": "u7-t78-b",
             "points": 2,
             "section": "sentences"
           },
           {
-            "questionId": "u7-t96-b",
+            "questionId": "u7-t77-b",
             "points": 2,
             "section": "sentences"
           },
           {
-            "questionId": "u7-t95-b",
+            "questionId": "u7-t76-b",
             "points": 2,
             "section": "sentences"
           }
@@ -5302,108 +5305,108 @@ window.REVIEW_EXAMS=[
       {
         "id": "reading",
         "title": "三、深度閱讀與資料核對",
-        "instructions": "每篇五題。原始紀錄與追加情境可能有不同條件，請依題目指定的資料作答。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "count": 20,
         "points": 80,
         "pointsEach": 4,
         "entries": [
           {
-            "questionId": "u6-t99-r1",
+            "questionId": "u6-t73-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u6-t99-r2",
+            "questionId": "u6-t72-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u6-t99-r3",
+            "questionId": "u6-t71-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u6-t99-r4",
+            "questionId": "u6-t70-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u6-t99-r5",
+            "questionId": "u6-t69-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u6-t98-r1",
+            "questionId": "u6-t68-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u6-t98-r2",
+            "questionId": "u6-t67-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u6-t98-r3",
+            "questionId": "u6-t66-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u6-t98-r4",
+            "questionId": "u6-t65-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u6-t98-r5",
+            "questionId": "u6-t64-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u7-t99-r1",
+            "questionId": "u7-t75-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u7-t99-r2",
+            "questionId": "u7-t74-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u7-t99-r3",
+            "questionId": "u7-t73-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u7-t99-r4",
+            "questionId": "u7-t72-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u7-t99-r5",
+            "questionId": "u7-t71-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u7-t98-r1",
+            "questionId": "u7-t70-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u7-t98-r2",
+            "questionId": "u7-t69-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u7-t98-r3",
+            "questionId": "u7-t68-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u7-t98-r4",
+            "questionId": "u7-t67-b",
             "points": 4,
             "section": "reading"
           },
           {
-            "questionId": "u7-t98-r5",
+            "questionId": "u7-t66-b",
             "points": 4,
             "section": "reading"
           }
@@ -5411,9 +5414,9 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 30,
-    "formatVersion": 11,
+    "formatVersion": 16,
     "variant": "B",
-    "level": "進階：整合、推論與多步驟應用"
+    "level": "依課內句型與情境理解練習"
   },
   {
     "id": "g5-science-b",
@@ -5423,7 +5426,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒",
     "scope": "第 1～2 單元",
     "minutes": 55,
-    "signature": "58ce67d2bfc1f34319dc",
+    "signature": "86f242c1eccf5594598c",
     "total": 100,
     "entries": [
       {
@@ -5646,7 +5649,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "truefalse",
         "title": "一、情境是非與證據判斷",
-        "instructions": "判斷整句主張是否有充分依據；正確選○，錯誤選×。",
+        "instructions": "判斷敘述正確或錯誤；其他題目依提示作答。",
         "count": 10,
         "points": 20,
         "pointsEach": 2,
@@ -5706,7 +5709,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "choice",
         "title": "二、比較與方案選擇",
-        "instructions": "留意條件與結論的範圍，選擇最有依據的說法。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "count": 10,
         "points": 20,
         "pointsEach": 2,
@@ -5766,7 +5769,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "reading",
         "title": "三、圖文整合與追加資料",
-        "instructions": "先讀原始紀錄，再讀追加情境。題目註明原始或追加時，應依指定資料回答。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "count": 20,
         "points": 60,
         "pointsEach": 3,
@@ -5875,7 +5878,7 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 40,
-    "formatVersion": 11,
+    "formatVersion": 16,
     "variant": "B",
     "level": "進階：整合、推論與多步驟應用"
   },
@@ -5887,7 +5890,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒",
     "scope": "第 1～2 單元",
     "minutes": 55,
-    "signature": "7fc451152d67ac1174c4",
+    "signature": "6b7630b6bbc5237f65e0",
     "total": 100,
     "entries": [
       {
@@ -6016,27 +6019,27 @@ window.REVIEW_EXAMS=[
         "section": "reading"
       },
       {
-        "questionId": "u2-t98-r1",
+        "questionId": "u2-t94-b",
         "points": 3,
         "section": "reading"
       },
       {
-        "questionId": "u2-t98-r2",
+        "questionId": "u2-t93-b",
         "points": 3,
         "section": "reading"
       },
       {
-        "questionId": "u2-t98-r3",
+        "questionId": "u2-t92-b",
         "points": 3,
         "section": "reading"
       },
       {
-        "questionId": "u2-t98-r4",
+        "questionId": "u2-t91-b",
         "points": 3,
         "section": "reading"
       },
       {
-        "questionId": "u2-t98-r5",
+        "questionId": "u2-t90-b",
         "points": 3,
         "section": "reading"
       },
@@ -6066,27 +6069,27 @@ window.REVIEW_EXAMS=[
         "section": "reading"
       },
       {
-        "questionId": "u3-t98-r1",
+        "questionId": "u3-t94-b",
         "points": 3,
         "section": "reading"
       },
       {
-        "questionId": "u3-t98-r2",
+        "questionId": "u3-t93-b",
         "points": 3,
         "section": "reading"
       },
       {
-        "questionId": "u3-t98-r3",
+        "questionId": "u3-t92-b",
         "points": 3,
         "section": "reading"
       },
       {
-        "questionId": "u3-t98-r4",
+        "questionId": "u3-t91-b",
         "points": 3,
         "section": "reading"
       },
       {
-        "questionId": "u3-t98-r5",
+        "questionId": "u3-t90-b",
         "points": 3,
         "section": "reading"
       }
@@ -6110,7 +6113,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "truefalse",
         "title": "一、情境是非與證據判斷",
-        "instructions": "判斷整句主張是否有充分依據；正確選○，錯誤選×。",
+        "instructions": "判斷敘述正確或錯誤；其他題目依提示作答。",
         "count": 10,
         "points": 20,
         "pointsEach": 2,
@@ -6170,7 +6173,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "choice",
         "title": "二、比較與方案選擇",
-        "instructions": "留意條件與結論的範圍，選擇最有依據的說法。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "count": 10,
         "points": 20,
         "pointsEach": 2,
@@ -6230,7 +6233,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "reading",
         "title": "三、圖文整合與追加資料",
-        "instructions": "先讀原始紀錄，再讀追加情境。題目註明原始或追加時，應依指定資料回答。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "count": 20,
         "points": 60,
         "pointsEach": 3,
@@ -6261,27 +6264,27 @@ window.REVIEW_EXAMS=[
             "section": "reading"
           },
           {
-            "questionId": "u2-t98-r1",
+            "questionId": "u2-t94-b",
             "points": 3,
             "section": "reading"
           },
           {
-            "questionId": "u2-t98-r2",
+            "questionId": "u2-t93-b",
             "points": 3,
             "section": "reading"
           },
           {
-            "questionId": "u2-t98-r3",
+            "questionId": "u2-t92-b",
             "points": 3,
             "section": "reading"
           },
           {
-            "questionId": "u2-t98-r4",
+            "questionId": "u2-t91-b",
             "points": 3,
             "section": "reading"
           },
           {
-            "questionId": "u2-t98-r5",
+            "questionId": "u2-t90-b",
             "points": 3,
             "section": "reading"
           },
@@ -6311,27 +6314,27 @@ window.REVIEW_EXAMS=[
             "section": "reading"
           },
           {
-            "questionId": "u3-t98-r1",
+            "questionId": "u3-t94-b",
             "points": 3,
             "section": "reading"
           },
           {
-            "questionId": "u3-t98-r2",
+            "questionId": "u3-t93-b",
             "points": 3,
             "section": "reading"
           },
           {
-            "questionId": "u3-t98-r3",
+            "questionId": "u3-t92-b",
             "points": 3,
             "section": "reading"
           },
           {
-            "questionId": "u3-t98-r4",
+            "questionId": "u3-t91-b",
             "points": 3,
             "section": "reading"
           },
           {
-            "questionId": "u3-t98-r5",
+            "questionId": "u3-t90-b",
             "points": 3,
             "section": "reading"
           }
@@ -6339,7 +6342,7 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 40,
-    "formatVersion": 11,
+    "formatVersion": 16,
     "variant": "B",
     "level": "進階：整合、推論與多步驟應用"
   },
@@ -6351,7 +6354,7 @@ window.REVIEW_EXAMS=[
     "publisher": "南一",
     "scope": "第 1～2 單元",
     "minutes": 55,
-    "signature": "fc34e94e8c4ac830c4a5",
+    "signature": "c12cd10f88e0a47477b5",
     "total": 100,
     "entries": [
       {
@@ -6530,27 +6533,27 @@ window.REVIEW_EXAMS=[
         "section": "reading"
       },
       {
-        "questionId": "u23-t98-r1",
+        "questionId": "u23-t94-b",
         "points": 3,
         "section": "reading"
       },
       {
-        "questionId": "u23-t98-r2",
+        "questionId": "u23-t93-b",
         "points": 3,
         "section": "reading"
       },
       {
-        "questionId": "u23-t98-r3",
+        "questionId": "u23-t92-b",
         "points": 3,
         "section": "reading"
       },
       {
-        "questionId": "u23-t98-r4",
+        "questionId": "u23-t91-b",
         "points": 3,
         "section": "reading"
       },
       {
-        "questionId": "u23-t98-r5",
+        "questionId": "u23-t90-b",
         "points": 3,
         "section": "reading"
       }
@@ -6574,7 +6577,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "truefalse",
         "title": "一、情境是非與證據判斷",
-        "instructions": "判斷整句主張是否有充分依據；正確選○，錯誤選×。",
+        "instructions": "判斷敘述正確或錯誤；其他題目依提示作答。",
         "count": 10,
         "points": 20,
         "pointsEach": 2,
@@ -6634,7 +6637,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "choice",
         "title": "二、比較與方案選擇",
-        "instructions": "留意條件與結論的範圍，選擇最有依據的說法。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "count": 10,
         "points": 20,
         "pointsEach": 2,
@@ -6694,7 +6697,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "reading",
         "title": "三、圖文整合與追加資料",
-        "instructions": "先讀原始紀錄，再讀追加情境。題目註明原始或追加時，應依指定資料回答。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "count": 20,
         "points": 60,
         "pointsEach": 3,
@@ -6775,27 +6778,27 @@ window.REVIEW_EXAMS=[
             "section": "reading"
           },
           {
-            "questionId": "u23-t98-r1",
+            "questionId": "u23-t94-b",
             "points": 3,
             "section": "reading"
           },
           {
-            "questionId": "u23-t98-r2",
+            "questionId": "u23-t93-b",
             "points": 3,
             "section": "reading"
           },
           {
-            "questionId": "u23-t98-r3",
+            "questionId": "u23-t92-b",
             "points": 3,
             "section": "reading"
           },
           {
-            "questionId": "u23-t98-r4",
+            "questionId": "u23-t91-b",
             "points": 3,
             "section": "reading"
           },
           {
-            "questionId": "u23-t98-r5",
+            "questionId": "u23-t90-b",
             "points": 3,
             "section": "reading"
           }
@@ -6803,7 +6806,7 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 40,
-    "formatVersion": 11,
+    "formatVersion": 16,
     "variant": "B",
     "level": "進階：整合、推論與多步驟應用"
   },
@@ -6815,7 +6818,7 @@ window.REVIEW_EXAMS=[
     "publisher": "翰林",
     "scope": "第 1～2 單元",
     "minutes": 55,
-    "signature": "6f1ed74aa6a0c6d2b4f4",
+    "signature": "017fb9060f14c1fcbac1",
     "total": 100,
     "entries": [
       {
@@ -6969,27 +6972,27 @@ window.REVIEW_EXAMS=[
         "section": "reading"
       },
       {
-        "questionId": "u25-t99-r1",
+        "questionId": "u25-t94-b",
         "points": 3,
         "section": "reading"
       },
       {
-        "questionId": "u25-t99-r2",
+        "questionId": "u25-t93-b",
         "points": 3,
         "section": "reading"
       },
       {
-        "questionId": "u25-t99-r3",
+        "questionId": "u25-t92-b",
         "points": 3,
         "section": "reading"
       },
       {
-        "questionId": "u25-t99-r4",
+        "questionId": "u25-t91-b",
         "points": 3,
         "section": "reading"
       },
       {
-        "questionId": "u25-t99-r5",
+        "questionId": "u25-t90-b",
         "points": 3,
         "section": "reading"
       },
@@ -7038,7 +7041,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "truefalse",
         "title": "一、情境是非與證據判斷",
-        "instructions": "判斷整句主張是否有充分依據；正確選○，錯誤選×。",
+        "instructions": "判斷敘述正確或錯誤；其他題目依提示作答。",
         "count": 10,
         "points": 20,
         "pointsEach": 2,
@@ -7098,7 +7101,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "choice",
         "title": "二、比較與方案選擇",
-        "instructions": "留意條件與結論的範圍，選擇最有依據的說法。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "count": 10,
         "points": 20,
         "pointsEach": 2,
@@ -7158,7 +7161,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "reading",
         "title": "三、圖文整合與追加資料",
-        "instructions": "先讀原始紀錄，再讀追加情境。題目註明原始或追加時，應依指定資料回答。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "count": 20,
         "points": 60,
         "pointsEach": 3,
@@ -7214,27 +7217,27 @@ window.REVIEW_EXAMS=[
             "section": "reading"
           },
           {
-            "questionId": "u25-t99-r1",
+            "questionId": "u25-t94-b",
             "points": 3,
             "section": "reading"
           },
           {
-            "questionId": "u25-t99-r2",
+            "questionId": "u25-t93-b",
             "points": 3,
             "section": "reading"
           },
           {
-            "questionId": "u25-t99-r3",
+            "questionId": "u25-t92-b",
             "points": 3,
             "section": "reading"
           },
           {
-            "questionId": "u25-t99-r4",
+            "questionId": "u25-t91-b",
             "points": 3,
             "section": "reading"
           },
           {
-            "questionId": "u25-t99-r5",
+            "questionId": "u25-t90-b",
             "points": 3,
             "section": "reading"
           },
@@ -7267,7 +7270,7 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 40,
-    "formatVersion": 11,
+    "formatVersion": 16,
     "variant": "B",
     "level": "進階：整合、推論與多步驟應用"
   },
@@ -7279,7 +7282,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒",
     "scope": "第 1～4 單元（10000 以內的數、四位數的加減、毫米、乘法）",
     "minutes": 60,
-    "signature": "9f22daffdb1f96ce7285",
+    "signature": "7db9e1c2ecc9414bec53",
     "total": 100,
     "entries": [
       {
@@ -7439,7 +7442,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "choice",
         "title": "一、選擇與理由判斷",
-        "instructions": "讀完整個情境，選出條件與理由皆符合的一項。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "count": 5,
         "points": 10,
         "pointsEach": 2,
@@ -7474,7 +7477,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "fill",
         "title": "二、條件計算與看圖填答",
-        "instructions": "依題目與圖示計算，填入數字。",
+        "instructions": "依題目計算；數字題只填數字，其他題目依提示作答。",
         "count": 10,
         "points": 30,
         "pointsEach": 3,
@@ -7534,7 +7537,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "application",
         "title": "三、應用與數量推理",
-        "instructions": "先整理已知與所求，再計算或判斷。可用紙筆；依最終答案計分。",
+        "instructions": "依題目計算；數字題只填數字，其他題目依提示作答。",
         "count": 10,
         "points": 60,
         "pointsEach": 6,
@@ -7593,7 +7596,7 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 25,
-    "formatVersion": 12,
+    "formatVersion": 16,
     "variant": "B",
     "level": "進階：整合、推論與多步驟應用"
   },
@@ -7605,7 +7608,7 @@ window.REVIEW_EXAMS=[
     "publisher": "翰林",
     "scope": "第 1～5 單元、學習加油讚（一）",
     "minutes": 60,
-    "signature": "5ff2377c4c59669196ef",
+    "signature": "f4f4a3fc7513f5cb7801",
     "total": 100,
     "entries": [
       {
@@ -7771,7 +7774,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "choice",
         "title": "一、選擇與理由判斷",
-        "instructions": "讀完整個情境，選出條件與理由皆符合的一項。",
+        "instructions": "先讀完整題幹或共用文章，再依題目選答或填答。",
         "count": 5,
         "points": 10,
         "pointsEach": 2,
@@ -7806,7 +7809,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "fill",
         "title": "二、條件計算與看圖填答",
-        "instructions": "留意單位、範圍與起點；計算後填數字或指定名稱。",
+        "instructions": "依題目計算；數字題只填數字，其他題目依提示作答。",
         "count": 10,
         "points": 30,
         "pointsEach": 3,
@@ -7866,7 +7869,7 @@ window.REVIEW_EXAMS=[
       {
         "id": "application",
         "title": "三、多步驟應用與推理",
-        "instructions": "先整理已知與所求，再計算或判斷。可用紙筆；依最終答案計分。",
+        "instructions": "依題目計算；數字題只填數字，其他題目依提示作答。",
         "count": 10,
         "points": 60,
         "pointsEach": 6,
@@ -7925,1311 +7928,12 @@ window.REVIEW_EXAMS=[
       }
     ],
     "count": 25,
-    "formatVersion": 11,
+    "formatVersion": 16,
     "variant": "B",
     "level": "進階：整合、推論與多步驟應用"
   }
 ];
 window.REVIEW_EXAM_ITEMS=[
-  {
-    "id": "u6-t71-r1",
-    "unit": 6,
-    "topic": 70,
-    "concept": "Get Ready：三位數與資訊核對",
-    "type": "single",
-    "passageId": "mock-g5-tickets",
-    "readingOrder": 1,
-    "passageTitle": "Read the tickets",
-    "passage": "At the school fair, Amy and Ben have tickets.\n\nAmy: My ticket is one hundred and twenty-four.\nBen: My ticket is one hundred and forty-two.\n\nThe board says: 124 → 142.\nAmy: Look! My number is first.",
-    "glossary": "ticket：號碼牌；board：看板；first：先、第一個",
-    "text": "Which ticket is Amy’s?",
-    "options": [
-      "124",
-      "142",
-      "214",
-      "241"
-    ],
-    "answer": 0,
-    "explanation": "one hundred and twenty-four 是 124；不要把十位和個位顛倒。",
-    "readingSkill": "數字辨讀",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "依 Get Ready 三位數範圍編寫的延伸閱讀",
-    "visual": {
-      "kind": "examReceipt",
-      "caption": "Ticket board",
-      "description": "看板的號碼依序是 124、142。",
-      "items": [
-        "124 → 142"
-      ],
-      "examLineArt": true,
-      "heading": "題目資料",
-      "rows": [
-        [
-          "1",
-          "124 → 142"
-        ]
-      ]
-    }
-  },
-  {
-    "id": "u6-t71-r2",
-    "unit": 6,
-    "topic": 70,
-    "concept": "Get Ready：三位數與資訊核對",
-    "type": "single",
-    "passageId": "mock-g5-tickets",
-    "readingOrder": 2,
-    "passageTitle": "Read the tickets",
-    "passage": "At the school fair, Amy and Ben have tickets.\n\nAmy: My ticket is one hundred and twenty-four.\nBen: My ticket is one hundred and forty-two.\n\nThe board says: 124 → 142.\nAmy: Look! My number is first.",
-    "glossary": "ticket：號碼牌；board：看板；first：先、第一個",
-    "text": "Who goes first according to the board?",
-    "options": [
-      "Amy",
-      "Ben",
-      "Amy and Ben together",
-      "The board does not show an order."
-    ],
-    "answer": 0,
-    "explanation": "看板依序列出 124、142。Amy 的號碼是 124，因此先輪到 Amy。",
-    "readingSkill": "對照文字與看板",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "依 Get Ready 三位數範圍編寫的延伸閱讀",
-    "visual": {
-      "kind": "examReceipt",
-      "caption": "Ticket board",
-      "description": "看板的號碼依序是 124、142。",
-      "items": [
-        "124 → 142"
-      ],
-      "examLineArt": true,
-      "heading": "題目資料",
-      "rows": [
-        [
-          "1",
-          "124 → 142"
-        ]
-      ]
-    }
-  },
-  {
-    "id": "u13-t72-r1",
-    "unit": 13,
-    "topic": 71,
-    "concept": "時間運用與功能閱讀",
-    "type": "single",
-    "passageId": "mock-g3-chinese-1",
-    "passageTitle": "時間躲到哪裡去了",
-    "passage": "星期一，小川在聯絡簿寫下：「今天沒有時間看書。」媽媽沒有責備他，只請他在星期二記下放學後做了什麼。\n\n小川發現，自己找作業本花了十分鐘；等爸爸準備晚餐時，又坐著等了十五分鐘。他把常用的課本放在同一層，並在等待時讀了幾頁故事。吃飯時，他高興地說：「今天好像多出一些時間！」\n\n媽媽笑著指指時鐘：「每一天還是一樣長呀。」小川想了想，在紀錄最後補上一句：「有些時間沒有不見，是我以前沒發現怎麼用。」不過，他也替下樓玩球留下半小時，因為休息和運動同樣重要。",
-    "readingOrder": 1,
-    "readingSkill": "擷取訊息",
-    "text": "小川記錄放學後的活動，主要是想了解什麼？",
-    "options": [
-      "自己為什麼覺得沒有時間看書",
-      "爸爸每天煮幾道菜",
-      "時鐘走得準不準",
-      "故事書總共有幾頁"
-    ],
-    "answer": 0,
-    "explanation": "媽媽請他記錄做了什麼，讓他從自己的安排找原因。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "閱讀資料卡",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "items": [
-        "找作業本：10 分鐘",
-        "等待晚餐：15 分鐘",
-        "整理常用物品",
-        "等待時讀幾頁書"
-      ],
-      "examLineArt": false,
-      "heading": "題目資料",
-      "rows": [
-        [
-          "1",
-          "找作業本：10 分鐘"
-        ],
-        [
-          "2",
-          "等待晚餐：15 分鐘"
-        ],
-        [
-          "3",
-          "整理常用物品"
-        ],
-        [
-          "4",
-          "等待時讀幾頁書"
-        ]
-      ],
-      "mode": "schedule"
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "schedule"
-    }
-  },
-  {
-    "id": "u13-t72-r2",
-    "unit": 13,
-    "topic": 71,
-    "concept": "時間運用與功能閱讀",
-    "type": "single",
-    "passageId": "mock-g3-chinese-1",
-    "passageTitle": "時間躲到哪裡去了",
-    "passage": "星期一，小川在聯絡簿寫下：「今天沒有時間看書。」媽媽沒有責備他，只請他在星期二記下放學後做了什麼。\n\n小川發現，自己找作業本花了十分鐘；等爸爸準備晚餐時，又坐著等了十五分鐘。他把常用的課本放在同一層，並在等待時讀了幾頁故事。吃飯時，他高興地說：「今天好像多出一些時間！」\n\n媽媽笑著指指時鐘：「每一天還是一樣長呀。」小川想了想，在紀錄最後補上一句：「有些時間沒有不見，是我以前沒發現怎麼用。」不過，他也替下樓玩球留下半小時，因為休息和運動同樣重要。",
-    "readingOrder": 2,
-    "readingSkill": "因果推論",
-    "text": "小川說「好像多出一些時間」，最可能的原因是什麼？",
-    "options": [
-      "星期二比星期一長",
-      "把找東西和等待的時間安排得更合適",
-      "晚餐完全不用準備",
-      "把所有休息時間都取消"
-    ],
-    "answer": 1,
-    "explanation": "整理物品減少尋找，也利用等待時間閱讀；一天的長度沒有改變。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "閱讀資料卡",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "items": [
-        "找作業本：10 分鐘",
-        "等待晚餐：15 分鐘",
-        "整理常用物品",
-        "等待時讀幾頁書"
-      ],
-      "examLineArt": false,
-      "heading": "題目資料",
-      "rows": [
-        [
-          "1",
-          "找作業本：10 分鐘"
-        ],
-        [
-          "2",
-          "等待晚餐：15 分鐘"
-        ],
-        [
-          "3",
-          "整理常用物品"
-        ],
-        [
-          "4",
-          "等待時讀幾頁書"
-        ]
-      ],
-      "mode": "schedule"
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "schedule"
-    }
-  },
-  {
-    "id": "u13-t72-r3",
-    "unit": 13,
-    "topic": 71,
-    "concept": "時間運用與功能閱讀",
-    "type": "single",
-    "passageId": "mock-g3-chinese-1",
-    "passageTitle": "時間躲到哪裡去了",
-    "passage": "星期一，小川在聯絡簿寫下：「今天沒有時間看書。」媽媽沒有責備他，只請他在星期二記下放學後做了什麼。\n\n小川發現，自己找作業本花了十分鐘；等爸爸準備晚餐時，又坐著等了十五分鐘。他把常用的課本放在同一層，並在等待時讀了幾頁故事。吃飯時，他高興地說：「今天好像多出一些時間！」\n\n媽媽笑著指指時鐘：「每一天還是一樣長呀。」小川想了想，在紀錄最後補上一句：「有些時間沒有不見，是我以前沒發現怎麼用。」不過，他也替下樓玩球留下半小時，因為休息和運動同樣重要。",
-    "readingOrder": 3,
-    "readingSkill": "整合應用",
-    "text": "哪個安排最符合小川最後學到的事？",
-    "options": [
-      "為了多讀書，每天都不睡午覺",
-      "把一天排滿，只要忙就是善用時間",
-      "列出要做的事，也留出休息與活動時間",
-      "等家人提醒後，才決定今天做什麼"
-    ],
-    "answer": 2,
-    "explanation": "文章除了運用零碎時間，也強調保留運動與休息。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "閱讀資料卡",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "items": [
-        "找作業本：10 分鐘",
-        "等待晚餐：15 分鐘",
-        "整理常用物品",
-        "等待時讀幾頁書"
-      ],
-      "examLineArt": false,
-      "heading": "題目資料",
-      "rows": [
-        [
-          "1",
-          "找作業本：10 分鐘"
-        ],
-        [
-          "2",
-          "等待晚餐：15 分鐘"
-        ],
-        [
-          "3",
-          "整理常用物品"
-        ],
-        [
-          "4",
-          "等待時讀幾頁書"
-        ]
-      ],
-      "mode": "schedule"
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "schedule"
-    }
-  },
-  {
-    "id": "u13-t73-r1",
-    "unit": 13,
-    "topic": 72,
-    "concept": "時間運用與功能閱讀",
-    "type": "single",
-    "passageId": "mock-g3-chinese-2",
-    "passageTitle": "一張便條，兩種結果",
-    "passage": "星期三放學前，怡安在桌上貼了一張便條：「別忘了帶來！」隔天她看見便條，卻想不起要帶什麼。她只帶了水壺，到了教室才知道小組正在等她的彩色筆。\n\n午休時，怡安把便條改成：「星期五早自習，帶彩色筆到教室，和第三組一起畫海報。」她把便條貼在書包旁，收拾書包時就能看到。星期五，她不但記得帶彩色筆，也提醒組員先討論海報的內容。\n\n同學小平說：「便條寫得越長越好吧？」怡安搖搖頭：「不是把所有事情都寫上去，而是要讓明天的我一看就知道要做什麼。」",
-    "readingOrder": 1,
-    "readingSkill": "比較訊息",
-    "text": "怡安第一次沒有帶齊用品，便條本身最主要的問題是什麼？",
-    "options": [
-      "紙張太小，不能畫圖",
-      "沒有寫清楚要帶什麼、何時要用",
-      "沒有寫小平的名字",
-      "不是用彩色筆書寫"
-    ],
-    "answer": 1,
-    "explanation": "「別忘了帶來」缺少具體事項，隔天難以知道指的是什麼。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "兩張便條的比較",
-      "notes": [
-        [
-          "別忘了帶來！"
-        ],
-        [
-          "星期五早自習",
-          "帶彩色筆到教室",
-          "和第三組一起畫海報"
-        ]
-      ],
-      "examLineArt": false,
-      "mode": "schoolbag",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "schoolbag"
-    }
-  },
-  {
-    "id": "u13-t73-r2",
-    "unit": 13,
-    "topic": 72,
-    "concept": "時間運用與功能閱讀",
-    "type": "single",
-    "passageId": "mock-g3-chinese-2",
-    "passageTitle": "一張便條，兩種結果",
-    "passage": "星期三放學前，怡安在桌上貼了一張便條：「別忘了帶來！」隔天她看見便條，卻想不起要帶什麼。她只帶了水壺，到了教室才知道小組正在等她的彩色筆。\n\n午休時，怡安把便條改成：「星期五早自習，帶彩色筆到教室，和第三組一起畫海報。」她把便條貼在書包旁，收拾書包時就能看到。星期五，她不但記得帶彩色筆，也提醒組員先討論海報的內容。\n\n同學小平說：「便條寫得越長越好吧？」怡安搖搖頭：「不是把所有事情都寫上去，而是要讓明天的我一看就知道要做什麼。」",
-    "readingOrder": 2,
-    "readingSkill": "功能文本判讀",
-    "text": "依改過的便條，哪個行動符合約定？",
-    "options": [
-      "星期五早自習把彩色筆帶到教室",
-      "星期五放學後才去買彩色筆",
-      "星期三把海報帶回家收藏",
-      "星期四下課將水壺借給小平"
-    ],
-    "answer": 0,
-    "explanation": "需要同時核對時間、用品與地點，不能只看到「星期五」。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "兩張便條的比較",
-      "notes": [
-        [
-          "別忘了帶來！"
-        ],
-        [
-          "星期五早自習",
-          "帶彩色筆到教室",
-          "和第三組一起畫海報"
-        ]
-      ],
-      "examLineArt": false,
-      "mode": "schoolbag",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "schoolbag"
-    }
-  },
-  {
-    "id": "u13-t73-r3",
-    "unit": 13,
-    "topic": 72,
-    "concept": "時間運用與功能閱讀",
-    "type": "single",
-    "passageId": "mock-g3-chinese-2",
-    "passageTitle": "一張便條，兩種結果",
-    "passage": "星期三放學前，怡安在桌上貼了一張便條：「別忘了帶來！」隔天她看見便條，卻想不起要帶什麼。她只帶了水壺，到了教室才知道小組正在等她的彩色筆。\n\n午休時，怡安把便條改成：「星期五早自習，帶彩色筆到教室，和第三組一起畫海報。」她把便條貼在書包旁，收拾書包時就能看到。星期五，她不但記得帶彩色筆，也提醒組員先討論海報的內容。\n\n同學小平說：「便條寫得越長越好吧？」怡安搖搖頭：「不是把所有事情都寫上去，而是要讓明天的我一看就知道要做什麼。」",
-    "readingOrder": 3,
-    "readingSkill": "理解主旨",
-    "text": "怡安對「越長越好」的回應，主要強調什麼？",
-    "options": [
-      "便條只要有日期就夠了",
-      "便條必須把整天的行程寫完",
-      "便條只能寫給別人看",
-      "資訊清楚、看得懂，比字數多更重要"
-    ],
-    "answer": 3,
-    "explanation": "結尾指出目的是讓自己知道要做什麼，重點在清楚而非長度。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "兩張便條的比較",
-      "notes": [
-        [
-          "別忘了帶來！"
-        ],
-        [
-          "星期五早自習",
-          "帶彩色筆到教室",
-          "和第三組一起畫海報"
-        ]
-      ],
-      "examLineArt": false,
-      "mode": "schoolbag",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "schoolbag"
-    }
-  },
-  {
-    "id": "u13-t74-r1",
-    "unit": 13,
-    "topic": 73,
-    "concept": "時間運用與功能閱讀",
-    "type": "single",
-    "passageId": "mock-g3-chinese-3",
-    "passageTitle": "雨天的集合通知",
-    "passage": "班級公告欄上貼著通知：\n【星期四校園觀察】\n集合時間：上午八時十分。\n晴天：在中庭集合。雨天：改在一樓穿堂。\n請帶鉛筆、筆記本與雨具；不要因為趕時間在走廊奔跑。\n\n星期四早上，窗外下著雨。八時五分，阿澄站在教室門口，發現鉛筆還放在抽屜裡。小樂已經帶齊用品，說：「還有五分鐘，我先到集合處等你。」阿澄原本想空手跟上，想起通知後，回教室取出鉛筆，再沿走廊慢慢走。\n\n兩人在八時十分前會合。小樂說，提早準備並不是為了和同學比誰先到，而是讓自己有時間確認用品與安全。",
-    "readingOrder": 1,
-    "readingSkill": "條件判讀",
-    "text": "依當天的天氣，兩人應到哪裡集合？",
-    "options": [
-      "中庭",
-      "圖書館",
-      "一樓穿堂",
-      "校門口"
-    ],
-    "answer": 2,
-    "explanation": "通知明列雨天改在一樓穿堂，當天正在下雨。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "閱讀資料卡",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "items": [
-        "08：05　離開教室前",
-        "08：10　集合",
-        "晴天：中庭",
-        "雨天：一樓穿堂"
-      ],
-      "examLineArt": false,
-      "heading": "題目資料",
-      "rows": [
-        [
-          "1",
-          "08：05　離開教室前"
-        ],
-        [
-          "2",
-          "08：10　集合"
-        ],
-        [
-          "3",
-          "晴天：中庭"
-        ],
-        [
-          "4",
-          "雨天：一樓穿堂"
-        ]
-      ],
-      "mode": "schedule"
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "schedule"
-    }
-  },
-  {
-    "id": "u13-t74-r2",
-    "unit": 13,
-    "topic": 73,
-    "concept": "時間運用與功能閱讀",
-    "type": "single",
-    "passageId": "mock-g3-chinese-3",
-    "passageTitle": "雨天的集合通知",
-    "passage": "班級公告欄上貼著通知：\n【星期四校園觀察】\n集合時間：上午八時十分。\n晴天：在中庭集合。雨天：改在一樓穿堂。\n請帶鉛筆、筆記本與雨具；不要因為趕時間在走廊奔跑。\n\n星期四早上，窗外下著雨。八時五分，阿澄站在教室門口，發現鉛筆還放在抽屜裡。小樂已經帶齊用品，說：「還有五分鐘，我先到集合處等你。」阿澄原本想空手跟上，想起通知後，回教室取出鉛筆，再沿走廊慢慢走。\n\n兩人在八時十分前會合。小樂說，提早準備並不是為了和同學比誰先到，而是讓自己有時間確認用品與安全。",
-    "readingOrder": 2,
-    "readingSkill": "連結上下文",
-    "text": "小樂說「我先到集合處等你」時，最可能具備哪個條件？",
-    "options": [
-      "已帶齊通知要求的用品",
-      "已經完成整份觀察報告",
-      "認為下雨就不用參加",
-      "打算在走廊奔跑"
-    ],
-    "answer": 0,
-    "explanation": "文章先交代小樂已帶齊用品，才能先前往。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "閱讀資料卡",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "items": [
-        "08：05　離開教室前",
-        "08：10　集合",
-        "晴天：中庭",
-        "雨天：一樓穿堂"
-      ],
-      "examLineArt": false,
-      "heading": "題目資料",
-      "rows": [
-        [
-          "1",
-          "08：05　離開教室前"
-        ],
-        [
-          "2",
-          "08：10　集合"
-        ],
-        [
-          "3",
-          "晴天：中庭"
-        ],
-        [
-          "4",
-          "雨天：一樓穿堂"
-        ]
-      ],
-      "mode": "schedule"
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "schedule"
-    }
-  },
-  {
-    "id": "u13-t74-r3",
-    "unit": 13,
-    "topic": 73,
-    "concept": "時間運用與功能閱讀",
-    "type": "single",
-    "passageId": "mock-g3-chinese-3",
-    "passageTitle": "雨天的集合通知",
-    "passage": "班級公告欄上貼著通知：\n【星期四校園觀察】\n集合時間：上午八時十分。\n晴天：在中庭集合。雨天：改在一樓穿堂。\n請帶鉛筆、筆記本與雨具；不要因為趕時間在走廊奔跑。\n\n星期四早上，窗外下著雨。八時五分，阿澄站在教室門口，發現鉛筆還放在抽屜裡。小樂已經帶齊用品，說：「還有五分鐘，我先到集合處等你。」阿澄原本想空手跟上，想起通知後，回教室取出鉛筆，再沿走廊慢慢走。\n\n兩人在八時十分前會合。小樂說，提早準備並不是為了和同學比誰先到，而是讓自己有時間確認用品與安全。",
-    "readingOrder": 3,
-    "readingSkill": "推論理由",
-    "text": "阿澄回教室拿鉛筆，最合理的理由是什麼？",
-    "options": [
-      "只要遲到就可以不用觀察",
-      "鉛筆是觀察活動需要的用品，當時仍有準備時間",
-      "所有人都必須最後一秒到場",
-      "通知要求先回教室兩次"
-    ],
-    "answer": 1,
-    "explanation": "他依通知補齊鉛筆，並在剩下的時間內安全到達。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "閱讀資料卡",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "items": [
-        "08：05　離開教室前",
-        "08：10　集合",
-        "晴天：中庭",
-        "雨天：一樓穿堂"
-      ],
-      "examLineArt": false,
-      "heading": "題目資料",
-      "rows": [
-        [
-          "1",
-          "08：05　離開教室前"
-        ],
-        [
-          "2",
-          "08：10　集合"
-        ],
-        [
-          "3",
-          "晴天：中庭"
-        ],
-        [
-          "4",
-          "雨天：一樓穿堂"
-        ]
-      ],
-      "mode": "schedule"
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "schedule"
-    }
-  },
-  {
-    "id": "u13-t74-r4",
-    "unit": 13,
-    "topic": 73,
-    "concept": "時間運用與功能閱讀",
-    "type": "single",
-    "passageId": "mock-g3-chinese-3",
-    "passageTitle": "雨天的集合通知",
-    "passage": "班級公告欄上貼著通知：\n【星期四校園觀察】\n集合時間：上午八時十分。\n晴天：在中庭集合。雨天：改在一樓穿堂。\n請帶鉛筆、筆記本與雨具；不要因為趕時間在走廊奔跑。\n\n星期四早上，窗外下著雨。八時五分，阿澄站在教室門口，發現鉛筆還放在抽屜裡。小樂已經帶齊用品，說：「還有五分鐘，我先到集合處等你。」阿澄原本想空手跟上，想起通知後，回教室取出鉛筆，再沿走廊慢慢走。\n\n兩人在八時十分前會合。小樂說，提早準備並不是為了和同學比誰先到，而是讓自己有時間確認用品與安全。",
-    "readingOrder": 4,
-    "readingSkill": "統整主旨",
-    "text": "哪句話最能說明這篇文章的重點？",
-    "options": [
-      "越早到的人，觀察能力一定越好",
-      "天氣不好時，不用再看通知",
-      "只要跑得快，忘記用品也沒關係",
-      "預留時間，能兼顧準備與安全"
-    ],
-    "answer": 3,
-    "explanation": "兩人及時帶齊用品，又沒有在走廊奔跑，呼應最後一段。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "閱讀資料卡",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "items": [
-        "08：05　離開教室前",
-        "08：10　集合",
-        "晴天：中庭",
-        "雨天：一樓穿堂"
-      ],
-      "examLineArt": false,
-      "heading": "題目資料",
-      "rows": [
-        [
-          "1",
-          "08：05　離開教室前"
-        ],
-        [
-          "2",
-          "08：10　集合"
-        ],
-        [
-          "3",
-          "晴天：中庭"
-        ],
-        [
-          "4",
-          "雨天：一樓穿堂"
-        ]
-      ],
-      "mode": "schedule"
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "schedule"
-    }
-  },
-  {
-    "id": "u14-t75-r1",
-    "unit": 14,
-    "topic": 74,
-    "concept": "觀察、比較與解決問題",
-    "type": "single",
-    "passageId": "mock-g3-chinese-4",
-    "passageTitle": "先寫看到的，再問為什麼",
-    "passage": "老師示範用電熱水壺煮水，請大家站在安全線外觀察。小唯在紀錄上寫：「水怪生氣了！」因為她聽見聲音變大，還看見壺嘴附近出現白白的霧。\n\n老師問：「沒有在現場的人，看得懂『生氣』是什麼樣子嗎？」小唯把句子改成：「後來聲音比開始時大，壺嘴附近有白霧。」同桌阿勳補充，他們站得比較遠，沒看清楚壺內的情形，所以不該把想像寫成親眼看見的事。\n\n下課前，小唯沒有刪掉「水怪」兩個字，而是在另一欄畫了一隻水怪。她說：「故事裡可以想像，觀察紀錄要把看到和聽到的寫清楚。」她另外記下問題，準備請老師說明；沒有自己打開熱水壺找答案。",
-    "readingOrder": 1,
-    "readingSkill": "理解寫作目的",
-    "text": "老師請小唯修改「水怪生氣了」，主要是因為什麼？",
-    "options": [
-      "觀察紀錄需要清楚描述實際見聞",
-      "觀察紀錄一定不能寫字",
-      "老師不喜歡水怪的畫",
-      "所有聲音都不能記錄"
-    ],
-    "answer": 0,
-    "explanation": "沒有在現場的人無法從「生氣」知道發生什麼；聲音與白霧是具體見聞。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "閱讀資料卡",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "items": [
-        "觀察欄：聲音有變化",
-        "觀察欄：壺嘴附近有白霧",
-        "創作欄：水怪的想像",
-        "操作熱水壺：由老師進行"
-      ],
-      "examLineArt": false,
-      "heading": "題目資料",
-      "rows": [
-        [
-          "1",
-          "觀察欄：聲音有變化"
-        ],
-        [
-          "2",
-          "觀察欄：壺嘴附近有白霧"
-        ],
-        [
-          "3",
-          "創作欄：水怪的想像"
-        ],
-        [
-          "4",
-          "操作熱水壺：由老師進行"
-        ]
-      ],
-      "mode": "kettle"
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "kettle"
-    }
-  },
-  {
-    "id": "u14-t75-r2",
-    "unit": 14,
-    "topic": 74,
-    "concept": "觀察、比較與解決問題",
-    "type": "single",
-    "passageId": "mock-g3-chinese-4",
-    "passageTitle": "先寫看到的，再問為什麼",
-    "passage": "老師示範用電熱水壺煮水，請大家站在安全線外觀察。小唯在紀錄上寫：「水怪生氣了！」因為她聽見聲音變大，還看見壺嘴附近出現白白的霧。\n\n老師問：「沒有在現場的人，看得懂『生氣』是什麼樣子嗎？」小唯把句子改成：「後來聲音比開始時大，壺嘴附近有白霧。」同桌阿勳補充，他們站得比較遠，沒看清楚壺內的情形，所以不該把想像寫成親眼看見的事。\n\n下課前，小唯沒有刪掉「水怪」兩個字，而是在另一欄畫了一隻水怪。她說：「故事裡可以想像，觀察紀錄要把看到和聽到的寫清楚。」她另外記下問題，準備請老師說明；沒有自己打開熱水壺找答案。",
-    "readingOrder": 2,
-    "readingSkill": "區分觀察與推測",
-    "text": "哪一句是本文可確認的直接觀察？",
-    "options": [
-      "壺裡有一隻生氣的水怪",
-      "每一種水壺的聲音都相同",
-      "小唯聽見後來的聲音比開始時大",
-      "壺內每個地方都一樣熱"
-    ],
-    "answer": 2,
-    "explanation": "小唯確實聽到聲音變化；其他說法是想像或沒有證據的推論。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "閱讀資料卡",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "items": [
-        "觀察欄：聲音有變化",
-        "觀察欄：壺嘴附近有白霧",
-        "創作欄：水怪的想像",
-        "操作熱水壺：由老師進行"
-      ],
-      "examLineArt": false,
-      "heading": "題目資料",
-      "rows": [
-        [
-          "1",
-          "觀察欄：聲音有變化"
-        ],
-        [
-          "2",
-          "觀察欄：壺嘴附近有白霧"
-        ],
-        [
-          "3",
-          "創作欄：水怪的想像"
-        ],
-        [
-          "4",
-          "操作熱水壺：由老師進行"
-        ]
-      ],
-      "mode": "kettle"
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "kettle"
-    }
-  },
-  {
-    "id": "u14-t75-r3",
-    "unit": 14,
-    "topic": 74,
-    "concept": "觀察、比較與解決問題",
-    "type": "single",
-    "passageId": "mock-g3-chinese-4",
-    "passageTitle": "先寫看到的，再問為什麼",
-    "passage": "老師示範用電熱水壺煮水，請大家站在安全線外觀察。小唯在紀錄上寫：「水怪生氣了！」因為她聽見聲音變大，還看見壺嘴附近出現白白的霧。\n\n老師問：「沒有在現場的人，看得懂『生氣』是什麼樣子嗎？」小唯把句子改成：「後來聲音比開始時大，壺嘴附近有白霧。」同桌阿勳補充，他們站得比較遠，沒看清楚壺內的情形，所以不該把想像寫成親眼看見的事。\n\n下課前，小唯沒有刪掉「水怪」兩個字，而是在另一欄畫了一隻水怪。她說：「故事裡可以想像，觀察紀錄要把看到和聽到的寫清楚。」她另外記下問題，準備請老師說明；沒有自己打開熱水壺找答案。",
-    "readingOrder": 3,
-    "readingSkill": "人物行動推論",
-    "text": "小唯把水怪畫在另一欄，最能看出什麼？",
-    "options": [
-      "她不願意再做任何紀錄",
-      "她知道想像與觀察可以分開呈現",
-      "她證明水壺裡真的有水怪",
-      "她認為畫圖可以代替所有文字"
-    ],
-    "answer": 1,
-    "explanation": "她保留創作，同時把具體觀察寫在紀錄欄，沒有把兩者混在一起。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "閱讀資料卡",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "items": [
-        "觀察欄：聲音有變化",
-        "觀察欄：壺嘴附近有白霧",
-        "創作欄：水怪的想像",
-        "操作熱水壺：由老師進行"
-      ],
-      "examLineArt": false,
-      "heading": "題目資料",
-      "rows": [
-        [
-          "1",
-          "觀察欄：聲音有變化"
-        ],
-        [
-          "2",
-          "觀察欄：壺嘴附近有白霧"
-        ],
-        [
-          "3",
-          "創作欄：水怪的想像"
-        ],
-        [
-          "4",
-          "操作熱水壺：由老師進行"
-        ]
-      ],
-      "mode": "kettle"
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "kettle"
-    }
-  },
-  {
-    "id": "u14-t76-r1",
-    "unit": 14,
-    "topic": 75,
-    "concept": "觀察、比較與解決問題",
-    "type": "single",
-    "passageId": "mock-g3-chinese-5",
-    "passageTitle": "花圃旁的小傘",
-    "passage": "傍晚下起大雨，剛移到花圃的幼苗被雨打得東倒西歪。庭庭想起課堂讀過的故事，拿來一把小傘。她先問園藝志工，確認能安全固定，才替幼苗遮住直打下來的雨。\n\n隔天放晴，小安看到小傘，說：「既然傘可以保護花，就一直撐著吧。」志工卻請兩人摸摸傘外的土，再看看幼苗。他提醒，這把傘原本是為了暫時擋大雨，不代表每一種天氣都要用。兩人商量後，在天氣穩定時收起小傘，繼續觀察幼苗。\n\n一週後，幼苗重新站直了。庭庭在花圃日誌寫道：「照顧不是把昨天的方法一直做下去，而是留意今天的需要。」",
-    "readingOrder": 1,
-    "readingSkill": "擷取情境問題",
-    "text": "庭庭替幼苗撐傘，最直接是要解決什麼問題？",
-    "options": [
-      "花圃沒有任何光線",
-      "大雨直接打在剛移種的幼苗上",
-      "幼苗長得太高",
-      "小安沒有帶雨傘"
-    ],
-    "answer": 1,
-    "explanation": "第一段交代大雨把幼苗打歪，傘是暫時阻擋直打的雨。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "閱讀資料卡",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "items": [
-        "大雨：幼苗被直打",
-        "先請教，再安全固定傘",
-        "放晴：重新評估需要",
-        "一週後：記下觀察"
-      ],
-      "examLineArt": false,
-      "heading": "題目資料",
-      "rows": [
-        [
-          "1",
-          "大雨：幼苗被直打"
-        ],
-        [
-          "2",
-          "先請教，再安全固定傘"
-        ],
-        [
-          "3",
-          "放晴：重新評估需要"
-        ],
-        [
-          "4",
-          "一週後：記下觀察"
-        ]
-      ],
-      "mode": "umbrellaPlant"
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "umbrellaPlant"
-    }
-  },
-  {
-    "id": "u14-t76-r2",
-    "unit": 14,
-    "topic": 75,
-    "concept": "觀察、比較與解決問題",
-    "type": "single",
-    "passageId": "mock-g3-chinese-5",
-    "passageTitle": "花圃旁的小傘",
-    "passage": "傍晚下起大雨，剛移到花圃的幼苗被雨打得東倒西歪。庭庭想起課堂讀過的故事，拿來一把小傘。她先問園藝志工，確認能安全固定，才替幼苗遮住直打下來的雨。\n\n隔天放晴，小安看到小傘，說：「既然傘可以保護花，就一直撐著吧。」志工卻請兩人摸摸傘外的土，再看看幼苗。他提醒，這把傘原本是為了暫時擋大雨，不代表每一種天氣都要用。兩人商量後，在天氣穩定時收起小傘，繼續觀察幼苗。\n\n一週後，幼苗重新站直了。庭庭在花圃日誌寫道：「照顧不是把昨天的方法一直做下去，而是留意今天的需要。」",
-    "readingOrder": 2,
-    "readingSkill": "比較觀點",
-    "text": "小安和志工的想法，主要差別是什麼？",
-    "options": [
-      "小安想保護幼苗，志工完全不在意幼苗",
-      "小安想把傘丟掉，志工要買新傘",
-      "小安要一直使用同一方法，志工主張依情況調整",
-      "小安只觀察，志工從來不觀察"
-    ],
-    "answer": 2,
-    "explanation": "兩人都為了幼苗好；差異在是否根據天氣和實際需要調整。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "閱讀資料卡",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "items": [
-        "大雨：幼苗被直打",
-        "先請教，再安全固定傘",
-        "放晴：重新評估需要",
-        "一週後：記下觀察"
-      ],
-      "examLineArt": false,
-      "heading": "題目資料",
-      "rows": [
-        [
-          "1",
-          "大雨：幼苗被直打"
-        ],
-        [
-          "2",
-          "先請教，再安全固定傘"
-        ],
-        [
-          "3",
-          "放晴：重新評估需要"
-        ],
-        [
-          "4",
-          "一週後：記下觀察"
-        ]
-      ],
-      "mode": "umbrellaPlant"
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "umbrellaPlant"
-    }
-  },
-  {
-    "id": "u14-t76-r3",
-    "unit": 14,
-    "topic": 75,
-    "concept": "觀察、比較與解決問題",
-    "type": "single",
-    "passageId": "mock-g3-chinese-5",
-    "passageTitle": "花圃旁的小傘",
-    "passage": "傍晚下起大雨，剛移到花圃的幼苗被雨打得東倒西歪。庭庭想起課堂讀過的故事，拿來一把小傘。她先問園藝志工，確認能安全固定，才替幼苗遮住直打下來的雨。\n\n隔天放晴，小安看到小傘，說：「既然傘可以保護花，就一直撐著吧。」志工卻請兩人摸摸傘外的土，再看看幼苗。他提醒，這把傘原本是為了暫時擋大雨，不代表每一種天氣都要用。兩人商量後，在天氣穩定時收起小傘，繼續觀察幼苗。\n\n一週後，幼苗重新站直了。庭庭在花圃日誌寫道：「照顧不是把昨天的方法一直做下去，而是留意今天的需要。」",
-    "readingOrder": 3,
-    "readingSkill": "遷移應用",
-    "text": "依庭庭日誌的意思，哪個做法最合適？",
-    "options": [
-      "先確認植物當時需要什麼，再決定如何照顧",
-      "只要別人用過的方法，就永遠照做",
-      "方法用過一次，就再也不能用",
-      "不論植物有沒有變化，都不用再看"
-    ],
-    "answer": 0,
-    "explanation": "文章重點是留意目前需要，並持續觀察；不是否定所有舊方法。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "閱讀資料卡",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "items": [
-        "大雨：幼苗被直打",
-        "先請教，再安全固定傘",
-        "放晴：重新評估需要",
-        "一週後：記下觀察"
-      ],
-      "examLineArt": false,
-      "heading": "題目資料",
-      "rows": [
-        [
-          "1",
-          "大雨：幼苗被直打"
-        ],
-        [
-          "2",
-          "先請教，再安全固定傘"
-        ],
-        [
-          "3",
-          "放晴：重新評估需要"
-        ],
-        [
-          "4",
-          "一週後：記下觀察"
-        ]
-      ],
-      "mode": "umbrellaPlant"
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "umbrellaPlant"
-    }
-  },
-  {
-    "id": "u14-t77-r1",
-    "unit": 14,
-    "topic": 76,
-    "concept": "觀察、比較與解決問題",
-    "type": "single",
-    "passageId": "mock-g3-chinese-6",
-    "passageTitle": "哪枝鉛筆留下來",
-    "passage": "小甯的圓鉛筆常從桌上滾落。她看到同學的六角鉛筆放得好好的，就說：「六角鉛筆一定永遠不會掉！」同學提醒，兩張桌子的斜度可能不同，不能只看一次就下結論。\n\n兩人找來圓鉛筆和六角鉛筆，在同一塊板子的同一位置，輕輕放手，不用力推。板子稍微傾斜時，圓鉛筆滾到板邊，六角鉛筆停在原處；把板子再傾斜一些，六角鉛筆也滑動了。他們各試了幾次，把不同情況分開記下來。\n\n小甯改口說：「在我們剛才較緩的斜板上，六角鉛筆比較不容易滾動，不是任何情況都不會掉。」最後，她仍在桌上放了一個筆槽。她發現，了解物品的外形有幫助，也要想到實際使用的環境。",
-    "readingOrder": 1,
-    "readingSkill": "評估推論",
-    "text": "同學為什麼不接受「一定永遠不會掉」？",
-    "options": [
-      "六角鉛筆不能拿來寫字",
-      "只看不同桌上的一次情形，還不能作這麼肯定的結論",
-      "只有圓鉛筆能放在桌上",
-      "桌子的斜度永遠都一樣"
-    ],
-    "answer": 1,
-    "explanation": "同學指出原本比較的桌面條件可能不同，而且一次觀察不足以支持「永遠」。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "閱讀資料卡",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "items": [
-        "同一塊板子、同一起點",
-        "都輕放，不用力推",
-        "較緩：圓筆滾／六角筆停",
-        "更斜：六角筆也滑動"
-      ],
-      "examLineArt": false,
-      "heading": "題目資料",
-      "rows": [
-        [
-          "1",
-          "同一塊板子、同一起點"
-        ],
-        [
-          "2",
-          "都輕放，不用力推"
-        ],
-        [
-          "3",
-          "較緩：圓筆滾／六角筆停"
-        ],
-        [
-          "4",
-          "更斜：六角筆也滑動"
-        ]
-      ],
-      "mode": "pencilTray"
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "pencilTray"
-    }
-  },
-  {
-    "id": "u14-t77-r2",
-    "unit": 14,
-    "topic": 76,
-    "concept": "觀察、比較與解決問題",
-    "type": "single",
-    "passageId": "mock-g3-chinese-6",
-    "passageTitle": "哪枝鉛筆留下來",
-    "passage": "小甯的圓鉛筆常從桌上滾落。她看到同學的六角鉛筆放得好好的，就說：「六角鉛筆一定永遠不會掉！」同學提醒，兩張桌子的斜度可能不同，不能只看一次就下結論。\n\n兩人找來圓鉛筆和六角鉛筆，在同一塊板子的同一位置，輕輕放手，不用力推。板子稍微傾斜時，圓鉛筆滾到板邊，六角鉛筆停在原處；把板子再傾斜一些，六角鉛筆也滑動了。他們各試了幾次，把不同情況分開記下來。\n\n小甯改口說：「在我們剛才較緩的斜板上，六角鉛筆比較不容易滾動，不是任何情況都不會掉。」最後，她仍在桌上放了一個筆槽。她發現，了解物品的外形有幫助，也要想到實際使用的環境。",
-    "readingOrder": 2,
-    "readingSkill": "辨識比較條件",
-    "text": "兩人後來的做法中，哪一項讓比較更公平？",
-    "options": [
-      "一枝用力推，一枝輕輕放",
-      "每次都換一張不一樣的板子",
-      "把兩枝鉛筆放在同一塊板子的同一位置",
-      "只記六角鉛筆沒有動的那一次"
-    ],
-    "answer": 2,
-    "explanation": "比較時先讓板子、起點與放手方式相同，才較能聚焦外形差異。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "閱讀資料卡",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "items": [
-        "同一塊板子、同一起點",
-        "都輕放，不用力推",
-        "較緩：圓筆滾／六角筆停",
-        "更斜：六角筆也滑動"
-      ],
-      "examLineArt": false,
-      "heading": "題目資料",
-      "rows": [
-        [
-          "1",
-          "同一塊板子、同一起點"
-        ],
-        [
-          "2",
-          "都輕放，不用力推"
-        ],
-        [
-          "3",
-          "較緩：圓筆滾／六角筆停"
-        ],
-        [
-          "4",
-          "更斜：六角筆也滑動"
-        ]
-      ],
-      "mode": "pencilTray"
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "pencilTray"
-    }
-  },
-  {
-    "id": "u14-t77-r3",
-    "unit": 14,
-    "topic": 76,
-    "concept": "觀察、比較與解決問題",
-    "type": "single",
-    "passageId": "mock-g3-chinese-6",
-    "passageTitle": "哪枝鉛筆留下來",
-    "passage": "小甯的圓鉛筆常從桌上滾落。她看到同學的六角鉛筆放得好好的，就說：「六角鉛筆一定永遠不會掉！」同學提醒，兩張桌子的斜度可能不同，不能只看一次就下結論。\n\n兩人找來圓鉛筆和六角鉛筆，在同一塊板子的同一位置，輕輕放手，不用力推。板子稍微傾斜時，圓鉛筆滾到板邊，六角鉛筆停在原處；把板子再傾斜一些，六角鉛筆也滑動了。他們各試了幾次，把不同情況分開記下來。\n\n小甯改口說：「在我們剛才較緩的斜板上，六角鉛筆比較不容易滾動，不是任何情況都不會掉。」最後，她仍在桌上放了一個筆槽。她發現，了解物品的外形有幫助，也要想到實際使用的環境。",
-    "readingOrder": 3,
-    "readingSkill": "連結證據",
-    "text": "「把板子再傾斜一些，六角鉛筆也滑動了」支持哪個說法？",
-    "options": [
-      "六角鉛筆完全不會移動",
-      "圓鉛筆一定比六角鉛筆重",
-      "任何桌面都應該故意傾斜",
-      "是否移動也與放置環境有關"
-    ],
-    "answer": 3,
-    "explanation": "斜度改變後的結果不同，顯示不能只用外形解釋所有情況。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "閱讀資料卡",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "items": [
-        "同一塊板子、同一起點",
-        "都輕放，不用力推",
-        "較緩：圓筆滾／六角筆停",
-        "更斜：六角筆也滑動"
-      ],
-      "examLineArt": false,
-      "heading": "題目資料",
-      "rows": [
-        [
-          "1",
-          "同一塊板子、同一起點"
-        ],
-        [
-          "2",
-          "都輕放，不用力推"
-        ],
-        [
-          "3",
-          "較緩：圓筆滾／六角筆停"
-        ],
-        [
-          "4",
-          "更斜：六角筆也滑動"
-        ]
-      ],
-      "mode": "pencilTray"
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "pencilTray"
-    }
-  },
-  {
-    "id": "u14-t77-r4",
-    "unit": 14,
-    "topic": 76,
-    "concept": "觀察、比較與解決問題",
-    "type": "single",
-    "passageId": "mock-g3-chinese-6",
-    "passageTitle": "哪枝鉛筆留下來",
-    "passage": "小甯的圓鉛筆常從桌上滾落。她看到同學的六角鉛筆放得好好的，就說：「六角鉛筆一定永遠不會掉！」同學提醒，兩張桌子的斜度可能不同，不能只看一次就下結論。\n\n兩人找來圓鉛筆和六角鉛筆，在同一塊板子的同一位置，輕輕放手，不用力推。板子稍微傾斜時，圓鉛筆滾到板邊，六角鉛筆停在原處；把板子再傾斜一些，六角鉛筆也滑動了。他們各試了幾次，把不同情況分開記下來。\n\n小甯改口說：「在我們剛才較緩的斜板上，六角鉛筆比較不容易滾動，不是任何情況都不會掉。」最後，她仍在桌上放了一個筆槽。她發現，了解物品的外形有幫助，也要想到實際使用的環境。",
-    "readingOrder": 4,
-    "readingSkill": "統整與命名",
-    "text": "哪個標題最能表達兩人的發現？",
-    "options": [
-      "先公平比較，再把話說準確",
-      "六角鉛筆永遠不會掉",
-      "只要試一次，答案就知道",
-      "不用觀察也能猜到結果"
-    ],
-    "answer": 0,
-    "explanation": "他們改善比較方式，並把「永遠」改成有明確條件的敘述。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "依已核對課次主題與公開閱讀命題層次編寫的延伸文本，非課文原文",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "閱讀資料卡",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "items": [
-        "同一塊板子、同一起點",
-        "都輕放，不用力推",
-        "較緩：圓筆滾／六角筆停",
-        "更斜：六角筆也滑動"
-      ],
-      "examLineArt": false,
-      "heading": "題目資料",
-      "rows": [
-        [
-          "1",
-          "同一塊板子、同一起點"
-        ],
-        [
-          "2",
-          "都輕放，不用力推"
-        ],
-        [
-          "3",
-          "較緩：圓筆滾／六角筆停"
-        ],
-        [
-          "4",
-          "更斜：六角筆也滑動"
-        ]
-      ],
-      "mode": "pencilTray"
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "pencilTray"
-    }
-  },
   {
     "id": "u0-t80-tf",
     "unit": 0,
@@ -9248,7 +7952,8 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u0-t81-tf",
@@ -9269,18 +7974,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "division",
-      "caption": "動物世界",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "division"
-    }
+    "visualPolicy": "none"
   },
   {
     "id": "u0-t82-tf",
@@ -9301,18 +7995,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "thermoregulation",
-      "caption": "動物世界",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "thermoregulation"
-    }
+    "visualPolicy": "none"
   },
   {
     "id": "u0-t83-tf",
@@ -9333,18 +8016,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "birth",
-      "caption": "動物世界",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "birth"
-    }
+    "visualPolicy": "none"
   },
   {
     "id": "u0-t84-tf",
@@ -9364,7 +8036,8 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u1-t80-tf",
@@ -9385,18 +8058,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "waveFrequency",
-      "caption": "探索聲光世界",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "waveFrequency"
-    }
+    "visualPolicy": "none"
   },
   {
     "id": "u1-t81-tf",
@@ -9416,7 +8078,8 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u1-t82-tf",
@@ -9436,7 +8099,8 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u1-t83-tf",
@@ -9457,18 +8121,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "mirror",
-      "caption": "探索聲光世界",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "mirror"
-    }
+    "visualPolicy": "none"
   },
   {
     "id": "u1-t84-tf",
@@ -9488,7 +8141,8 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u2-t80-tf",
@@ -9509,18 +8163,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "compass",
-      "caption": "臺灣我的家",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "compass"
-    }
+    "visualPolicy": "none"
   },
   {
     "id": "u2-t81-tf",
@@ -9541,18 +8184,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "compass",
-      "caption": "臺灣我的家",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "compass"
-    }
+    "visualPolicy": "none"
   },
   {
     "id": "u2-t82-tf",
@@ -9572,7 +8204,8 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u2-t83-tf",
@@ -9593,18 +8226,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "discussion",
-      "caption": "臺灣我的家",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "discussion"
-    }
+    "visualPolicy": "none"
   },
   {
     "id": "u2-t84-tf",
@@ -9624,7 +8246,8 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u3-t80-tf",
@@ -9645,18 +8268,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "terrain",
-      "caption": "臺灣的自然環境與生活",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "terrain"
-    }
+    "visualPolicy": "none"
   },
   {
     "id": "u3-t81-tf",
@@ -9676,7 +8288,8 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u3-t82-tf",
@@ -9697,18 +8310,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "weatherClimate",
-      "caption": "臺灣的自然環境與生活",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "weatherClimate"
-    }
+    "visualPolicy": "none"
   },
   {
     "id": "u3-t83-tf",
@@ -9729,18 +8331,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "weatherClimate",
-      "caption": "臺灣的自然環境與生活",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "weatherClimate"
-    }
+    "visualPolicy": "none"
   },
   {
     "id": "u3-t84-tf",
@@ -9760,7 +8351,8 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u22-t80-tf",
@@ -9781,7 +8373,8 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u22-t81-tf",
@@ -9803,18 +8396,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "leafOrder",
-      "caption": "認識植物",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "leafOrder"
-    }
+    "visualPolicy": "none"
   },
   {
     "id": "u22-t82-tf",
@@ -9836,18 +8418,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "leafVeins",
-      "caption": "認識植物",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "leafVeins"
-    }
+    "visualPolicy": "none"
   },
   {
     "id": "u22-t83-tf",
@@ -9869,18 +8440,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "fruitSeeds",
-      "caption": "認識植物",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "fruitSeeds"
-    }
+    "visualPolicy": "none"
   },
   {
     "id": "u22-t84-tf",
@@ -9901,7 +8461,8 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u23-t80-tf",
@@ -9922,7 +8483,8 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u23-t81-tf",
@@ -9943,7 +8505,8 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u23-t82-tf",
@@ -9965,18 +8528,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "airCompression",
-      "caption": "空氣和水",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "airCompression"
-    }
+    "visualPolicy": "none"
   },
   {
     "id": "u23-t83-tf",
@@ -9997,7 +8549,8 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u23-t84-tf",
@@ -10018,7 +8571,8 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u24-t80-tf",
@@ -10038,7 +8592,8 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u24-t81-tf",
@@ -10058,7 +8613,8 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u24-t82-tf",
@@ -10078,7 +8634,8 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u24-t83-tf",
@@ -10098,7 +8655,8 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u24-t84-tf",
@@ -10119,18 +8677,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "schedule",
-      "caption": "升上三年級的新學習",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "schedule"
-    }
+    "visualPolicy": "none"
   },
   {
     "id": "u25-t80-tf",
@@ -10151,18 +8698,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "discussion",
-      "caption": "校園規範和班級自治",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "discussion"
-    }
+    "visualPolicy": "none"
   },
   {
     "id": "u25-t81-tf",
@@ -10182,7 +8718,8 @@ window.REVIEW_EXAM_ITEMS=[
       "× 錯誤"
     ],
     "difficulty": "core",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u25-t82-tf",
@@ -10203,18 +8740,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "vote",
-      "caption": "校園規範和班級自治",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "vote"
-    }
+    "visualPolicy": "none"
   },
   {
     "id": "u25-t83-tf",
@@ -10235,18 +8761,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "vote",
-      "caption": "校園規範和班級自治",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "vote"
-    }
+    "visualPolicy": "none"
   },
   {
     "id": "u25-t84-tf",
@@ -10267,388 +8782,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "discussion",
-      "caption": "校園規範和班級自治",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "discussion"
-    }
-  },
-  {
-    "id": "u13-t85-a",
-    "unit": 13,
-    "topic": 84,
-    "type": "text",
-    "text": "出門前先做「準被」，把錯字改正，只填一個字。",
-    "answer": "備",
-    "explanation": "準備表示預先備妥。",
-    "concept": "運用時間",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編"
-  },
-  {
-    "id": "u13-t86-a",
-    "unit": 13,
-    "topic": 85,
-    "type": "text",
-    "text": "便條能「提形」自己還書，把錯字改正，只填一個字。",
-    "answer": "醒",
-    "explanation": "提醒有使人想起的意思。",
-    "concept": "運用時間",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編"
-  },
-  {
-    "id": "u13-t87-a",
-    "unit": 13,
-    "topic": 86,
-    "type": "text",
-    "text": "先「安徘」時間，把錯字改正，只填一個字。",
-    "answer": "排",
-    "explanation": "安排是配置、排定。",
-    "concept": "運用時間",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編"
-  },
-  {
-    "id": "u14-t88-a",
-    "unit": 14,
-    "topic": 87,
-    "type": "text",
-    "text": "仔細「關察」葉片，把錯字改正，只填一個字。",
-    "answer": "觀",
-    "explanation": "觀察是仔細看。",
-    "concept": "解決問題",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編"
-  },
-  {
-    "id": "u14-t89-a",
-    "unit": 14,
-    "topic": 88,
-    "type": "text",
-    "text": "志工「照固」幼苗，把錯字改正，只填一個字。",
-    "answer": "顧",
-    "explanation": "照顧是關心、照料。",
-    "concept": "解決問題",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編"
-  },
-  {
-    "id": "u13-t90-a",
-    "unit": 13,
-    "topic": 89,
-    "type": "single",
-    "text": "小安寫：「因為前一天先依清單整理書包，＿＿早上很快就能出門。」哪個詞最能連接原因與結果？",
-    "answer": 0,
-    "explanation": "先整理是原因，容易出門是結果，宜用「因為……所以……」。",
-    "concept": "運用時間",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
-    "options": [
-      "所以",
-      "但是",
-      "而且",
-      "或者"
-    ],
-    "reviewVersion": 10
-  },
-  {
-    "id": "u13-t91-a",
-    "unit": 13,
-    "topic": 90,
-    "type": "single",
-    "text": "小安常漏帶用品。哪個整理順序最能協助他確認明天需要的東西？",
-    "answer": 1,
-    "explanation": "先知道需求，再準備及核對，可減少漏帶；不是只依熟悉度或今天的情形猜測。",
-    "concept": "運用時間",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
-    "options": [
-      "先把書包裝滿，再查看聯絡簿",
-      "先查看聯絡簿，再依清單收拾，最後核對一次",
-      "先照今天的用品收拾，明天到校再核對",
-      "先把容易拿的裝好，其餘等同學提醒"
-    ],
-    "reviewVersion": 10
-  },
-  {
-    "id": "u14-t92-a",
-    "unit": 14,
-    "topic": 91,
-    "type": "single",
-    "text": "便條寫：「請帶彩色筆來畫海報。」如果收件人不知道活動安排，補上哪項資訊最能幫助他準時準備？",
-    "answer": 2,
-    "explanation": "通知需提供可行動的資訊，時間地點比物品品牌或個人喜好更直接。",
-    "concept": "解決問題",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
-    "options": [
-      "彩色筆的盒子顏色",
-      "寫便條的人最喜歡的圖案",
-      "活動日期、時間與地點",
-      "海報紙的品牌"
-    ],
-    "reviewVersion": 10
-  },
-  {
-    "id": "u14-t93-a",
-    "unit": 14,
-    "topic": 92,
-    "type": "single",
-    "text": "小晴需要借閱同學的觀察筆記，哪句話是在有禮貌地提出請求？",
-    "answer": 2,
-    "explanation": "第三句提出借用請求；其他句子是稱讚、陳述或詢問時間，言語目的不同。",
-    "concept": "解決問題",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
-    "options": [
-      "你的筆記記得很清楚。",
-      "我昨天也寫了一份筆記。",
-      "可以借我看一下你的筆記嗎？",
-      "你寫這份筆記用了多久？"
-    ],
-    "reviewVersion": 10
-  },
-  {
-    "id": "u14-t94-a",
-    "unit": 14,
-    "topic": 93,
-    "type": "single",
-    "text": "原句：「他提早出門，沒有一路奔跑，也能準時到集合處。」哪句最能保留原來意思？",
-    "answer": 1,
-    "explanation": "須同時保留提早、未奔跑及準時到達；不能只保留其中一部分。",
-    "concept": "解決問題",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
-    "options": [
-      "他雖然提早出門，仍一路奔跑才趕到。",
-      "他提早出門，從容走到集合處，沒有遲到。",
-      "他準時出門，所以到了集合處才開始奔跑。",
-      "他沒有奔跑，因而錯過集合時間。"
-    ],
-    "reviewVersion": 10
-  },
-  {
-    "id": "u15-t85-a",
-    "unit": 15,
-    "topic": 84,
-    "type": "text",
-    "text": "What is your ＿＿?（名字，填完整英文單字）",
-    "answer": "name",
-    "explanation": "依句意應填 name。",
-    "concept": "名字與初次見面",
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編"
-  },
-  {
-    "id": "u15-t86-a",
-    "unit": 15,
-    "topic": 85,
-    "type": "text",
-    "text": "I ＿＿ Amy.（我是 Amy。）",
-    "answer": "am",
-    "explanation": "依句意應填 am。",
-    "concept": "名字與初次見面",
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編"
-  },
-  {
-    "id": "u15-t87-a",
-    "unit": 15,
-    "topic": 86,
-    "type": "text",
-    "text": "How ＿＿ are you?（幾歲）",
-    "answer": "old",
-    "explanation": "依句意應填 old。",
-    "concept": "名字與初次見面",
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編"
-  },
-  {
-    "id": "u16-t88-a",
-    "unit": 16,
-    "topic": 87,
-    "type": "text",
-    "text": "I am ＿＿.（八歲，填英文單字）",
-    "answer": "eight",
-    "explanation": "依句意應填 eight。",
-    "concept": "年齡與自我介紹",
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編"
-  },
-  {
-    "id": "u16-t89-a",
-    "unit": 16,
-    "topic": 88,
-    "type": "text",
-    "text": "I am ＿＿.（十歲，填英文單字）",
-    "answer": "ten",
-    "explanation": "依句意應填 ten。",
-    "concept": "年齡與自我介紹",
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編"
-  },
-  {
-    "id": "u15-t90-a",
-    "unit": 15,
-    "topic": 89,
-    "type": "single",
-    "text": "A: Hello. I’m Amy. What’s your name?　B: ＿＿",
-    "answer": 0,
-    "explanation": "題目問名字，應提供名字；年齡或單純問候都沒有回答該問題。",
-    "concept": "名字與初次見面",
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
-    "options": [
-      "I’m Hank.",
-      "I’m nine.",
-      "Hello, Amy.",
-      "How old are you?"
-    ],
-    "reviewVersion": 10
-  },
-  {
-    "id": "u15-t91-a",
-    "unit": 15,
-    "topic": 90,
-    "type": "single",
-    "text": "名牌寫著 Nick，年齡欄空白。Amy 想補問年齡，哪一句最合適？",
-    "answer": 1,
-    "explanation": "How old are you? 用於詢問年齡；其他句子詢問姓名或陳述自己資訊。",
-    "concept": "名字與初次見面",
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
-    "options": [
-      "What’s your name?",
-      "How old are you?",
-      "My name is Amy.",
-      "I’m eight."
-    ],
-    "reviewVersion": 10
-  },
-  {
-    "id": "u16-t92-a",
-    "unit": 16,
-    "topic": 91,
-    "type": "single",
-    "text": "A: How old are you?　B: ＿＿　B 的年齡卡寫著 9。",
-    "answer": 2,
-    "explanation": "nine 是九；須回答問題類型及卡片上的正確年齡。",
-    "concept": "年齡與自我介紹",
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
-    "options": [
-      "I’m Nick.",
-      "I’m eight.",
-      "I’m nine.",
-      "What’s your name?"
-    ],
-    "reviewVersion": 10
-  },
-  {
-    "id": "u16-t93-a",
-    "unit": 16,
-    "topic": 92,
-    "type": "single",
-    "text": "兩欄資料是 Name: Hank；Age: 8。哪一句能同時符合姓名與年齡？",
-    "answer": 0,
-    "explanation": "必須同時核對兩欄，而非只認出其中一個熟悉單字。",
-    "concept": "年齡與自我介紹",
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
-    "options": [
-      "I’m Hank. I’m eight.",
-      "I’m Hank. I’m ten.",
-      "I’m Nick. I’m eight.",
-      "I’m Amy. I’m nine."
-    ],
-    "reviewVersion": 10
-  },
-  {
-    "id": "u16-t94-a",
-    "unit": 16,
-    "topic": 93,
-    "type": "single",
-    "text": "Amy 已說過自己的名字，接著問「What’s your name?」。Hank 應如何接話？",
-    "answer": 1,
-    "explanation": "由 Hank 回答自己的名字，不應重複對方名字或改答年齡。",
-    "concept": "年齡與自我介紹",
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
-    "options": [
-      "I’m eight.",
-      "I’m Hank.",
-      "I’m Amy.",
-      "How old are you?"
-    ],
-    "reviewVersion": 10
+    "visualPolicy": "none"
   },
   {
     "id": "u4-t85-a",
@@ -10662,7 +8796,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceIds": [
       "C5"
     ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編"
+    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
+    "visualPolicy": "none"
   },
   {
     "id": "u4-t86-a",
@@ -10676,7 +8811,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceIds": [
       "C5"
     ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編"
+    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
+    "visualPolicy": "none"
   },
   {
     "id": "u4-t87-a",
@@ -10690,7 +8826,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceIds": [
       "C5"
     ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編"
+    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
+    "visualPolicy": "none"
   },
   {
     "id": "u5-t88-a",
@@ -10704,7 +8841,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceIds": [
       "C5"
     ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編"
+    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
+    "visualPolicy": "none"
   },
   {
     "id": "u5-t89-a",
@@ -10718,7 +8856,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceIds": [
       "C5"
     ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編"
+    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
+    "visualPolicy": "none"
   },
   {
     "id": "u4-t90-a",
@@ -10739,7 +8878,8 @@ window.REVIEW_EXAM_ITEMS=[
       "只好",
       "於是"
     ],
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u4-t91-a",
@@ -10760,7 +8900,8 @@ window.REVIEW_EXAM_ITEMS=[
       "我在照片上先看到田野，再注意到河流。",
       "照片拍下田野、道路和河岸之間的位置。"
     ],
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u5-t92-a",
@@ -10781,7 +8922,8 @@ window.REVIEW_EXAM_ITEMS=[
       "按照日期記錄成長先後",
       "引用研究者的觀察數據"
     ],
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u5-t93-a",
@@ -10802,7 +8944,8 @@ window.REVIEW_EXAM_ITEMS=[
       "先製作全部畫面，再把故事內容改成符合畫面。",
       "先選播放速度，再用沒有順序的圖安排結局。"
     ],
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u5-t94-a",
@@ -10823,216 +8966,8 @@ window.REVIEW_EXAM_ITEMS=[
       "老人望向門口，證明畫家當天也在等人。",
       "我感到寂寞，所以畫中老人也正在感到寂寞。"
     ],
-    "reviewVersion": 10
-  },
-  {
-    "id": "u6-t85-a",
-    "unit": 6,
-    "topic": 84,
-    "type": "text",
-    "text": "I like ＿＿.（茶，填英文）",
-    "answer": "tea",
-    "explanation": "依句意應填 tea。",
-    "concept": "飲料與喜好",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編"
-  },
-  {
-    "id": "u6-t86-a",
-    "unit": 6,
-    "topic": 85,
-    "type": "text",
-    "text": "I don’t like ＿＿.（汽水，填英文）",
-    "answer": "soda",
-    "explanation": "依句意應填 soda。",
-    "concept": "飲料與喜好",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編"
-  },
-  {
-    "id": "u6-t87-a",
-    "unit": 6,
-    "topic": 86,
-    "type": "text",
-    "text": "I need an ＿＿.（蘋果，填單數英文）",
-    "answer": "apple",
-    "explanation": "依句意應填 apple。",
-    "concept": "飲料與喜好",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編"
-  },
-  {
-    "id": "u7-t88-a",
-    "unit": 7,
-    "topic": 87,
-    "type": "text",
-    "text": "I need a ＿＿.（香蕉，填單數英文）",
-    "answer": "banana",
-    "explanation": "依句意應填 banana。",
-    "concept": "水果沙拉與數量",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編"
-  },
-  {
-    "id": "u7-t89-a",
-    "unit": 7,
-    "topic": 88,
-    "type": "text",
-    "text": "I need an ＿＿.（柳橙，填單數英文）",
-    "answer": "orange",
-    "explanation": "依句意應填 orange。",
-    "concept": "水果沙拉與數量",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編"
-  },
-  {
-    "id": "u6-t90-a",
-    "unit": 6,
-    "topic": 89,
-    "type": "single",
-    "text": "A: Do you like tea?　B: ＿＿　B 的喜好卡上，tea 畫了勾。",
-    "answer": 0,
-    "explanation": "詢問對方喜不喜歡茶，卡上為肯定，使用 Yes, I do. 回答。",
-    "concept": "飲料與喜好",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
-    "options": [
-      "Yes, I do.",
-      "No, I don’t.",
-      "Yes, she does.",
-      "I need two apples."
-    ],
-    "reviewVersion": 10
-  },
-  {
-    "id": "u6-t91-a",
-    "unit": 6,
-    "topic": 90,
-    "type": "single",
-    "text": "Amy 的喜好卡上，soda 畫了叉。A: Does Amy like soda?　B: No, ＿＿.",
-    "answer": 1,
-    "explanation": "主詞是 Amy，以 she 代替，否定答句用 doesn’t。",
-    "concept": "飲料與喜好",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
-    "options": [
-      "she does",
-      "she doesn’t",
-      "I don’t",
-      "he doesn’t"
-    ],
-    "reviewVersion": 10
-  },
-  {
-    "id": "u7-t92-a",
-    "unit": 7,
-    "topic": 91,
-    "type": "single",
-    "text": "資料：Amy 不喜歡汽水，Ben 喜歡茶。哪句與兩項資料相符？",
-    "answer": 2,
-    "explanation": "前兩項各有一部分與資料相反；第四項提供的是資料未交代的喜好。",
-    "concept": "水果沙拉與數量",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
-    "options": [
-      "Amy likes soda, and Ben likes tea.",
-      "Amy doesn’t like soda, and Ben doesn’t like tea.",
-      "Amy doesn’t like soda, and Ben likes tea.",
-      "Amy likes tea, and Ben doesn’t like soda."
-    ],
-    "reviewVersion": 10
-  },
-  {
-    "id": "u7-t93-a",
-    "unit": 7,
-    "topic": 92,
-    "type": "single",
-    "text": "A: How many apples do you need?　B: ＿＿　清單上寫 apples: 3。",
-    "answer": 1,
-    "explanation": "須同時回答數量與種類：three apples，而非只選數字或水果名稱相近的句子。",
-    "concept": "水果沙拉與數量",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
-    "options": [
-      "I need two apples.",
-      "I need three apples.",
-      "I need three oranges.",
-      "I like apples."
-    ],
-    "reviewVersion": 10
-  },
-  {
-    "id": "u7-t94-a",
-    "unit": 7,
-    "topic": 93,
-    "type": "single",
-    "text": "桌上有兩根香蕉，要用一句英文記錄，哪句的數量與句型都正確？",
-    "answer": 3,
-    "explanation": "主詞 I 搭配 have；兩根是 two，banana 要用複數 bananas。",
-    "concept": "水果沙拉與數量",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
-    "options": [
-      "I have two banana.",
-      "I has two bananas.",
-      "I have one bananas.",
-      "I have two bananas."
-    ],
-    "reviewVersion": 10
-  },
-  {
-    "id": "u21-t85-a",
-    "unit": 21,
-    "topic": 84,
-    "type": "text",
-    "text": "甲為直角檢查片。依圖，乙應填「銳角」、「直角」或「鈍角」？",
-    "answer": "鈍角",
-    "explanation": "以甲的直角作基準，乙比直角張開更多，但沒有張成一直線，屬於鈍角。",
-    "concept": "角",
-    "sourceIds": [
-      "A3",
-      "M3"
-    ],
-    "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
-    "visual": {
-      "kind": "angleCards",
-      "caption": "以直角作為比較基準",
-      "items": [
-        {
-          "label": "甲：直角片",
-          "opening": 90,
-          "rotation": 0,
-          "length": 65
-        },
-        {
-          "label": "乙：待判斷",
-          "opening": 130,
-          "rotation": 25,
-          "length": 65
-        }
-      ],
-      "examLineArt": true
-    }
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u10-t95-a",
@@ -11151,18 +9086,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "teeth",
-      "caption": "牙齒也是線索",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "teeth"
-    }
+    "visualPolicy": "none"
   },
   {
     "concept": "逃避與防禦",
@@ -11185,7 +9109,8 @@ window.REVIEW_EXAM_ITEMS=[
       "N5"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "concept": "聲音傳遞訊息",
@@ -11208,7 +9133,8 @@ window.REVIEW_EXAM_ITEMS=[
       "N5"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "concept": "親代與子代",
@@ -11231,7 +9157,8 @@ window.REVIEW_EXAM_ITEMS=[
       "N5"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "concept": "觀察與推論",
@@ -11254,7 +9181,8 @@ window.REVIEW_EXAM_ITEMS=[
       "N5"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "concept": "停止振動與聲音",
@@ -11277,7 +9205,8 @@ window.REVIEW_EXAM_ITEMS=[
       "N5"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "concept": "傳聲筒的線",
@@ -11300,7 +9229,8 @@ window.REVIEW_EXAM_ITEMS=[
       "N5"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "concept": "管樂器與空氣柱",
@@ -11323,7 +9253,8 @@ window.REVIEW_EXAM_ITEMS=[
       "N5"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "concept": "光沿直線傳播",
@@ -11346,7 +9277,8 @@ window.REVIEW_EXAM_ITEMS=[
       "N5"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "concept": "實驗紀錄與光聲安全",
@@ -11370,18 +9302,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "mirror",
-      "caption": "實驗紀錄與光聲安全",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "mirror"
-    }
+    "visualPolicy": "none"
   },
   {
     "id": "u0-t70-r1",
@@ -11695,8 +9616,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "觀察簿摘錄",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "動物",
@@ -11720,17 +9642,9 @@ window.REVIEW_EXAM_ITEMS=[
             "影片只拍到產卵"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "birth"
+      }
     },
-    "reviewVersion": 10,
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "birth"
-    }
+    "reviewVersion": 10
   },
   {
     "id": "u0-t71-r2",
@@ -11759,8 +9673,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "觀察簿摘錄",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "動物",
@@ -11784,17 +9699,9 @@ window.REVIEW_EXAM_ITEMS=[
             "影片只拍到產卵"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "birth"
+      }
     },
-    "reviewVersion": 10,
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "birth"
-    }
+    "reviewVersion": 10
   },
   {
     "id": "u0-t71-r3",
@@ -11823,8 +9730,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "觀察簿摘錄",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "動物",
@@ -11848,17 +9756,9 @@ window.REVIEW_EXAM_ITEMS=[
             "影片只拍到產卵"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "birth"
+      }
     },
-    "reviewVersion": 10,
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "birth"
-    }
+    "reviewVersion": 10
   },
   {
     "id": "u0-t71-r4",
@@ -11887,8 +9787,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "觀察簿摘錄",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "動物",
@@ -11912,17 +9813,9 @@ window.REVIEW_EXAM_ITEMS=[
             "影片只拍到產卵"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "birth"
+      }
     },
-    "reviewVersion": 10,
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "birth"
-    }
+    "reviewVersion": 10
   },
   {
     "id": "u0-t71-r5",
@@ -11951,8 +9844,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "觀察簿摘錄",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "動物",
@@ -11976,17 +9870,9 @@ window.REVIEW_EXAM_ITEMS=[
             "影片只拍到產卵"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "birth"
+      }
     },
-    "reviewVersion": 10,
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "birth"
-    }
+    "reviewVersion": 10
   },
   {
     "id": "u1-t70-r1",
@@ -12509,7 +10395,8 @@ window.REVIEW_EXAM_ITEMS=[
       "S5"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "concept": "習俗與節慶",
@@ -12532,7 +10419,8 @@ window.REVIEW_EXAM_ITEMS=[
       "S5"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "concept": "規範的共同目的",
@@ -12555,7 +10443,8 @@ window.REVIEW_EXAM_ITEMS=[
       "S5"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "concept": "平等與公平",
@@ -12579,18 +10468,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "compass",
-      "caption": "平等與公平",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "compass"
-    }
+    "visualPolicy": "none"
   },
   {
     "concept": "隱私與數位生活",
@@ -12613,7 +10491,8 @@ window.REVIEW_EXAM_ITEMS=[
       "S5"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "concept": "盆地",
@@ -12637,18 +10516,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "terrain",
-      "caption": "盆地",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "terrain"
-    }
+    "visualPolicy": "none"
   },
   {
     "concept": "海岸與利用",
@@ -12671,7 +10539,8 @@ window.REVIEW_EXAM_ITEMS=[
       "S5"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "concept": "地形與交通",
@@ -12694,7 +10563,8 @@ window.REVIEW_EXAM_ITEMS=[
       "S5"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "concept": "地形與土地利用",
@@ -12717,7 +10587,8 @@ window.REVIEW_EXAM_ITEMS=[
       "S5"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "concept": "地震與坡地風險",
@@ -12740,7 +10611,8 @@ window.REVIEW_EXAM_ITEMS=[
       "S5"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u2-t70-r1",
@@ -13064,8 +10936,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "三名受訪者同意公開的紀錄",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "受訪者",
@@ -13089,17 +10962,9 @@ window.REVIEW_EXAM_ITEMS=[
             "依場合選不同食物"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "culture"
+      }
     },
-    "reviewVersion": 10,
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "culture"
-    }
+    "reviewVersion": 10
   },
   {
     "id": "u2-t71-r2",
@@ -13128,8 +10993,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "三名受訪者同意公開的紀錄",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "受訪者",
@@ -13153,17 +11019,9 @@ window.REVIEW_EXAM_ITEMS=[
             "依場合選不同食物"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "culture"
+      }
     },
-    "reviewVersion": 10,
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "culture"
-    }
+    "reviewVersion": 10
   },
   {
     "id": "u2-t71-r3",
@@ -13192,8 +11050,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "三名受訪者同意公開的紀錄",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "受訪者",
@@ -13217,17 +11076,9 @@ window.REVIEW_EXAM_ITEMS=[
             "依場合選不同食物"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "culture"
+      }
     },
-    "reviewVersion": 10,
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "culture"
-    }
+    "reviewVersion": 10
   },
   {
     "id": "u2-t71-r4",
@@ -13256,8 +11107,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "三名受訪者同意公開的紀錄",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "受訪者",
@@ -13281,17 +11133,9 @@ window.REVIEW_EXAM_ITEMS=[
             "依場合選不同食物"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "culture"
+      }
     },
-    "reviewVersion": 10,
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "culture"
-    }
+    "reviewVersion": 10
   },
   {
     "id": "u2-t71-r5",
@@ -13320,8 +11164,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "三名受訪者同意公開的紀錄",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "受訪者",
@@ -13345,17 +11190,9 @@ window.REVIEW_EXAM_ITEMS=[
             "依場合選不同食物"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "culture"
+      }
     },
-    "reviewVersion": 10,
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "culture"
-    }
+    "reviewVersion": 10
   },
   {
     "id": "u3-t70-r1",
@@ -13954,7 +11791,8 @@ window.REVIEW_EXAM_ITEMS=[
       "N3B"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "unit": 22,
@@ -13978,7 +11816,8 @@ window.REVIEW_EXAM_ITEMS=[
       "N3B"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "unit": 22,
@@ -14003,18 +11842,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "flower",
-      "caption": "花的構造",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "flower"
-    }
+    "visualPolicy": "none"
   },
   {
     "unit": 22,
@@ -14038,7 +11866,8 @@ window.REVIEW_EXAM_ITEMS=[
       "N3B"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "unit": 22,
@@ -14062,7 +11891,8 @@ window.REVIEW_EXAM_ITEMS=[
       "N3B"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "unit": 23,
@@ -14086,7 +11916,8 @@ window.REVIEW_EXAM_ITEMS=[
       "N3B"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "unit": 23,
@@ -14110,7 +11941,8 @@ window.REVIEW_EXAM_ITEMS=[
       "N3B"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "unit": 23,
@@ -14134,7 +11966,8 @@ window.REVIEW_EXAM_ITEMS=[
       "N3B"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "unit": 23,
@@ -14159,18 +11992,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "airCompression",
-      "caption": "空氣傳送動力",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "airCompression"
-    }
+    "visualPolicy": "none"
   },
   {
     "unit": 23,
@@ -14194,7 +12016,8 @@ window.REVIEW_EXAM_ITEMS=[
       "N3B"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u22-t70-r1",
@@ -15408,18 +13231,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "division",
-      "caption": "尊重差異",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "division"
-    }
+    "visualPolicy": "none"
   },
   {
     "unit": 24,
@@ -15443,18 +13255,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "discussion",
-      "caption": "和善溝通",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "discussion"
-    }
+    "visualPolicy": "none"
   },
   {
     "unit": 24,
@@ -15477,7 +13278,8 @@ window.REVIEW_EXAM_ITEMS=[
       "S3"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "unit": 24,
@@ -15500,7 +13302,8 @@ window.REVIEW_EXAM_ITEMS=[
       "S3"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "unit": 24,
@@ -15524,18 +13327,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "division",
-      "caption": "學習與生活",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "division"
-    }
+    "visualPolicy": "none"
   },
   {
     "unit": 25,
@@ -15558,7 +13350,8 @@ window.REVIEW_EXAM_ITEMS=[
       "S3"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "unit": 25,
@@ -15582,18 +13375,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "discussion",
-      "caption": "班會準備",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "discussion"
-    }
+    "visualPolicy": "none"
   },
   {
     "unit": 25,
@@ -15617,18 +13399,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "discussion",
-      "caption": "輪流發言",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "discussion"
-    }
+    "visualPolicy": "none"
   },
   {
     "unit": 25,
@@ -15652,18 +13423,7 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "discussion",
-      "caption": "會議紀錄",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "discussion"
-    }
+    "visualPolicy": "none"
   },
   {
     "unit": 25,
@@ -15686,7 +13446,8 @@ window.REVIEW_EXAM_ITEMS=[
       "S3"
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualPolicy": "none"
   },
   {
     "id": "u24-t70-r1",
@@ -15985,8 +13746,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "三種資源與目前找到的線索",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "資源",
@@ -16010,17 +13772,9 @@ window.REVIEW_EXAM_ITEMS=[
             "仍須自己觀察與記錄"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "resources"
+      }
     },
-    "reviewVersion": 10,
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "resources"
-    }
+    "reviewVersion": 10
   },
   {
     "id": "u24-t71-r2",
@@ -16049,8 +13803,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "三種資源與目前找到的線索",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "資源",
@@ -16074,17 +13829,9 @@ window.REVIEW_EXAM_ITEMS=[
             "仍須自己觀察與記錄"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "resources"
+      }
     },
-    "reviewVersion": 10,
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "resources"
-    }
+    "reviewVersion": 10
   },
   {
     "id": "u24-t71-r3",
@@ -16113,8 +13860,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "三種資源與目前找到的線索",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "資源",
@@ -16138,17 +13886,9 @@ window.REVIEW_EXAM_ITEMS=[
             "仍須自己觀察與記錄"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "resources"
+      }
     },
-    "reviewVersion": 10,
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "resources"
-    }
+    "reviewVersion": 10
   },
   {
     "id": "u24-t71-r4",
@@ -16177,8 +13917,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "三種資源與目前找到的線索",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "資源",
@@ -16202,17 +13943,9 @@ window.REVIEW_EXAM_ITEMS=[
             "仍須自己觀察與記錄"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "resources"
+      }
     },
-    "reviewVersion": 10,
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "resources"
-    }
+    "reviewVersion": 10
   },
   {
     "id": "u24-t71-r5",
@@ -16241,8 +13974,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "三種資源與目前找到的線索",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "資源",
@@ -16266,17 +14000,9 @@ window.REVIEW_EXAM_ITEMS=[
             "仍須自己觀察與記錄"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "resources"
+      }
     },
-    "reviewVersion": 10,
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "resources"
-    }
+    "reviewVersion": 10
   },
   {
     "id": "u25-t70-r1",
@@ -16840,1500 +14566,6 @@ window.REVIEW_EXAM_ITEMS=[
   },
   {
     "type": "text",
-    "text": "小組將觀察結果「紀碌」下來，再比較不同的線索。引號內有一個錯字，請填正確的字。",
-    "answer": "錄",
-    "explanation": "紀錄的錄表示記載保存。",
-    "id": "u13-t99-b",
-    "unit": 13,
-    "topic": 98,
-    "concept": "運用時間",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u13-t99-b"
-  },
-  {
-    "type": "text",
-    "text": "遇到不同意見，先「聆廳」對方理由。引號內有一個錯字，請填正確的字。",
-    "answer": "聽",
-    "explanation": "聆聽的聽是用耳朵接收聲音。",
-    "id": "u13-t98-b",
-    "unit": 13,
-    "topic": 97,
-    "concept": "運用時間",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u13-t98-b"
-  },
-  {
-    "type": "text",
-    "text": "便條寫上時間，讓同學容易「記的」。引號內有一個錯字，請填正確的字。",
-    "answer": "得",
-    "explanation": "記得的「得」不是「的」。",
-    "id": "u13-t97-b",
-    "unit": 13,
-    "topic": 96,
-    "concept": "運用時間",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u13-t97-b"
-  },
-  {
-    "type": "text",
-    "text": "方法不合適，就依結果「調鄭」。引號內有一個錯字，請填正確的字。",
-    "answer": "整",
-    "explanation": "調整表示作適當改動。",
-    "id": "u14-t99-b",
-    "unit": 14,
-    "topic": 98,
-    "concept": "解決問題",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u14-t99-b"
-  },
-  {
-    "type": "text",
-    "text": "小晴「耐新」比較兩次結果，沒有急著放棄。引號內有一個錯字，請填正確的字。",
-    "answer": "心",
-    "explanation": "耐心表示不急躁。",
-    "id": "u14-t98-b",
-    "unit": 14,
-    "topic": 97,
-    "concept": "解決問題",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u14-t98-b"
-  },
-  {
-    "type": "single",
-    "text": "「先查清楚原因，再決定做法。」哪句最能保留這個先後關係？",
-    "options": [
-      "做完再問原因，會比較省時。",
-      "還沒了解原因，就先選最快的方法。",
-      "了解問題出在哪裡以後，再挑適合的方法。",
-      "知道別人的做法，就不必查自己的原因。"
-    ],
-    "answer": 2,
-    "explanation": "原句重點是先了解再處理，不能倒轉或省略。",
-    "id": "u13-t96-b",
-    "unit": 13,
-    "topic": 95,
-    "concept": "運用時間",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u13-t96-b"
-  },
-  {
-    "type": "single",
-    "text": "便條寫：「明天帶來。」要讓沒參與討論的同學也知道怎麼準備，哪組補充最完整？",
-    "options": [
-      "物品、送到哪裡、需要的時間",
-      "便條紙顏色與長度",
-      "寫便條的人用了什麼筆",
-      "物品最早由誰買來"
-    ],
-    "answer": 0,
-    "explanation": "通知應提供行動所需的對象、物品、時間地點。",
-    "id": "u13-t95-b",
-    "unit": 13,
-    "topic": 94,
-    "concept": "運用時間",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u13-t95-b"
-  },
-  {
-    "type": "single",
-    "text": "「雖然試了兩次都失敗，小安＿＿願意再找原因。」填哪個詞最能表現他的態度？",
-    "options": [
-      "因此",
-      "仍然",
-      "或者",
-      "先後"
-    ],
-    "answer": 1,
-    "explanation": "雖然失敗，仍繼續找原因，是讓步關係。",
-    "id": "u14-t97-b",
-    "unit": 14,
-    "topic": 96,
-    "concept": "解決問題",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u14-t97-b"
-  },
-  {
-    "type": "single",
-    "text": "小晴說：「我不是不幫忙，只是想先聽清楚要做什麼。」哪個回應最符合她的意思？",
-    "options": [
-      "她不願參加，直接換掉她。",
-      "她只想等別人做完。",
-      "她要求每個人都照自己的方法。",
-      "先說明工作內容，再和她確認分工。"
-    ],
-    "answer": 3,
-    "explanation": "她表達需要釐清任務，不等於拒絕幫忙。",
-    "id": "u14-t96-b",
-    "unit": 14,
-    "topic": 95,
-    "concept": "解決問題",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u14-t96-b"
-  },
-  {
-    "type": "single",
-    "text": "「紙橋倒了，小安把折法改好後重試。」哪句讓原因與改進更清楚？",
-    "options": [
-      "紙橋倒了，所以今天有紙。",
-      "紙橋倒了，因為小安喜歡藍色。",
-      "紙面太軟容易彎，小安先比較折法，再選較穩的重試。",
-      "紙橋倒了，小安說倒了就是倒了。"
-    ],
-    "answer": 2,
-    "explanation": "具體寫出原因、比較與調整，比重複結果更有內容。",
-    "id": "u14-t95-b",
-    "unit": 14,
-    "topic": 94,
-    "concept": "解決問題",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u14-t95-b"
-  },
-  {
-    "id": "u13-t99-r1",
-    "unit": 13,
-    "topic": 98,
-    "concept": "運用時間",
-    "passageId": "b-u13-p2",
-    "passageTitle": "借書卡上的空白格",
-    "passage": "小安答應星期三把書還給小晴，回家後卻發現書包裡只剩一張空白卡。他記得要還書，卻不確定借的是哪一本，也不知道應在早自習還是午休還。小安先沒有亂寫，隔天向小晴核對書名與時間，再把「星期三早自習，把《小河旅行》帶到教室還給小晴」寫上卡片。\n\n他把卡片貼在出門會看到的位置，又在前一晚將書放進書包。媽媽問：「已經寫卡片，為什麼還要收書？」小安指著卡片說，卡片讓自己想起約定，真正準備好書，才有東西可以交還。\n\n星期三小安準時還書，卡片最後一欄才畫上記號。小晴笑著說，下次自己借東西，也要把內容寫清楚。小安沒有把這次成功只歸功於卡片漂亮，而是記住核對、提醒、準備與完成各有不同的工作。",
-    "readingOrder": 1,
-    "readingSkill": "整合證據、條件與推論",
-    "type": "single",
-    "text": "〈借書卡上的空白格〉空白卡最初缺少哪些會影響還書的資訊？",
-    "options": [
-      "紙張顏色和貼紙大小",
-      "書名與還書時間",
-      "小安喜歡的食物",
-      "媽媽的工作"
-    ],
-    "answer": 1,
-    "explanation": "他雖記得要還書，仍需核對是哪一本與何時還。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "借書卡",
-      "table": {
-        "headers": [
-          "項目",
-          "內容"
-        ],
-        "rows": [
-          [
-            "時間",
-            "星期三早自習"
-          ],
-          [
-            "物品",
-            "《小河旅行》"
-          ],
-          [
-            "地點與對象",
-            "教室，小晴"
-          ],
-          [
-            "完成記號",
-            "實際交還後才勾選"
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "schoolbag",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u13-t99-r1",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "schoolbag"
-    }
-  },
-  {
-    "id": "u13-t99-r2",
-    "unit": 13,
-    "topic": 98,
-    "concept": "運用時間",
-    "passageId": "b-u13-p2",
-    "passageTitle": "借書卡上的空白格",
-    "passage": "小安答應星期三把書還給小晴，回家後卻發現書包裡只剩一張空白卡。他記得要還書，卻不確定借的是哪一本，也不知道應在早自習還是午休還。小安先沒有亂寫，隔天向小晴核對書名與時間，再把「星期三早自習，把《小河旅行》帶到教室還給小晴」寫上卡片。\n\n他把卡片貼在出門會看到的位置，又在前一晚將書放進書包。媽媽問：「已經寫卡片，為什麼還要收書？」小安指著卡片說，卡片讓自己想起約定，真正準備好書，才有東西可以交還。\n\n星期三小安準時還書，卡片最後一欄才畫上記號。小晴笑著說，下次自己借東西，也要把內容寫清楚。小安沒有把這次成功只歸功於卡片漂亮，而是記住核對、提醒、準備與完成各有不同的工作。",
-    "readingOrder": 2,
-    "readingSkill": "整合證據、條件與推論",
-    "type": "single",
-    "text": "〈借書卡上的空白格〉小安為什麼先向小晴核對，而不是憑印象填？",
-    "options": [
-      "怕卡片太短",
-      "想把工作全部交給小晴",
-      "避免把不確定資訊寫成確定約定",
-      "不想還書"
-    ],
-    "answer": 2,
-    "explanation": "先查明再寫，讓提醒對應真正的約定。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "借書卡",
-      "table": {
-        "headers": [
-          "項目",
-          "內容"
-        ],
-        "rows": [
-          [
-            "時間",
-            "星期三早自習"
-          ],
-          [
-            "物品",
-            "《小河旅行》"
-          ],
-          [
-            "地點與對象",
-            "教室，小晴"
-          ],
-          [
-            "完成記號",
-            "實際交還後才勾選"
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "schoolbag",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u13-t99-r2",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "schoolbag"
-    }
-  },
-  {
-    "id": "u13-t99-r3",
-    "unit": 13,
-    "topic": 98,
-    "concept": "運用時間",
-    "passageId": "b-u13-p2",
-    "passageTitle": "借書卡上的空白格",
-    "passage": "小安答應星期三把書還給小晴，回家後卻發現書包裡只剩一張空白卡。他記得要還書，卻不確定借的是哪一本，也不知道應在早自習還是午休還。小安先沒有亂寫，隔天向小晴核對書名與時間，再把「星期三早自習，把《小河旅行》帶到教室還給小晴」寫上卡片。\n\n他把卡片貼在出門會看到的位置，又在前一晚將書放進書包。媽媽問：「已經寫卡片，為什麼還要收書？」小安指著卡片說，卡片讓自己想起約定，真正準備好書，才有東西可以交還。\n\n星期三小安準時還書，卡片最後一欄才畫上記號。小晴笑著說，下次自己借東西，也要把內容寫清楚。小安沒有把這次成功只歸功於卡片漂亮，而是記住核對、提醒、準備與完成各有不同的工作。",
-    "readingOrder": 3,
-    "readingSkill": "整合證據、條件與推論",
-    "type": "single",
-    "text": "〈借書卡上的空白格〉卡片與前一晚收書，各自主要幫助什麼？",
-    "options": [
-      "都是裝飾",
-      "都是決定書名",
-      "都是請小晴代辦",
-      "卡片提醒約定，收書完成事前準備"
-    ],
-    "answer": 3,
-    "explanation": "兩個行動作用不同，提醒不能取代實際準備。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "借書卡",
-      "table": {
-        "headers": [
-          "項目",
-          "內容"
-        ],
-        "rows": [
-          [
-            "時間",
-            "星期三早自習"
-          ],
-          [
-            "物品",
-            "《小河旅行》"
-          ],
-          [
-            "地點與對象",
-            "教室，小晴"
-          ],
-          [
-            "完成記號",
-            "實際交還後才勾選"
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "schoolbag",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u13-t99-r3",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "schoolbag"
-    }
-  },
-  {
-    "id": "u13-t99-r4",
-    "unit": 13,
-    "topic": 98,
-    "concept": "運用時間",
-    "passageId": "b-u13-p2",
-    "passageTitle": "借書卡上的空白格",
-    "passage": "小安答應星期三把書還給小晴，回家後卻發現書包裡只剩一張空白卡。他記得要還書，卻不確定借的是哪一本，也不知道應在早自習還是午休還。小安先沒有亂寫，隔天向小晴核對書名與時間，再把「星期三早自習，把《小河旅行》帶到教室還給小晴」寫上卡片。\n\n他把卡片貼在出門會看到的位置，又在前一晚將書放進書包。媽媽問：「已經寫卡片，為什麼還要收書？」小安指著卡片說，卡片讓自己想起約定，真正準備好書，才有東西可以交還。\n\n星期三小安準時還書，卡片最後一欄才畫上記號。小晴笑著說，下次自己借東西，也要把內容寫清楚。小安沒有把這次成功只歸功於卡片漂亮，而是記住核對、提醒、準備與完成各有不同的工作。",
-    "readingOrder": 4,
-    "readingSkill": "整合證據、條件與推論",
-    "type": "single",
-    "text": "〈借書卡上的空白格〉哪一個順序符合故事？",
-    "options": [
-      "核對約定→寫卡提醒→把書收好→交還後勾選",
-      "先勾完成→再問書名→等同學提醒",
-      "先交還→才準備書→核對時間",
-      "只寫漂亮卡片→直接勾完成"
-    ],
-    "answer": 0,
-    "explanation": "順序依文中具體行動，完成記號須對應已交還。",
-    "revision": 6,
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "借書卡",
-      "table": {
-        "headers": [
-          "項目",
-          "內容"
-        ],
-        "rows": [
-          [
-            "時間",
-            "星期三早自習"
-          ],
-          [
-            "物品",
-            "《小河旅行》"
-          ],
-          [
-            "地點與對象",
-            "教室，小晴"
-          ],
-          [
-            "完成記號",
-            "實際交還後才勾選"
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "schoolbag",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u13-t99-r4",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "schoolbag"
-    }
-  },
-  {
-    "id": "u13-t99-r5",
-    "unit": 13,
-    "topic": 98,
-    "concept": "運用時間",
-    "passageId": "b-u13-p2",
-    "passageTitle": "借書卡上的空白格",
-    "passage": "小安答應星期三把書還給小晴，回家後卻發現書包裡只剩一張空白卡。他記得要還書，卻不確定借的是哪一本，也不知道應在早自習還是午休還。小安先沒有亂寫，隔天向小晴核對書名與時間，再把「星期三早自習，把《小河旅行》帶到教室還給小晴」寫上卡片。\n\n他把卡片貼在出門會看到的位置，又在前一晚將書放進書包。媽媽問：「已經寫卡片，為什麼還要收書？」小安指著卡片說，卡片讓自己想起約定，真正準備好書，才有東西可以交還。\n\n星期三小安準時還書，卡片最後一欄才畫上記號。小晴笑著說，下次自己借東西，也要把內容寫清楚。小安沒有把這次成功只歸功於卡片漂亮，而是記住核對、提醒、準備與完成各有不同的工作。",
-    "readingOrder": 5,
-    "readingSkill": "整合證據、條件與推論",
-    "type": "single",
-    "text": "〈借書卡上的空白格〉若用同樣方法提醒帶體育用品，最重要的原則是什麼？",
-    "options": [
-      "買相同顏色卡片",
-      "寫清實際需要、先準備，完成後再核對",
-      "任何事情都排在早自習",
-      "只寫一個大大的記得"
-    ],
-    "answer": 1,
-    "explanation": "可遷移的是清楚資訊與實際行動，不是特定卡片外觀。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "借書卡",
-      "table": {
-        "headers": [
-          "項目",
-          "內容"
-        ],
-        "rows": [
-          [
-            "時間",
-            "星期三早自習"
-          ],
-          [
-            "物品",
-            "《小河旅行》"
-          ],
-          [
-            "地點與對象",
-            "教室，小晴"
-          ],
-          [
-            "完成記號",
-            "實際交還後才勾選"
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "schoolbag",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u13-t99-r5",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "schoolbag"
-    }
-  },
-  {
-    "id": "u13-t98-r1",
-    "unit": 13,
-    "topic": 97,
-    "concept": "運用時間",
-    "passageId": "b-u13-p3",
-    "passageTitle": "沒有排滿的那一格",
-    "passage": "星期五要交小組海報，小晴把放學後排得密密麻麻：寫作業、畫插圖、整理用品，中間沒有休息。她以為排得滿就代表認真，結果作業有一題想得比預期久，後面全部往後延。她越趕越急，連已收好的筆也找不到。\n\n爸爸沒有替她重寫整張表，只問：「哪件事今天一定要完成？哪裡需要先查清楚？」小晴把工作分成必做和可延後，留一格空白給臨時狀況。她也把海報用品集中到一個袋子，不再每做一項就重新找一次。\n\n第二天，小組臨時通知要多帶一張照片，小晴用預留時間找好，沒有取消全部休息。回頭看原表，她發現空白不是偷懶，而是讓計畫能接住變化。之後她仍會按時檢查，也願意依實際需要調整，不把表格當成一成不變的命令。",
-    "readingOrder": 1,
-    "readingSkill": "整合證據、條件與推論",
-    "type": "single",
-    "text": "〈沒有排滿的那一格〉原計畫最容易因哪件事連帶受影響？",
-    "options": [
-      "表格顏色太淡",
-      "有人換了書包",
-      "前一項用時超過預期，後面沒有緩衝",
-      "工作名稱太短"
-    ],
-    "answer": 2,
-    "explanation": "全排滿而無緩衝，前項延誤就容易推遲全部。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "修改後的安排",
-      "table": {
-        "headers": [
-          "分類",
-          "做法"
-        ],
-        "rows": [
-          [
-            "必做",
-            "先確認今天的期限"
-          ],
-          [
-            "可延後",
-            "重新協調順序"
-          ],
-          [
-            "預留時間",
-            "處理臨時需要"
-          ],
-          [
-            "用品",
-            "集中放在同一袋"
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "schedule",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u13-t98-r1",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "schedule"
-    }
-  },
-  {
-    "id": "u13-t98-r2",
-    "unit": 13,
-    "topic": 97,
-    "concept": "運用時間",
-    "passageId": "b-u13-p3",
-    "passageTitle": "沒有排滿的那一格",
-    "passage": "星期五要交小組海報，小晴把放學後排得密密麻麻：寫作業、畫插圖、整理用品，中間沒有休息。她以為排得滿就代表認真，結果作業有一題想得比預期久，後面全部往後延。她越趕越急，連已收好的筆也找不到。\n\n爸爸沒有替她重寫整張表，只問：「哪件事今天一定要完成？哪裡需要先查清楚？」小晴把工作分成必做和可延後，留一格空白給臨時狀況。她也把海報用品集中到一個袋子，不再每做一項就重新找一次。\n\n第二天，小組臨時通知要多帶一張照片，小晴用預留時間找好，沒有取消全部休息。回頭看原表，她發現空白不是偷懶，而是讓計畫能接住變化。之後她仍會按時檢查，也願意依實際需要調整，不把表格當成一成不變的命令。",
-    "readingOrder": 2,
-    "readingSkill": "整合證據、條件與推論",
-    "type": "single",
-    "text": "〈沒有排滿的那一格〉爸爸問期限和待查問題，主要是在幫小晴做什麼？",
-    "options": [
-      "只挑喜歡的工作",
-      "把所有工作取消",
-      "讓她不用負責",
-      "分清需要與順序，再作可行安排"
-    ],
-    "answer": 3,
-    "explanation": "先判斷重要性及條件，才能調整計畫。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "修改後的安排",
-      "table": {
-        "headers": [
-          "分類",
-          "做法"
-        ],
-        "rows": [
-          [
-            "必做",
-            "先確認今天的期限"
-          ],
-          [
-            "可延後",
-            "重新協調順序"
-          ],
-          [
-            "預留時間",
-            "處理臨時需要"
-          ],
-          [
-            "用品",
-            "集中放在同一袋"
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "schedule",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u13-t98-r2",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "schedule"
-    }
-  },
-  {
-    "id": "u13-t98-r3",
-    "unit": 13,
-    "topic": 97,
-    "concept": "運用時間",
-    "passageId": "b-u13-p3",
-    "passageTitle": "沒有排滿的那一格",
-    "passage": "星期五要交小組海報，小晴把放學後排得密密麻麻：寫作業、畫插圖、整理用品，中間沒有休息。她以為排得滿就代表認真，結果作業有一題想得比預期久，後面全部往後延。她越趕越急，連已收好的筆也找不到。\n\n爸爸沒有替她重寫整張表，只問：「哪件事今天一定要完成？哪裡需要先查清楚？」小晴把工作分成必做和可延後，留一格空白給臨時狀況。她也把海報用品集中到一個袋子，不再每做一項就重新找一次。\n\n第二天，小組臨時通知要多帶一張照片，小晴用預留時間找好，沒有取消全部休息。回頭看原表，她發現空白不是偷懶，而是讓計畫能接住變化。之後她仍會按時檢查，也願意依實際需要調整，不把表格當成一成不變的命令。",
-    "readingOrder": 3,
-    "readingSkill": "整合證據、條件與推論",
-    "type": "single",
-    "text": "〈沒有排滿的那一格〉把用品集中一袋，和留空白格的作用有何不同？",
-    "options": [
-      "前者減少反覆尋找，後者留下應變時間",
-      "兩者都只是裝飾",
-      "前者取代全部準備，後者取代休息",
-      "兩者都表示不用檢查"
-    ],
-    "answer": 0,
-    "explanation": "兩種改進分別處理找物與時間彈性。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "修改後的安排",
-      "table": {
-        "headers": [
-          "分類",
-          "做法"
-        ],
-        "rows": [
-          [
-            "必做",
-            "先確認今天的期限"
-          ],
-          [
-            "可延後",
-            "重新協調順序"
-          ],
-          [
-            "預留時間",
-            "處理臨時需要"
-          ],
-          [
-            "用品",
-            "集中放在同一袋"
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "schedule",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u13-t98-r3",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "schedule"
-    }
-  },
-  {
-    "id": "u13-t98-r4",
-    "unit": 13,
-    "topic": 97,
-    "concept": "運用時間",
-    "passageId": "b-u13-p3",
-    "passageTitle": "沒有排滿的那一格",
-    "passage": "星期五要交小組海報，小晴把放學後排得密密麻麻：寫作業、畫插圖、整理用品，中間沒有休息。她以為排得滿就代表認真，結果作業有一題想得比預期久，後面全部往後延。她越趕越急，連已收好的筆也找不到。\n\n爸爸沒有替她重寫整張表，只問：「哪件事今天一定要完成？哪裡需要先查清楚？」小晴把工作分成必做和可延後，留一格空白給臨時狀況。她也把海報用品集中到一個袋子，不再每做一項就重新找一次。\n\n第二天，小組臨時通知要多帶一張照片，小晴用預留時間找好，沒有取消全部休息。回頭看原表，她發現空白不是偷懶，而是讓計畫能接住變化。之後她仍會按時檢查，也願意依實際需要調整，不把表格當成一成不變的命令。",
-    "readingOrder": 4,
-    "readingSkill": "整合證據、條件與推論",
-    "type": "single",
-    "text": "〈沒有排滿的那一格〉「讓計畫能接住變化」最接近哪個意思？",
-    "options": [
-      "拿表格當容器",
-      "保留調整空間，遇到新需要仍能安排",
-      "所有變化都要拒絕",
-      "把所有工作排在同一刻"
-    ],
-    "answer": 1,
-    "explanation": "此處是形象說法，指計畫具備彈性而能回應臨時狀況。",
-    "revision": 6,
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "修改後的安排",
-      "table": {
-        "headers": [
-          "分類",
-          "做法"
-        ],
-        "rows": [
-          [
-            "必做",
-            "先確認今天的期限"
-          ],
-          [
-            "可延後",
-            "重新協調順序"
-          ],
-          [
-            "預留時間",
-            "處理臨時需要"
-          ],
-          [
-            "用品",
-            "集中放在同一袋"
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "schedule",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u13-t98-r4",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "schedule"
-    }
-  },
-  {
-    "id": "u13-t98-r5",
-    "unit": 13,
-    "topic": 97,
-    "concept": "運用時間",
-    "passageId": "b-u13-p3",
-    "passageTitle": "沒有排滿的那一格",
-    "passage": "星期五要交小組海報，小晴把放學後排得密密麻麻：寫作業、畫插圖、整理用品，中間沒有休息。她以為排得滿就代表認真，結果作業有一題想得比預期久，後面全部往後延。她越趕越急，連已收好的筆也找不到。\n\n爸爸沒有替她重寫整張表，只問：「哪件事今天一定要完成？哪裡需要先查清楚？」小晴把工作分成必做和可延後，留一格空白給臨時狀況。她也把海報用品集中到一個袋子，不再每做一項就重新找一次。\n\n第二天，小組臨時通知要多帶一張照片，小晴用預留時間找好，沒有取消全部休息。回頭看原表，她發現空白不是偷懶，而是讓計畫能接住變化。之後她仍會按時檢查，也願意依實際需要調整，不把表格當成一成不變的命令。",
-    "readingOrder": 5,
-    "readingSkill": "整合證據、條件與推論",
-    "type": "single",
-    "text": "〈沒有排滿的那一格〉哪個標題最能概括全文？",
-    "options": [
-      "把時間表塗滿就成功",
-      "只做容易的事",
-      "有順序，也有彈性的計畫",
-      "空白越多越不用做事"
-    ],
-    "answer": 2,
-    "explanation": "文章兼顧責任、整理與應變，不是單純排滿或留空。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "修改後的安排",
-      "table": {
-        "headers": [
-          "分類",
-          "做法"
-        ],
-        "rows": [
-          [
-            "必做",
-            "先確認今天的期限"
-          ],
-          [
-            "可延後",
-            "重新協調順序"
-          ],
-          [
-            "預留時間",
-            "處理臨時需要"
-          ],
-          [
-            "用品",
-            "集中放在同一袋"
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "schedule",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u13-t98-r5",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "schedule"
-    }
-  },
-  {
-    "id": "u14-t99-r1",
-    "unit": 14,
-    "topic": 98,
-    "concept": "解決問題",
-    "passageId": "b-u14-p2",
-    "passageTitle": "紙橋旁的兩份紀錄",
-    "passage": "小安和小宇用相同紙張架橋。第一次紙面平平的，放上三個小積木就彎下來。小安在表上寫「失敗」，準備把紙丟掉；小宇卻畫出紙彎的位置，問：「是紙太短，還是折法不夠穩？」\n\n老師請他們一次只改一個條件。兩人保留相同的書本間距與積木，改試不同折法，再記下能放幾個積木。第二次放了五個才彎。小安高興地說，以後所有紙橋都照這個數字就好，小宇提醒：這次只試了這種紙和這段距離，數字要連同條件保存。\n\n展出時，小安沒有只放成功照片，而把兩次紀錄並排。參觀的同學因此看懂，他們先發現問題、提出想法，再用比較尋找改進。那張原本想丟掉的紙，最後成了說明方法為何改變的重要證據。",
-    "readingOrder": 1,
-    "readingSkill": "整合證據、條件與推論",
-    "type": "single",
-    "text": "〈紙橋旁的兩份紀錄〉只寫「失敗」，比畫出彎的位置少了什麼？",
-    "options": [
-      "可供判斷問題的具體線索",
-      "字的筆畫數",
-      "同學的喜好",
-      "表格顏色"
-    ],
-    "answer": 0,
-    "explanation": "具體形變位置能協助提出可檢驗的原因。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "兩次試做",
-      "table": {
-        "headers": [
-          "項目",
-          "第一次",
-          "第二次"
-        ],
-        "rows": [
-          [
-            "紙張、間距",
-            "相同",
-            "相同"
-          ],
-          [
-            "折法",
-            "平放",
-            "改用另一折法"
-          ],
-          [
-            "彎下前的測試",
-            "放上3個時彎",
-            "放上5個時彎"
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "paperBridge",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u14-t99-r1",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "paperBridge"
-    }
-  },
-  {
-    "id": "u14-t99-r2",
-    "unit": 14,
-    "topic": 98,
-    "concept": "解決問題",
-    "passageId": "b-u14-p2",
-    "passageTitle": "紙橋旁的兩份紀錄",
-    "passage": "小安和小宇用相同紙張架橋。第一次紙面平平的，放上三個小積木就彎下來。小安在表上寫「失敗」，準備把紙丟掉；小宇卻畫出紙彎的位置，問：「是紙太短，還是折法不夠穩？」\n\n老師請他們一次只改一個條件。兩人保留相同的書本間距與積木，改試不同折法，再記下能放幾個積木。第二次放了五個才彎。小安高興地說，以後所有紙橋都照這個數字就好，小宇提醒：這次只試了這種紙和這段距離，數字要連同條件保存。\n\n展出時，小安沒有只放成功照片，而把兩次紀錄並排。參觀的同學因此看懂，他們先發現問題、提出想法，再用比較尋找改進。那張原本想丟掉的紙，最後成了說明方法為何改變的重要證據。",
-    "readingOrder": 2,
-    "readingSkill": "整合證據、條件與推論",
-    "type": "single",
-    "text": "〈紙橋旁的兩份紀錄〉老師請一次只改一個條件，主要為了什麼？",
-    "options": [
-      "保證任何折法都成功",
-      "較容易比較改變與結果的關係",
-      "不准做第二次",
-      "讓積木數字一定變大"
-    ],
-    "answer": 1,
-    "explanation": "控制其他條件，較能解釋折法可能的影響。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "兩次試做",
-      "table": {
-        "headers": [
-          "項目",
-          "第一次",
-          "第二次"
-        ],
-        "rows": [
-          [
-            "紙張、間距",
-            "相同",
-            "相同"
-          ],
-          [
-            "折法",
-            "平放",
-            "改用另一折法"
-          ],
-          [
-            "彎下前的測試",
-            "放上3個時彎",
-            "放上5個時彎"
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "paperBridge",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u14-t99-r2",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "paperBridge"
-    }
-  },
-  {
-    "id": "u14-t99-r3",
-    "unit": 14,
-    "topic": 98,
-    "concept": "解決問題",
-    "passageId": "b-u14-p2",
-    "passageTitle": "紙橋旁的兩份紀錄",
-    "passage": "小安和小宇用相同紙張架橋。第一次紙面平平的，放上三個小積木就彎下來。小安在表上寫「失敗」，準備把紙丟掉；小宇卻畫出紙彎的位置，問：「是紙太短，還是折法不夠穩？」\n\n老師請他們一次只改一個條件。兩人保留相同的書本間距與積木，改試不同折法，再記下能放幾個積木。第二次放了五個才彎。小安高興地說，以後所有紙橋都照這個數字就好，小宇提醒：這次只試了這種紙和這段距離，數字要連同條件保存。\n\n展出時，小安沒有只放成功照片，而把兩次紀錄並排。參觀的同學因此看懂，他們先發現問題、提出想法，再用比較尋找改進。那張原本想丟掉的紙，最後成了說明方法為何改變的重要證據。",
-    "readingOrder": 3,
-    "readingSkill": "整合證據、條件與推論",
-    "type": "single",
-    "text": "〈紙橋旁的兩份紀錄〉小宇為什麼反對把第二次的數字直接套到所有紙橋？",
-    "options": [
-      "他不喜歡成功紀錄",
-      "紙不能重做",
-      "材料、間距等條件不同，結果可能不同",
-      "他想刪掉第二次照片"
-    ],
-    "answer": 2,
-    "explanation": "結論須保留適用條件，不能超出觀察範圍。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "兩次試做",
-      "table": {
-        "headers": [
-          "項目",
-          "第一次",
-          "第二次"
-        ],
-        "rows": [
-          [
-            "紙張、間距",
-            "相同",
-            "相同"
-          ],
-          [
-            "折法",
-            "平放",
-            "改用另一折法"
-          ],
-          [
-            "彎下前的測試",
-            "放上3個時彎",
-            "放上5個時彎"
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "paperBridge",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u14-t99-r3",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "paperBridge"
-    }
-  },
-  {
-    "id": "u14-t99-r4",
-    "unit": 14,
-    "topic": 98,
-    "concept": "解決問題",
-    "passageId": "b-u14-p2",
-    "passageTitle": "紙橋旁的兩份紀錄",
-    "passage": "小安和小宇用相同紙張架橋。第一次紙面平平的，放上三個小積木就彎下來。小安在表上寫「失敗」，準備把紙丟掉；小宇卻畫出紙彎的位置，問：「是紙太短，還是折法不夠穩？」\n\n老師請他們一次只改一個條件。兩人保留相同的書本間距與積木，改試不同折法，再記下能放幾個積木。第二次放了五個才彎。小安高興地說，以後所有紙橋都照這個數字就好，小宇提醒：這次只試了這種紙和這段距離，數字要連同條件保存。\n\n展出時，小安沒有只放成功照片，而把兩次紀錄並排。參觀的同學因此看懂，他們先發現問題、提出想法，再用比較尋找改進。那張原本想丟掉的紙，最後成了說明方法為何改變的重要證據。",
-    "readingOrder": 4,
-    "readingSkill": "整合證據、條件與推論",
-    "type": "single",
-    "text": "〈紙橋旁的兩份紀錄〉並排兩次紀錄，對參觀者的幫助是什麼？",
-    "options": [
-      "只能看出誰字寫得好",
-      "證明第一次沒有意義",
-      "保證下次可放更多積木",
-      "看出原問題、改法與結果如何連結"
-    ],
-    "answer": 3,
-    "explanation": "對照資料呈現推理與改進過程。",
-    "revision": 6,
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "兩次試做",
-      "table": {
-        "headers": [
-          "項目",
-          "第一次",
-          "第二次"
-        ],
-        "rows": [
-          [
-            "紙張、間距",
-            "相同",
-            "相同"
-          ],
-          [
-            "折法",
-            "平放",
-            "改用另一折法"
-          ],
-          [
-            "彎下前的測試",
-            "放上3個時彎",
-            "放上5個時彎"
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "paperBridge",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u14-t99-r4",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "paperBridge"
-    }
-  },
-  {
-    "id": "u14-t99-r5",
-    "unit": 14,
-    "topic": 98,
-    "concept": "解決問題",
-    "passageId": "b-u14-p2",
-    "passageTitle": "紙橋旁的兩份紀錄",
-    "passage": "小安和小宇用相同紙張架橋。第一次紙面平平的，放上三個小積木就彎下來。小安在表上寫「失敗」，準備把紙丟掉；小宇卻畫出紙彎的位置，問：「是紙太短，還是折法不夠穩？」\n\n老師請他們一次只改一個條件。兩人保留相同的書本間距與積木，改試不同折法，再記下能放幾個積木。第二次放了五個才彎。小安高興地說，以後所有紙橋都照這個數字就好，小宇提醒：這次只試了這種紙和這段距離，數字要連同條件保存。\n\n展出時，小安沒有只放成功照片，而把兩次紀錄並排。參觀的同學因此看懂，他們先發現問題、提出想法，再用比較尋找改進。那張原本想丟掉的紙，最後成了說明方法為何改變的重要證據。",
-    "readingOrder": 5,
-    "readingSkill": "整合證據、條件與推論",
-    "type": "single",
-    "text": "〈紙橋旁的兩份紀錄〉原本想丟掉的紙，最後「成了證據」，主要因為什麼？",
-    "options": [
-      "保留了問題與比較的依據，不只是失敗的標籤",
-      "破紙一定比新紙珍貴",
-      "成功不需要任何紀錄",
-      "紙張顏色會改變結論"
-    ],
-    "answer": 0,
-    "explanation": "文章強調具體紀錄能支持理解與改進。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "兩次試做",
-      "table": {
-        "headers": [
-          "項目",
-          "第一次",
-          "第二次"
-        ],
-        "rows": [
-          [
-            "紙張、間距",
-            "相同",
-            "相同"
-          ],
-          [
-            "折法",
-            "平放",
-            "改用另一折法"
-          ],
-          [
-            "彎下前的測試",
-            "放上3個時彎",
-            "放上5個時彎"
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "paperBridge",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u14-t99-r5",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "paperBridge"
-    }
-  },
-  {
-    "id": "u14-t98-r1",
-    "unit": 14,
-    "topic": 97,
-    "concept": "解決問題",
-    "passageId": "b-u14-p4",
-    "passageTitle": "小苗要的，不是更多",
-    "passage": "花圃有一株小苗的葉子垂下來，小宇急著幫忙，提著水壺就想多澆。小晴摸到表面土很溼，請他先停一下：「我們只看到葉子下垂，還不知道原因。」兩人把看到的情形寫下來，請老師協助觀察。\n\n老師沒有立刻說是哪個原因，而是帶他們看土壤、水是否排得出去，以及周圍日照。小宇發現，原來照顧不只是把自己以為好的東西一直加上去。小組按老師建議調整，再連續幾天記下變化；沒有因為隔天稍好，就宣布方法對所有植物都有效。\n\n做導覽牌時，小宇把「看到下垂就多澆水」改成「先記錄、找原因，再給適合的照顧」。他仍很想幫忙，卻學會讓熱心多等一步。小晴說，這不是少做事，而是讓每個行動更接近植物真正的需要。",
-    "readingOrder": 1,
-    "readingSkill": "整合證據、條件與推論",
-    "type": "single",
-    "text": "〈小苗要的，不是更多〉小晴請小宇先停下，主要根據哪項線索？",
-    "options": [
-      "水壺顏色不同",
-      "表面土已溼，原因尚未查明",
-      "小苗名字太短",
-      "導覽牌還沒寫完"
-    ],
-    "answer": 1,
-    "explanation": "土溼提醒不能直接用缺水解釋下垂，應先查明。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "觀察與待查",
-      "table": {
-        "headers": [
-          "已看到",
-          "還不能直接確定"
-        ],
-        "rows": [
-          [
-            "葉片下垂",
-            "是否缺水"
-          ],
-          [
-            "表面土溼",
-            "根部與排水情形"
-          ],
-          [
-            "調整後有變化",
-            "是否適用所有植物"
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "plantWater",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u14-t98-r1",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "plantWater"
-    }
-  },
-  {
-    "id": "u14-t98-r2",
-    "unit": 14,
-    "topic": 97,
-    "concept": "解決問題",
-    "passageId": "b-u14-p4",
-    "passageTitle": "小苗要的，不是更多",
-    "passage": "花圃有一株小苗的葉子垂下來，小宇急著幫忙，提著水壺就想多澆。小晴摸到表面土很溼，請他先停一下：「我們只看到葉子下垂，還不知道原因。」兩人把看到的情形寫下來，請老師協助觀察。\n\n老師沒有立刻說是哪個原因，而是帶他們看土壤、水是否排得出去，以及周圍日照。小宇發現，原來照顧不只是把自己以為好的東西一直加上去。小組按老師建議調整，再連續幾天記下變化；沒有因為隔天稍好，就宣布方法對所有植物都有效。\n\n做導覽牌時，小宇把「看到下垂就多澆水」改成「先記錄、找原因，再給適合的照顧」。他仍很想幫忙，卻學會讓熱心多等一步。小晴說，這不是少做事，而是讓每個行動更接近植物真正的需要。",
-    "readingOrder": 2,
-    "readingSkill": "整合證據、條件與推論",
-    "type": "single",
-    "text": "〈小苗要的，不是更多〉老師帶他們看排水、土壤與日照，表示什麼？",
-    "options": [
-      "只要多加水就會解決",
-      "葉片下垂不必記錄",
-      "同一現象可能與不同條件有關，需一起觀察",
-      "老師不願意協助"
-    ],
-    "answer": 2,
-    "explanation": "不能把可見現象直接等同單一原因。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "觀察與待查",
-      "table": {
-        "headers": [
-          "已看到",
-          "還不能直接確定"
-        ],
-        "rows": [
-          [
-            "葉片下垂",
-            "是否缺水"
-          ],
-          [
-            "表面土溼",
-            "根部與排水情形"
-          ],
-          [
-            "調整後有變化",
-            "是否適用所有植物"
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "plantWater",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u14-t98-r2",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "plantWater"
-    }
-  },
-  {
-    "id": "u14-t98-r3",
-    "unit": 14,
-    "topic": 97,
-    "concept": "解決問題",
-    "passageId": "b-u14-p4",
-    "passageTitle": "小苗要的，不是更多",
-    "passage": "花圃有一株小苗的葉子垂下來，小宇急著幫忙，提著水壺就想多澆。小晴摸到表面土很溼，請他先停一下：「我們只看到葉子下垂，還不知道原因。」兩人把看到的情形寫下來，請老師協助觀察。\n\n老師沒有立刻說是哪個原因，而是帶他們看土壤、水是否排得出去，以及周圍日照。小宇發現，原來照顧不只是把自己以為好的東西一直加上去。小組按老師建議調整，再連續幾天記下變化；沒有因為隔天稍好，就宣布方法對所有植物都有效。\n\n做導覽牌時，小宇把「看到下垂就多澆水」改成「先記錄、找原因，再給適合的照顧」。他仍很想幫忙，卻學會讓熱心多等一步。小晴說，這不是少做事，而是讓每個行動更接近植物真正的需要。",
-    "readingOrder": 3,
-    "readingSkill": "整合證據、條件與推論",
-    "type": "single",
-    "text": "〈小苗要的，不是更多〉「讓熱心多等一步」不是要小宇不幫忙，而是要他怎麼做？",
-    "options": [
-      "把工作永久交給別人",
-      "等葉片全掉再說",
-      "只寫漂亮標語",
-      "先查證需要，再採取適當行動"
-    ],
-    "answer": 3,
-    "explanation": "熱心仍在，但行動前先確認條件與需求。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "觀察與待查",
-      "table": {
-        "headers": [
-          "已看到",
-          "還不能直接確定"
-        ],
-        "rows": [
-          [
-            "葉片下垂",
-            "是否缺水"
-          ],
-          [
-            "表面土溼",
-            "根部與排水情形"
-          ],
-          [
-            "調整後有變化",
-            "是否適用所有植物"
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "plantWater",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u14-t98-r3",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "plantWater"
-    }
-  },
-  {
-    "id": "u14-t98-r4",
-    "unit": 14,
-    "topic": 97,
-    "concept": "解決問題",
-    "passageId": "b-u14-p4",
-    "passageTitle": "小苗要的，不是更多",
-    "passage": "花圃有一株小苗的葉子垂下來，小宇急著幫忙，提著水壺就想多澆。小晴摸到表面土很溼，請他先停一下：「我們只看到葉子下垂，還不知道原因。」兩人把看到的情形寫下來，請老師協助觀察。\n\n老師沒有立刻說是哪個原因，而是帶他們看土壤、水是否排得出去，以及周圍日照。小宇發現，原來照顧不只是把自己以為好的東西一直加上去。小組按老師建議調整，再連續幾天記下變化；沒有因為隔天稍好，就宣布方法對所有植物都有效。\n\n做導覽牌時，小宇把「看到下垂就多澆水」改成「先記錄、找原因，再給適合的照顧」。他仍很想幫忙，卻學會讓熱心多等一步。小晴說，這不是少做事，而是讓每個行動更接近植物真正的需要。",
-    "readingOrder": 4,
-    "readingSkill": "整合證據、條件與推論",
-    "type": "single",
-    "text": "〈小苗要的，不是更多〉隔天稍好，為什麼仍要連續記錄？",
-    "options": [
-      "一次變化不足以判斷長期效果與適用範圍",
-      "表格一定要填滿",
-      "只要記錄就不需照顧",
-      "每株植物都必須有相同數字"
-    ],
-    "answer": 0,
-    "explanation": "持續資料能更完整理解效果，不宜由一次結果概括全部。",
-    "revision": 6,
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "觀察與待查",
-      "table": {
-        "headers": [
-          "已看到",
-          "還不能直接確定"
-        ],
-        "rows": [
-          [
-            "葉片下垂",
-            "是否缺水"
-          ],
-          [
-            "表面土溼",
-            "根部與排水情形"
-          ],
-          [
-            "調整後有變化",
-            "是否適用所有植物"
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "plantWater",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u14-t98-r4",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "plantWater"
-    }
-  },
-  {
-    "id": "u14-t98-r5",
-    "unit": 14,
-    "topic": 97,
-    "concept": "解決問題",
-    "passageId": "b-u14-p4",
-    "passageTitle": "小苗要的，不是更多",
-    "passage": "花圃有一株小苗的葉子垂下來，小宇急著幫忙，提著水壺就想多澆。小晴摸到表面土很溼，請他先停一下：「我們只看到葉子下垂，還不知道原因。」兩人把看到的情形寫下來，請老師協助觀察。\n\n老師沒有立刻說是哪個原因，而是帶他們看土壤、水是否排得出去，以及周圍日照。小宇發現，原來照顧不只是把自己以為好的東西一直加上去。小組按老師建議調整，再連續幾天記下變化；沒有因為隔天稍好，就宣布方法對所有植物都有效。\n\n做導覽牌時，小宇把「看到下垂就多澆水」改成「先記錄、找原因，再給適合的照顧」。他仍很想幫忙，卻學會讓熱心多等一步。小晴說，這不是少做事，而是讓每個行動更接近植物真正的需要。",
-    "readingOrder": 5,
-    "readingSkill": "整合證據、條件與推論",
-    "type": "single",
-    "text": "〈小苗要的，不是更多〉哪個句子最適合放在導覽牌結尾？",
-    "options": [
-      "幫忙就是越多越好",
-      "觀察和查證能讓關心變成合適的照顧",
-      "看見下垂就立刻決定原因",
-      "植物的需要只由觀察者喜好決定"
-    ],
-    "answer": 1,
-    "explanation": "主旨是讓照顧對應實際需要，而非熱心越多就越有效。",
-    "sourceIds": [
-      "C3",
-      "C5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "觀察與待查",
-      "table": {
-        "headers": [
-          "已看到",
-          "還不能直接確定"
-        ],
-        "rows": [
-          [
-            "葉片下垂",
-            "是否缺水"
-          ],
-          [
-            "表面土溼",
-            "根部與排水情形"
-          ],
-          [
-            "調整後有變化",
-            "是否適用所有植物"
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "plantWater",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u14-t98-r5",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "plantWater"
-    }
-  },
-  {
-    "type": "text",
     "text": "報告需寫出資料「來原」，方便讀者查證。引號內有一個錯字，填正確的字。",
     "answer": "源",
     "explanation": "來源的源表示出處。",
@@ -18347,7 +14579,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u4-t99-b"
+    "family": "b-u4-t99-b",
+    "visualPolicy": "none"
   },
   {
     "type": "text",
@@ -18364,7 +14597,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u4-t98-b"
+    "family": "b-u4-t98-b",
+    "visualPolicy": "none"
   },
   {
     "type": "text",
@@ -18381,7 +14615,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u4-t97-b"
+    "family": "b-u4-t97-b",
+    "visualPolicy": "none"
   },
   {
     "type": "text",
@@ -18398,7 +14633,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u5-t99-b"
+    "family": "b-u5-t99-b",
+    "visualPolicy": "none"
   },
   {
     "type": "text",
@@ -18415,7 +14651,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u5-t98-b"
+    "family": "b-u5-t98-b",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -18438,7 +14675,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u4-t96-b"
+    "family": "b-u4-t96-b",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -18461,7 +14699,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u4-t95-b"
+    "family": "b-u4-t95-b",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -18484,7 +14723,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u5-t97-b"
+    "family": "b-u5-t97-b",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -18507,7 +14747,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u5-t96-b"
+    "family": "b-u5-t96-b",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -18530,7 +14771,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u5-t95-b"
+    "family": "b-u5-t95-b",
+    "visualPolicy": "none"
   },
   {
     "id": "u4-t99-r1",
@@ -18557,8 +14799,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "追加的包裝比較",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "方案",
@@ -18577,19 +14820,11 @@ window.REVIEW_EXAM_ITEMS=[
             "乾淨且標示清楚"
           ]
         ]
-      },
-      "examLineArt": false,
-      "mode": "storageLabels",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
+      }
     },
     "difficulty": "core",
     "variant": "B",
-    "family": "b-u4-t99-r1",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "storageLabels"
-    }
+    "family": "b-u4-t99-r1"
   },
   {
     "id": "u4-t99-r2",
@@ -18616,8 +14851,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "追加的包裝比較",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "方案",
@@ -18636,19 +14872,11 @@ window.REVIEW_EXAM_ITEMS=[
             "乾淨且標示清楚"
           ]
         ]
-      },
-      "examLineArt": false,
-      "mode": "storageLabels",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
+      }
     },
     "difficulty": "core",
     "variant": "B",
-    "family": "b-u4-t99-r2",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "storageLabels"
-    }
+    "family": "b-u4-t99-r2"
   },
   {
     "id": "u4-t99-r3",
@@ -18675,8 +14903,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "追加的包裝比較",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "方案",
@@ -18695,19 +14924,11 @@ window.REVIEW_EXAM_ITEMS=[
             "乾淨且標示清楚"
           ]
         ]
-      },
-      "examLineArt": false,
-      "mode": "storageLabels",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
+      }
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u4-t99-r3",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "storageLabels"
-    }
+    "family": "b-u4-t99-r3"
   },
   {
     "id": "u4-t99-r4",
@@ -18734,8 +14955,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "追加的包裝比較",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "方案",
@@ -18754,19 +14976,11 @@ window.REVIEW_EXAM_ITEMS=[
             "乾淨且標示清楚"
           ]
         ]
-      },
-      "examLineArt": false,
-      "mode": "storageLabels",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
+      }
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u4-t99-r4",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "storageLabels"
-    }
+    "family": "b-u4-t99-r4"
   },
   {
     "id": "u4-t99-r5",
@@ -18793,8 +15007,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "追加的包裝比較",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "方案",
@@ -18813,19 +15028,11 @@ window.REVIEW_EXAM_ITEMS=[
             "乾淨且標示清楚"
           ]
         ]
-      },
-      "examLineArt": false,
-      "mode": "storageLabels",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
+      }
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u4-t99-r5",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "storageLabels"
-    }
+    "family": "b-u4-t99-r5"
   },
   {
     "id": "u4-t98-r1",
@@ -18852,8 +15059,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "照片與訪談的分工",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "資料",
@@ -18873,19 +15081,11 @@ window.REVIEW_EXAM_ITEMS=[
             "其他屋頂的管理方式"
           ]
         ]
-      },
-      "examLineArt": false,
-      "mode": "roofGarden",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
+      }
     },
     "difficulty": "core",
     "variant": "B",
-    "family": "b-u4-t98-r1",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "roofGarden"
-    }
+    "family": "b-u4-t98-r1"
   },
   {
     "id": "u4-t98-r2",
@@ -18912,8 +15112,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "照片與訪談的分工",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "資料",
@@ -18933,19 +15134,11 @@ window.REVIEW_EXAM_ITEMS=[
             "其他屋頂的管理方式"
           ]
         ]
-      },
-      "examLineArt": false,
-      "mode": "roofGarden",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
+      }
     },
     "difficulty": "core",
     "variant": "B",
-    "family": "b-u4-t98-r2",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "roofGarden"
-    }
+    "family": "b-u4-t98-r2"
   },
   {
     "id": "u4-t98-r3",
@@ -18972,8 +15165,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "照片與訪談的分工",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "資料",
@@ -18993,19 +15187,11 @@ window.REVIEW_EXAM_ITEMS=[
             "其他屋頂的管理方式"
           ]
         ]
-      },
-      "examLineArt": false,
-      "mode": "roofGarden",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
+      }
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u4-t98-r3",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "roofGarden"
-    }
+    "family": "b-u4-t98-r3"
   },
   {
     "id": "u4-t98-r4",
@@ -19032,8 +15218,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "照片與訪談的分工",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "資料",
@@ -19053,19 +15240,11 @@ window.REVIEW_EXAM_ITEMS=[
             "其他屋頂的管理方式"
           ]
         ]
-      },
-      "examLineArt": false,
-      "mode": "roofGarden",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
+      }
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u4-t98-r4",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "roofGarden"
-    }
+    "family": "b-u4-t98-r4"
   },
   {
     "id": "u4-t98-r5",
@@ -19092,8 +15271,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "照片與訪談的分工",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "資料",
@@ -19113,19 +15293,11 @@ window.REVIEW_EXAM_ITEMS=[
             "其他屋頂的管理方式"
           ]
         ]
-      },
-      "examLineArt": false,
-      "mode": "roofGarden",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
+      }
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u4-t98-r5",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "roofGarden"
-    }
+    "family": "b-u4-t98-r5"
   },
   {
     "id": "u5-t99-r1",
@@ -19152,8 +15324,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "小柔的兩種紀錄",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "個人偏好",
@@ -19169,19 +15342,11 @@ window.REVIEW_EXAM_ITEMS=[
             "先指出支持感受的畫面細節"
           ]
         ]
-      },
-      "examLineArt": false,
-      "mode": "gallery",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
+      }
     },
     "difficulty": "core",
     "variant": "B",
-    "family": "b-u5-t99-r1",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "gallery"
-    }
+    "family": "b-u5-t99-r1"
   },
   {
     "id": "u5-t99-r2",
@@ -19208,8 +15373,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "小柔的兩種紀錄",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "個人偏好",
@@ -19225,19 +15391,11 @@ window.REVIEW_EXAM_ITEMS=[
             "先指出支持感受的畫面細節"
           ]
         ]
-      },
-      "examLineArt": false,
-      "mode": "gallery",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
+      }
     },
     "difficulty": "core",
     "variant": "B",
-    "family": "b-u5-t99-r2",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "gallery"
-    }
+    "family": "b-u5-t99-r2"
   },
   {
     "id": "u5-t99-r3",
@@ -19264,8 +15422,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "小柔的兩種紀錄",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "個人偏好",
@@ -19281,19 +15440,11 @@ window.REVIEW_EXAM_ITEMS=[
             "先指出支持感受的畫面細節"
           ]
         ]
-      },
-      "examLineArt": false,
-      "mode": "gallery",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
+      }
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u5-t99-r3",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "gallery"
-    }
+    "family": "b-u5-t99-r3"
   },
   {
     "id": "u5-t99-r4",
@@ -19320,8 +15471,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "小柔的兩種紀錄",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "個人偏好",
@@ -19337,19 +15489,11 @@ window.REVIEW_EXAM_ITEMS=[
             "先指出支持感受的畫面細節"
           ]
         ]
-      },
-      "examLineArt": false,
-      "mode": "gallery",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
+      }
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u5-t99-r4",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "gallery"
-    }
+    "family": "b-u5-t99-r4"
   },
   {
     "id": "u5-t99-r5",
@@ -19376,8 +15520,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "小柔的兩種紀錄",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "個人偏好",
@@ -19393,19 +15538,11 @@ window.REVIEW_EXAM_ITEMS=[
             "先指出支持感受的畫面細節"
           ]
         ]
-      },
-      "examLineArt": false,
-      "mode": "gallery",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
+      }
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u5-t99-r5",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "gallery"
-    }
+    "family": "b-u5-t99-r5"
   },
   {
     "id": "u5-t98-r1",
@@ -19432,8 +15569,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "修改稿的細節清單",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "句子",
@@ -19453,19 +15591,11 @@ window.REVIEW_EXAM_ITEMS=[
             "人物捧餅的經驗"
           ]
         ]
-      },
-      "examLineArt": false,
-      "mode": "bakery",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
+      }
     },
     "difficulty": "core",
     "variant": "B",
-    "family": "b-u5-t98-r1",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "bakery"
-    }
+    "family": "b-u5-t98-r1"
   },
   {
     "id": "u5-t98-r2",
@@ -19492,8 +15622,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "修改稿的細節清單",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "句子",
@@ -19513,19 +15644,11 @@ window.REVIEW_EXAM_ITEMS=[
             "人物捧餅的經驗"
           ]
         ]
-      },
-      "examLineArt": false,
-      "mode": "bakery",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
+      }
     },
     "difficulty": "core",
     "variant": "B",
-    "family": "b-u5-t98-r2",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "bakery"
-    }
+    "family": "b-u5-t98-r2"
   },
   {
     "id": "u5-t98-r3",
@@ -19552,8 +15675,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "修改稿的細節清單",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "句子",
@@ -19573,19 +15697,11 @@ window.REVIEW_EXAM_ITEMS=[
             "人物捧餅的經驗"
           ]
         ]
-      },
-      "examLineArt": false,
-      "mode": "bakery",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
+      }
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u5-t98-r3",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "bakery"
-    }
+    "family": "b-u5-t98-r3"
   },
   {
     "id": "u5-t98-r4",
@@ -19612,8 +15728,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "修改稿的細節清單",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "句子",
@@ -19633,19 +15750,11 @@ window.REVIEW_EXAM_ITEMS=[
             "人物捧餅的經驗"
           ]
         ]
-      },
-      "examLineArt": false,
-      "mode": "bakery",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
+      }
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u5-t98-r4",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "bakery"
-    }
+    "family": "b-u5-t98-r4"
   },
   {
     "id": "u5-t98-r5",
@@ -19672,8 +15781,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "修改稿的細節清單",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "句子",
@@ -19693,2674 +15803,11 @@ window.REVIEW_EXAM_ITEMS=[
             "人物捧餅的經驗"
           ]
         ]
-      },
-      "examLineArt": false,
-      "mode": "bakery",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
+      }
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u5-t98-r5",
-    "visualAudit": {
-      "version": 12,
-      "subject": "國語",
-      "mode": "bakery"
-    }
-  },
-  {
-    "type": "text",
-    "text": "A: What’s your name? B: My ＿＿ is Leo.（填「名字」）",
-    "answer": "name",
-    "explanation": "依情境、資料及句型填入 name。",
-    "id": "u15-t99-b",
-    "unit": 15,
-    "topic": 98,
-    "concept": "名字與初次見面",
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u15-t99-b"
-  },
-  {
-    "type": "text",
-    "text": "Gina: I ＿＿ Gina.（填使句子完整的動詞）",
-    "answer": "am",
-    "explanation": "依情境、資料及句型填入 am。",
-    "id": "u15-t98-b",
-    "unit": 15,
-    "topic": 97,
-    "concept": "名字與初次見面",
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u15-t98-b"
-  },
-  {
-    "type": "text",
-    "text": "A: How old are you? B: I’m ＿＿.（年齡卡為 9，填英文單字）",
-    "answer": "nine",
-    "explanation": "依情境、資料及句型填入 nine。",
-    "id": "u15-t97-b",
-    "unit": 15,
-    "topic": 96,
-    "concept": "名字與初次見面",
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u15-t97-b"
-  },
-  {
-    "type": "text",
-    "text": "A: I’m six. B: I’m six, ＿＿.（填「也」）",
-    "answer": "too",
-    "explanation": "依情境、資料及句型填入 too。",
-    "id": "u16-t99-b",
-    "unit": 16,
-    "topic": 98,
-    "concept": "年齡與自我介紹",
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u16-t99-b"
-  },
-  {
-    "type": "text",
-    "text": "名單寫 Nick—6。Nick: I’m ＿＿ years old.（填英文年齡）",
-    "answer": "six",
-    "explanation": "依情境、資料及句型填入 six。",
-    "id": "u16-t98-b",
-    "unit": 16,
-    "topic": 97,
-    "concept": "年齡與自我介紹",
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u16-t98-b"
-  },
-  {
-    "type": "single",
-    "text": "A: What’s your name? B: I’m Mia. A: How old are you? B: ＿＿（Mia 的年齡卡為 8。）",
-    "options": [
-      "I’m Mia.",
-      "I’m eight.",
-      "My name is Max.",
-      "I’m ten."
-    ],
-    "answer": 1,
-    "explanation": "核對人物、提問與情境，正確回應為「I’m eight.」。",
-    "id": "u15-t96-b",
-    "unit": 15,
-    "topic": 95,
-    "concept": "名字與初次見面",
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u15-t96-b"
-  },
-  {
-    "type": "single",
-    "text": "Leo 說 I’m ten.，但抄寫卡上 Leo—2。要請 Leo 確認年齡，哪個問題最合適？",
-    "options": [
-      "What’s your name?",
-      "Nice to meet you.",
-      "How old are you?",
-      "Good morning, Leo."
-    ],
-    "answer": 2,
-    "explanation": "核對人物、提問與情境，正確回應為「How old are you?」。",
-    "id": "u15-t95-b",
-    "unit": 15,
-    "topic": 94,
-    "concept": "名字與初次見面",
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u15-t95-b"
-  },
-  {
-    "type": "single",
-    "text": "姓名是 Tina、年齡是 9，哪個回覆同時回答 What’s your name? 和 How old are you?",
-    "options": [
-      "I’m nine. My name is Tom.",
-      "I’m Tina. I’m eight.",
-      "I’m Tom. I’m nine.",
-      "My name is Tina. I’m nine."
-    ],
-    "answer": 3,
-    "explanation": "核對人物、提問與情境，正確回應為「My name is Tina. I’m nine.」。",
-    "id": "u16-t97-b",
-    "unit": 16,
-    "topic": 96,
-    "concept": "年齡與自我介紹",
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u16-t97-b"
-  },
-  {
-    "type": "single",
-    "text": "A: I’m Amy. What’s your name? B: I’m Ben. A: Nice to meet you, Ben. B: ＿＿",
-    "options": [
-      "Nice to meet you, too.",
-      "I’m Amy.",
-      "How old are you, Amy?",
-      "I’m eight years old."
-    ],
-    "answer": 0,
-    "explanation": "核對人物、提問與情境，正確回應為「Nice to meet you, too.」。",
-    "id": "u16-t96-b",
-    "unit": 16,
-    "topic": 95,
-    "concept": "年齡與自我介紹",
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u16-t96-b"
-  },
-  {
-    "type": "single",
-    "text": "卡片有 May—8、Max—6。哪句把人物與年齡配對正確？",
-    "options": [
-      "Max: I’m eight.",
-      "May: I’m eight.",
-      "May: I’m six.",
-      "Max: My name is May."
-    ],
-    "answer": 1,
-    "explanation": "核對人物、提問與情境，正確回應為「May: I’m eight.」。",
-    "id": "u16-t95-b",
-    "unit": 16,
-    "topic": 94,
-    "concept": "年齡與自我介紹",
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u16-t95-b"
-  },
-  {
-    "id": "u15-t99-r1",
-    "unit": 15,
-    "topic": 98,
-    "concept": "名字與初次見面",
-    "passageId": "b-u15-p42",
-    "passageTitle": "回應的是哪個問題：追加資料",
-    "passage": "【原始紀錄】Tom: Good morning! I’m Tom. What’s your name?\nTina: Hi, Tom. My name is Tina.\n\nTom: Nice to meet you, Tina.\nTina: Nice to meet you, too.\nLeo: Hello! My name is Leo.\n\nLeo: What’s your name?\nTom: I’m Tom.\nLeo: Hi, Tom!\n\n【追加情境】追加的名牌檢查：Tina 的名牌正面印 Tina，背面卻印 Tom。Leo 的正反面都是 Leo。這次只核對姓名，不新增人物，也沒有交換名牌。請把對話中的自我介紹與名牌文字一起看。",
-    "type": "single",
-    "readingOrder": 1,
-    "readingSkill": "提取關鍵",
-    "text": "〈回應的是哪個問題：追加資料〉依原始紀錄：最後一句 I’m Tom. 是回答誰的問題？",
-    "options": [
-      "Leo",
-      "Tina",
-      "Tom 自己",
-      "文中沒有問題"
-    ],
-    "answer": 0,
-    "explanation": "Leo。請把本篇的說話者、前後文與資料核對，不能只抓第一個名字或數字。",
-    "difficulty": "core",
-    "family": "b-u15-t99-r1",
-    "revision": 6,
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "nameCards",
-      "caption": "待核對卡片：請與對話交叉比對",
-      "table": {
-        "headers": [
-          "Name"
-        ],
-        "rows": [
-          [
-            "Tom"
-          ],
-          [
-            "Tina"
-          ],
-          [
-            "Leo"
-          ]
-        ]
-      },
-      "examLineArt": true
-    },
-    "glossary": "original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "variant": "B"
-  },
-  {
-    "id": "u15-t99-r2",
-    "unit": 15,
-    "topic": 98,
-    "concept": "名字與初次見面",
-    "passageId": "b-u15-p42",
-    "passageTitle": "回應的是哪個問題：追加資料",
-    "passage": "【原始紀錄】Tom: Good morning! I’m Tom. What’s your name?\nTina: Hi, Tom. My name is Tina.\n\nTom: Nice to meet you, Tina.\nTina: Nice to meet you, too.\nLeo: Hello! My name is Leo.\n\nLeo: What’s your name?\nTom: I’m Tom.\nLeo: Hi, Tom!\n\n【追加情境】追加的名牌檢查：Tina 的名牌正面印 Tina，背面卻印 Tom。Leo 的正反面都是 Leo。這次只核對姓名，不新增人物，也沒有交換名牌。請把對話中的自我介紹與名牌文字一起看。",
-    "type": "single",
-    "readingOrder": 2,
-    "readingSkill": "連結資料",
-    "text": "〈回應的是哪個問題：追加資料〉依原始紀錄：Tina 說 Hi, Tom. 時，Tom 是誰？",
-    "options": [
-      "她正在打招呼的對象",
-      "Tina 的新名字",
-      "第三個人的姓",
-      "Hello 的另一種拼法"
-    ],
-    "answer": 0,
-    "explanation": "她正在打招呼的對象。請把本篇的說話者、前後文與資料核對，不能只抓第一個名字或數字。",
-    "difficulty": "core",
-    "family": "b-u15-t99-r2",
-    "revision": 6,
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "nameCards",
-      "caption": "待核對卡片：請與對話交叉比對",
-      "table": {
-        "headers": [
-          "Name"
-        ],
-        "rows": [
-          [
-            "Tom"
-          ],
-          [
-            "Tina"
-          ],
-          [
-            "Leo"
-          ]
-        ]
-      },
-      "examLineArt": true
-    },
-    "glossary": "original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "variant": "B"
-  },
-  {
-    "id": "u15-t99-r3",
-    "unit": 15,
-    "topic": 98,
-    "concept": "名字與初次見面",
-    "passageId": "b-u15-p42",
-    "passageTitle": "回應的是哪個問題：追加資料",
-    "passage": "【原始紀錄】Tom: Good morning! I’m Tom. What’s your name?\nTina: Hi, Tom. My name is Tina.\n\nTom: Nice to meet you, Tina.\nTina: Nice to meet you, too.\nLeo: Hello! My name is Leo.\n\nLeo: What’s your name?\nTom: I’m Tom.\nLeo: Hi, Tom!\n\n【追加情境】追加的名牌檢查：Tina 的名牌正面印 Tina，背面卻印 Tom。Leo 的正反面都是 Leo。這次只核對姓名，不新增人物，也沒有交換名牌。請把對話中的自我介紹與名牌文字一起看。",
-    "type": "single",
-    "readingOrder": 3,
-    "readingSkill": "辨識錯誤",
-    "text": "〈回應的是哪個問題：追加資料〉依原始紀錄：哪句話顯示 Tina 正在介紹自己？",
-    "options": [
-      "My name is Tina.",
-      "Hi, Tom.",
-      "Good morning!",
-      "Nice to meet you, too."
-    ],
-    "answer": 0,
-    "explanation": "My name is Tina.。請把本篇的說話者、前後文與資料核對，不能只抓第一個名字或數字。",
-    "difficulty": "core",
-    "family": "b-u15-t99-r3",
-    "revision": 6,
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "nameCards",
-      "caption": "待核對卡片：請與對話交叉比對",
-      "table": {
-        "headers": [
-          "Name"
-        ],
-        "rows": [
-          [
-            "Tom"
-          ],
-          [
-            "Tina"
-          ],
-          [
-            "Leo"
-          ]
-        ]
-      },
-      "examLineArt": true
-    },
-    "glossary": "original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "variant": "B"
-  },
-  {
-    "id": "u15-t99-r4",
-    "unit": 15,
-    "topic": 98,
-    "concept": "名字與初次見面",
-    "passageId": "b-u15-p42",
-    "passageTitle": "回應的是哪個問題：追加資料",
-    "passage": "【原始紀錄】Tom: Good morning! I’m Tom. What’s your name?\nTina: Hi, Tom. My name is Tina.\n\nTom: Nice to meet you, Tina.\nTina: Nice to meet you, too.\nLeo: Hello! My name is Leo.\n\nLeo: What’s your name?\nTom: I’m Tom.\nLeo: Hi, Tom!\n\n【追加情境】追加的名牌檢查：Tina 的名牌正面印 Tina，背面卻印 Tom。Leo 的正反面都是 Leo。這次只核對姓名，不新增人物，也沒有交換名牌。請把對話中的自我介紹與名牌文字一起看。",
-    "type": "single",
-    "readingOrder": 4,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈回應的是哪個問題：追加資料〉只看 Tina 名牌背面的 Tom，最容易造成哪種錯誤？",
-    "options": [
-      "把 Tina 的名字誤記成她打招呼的對象 Tom",
-      "把 Leo 改成九歲",
-      "把所有人當成同歲",
-      "把 Good morning 當成姓氏"
-    ],
-    "answer": 0,
-    "explanation": "Tina說Hi,Tom是在稱呼對方；自我介紹與名牌正面才是Tina。",
-    "difficulty": "challenge",
-    "family": "b-u15-t99-r4",
-    "revision": 6,
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "nameCards",
-      "caption": "待核對卡片：請與對話交叉比對",
-      "table": {
-        "headers": [
-          "Name"
-        ],
-        "rows": [
-          [
-            "Tom"
-          ],
-          [
-            "Tina"
-          ],
-          [
-            "Leo"
-          ]
-        ]
-      },
-      "examLineArt": true
-    },
-    "glossary": "original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "variant": "B"
-  },
-  {
-    "id": "u15-t99-r5",
-    "unit": 15,
-    "topic": 98,
-    "concept": "名字與初次見面",
-    "passageId": "b-u15-p42",
-    "passageTitle": "回應的是哪個問題：追加資料",
-    "passage": "【原始紀錄】Tom: Good morning! I’m Tom. What’s your name?\nTina: Hi, Tom. My name is Tina.\n\nTom: Nice to meet you, Tina.\nTina: Nice to meet you, too.\nLeo: Hello! My name is Leo.\n\nLeo: What’s your name?\nTom: I’m Tom.\nLeo: Hi, Tom!\n\n【追加情境】追加的名牌檢查：Tina 的名牌正面印 Tina，背面卻印 Tom。Leo 的正反面都是 Leo。這次只核對姓名，不新增人物，也沒有交換名牌。請把對話中的自我介紹與名牌文字一起看。",
-    "type": "single",
-    "readingOrder": 5,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈回應的是哪個問題：追加資料〉修正 Tina 名牌背面時，哪項依據最直接？",
-    "options": [
-      "哪個名字字母少",
-      "Tina 說 My name is Tina.，並和正面核對",
-      "Leo 的背面也有名字",
-      "只依老師最喜歡哪張卡"
-    ],
-    "answer": 1,
-    "explanation": "自我介紹直接說明姓名，可和名牌兩面互核。",
-    "difficulty": "challenge",
-    "family": "b-u15-t99-r5",
-    "revision": 6,
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "nameCards",
-      "caption": "待核對卡片：請與對話交叉比對",
-      "table": {
-        "headers": [
-          "Name"
-        ],
-        "rows": [
-          [
-            "Tom"
-          ],
-          [
-            "Tina"
-          ],
-          [
-            "Leo"
-          ]
-        ]
-      },
-      "examLineArt": true
-    },
-    "glossary": "original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "variant": "B"
-  },
-  {
-    "id": "u15-t98-r1",
-    "unit": 15,
-    "topic": 97,
-    "concept": "名字與初次見面",
-    "passageId": "b-u15-p43",
-    "passageTitle": "用對話補齊名單：追加資料",
-    "passage": "【原始紀錄】May: Hello! My name is May.\nMax: Hi! I’m Max. What’s your name?\n\nMia: My name is Mia. Nice to meet you.\nMax: Nice to meet you, too, Mia.\nMay: Good morning, Max!\n\n三人名單依發言先後留了三格：May / □ / Mia。請用整篇對話核對，不要把被稱呼的名字當成說話者的名字。\n\n【追加情境】追加情境：整理者把 May 的問候抄成「Max: Good morning, Max!」，卻沒有改動原對話。名單依然要按首次自我介紹的先後列出三人。小組需分別核對「誰說話」、「對誰說」與「自己叫什麼名字」，不能只找句子裡最後一個名字。",
-    "type": "single",
-    "readingOrder": 1,
-    "readingSkill": "提取關鍵",
-    "text": "〈用對話補齊名單：追加資料〉依原始紀錄：名單空格應填哪個名字？",
-    "options": [
-      "Max",
-      "May",
-      "Mia",
-      "Morning"
-    ],
-    "answer": 0,
-    "explanation": "Max。請把本篇的說話者、前後文與資料核對，不能只抓第一個名字或數字。",
-    "difficulty": "core",
-    "family": "b-u15-t98-r1",
-    "revision": 6,
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "nameCards",
-      "caption": "待核對卡片：請與對話交叉比對",
-      "table": {
-        "headers": [
-          "Name"
-        ],
-        "rows": [
-          [
-            "May"
-          ],
-          [
-            "□"
-          ],
-          [
-            "Mia"
-          ]
-        ]
-      },
-      "examLineArt": true
-    },
-    "glossary": "original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "variant": "B"
-  },
-  {
-    "id": "u15-t98-r2",
-    "unit": 15,
-    "topic": 97,
-    "concept": "名字與初次見面",
-    "passageId": "b-u15-p43",
-    "passageTitle": "用對話補齊名單：追加資料",
-    "passage": "【原始紀錄】May: Hello! My name is May.\nMax: Hi! I’m Max. What’s your name?\n\nMia: My name is Mia. Nice to meet you.\nMax: Nice to meet you, too, Mia.\nMay: Good morning, Max!\n\n三人名單依發言先後留了三格：May / □ / Mia。請用整篇對話核對，不要把被稱呼的名字當成說話者的名字。\n\n【追加情境】追加情境：整理者把 May 的問候抄成「Max: Good morning, Max!」，卻沒有改動原對話。名單依然要按首次自我介紹的先後列出三人。小組需分別核對「誰說話」、「對誰說」與「自己叫什麼名字」，不能只找句子裡最後一個名字。",
-    "type": "single",
-    "readingOrder": 2,
-    "readingSkill": "連結資料",
-    "text": "〈用對話補齊名單：追加資料〉依原始紀錄：第二段第一句是誰的自我介紹？",
-    "options": [
-      "Mia",
-      "Max",
-      "May",
-      "Nice"
-    ],
-    "answer": 0,
-    "explanation": "Mia。請把本篇的說話者、前後文與資料核對，不能只抓第一個名字或數字。",
-    "difficulty": "core",
-    "family": "b-u15-t98-r2",
-    "revision": 6,
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "nameCards",
-      "caption": "待核對卡片：請與對話交叉比對",
-      "table": {
-        "headers": [
-          "Name"
-        ],
-        "rows": [
-          [
-            "May"
-          ],
-          [
-            "□"
-          ],
-          [
-            "Mia"
-          ]
-        ]
-      },
-      "examLineArt": true
-    },
-    "glossary": "original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "variant": "B"
-  },
-  {
-    "id": "u15-t98-r3",
-    "unit": 15,
-    "topic": 97,
-    "concept": "名字與初次見面",
-    "passageId": "b-u15-p43",
-    "passageTitle": "用對話補齊名單：追加資料",
-    "passage": "【原始紀錄】May: Hello! My name is May.\nMax: Hi! I’m Max. What’s your name?\n\nMia: My name is Mia. Nice to meet you.\nMax: Nice to meet you, too, Mia.\nMay: Good morning, Max!\n\n三人名單依發言先後留了三格：May / □ / Mia。請用整篇對話核對，不要把被稱呼的名字當成說話者的名字。\n\n【追加情境】追加情境：整理者把 May 的問候抄成「Max: Good morning, Max!」，卻沒有改動原對話。名單依然要按首次自我介紹的先後列出三人。小組需分別核對「誰說話」、「對誰說」與「自己叫什麼名字」，不能只找句子裡最後一個名字。",
-    "type": "single",
-    "readingOrder": 3,
-    "readingSkill": "辨識錯誤",
-    "text": "〈用對話補齊名單：追加資料〉依原始紀錄：May 說 Good morning, Max! 時，誰在說話？",
-    "options": [
-      "May",
-      "Max",
-      "Mia",
-      "三人同時說"
-    ],
-    "answer": 0,
-    "explanation": "May。請把本篇的說話者、前後文與資料核對，不能只抓第一個名字或數字。",
-    "difficulty": "core",
-    "family": "b-u15-t98-r3",
-    "revision": 6,
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "nameCards",
-      "caption": "待核對卡片：請與對話交叉比對",
-      "table": {
-        "headers": [
-          "Name"
-        ],
-        "rows": [
-          [
-            "May"
-          ],
-          [
-            "□"
-          ],
-          [
-            "Mia"
-          ]
-        ]
-      },
-      "examLineArt": true
-    },
-    "glossary": "original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "variant": "B"
-  },
-  {
-    "id": "u15-t98-r4",
-    "unit": 15,
-    "topic": 97,
-    "concept": "名字與初次見面",
-    "passageId": "b-u15-p43",
-    "passageTitle": "用對話補齊名單：追加資料",
-    "passage": "【原始紀錄】May: Hello! My name is May.\nMax: Hi! I’m Max. What’s your name?\n\nMia: My name is Mia. Nice to meet you.\nMax: Nice to meet you, too, Mia.\nMay: Good morning, Max!\n\n三人名單依發言先後留了三格：May / □ / Mia。請用整篇對話核對，不要把被稱呼的名字當成說話者的名字。\n\n【追加情境】追加情境：整理者把 May 的問候抄成「Max: Good morning, Max!」，卻沒有改動原對話。名單依然要按首次自我介紹的先後列出三人。小組需分別核對「誰說話」、「對誰說」與「自己叫什麼名字」，不能只找句子裡最後一個名字。",
-    "type": "single",
-    "readingOrder": 4,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈用對話補齊名單：追加資料〉這筆抄寫主要把哪兩種角色混淆？",
-    "options": [
-      "提問者與年齡數字",
-      "姓名與年齡",
-      "說話者 May 與被稱呼者 Max",
-      "第一人與最後一人"
-    ],
-    "answer": 2,
-    "explanation": "原句May向Max問候，不是Max稱呼自己。",
-    "difficulty": "challenge",
-    "family": "b-u15-t98-r4",
-    "revision": 6,
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "nameCards",
-      "caption": "待核對卡片：請與對話交叉比對",
-      "table": {
-        "headers": [
-          "Name"
-        ],
-        "rows": [
-          [
-            "May"
-          ],
-          [
-            "□"
-          ],
-          [
-            "Mia"
-          ]
-        ]
-      },
-      "examLineArt": true
-    },
-    "glossary": "original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "variant": "B"
-  },
-  {
-    "id": "u15-t98-r5",
-    "unit": 15,
-    "topic": 97,
-    "concept": "名字與初次見面",
-    "passageId": "b-u15-p43",
-    "passageTitle": "用對話補齊名單：追加資料",
-    "passage": "【原始紀錄】May: Hello! My name is May.\nMax: Hi! I’m Max. What’s your name?\n\nMia: My name is Mia. Nice to meet you.\nMax: Nice to meet you, too, Mia.\nMay: Good morning, Max!\n\n三人名單依發言先後留了三格：May / □ / Mia。請用整篇對話核對，不要把被稱呼的名字當成說話者的名字。\n\n【追加情境】追加情境：整理者把 May 的問候抄成「Max: Good morning, Max!」，卻沒有改動原對話。名單依然要按首次自我介紹的先後列出三人。小組需分別核對「誰說話」、「對誰說」與「自己叫什麼名字」，不能只找句子裡最後一個名字。",
-    "type": "single",
-    "readingOrder": 5,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈用對話補齊名單：追加資料〉若只找每句最後一個名字，為何不適合整理自我介紹名單？",
-    "options": [
-      "名字不能重複出現",
-      "英文沒有說話者",
-      "只能讀第一段",
-      "最後的名字可能是對話對象，不一定是說話者自己的姓名"
-    ],
-    "answer": 3,
-    "explanation": "需結合冒號前人名及Myname等句型判讀，而非機械找最後名字。",
-    "difficulty": "challenge",
-    "family": "b-u15-t98-r5",
-    "revision": 6,
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "nameCards",
-      "caption": "待核對卡片：請與對話交叉比對",
-      "table": {
-        "headers": [
-          "Name"
-        ],
-        "rows": [
-          [
-            "May"
-          ],
-          [
-            "□"
-          ],
-          [
-            "Mia"
-          ]
-        ]
-      },
-      "examLineArt": true
-    },
-    "glossary": "original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "variant": "B"
-  },
-  {
-    "id": "u16-t99-r1",
-    "unit": 16,
-    "topic": 98,
-    "concept": "年齡與自我介紹",
-    "passageId": "b-u16-p41",
-    "passageTitle": "把姓名與年齡放回正確欄位：追加資料",
-    "passage": "【原始紀錄】Amy: Hello! My name is Amy. I’m nine.\nBen: Hi! I’m Ben. I’m ten years old.\n\nCody: Good morning! My name is Cody. I’m eight.\nAmy: Nice to meet you, Cody.\nBen: Nice to meet you, too.\n\n待核對資料：Amy—9 / Ben—1 / Cody—8。\n\n【追加情境】追加的資料卡：Ben 的座號是 1，但年齡仍是對話中說的 ten。整理者原先把座號寫進年齡欄，其他兩人的座號沒有提供。這次修正只換回正確欄位，不更改任何人的實際年齡。",
-    "type": "single",
-    "readingOrder": 1,
-    "readingSkill": "提取關鍵",
-    "text": "〈把姓名與年齡放回正確欄位：追加資料〉依原始紀錄：哪一筆年齡抄錯了？",
-    "options": [
-      "Ben—1",
-      "Amy—9",
-      "Cody—8",
-      "沒有任何錯誤"
-    ],
-    "answer": 0,
-    "explanation": "Ben—1。請把本篇的說話者、前後文與資料核對，不能只抓第一個名字或數字。",
-    "difficulty": "core",
-    "family": "b-u16-t99-r1",
-    "revision": 6,
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "nameCards",
-      "caption": "待核對卡片：請與對話交叉比對",
-      "table": {
-        "headers": [
-          "Name",
-          "Age"
-        ],
-        "rows": [
-          [
-            "Amy",
-            9
-          ],
-          [
-            "Ben",
-            1
-          ],
-          [
-            "Cody",
-            8
-          ]
-        ]
-      },
-      "examLineArt": true
-    },
-    "glossary": "original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "variant": "B"
-  },
-  {
-    "id": "u16-t99-r2",
-    "unit": 16,
-    "topic": 98,
-    "concept": "年齡與自我介紹",
-    "passageId": "b-u16-p41",
-    "passageTitle": "把姓名與年齡放回正確欄位：追加資料",
-    "passage": "【原始紀錄】Amy: Hello! My name is Amy. I’m nine.\nBen: Hi! I’m Ben. I’m ten years old.\n\nCody: Good morning! My name is Cody. I’m eight.\nAmy: Nice to meet you, Cody.\nBen: Nice to meet you, too.\n\n待核對資料：Amy—9 / Ben—1 / Cody—8。\n\n【追加情境】追加的資料卡：Ben 的座號是 1，但年齡仍是對話中說的 ten。整理者原先把座號寫進年齡欄，其他兩人的座號沒有提供。這次修正只換回正確欄位，不更改任何人的實際年齡。",
-    "type": "single",
-    "readingOrder": 2,
-    "readingSkill": "連結資料",
-    "text": "〈把姓名與年齡放回正確欄位：追加資料〉依原始紀錄：ten years old 應記成幾歲？",
-    "options": [
-      "10",
-      "1",
-      "8",
-      "9"
-    ],
-    "answer": 0,
-    "explanation": "10。請把本篇的說話者、前後文與資料核對，不能只抓第一個名字或數字。",
-    "difficulty": "core",
-    "family": "b-u16-t99-r2",
-    "revision": 6,
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "nameCards",
-      "caption": "待核對卡片：請與對話交叉比對",
-      "table": {
-        "headers": [
-          "Name",
-          "Age"
-        ],
-        "rows": [
-          [
-            "Amy",
-            9
-          ],
-          [
-            "Ben",
-            1
-          ],
-          [
-            "Cody",
-            8
-          ]
-        ]
-      },
-      "examLineArt": true
-    },
-    "glossary": "original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "variant": "B"
-  },
-  {
-    "id": "u16-t99-r3",
-    "unit": 16,
-    "topic": 98,
-    "concept": "年齡與自我介紹",
-    "passageId": "b-u16-p41",
-    "passageTitle": "把姓名與年齡放回正確欄位：追加資料",
-    "passage": "【原始紀錄】Amy: Hello! My name is Amy. I’m nine.\nBen: Hi! I’m Ben. I’m ten years old.\n\nCody: Good morning! My name is Cody. I’m eight.\nAmy: Nice to meet you, Cody.\nBen: Nice to meet you, too.\n\n待核對資料：Amy—9 / Ben—1 / Cody—8。\n\n【追加情境】追加的資料卡：Ben 的座號是 1，但年齡仍是對話中說的 ten。整理者原先把座號寫進年齡欄，其他兩人的座號沒有提供。這次修正只換回正確欄位，不更改任何人的實際年齡。",
-    "type": "single",
-    "readingOrder": 3,
-    "readingSkill": "辨識錯誤",
-    "text": "〈把姓名與年齡放回正確欄位：追加資料〉依原始紀錄：哪個排序符合三人的年齡，由大到小？",
-    "options": [
-      "Ben、Amy、Cody",
-      "Amy、Ben、Cody",
-      "Cody、Amy、Ben",
-      "三人同歲"
-    ],
-    "answer": 0,
-    "explanation": "Ben、Amy、Cody。請把本篇的說話者、前後文與資料核對，不能只抓第一個名字或數字。",
-    "difficulty": "core",
-    "family": "b-u16-t99-r3",
-    "revision": 6,
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "nameCards",
-      "caption": "待核對卡片：請與對話交叉比對",
-      "table": {
-        "headers": [
-          "Name",
-          "Age"
-        ],
-        "rows": [
-          [
-            "Amy",
-            9
-          ],
-          [
-            "Ben",
-            1
-          ],
-          [
-            "Cody",
-            8
-          ]
-        ]
-      },
-      "examLineArt": true
-    },
-    "glossary": "original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "variant": "B"
-  },
-  {
-    "id": "u16-t99-r4",
-    "unit": 16,
-    "topic": 98,
-    "concept": "年齡與自我介紹",
-    "passageId": "b-u16-p41",
-    "passageTitle": "把姓名與年齡放回正確欄位：追加資料",
-    "passage": "【原始紀錄】Amy: Hello! My name is Amy. I’m nine.\nBen: Hi! I’m Ben. I’m ten years old.\n\nCody: Good morning! My name is Cody. I’m eight.\nAmy: Nice to meet you, Cody.\nBen: Nice to meet you, too.\n\n待核對資料：Amy—9 / Ben—1 / Cody—8。\n\n【追加情境】追加的資料卡：Ben 的座號是 1，但年齡仍是對話中說的 ten。整理者原先把座號寫進年齡欄，其他兩人的座號沒有提供。這次修正只換回正確欄位，不更改任何人的實際年齡。",
-    "type": "single",
-    "readingOrder": 4,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈把姓名與年齡放回正確欄位：追加資料〉Ben—1 為什麼不符合年齡欄？",
-    "options": [
-      "1 是座號，對話的 ten 才是年齡資訊",
-      "Ben 沒有在對話發言",
-      "ten 是 Ben 的名字",
-      "每個欄位都必須寫同一數字"
-    ],
-    "answer": 0,
-    "explanation": "需辨認數字的用途與欄位，不是看到1便當一歲。",
-    "difficulty": "challenge",
-    "family": "b-u16-t99-r4",
-    "revision": 6,
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "nameCards",
-      "caption": "待核對卡片：請與對話交叉比對",
-      "table": {
-        "headers": [
-          "Name",
-          "Age"
-        ],
-        "rows": [
-          [
-            "Amy",
-            9
-          ],
-          [
-            "Ben",
-            1
-          ],
-          [
-            "Cody",
-            8
-          ]
-        ]
-      },
-      "examLineArt": true
-    },
-    "glossary": "original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "variant": "B"
-  },
-  {
-    "id": "u16-t99-r5",
-    "unit": 16,
-    "topic": 98,
-    "concept": "年齡與自我介紹",
-    "passageId": "b-u16-p41",
-    "passageTitle": "把姓名與年齡放回正確欄位：追加資料",
-    "passage": "【原始紀錄】Amy: Hello! My name is Amy. I’m nine.\nBen: Hi! I’m Ben. I’m ten years old.\n\nCody: Good morning! My name is Cody. I’m eight.\nAmy: Nice to meet you, Cody.\nBen: Nice to meet you, too.\n\n待核對資料：Amy—9 / Ben—1 / Cody—8。\n\n【追加情境】追加的資料卡：Ben 的座號是 1，但年齡仍是對話中說的 ten。整理者原先把座號寫進年齡欄，其他兩人的座號沒有提供。這次修正只換回正確欄位，不更改任何人的實際年齡。",
-    "type": "single",
-    "readingOrder": 5,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈把姓名與年齡放回正確欄位：追加資料〉若要避免同類抄寫錯誤，哪個表頭最清楚？",
-    "options": [
-      "只寫數字",
-      "姓名／年齡／座號，並按各資料來源核對",
-      "只寫大家好",
-      "把所有數字放同一格"
-    ],
-    "answer": 1,
-    "explanation": "分開資訊類別並核對句型與來源，可以降低欄位混淆。",
-    "difficulty": "challenge",
-    "family": "b-u16-t99-r5",
-    "revision": 6,
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "nameCards",
-      "caption": "待核對卡片：請與對話交叉比對",
-      "table": {
-        "headers": [
-          "Name",
-          "Age"
-        ],
-        "rows": [
-          [
-            "Amy",
-            9
-          ],
-          [
-            "Ben",
-            1
-          ],
-          [
-            "Cody",
-            8
-          ]
-        ]
-      },
-      "examLineArt": true
-    },
-    "glossary": "original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "variant": "B"
-  },
-  {
-    "id": "u16-t98-r1",
-    "unit": 16,
-    "topic": 97,
-    "concept": "年齡與自我介紹",
-    "passageId": "b-u16-p43",
-    "passageTitle": "用兩段介紹交叉核對：追加資料",
-    "passage": "【原始紀錄】Emma: Hello! I’m Emma. I’m eight years old.\nFred: Hi! My name is Fred. I’m six.\n\nGina: Good morning! My name is Gina. I’m eight.\nEmma: Nice to meet you, Gina.\nGina: Nice to meet you, too.\n\n名單上的數字被換了位置：Emma—6 / Fred—8 / Gina—8。\n\n【追加情境】追加的修正紀錄：整理者先把 Emma 從 6 改成 8，卻忘了修改 Fred，Gina 的 8 也保留。請依原對話檢查這份「只改了一處」的名單，不能因為已經修改過，就認為其他欄位也自動正確。",
-    "type": "single",
-    "readingOrder": 1,
-    "readingSkill": "提取關鍵",
-    "text": "〈用兩段介紹交叉核對：追加資料〉依原始紀錄：要修正名單，哪兩人的數字需要交換？",
-    "options": [
-      "Emma 和 Fred",
-      "Fred 和 Gina",
-      "Emma 和 Gina",
-      "所有數字都不用改"
-    ],
-    "answer": 0,
-    "explanation": "Emma 和 Fred。請把本篇的說話者、前後文與資料核對，不能只抓第一個名字或數字。",
-    "difficulty": "core",
-    "family": "b-u16-t98-r1",
-    "revision": 6,
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "nameCards",
-      "caption": "待核對卡片：請與對話交叉比對",
-      "table": {
-        "headers": [
-          "Name",
-          "Age"
-        ],
-        "rows": [
-          [
-            "Emma",
-            6
-          ],
-          [
-            "Fred",
-            8
-          ],
-          [
-            "Gina",
-            8
-          ]
-        ]
-      },
-      "examLineArt": true
-    },
-    "glossary": "original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "variant": "B"
-  },
-  {
-    "id": "u16-t98-r2",
-    "unit": 16,
-    "topic": 97,
-    "concept": "年齡與自我介紹",
-    "passageId": "b-u16-p43",
-    "passageTitle": "用兩段介紹交叉核對：追加資料",
-    "passage": "【原始紀錄】Emma: Hello! I’m Emma. I’m eight years old.\nFred: Hi! My name is Fred. I’m six.\n\nGina: Good morning! My name is Gina. I’m eight.\nEmma: Nice to meet you, Gina.\nGina: Nice to meet you, too.\n\n名單上的數字被換了位置：Emma—6 / Fred—8 / Gina—8。\n\n【追加情境】追加的修正紀錄：整理者先把 Emma 從 6 改成 8，卻忘了修改 Fred，Gina 的 8 也保留。請依原對話檢查這份「只改了一處」的名單，不能因為已經修改過，就認為其他欄位也自動正確。",
-    "type": "single",
-    "readingOrder": 2,
-    "readingSkill": "連結資料",
-    "text": "〈用兩段介紹交叉核對：追加資料〉依原始紀錄：哪位同學的原始名單資料已經正確？",
-    "options": [
-      "Gina",
-      "Emma",
-      "Fred",
-      "都不正確"
-    ],
-    "answer": 0,
-    "explanation": "Gina。請把本篇的說話者、前後文與資料核對，不能只抓第一個名字或數字。",
-    "difficulty": "core",
-    "family": "b-u16-t98-r2",
-    "revision": 6,
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "nameCards",
-      "caption": "待核對卡片：請與對話交叉比對",
-      "table": {
-        "headers": [
-          "Name",
-          "Age"
-        ],
-        "rows": [
-          [
-            "Emma",
-            6
-          ],
-          [
-            "Fred",
-            8
-          ],
-          [
-            "Gina",
-            8
-          ]
-        ]
-      },
-      "examLineArt": true
-    },
-    "glossary": "original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "variant": "B"
-  },
-  {
-    "id": "u16-t98-r3",
-    "unit": 16,
-    "topic": 97,
-    "concept": "年齡與自我介紹",
-    "passageId": "b-u16-p43",
-    "passageTitle": "用兩段介紹交叉核對：追加資料",
-    "passage": "【原始紀錄】Emma: Hello! I’m Emma. I’m eight years old.\nFred: Hi! My name is Fred. I’m six.\n\nGina: Good morning! My name is Gina. I’m eight.\nEmma: Nice to meet you, Gina.\nGina: Nice to meet you, too.\n\n名單上的數字被換了位置：Emma—6 / Fred—8 / Gina—8。\n\n【追加情境】追加的修正紀錄：整理者先把 Emma 從 6 改成 8，卻忘了修改 Fred，Gina 的 8 也保留。請依原對話檢查這份「只改了一處」的名單，不能因為已經修改過，就認為其他欄位也自動正確。",
-    "type": "single",
-    "readingOrder": 3,
-    "readingSkill": "辨識錯誤",
-    "text": "〈用兩段介紹交叉核對：追加資料〉依原始紀錄：從對話可知，誰比 Fred 年長？",
-    "options": [
-      "Emma 和 Gina",
-      "只有 Emma",
-      "只有 Gina",
-      "沒有人"
-    ],
-    "answer": 0,
-    "explanation": "Emma 和 Gina。請把本篇的說話者、前後文與資料核對，不能只抓第一個名字或數字。",
-    "difficulty": "core",
-    "family": "b-u16-t98-r3",
-    "revision": 6,
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "nameCards",
-      "caption": "待核對卡片：請與對話交叉比對",
-      "table": {
-        "headers": [
-          "Name",
-          "Age"
-        ],
-        "rows": [
-          [
-            "Emma",
-            6
-          ],
-          [
-            "Fred",
-            8
-          ],
-          [
-            "Gina",
-            8
-          ]
-        ]
-      },
-      "examLineArt": true
-    },
-    "glossary": "original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "variant": "B"
-  },
-  {
-    "id": "u16-t98-r4",
-    "unit": 16,
-    "topic": 97,
-    "concept": "年齡與自我介紹",
-    "passageId": "b-u16-p43",
-    "passageTitle": "用兩段介紹交叉核對：追加資料",
-    "passage": "【原始紀錄】Emma: Hello! I’m Emma. I’m eight years old.\nFred: Hi! My name is Fred. I’m six.\n\nGina: Good morning! My name is Gina. I’m eight.\nEmma: Nice to meet you, Gina.\nGina: Nice to meet you, too.\n\n名單上的數字被換了位置：Emma—6 / Fred—8 / Gina—8。\n\n【追加情境】追加的修正紀錄：整理者先把 Emma 從 6 改成 8，卻忘了修改 Fred，Gina 的 8 也保留。請依原對話檢查這份「只改了一處」的名單，不能因為已經修改過，就認為其他欄位也自動正確。",
-    "type": "single",
-    "readingOrder": 4,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈用兩段介紹交叉核對：追加資料〉只改 Emma、未改 Fred 後，這份名單會造成哪個錯誤印象？",
-    "options": [
-      "三人都六歲",
-      "只有 Gina 八歲",
-      "三人都八歲",
-      "Fred 比 Emma 年長"
-    ],
-    "answer": 2,
-    "explanation": "Emma改8，Fred誤植的8未改，Gina本來8，表上會看似三人都8。",
-    "difficulty": "challenge",
-    "family": "b-u16-t98-r4",
-    "revision": 6,
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "nameCards",
-      "caption": "待核對卡片：請與對話交叉比對",
-      "table": {
-        "headers": [
-          "Name",
-          "Age"
-        ],
-        "rows": [
-          [
-            "Emma",
-            6
-          ],
-          [
-            "Fred",
-            8
-          ],
-          [
-            "Gina",
-            8
-          ]
-        ]
-      },
-      "examLineArt": true
-    },
-    "glossary": "original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "variant": "B"
-  },
-  {
-    "id": "u16-t98-r5",
-    "unit": 16,
-    "topic": 97,
-    "concept": "年齡與自我介紹",
-    "passageId": "b-u16-p43",
-    "passageTitle": "用兩段介紹交叉核對：追加資料",
-    "passage": "【原始紀錄】Emma: Hello! I’m Emma. I’m eight years old.\nFred: Hi! My name is Fred. I’m six.\n\nGina: Good morning! My name is Gina. I’m eight.\nEmma: Nice to meet you, Gina.\nGina: Nice to meet you, too.\n\n名單上的數字被換了位置：Emma—6 / Fred—8 / Gina—8。\n\n【追加情境】追加的修正紀錄：整理者先把 Emma 從 6 改成 8，卻忘了修改 Fred，Gina 的 8 也保留。請依原對話檢查這份「只改了一處」的名單，不能因為已經修改過，就認為其他欄位也自動正確。",
-    "type": "single",
-    "readingOrder": 5,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈用兩段介紹交叉核對：追加資料〉要完成修正，下一步最需要做什麼？",
-    "options": [
-      "把 Gina 也改成6",
-      "把所有人改成9",
-      "只換名單標題",
-      "依 Fred 的 I’m six. 將 Fred 年齡改回6，再逐列核對"
-    ],
-    "answer": 3,
-    "explanation": "局部修正不代表全部正確，須回到對話各自的陳述核對。",
-    "difficulty": "challenge",
-    "family": "b-u16-t98-r5",
-    "revision": 6,
-    "sourceIds": [
-      "E3",
-      "E3Scope"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "nameCards",
-      "caption": "待核對卡片：請與對話交叉比對",
-      "table": {
-        "headers": [
-          "Name",
-          "Age"
-        ],
-        "rows": [
-          [
-            "Emma",
-            6
-          ],
-          [
-            "Fred",
-            8
-          ],
-          [
-            "Gina",
-            8
-          ]
-        ]
-      },
-      "examLineArt": true
-    },
-    "glossary": "original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "variant": "B"
-  },
-  {
-    "type": "text",
-    "text": "Amy: I like tea. I don’t like ＿＿.（卡片汽水畫叉，填英文）",
-    "answer": "soda",
-    "explanation": "依情境、資料及句型填入 soda。",
-    "id": "u6-t99-b",
-    "unit": 6,
-    "topic": 98,
-    "concept": "飲料與喜好",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u6-t99-b"
-  },
-  {
-    "type": "text",
-    "text": "Fred: I need four ＿＿.（清單為 4 顆蘋果，填複數）",
-    "answer": "apples",
-    "explanation": "依情境、資料及句型填入 apples。",
-    "id": "u6-t98-b",
-    "unit": 6,
-    "topic": 97,
-    "concept": "飲料與喜好",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u6-t98-b"
-  },
-  {
-    "type": "text",
-    "text": "We have one banana. We need two more ＿＿.（填複數「香蕉」）",
-    "answer": "bananas",
-    "explanation": "依情境、資料及句型填入 bananas。",
-    "id": "u6-t97-b",
-    "unit": 6,
-    "topic": 96,
-    "concept": "飲料與喜好",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u6-t97-b"
-  },
-  {
-    "type": "text",
-    "text": "A: Does Emma like soy milk? B: Yes, she ＿＿.（填肯定答句）",
-    "answer": "does",
-    "explanation": "依情境、資料及句型填入 does。",
-    "id": "u7-t99-b",
-    "unit": 7,
-    "topic": 98,
-    "concept": "水果沙拉與數量",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u7-t99-b"
-  },
-  {
-    "type": "text",
-    "text": "I need an ＿＿, not a banana.（清單為一顆柳橙，填單數）",
-    "answer": "orange",
-    "explanation": "依情境、資料及句型填入 orange。",
-    "id": "u7-t98-b",
-    "unit": 7,
-    "topic": 97,
-    "concept": "水果沙拉與數量",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u7-t98-b"
-  },
-  {
-    "type": "single",
-    "text": "Emma 喜歡豆漿，不喜歡紅茶。Hank 喜歡兩者。哪句只根據這份資料就能確認？",
-    "options": [
-      "Emma and Hank like soy milk.",
-      "Emma likes tea.",
-      "Hank doesn’t like tea.",
-      "Emma and Hank don’t like soy milk."
-    ],
-    "answer": 0,
-    "explanation": "核對人物、提問與情境，正確回應為「Emma and Hank like soy milk.」。",
-    "id": "u6-t96-b",
-    "unit": 6,
-    "topic": 95,
-    "concept": "飲料與喜好",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u6-t96-b"
-  },
-  {
-    "type": "single",
-    "text": "A: Does Cody like tea? B: ＿＿　Cody 的筆記：My dad likes tea. I don’t like tea.",
-    "options": [
-      "Yes, he does.",
-      "No, he doesn’t.",
-      "Yes, I do.",
-      "No, she doesn’t."
-    ],
-    "answer": 1,
-    "explanation": "核對人物、提問與情境，正確回應為「No, he doesn’t.」。",
-    "id": "u6-t95-b",
-    "unit": 6,
-    "topic": 94,
-    "concept": "飲料與喜好",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u6-t95-b"
-  },
-  {
-    "type": "single",
-    "text": "總共要 9 顆蘋果，桌上已有 4 顆。How many apples do you need to buy?",
-    "options": [
-      "I need nine apples.",
-      "I need four apples.",
-      "I need five apples.",
-      "I need thirteen apples."
-    ],
-    "answer": 2,
-    "explanation": "核對人物、提問與情境，正確回應為「I need five apples.」。",
-    "id": "u7-t97-b",
-    "unit": 7,
-    "topic": 96,
-    "concept": "水果沙拉與數量",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u7-t97-b"
-  },
-  {
-    "type": "single",
-    "text": "A: Do you like fruit juice? B: Yes, I do. A: Does your mom like it, too? B: ＿＿（媽媽不喜歡。）",
-    "options": [
-      "Yes, I do.",
-      "No, I don’t.",
-      "Yes, she does.",
-      "No, she doesn’t."
-    ],
-    "answer": 3,
-    "explanation": "核對人物、提問與情境，正確回應為「No, she doesn’t.」。",
-    "id": "u7-t96-b",
-    "unit": 7,
-    "topic": 95,
-    "concept": "水果沙拉與數量",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u7-t96-b"
-  },
-  {
-    "type": "single",
-    "text": "清單要兩顆柳橙、一根香蕉。哪句的種類、數量與單複數都正確？",
-    "options": [
-      "I need two oranges and a banana.",
-      "I need two orange and a banana.",
-      "I need an orange and two bananas.",
-      "I need two bananas and an orange."
-    ],
-    "answer": 0,
-    "explanation": "核對人物、提問與情境，正確回應為「I need two oranges and a banana.」。",
-    "id": "u7-t95-b",
-    "unit": 7,
-    "topic": 94,
-    "concept": "水果沙拉與數量",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u7-t95-b"
-  },
-  {
-    "id": "u6-t99-r1",
-    "unit": 6,
-    "topic": 98,
-    "concept": "飲料與喜好",
-    "passageId": "b-u6-p42",
-    "passageTitle": "A choice after checking the menu：追加資料",
-    "passage": "【原始紀錄】Emma and Hank want a drink after a class activity. Emma likes milk tea and soy milk. Hank likes soy milk and fruit juice, but he does not like milk tea. They hope to have the same drink, so they talk about both of their preferences.\n\nAt the first stand, the sign says, \"Today: milk tea and fruit juice. Soy milk is sold out.\" Emma first points to milk tea. Hank reminds her that he does not like it. They cannot find a drink at this stand that both of them like.\n\nAt another stand, soy milk is available. The children choose it there. The drinks on a menu and the drinks a person likes are different kinds of information. They need to check both before deciding.\n\n【追加情境】On the next day, soy milk is unavailable again. Emma and Hank agree that they may choose different drinks. The stand still has milk tea and fruit juice. They want each person to get a drink that person likes, even if the two cups are not the same.",
-    "type": "single",
-    "readingOrder": 1,
-    "readingSkill": "提取關鍵",
-    "text": "〈A choice after checking the menu：追加資料〉依原始紀錄：Which drink do both children like?",
-    "options": [
-      "Soy milk.",
-      "Milk tea.",
-      "Fruit juice.",
-      "No drink."
-    ],
-    "answer": 0,
-    "explanation": "Soy milk.。請把本篇的說話者、前後文與資料核對，不能只抓第一個名字或數字。",
-    "difficulty": "core",
-    "family": "b-u6-t99-r1",
-    "revision": 6,
-    "glossary": "order：點單；customer：顧客；preference：喜好；available：有供應；sold out：售完。；original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "menu",
-      "caption": "故事中的供應資訊",
-      "heading": "MENU",
-      "items": [
-        "milk tea",
-        "fruit juice"
-      ],
-      "examLineArt": true
-    },
-    "variant": "B"
-  },
-  {
-    "id": "u6-t99-r2",
-    "unit": 6,
-    "topic": 98,
-    "concept": "飲料與喜好",
-    "passageId": "b-u6-p42",
-    "passageTitle": "A choice after checking the menu：追加資料",
-    "passage": "【原始紀錄】Emma and Hank want a drink after a class activity. Emma likes milk tea and soy milk. Hank likes soy milk and fruit juice, but he does not like milk tea. They hope to have the same drink, so they talk about both of their preferences.\n\nAt the first stand, the sign says, \"Today: milk tea and fruit juice. Soy milk is sold out.\" Emma first points to milk tea. Hank reminds her that he does not like it. They cannot find a drink at this stand that both of them like.\n\nAt another stand, soy milk is available. The children choose it there. The drinks on a menu and the drinks a person likes are different kinds of information. They need to check both before deciding.\n\n【追加情境】On the next day, soy milk is unavailable again. Emma and Hank agree that they may choose different drinks. The stand still has milk tea and fruit juice. They want each person to get a drink that person likes, even if the two cups are not the same.",
-    "type": "single",
-    "readingOrder": 2,
-    "readingSkill": "連結資料",
-    "text": "〈A choice after checking the menu：追加資料〉依原始紀錄：Why can’t they choose it at the first stand?",
-    "options": [
-      "It is sold out.",
-      "Emma does not like it.",
-      "Hank only likes milk tea.",
-      "Both stands are closed."
-    ],
-    "answer": 0,
-    "explanation": "It is sold out.。請把本篇的說話者、前後文與資料核對，不能只抓第一個名字或數字。",
-    "difficulty": "core",
-    "family": "b-u6-t99-r2",
-    "revision": 6,
-    "glossary": "order：點單；customer：顧客；preference：喜好；available：有供應；sold out：售完。；original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "menu",
-      "caption": "故事中的供應資訊",
-      "heading": "MENU",
-      "items": [
-        "milk tea",
-        "fruit juice"
-      ],
-      "examLineArt": true
-    },
-    "variant": "B"
-  },
-  {
-    "id": "u6-t99-r3",
-    "unit": 6,
-    "topic": 98,
-    "concept": "飲料與喜好",
-    "passageId": "b-u6-p42",
-    "passageTitle": "A choice after checking the menu：追加資料",
-    "passage": "【原始紀錄】Emma and Hank want a drink after a class activity. Emma likes milk tea and soy milk. Hank likes soy milk and fruit juice, but he does not like milk tea. They hope to have the same drink, so they talk about both of their preferences.\n\nAt the first stand, the sign says, \"Today: milk tea and fruit juice. Soy milk is sold out.\" Emma first points to milk tea. Hank reminds her that he does not like it. They cannot find a drink at this stand that both of them like.\n\nAt another stand, soy milk is available. The children choose it there. The drinks on a menu and the drinks a person likes are different kinds of information. They need to check both before deciding.\n\n【追加情境】On the next day, soy milk is unavailable again. Emma and Hank agree that they may choose different drinks. The stand still has milk tea and fruit juice. They want each person to get a drink that person likes, even if the two cups are not the same.",
-    "type": "single",
-    "readingOrder": 3,
-    "readingSkill": "辨識錯誤",
-    "text": "〈A choice after checking the menu：追加資料〉依原始紀錄：What is wrong with choosing milk tea for both?",
-    "options": [
-      "Hank does not like milk tea.",
-      "Emma does not like milk tea.",
-      "Milk tea is sold out everywhere.",
-      "The story says milk tea is fruit juice."
-    ],
-    "answer": 0,
-    "explanation": "Hank does not like milk tea.。請把本篇的說話者、前後文與資料核對，不能只抓第一個名字或數字。",
-    "difficulty": "core",
-    "family": "b-u6-t99-r3",
-    "revision": 6,
-    "glossary": "order：點單；customer：顧客；preference：喜好；available：有供應；sold out：售完。；original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "menu",
-      "caption": "故事中的供應資訊",
-      "heading": "MENU",
-      "items": [
-        "milk tea",
-        "fruit juice"
-      ],
-      "examLineArt": true
-    },
-    "variant": "B"
-  },
-  {
-    "id": "u6-t99-r4",
-    "unit": 6,
-    "topic": 98,
-    "concept": "飲料與喜好",
-    "passageId": "b-u6-p42",
-    "passageTitle": "A choice after checking the menu：追加資料",
-    "passage": "【原始紀錄】Emma and Hank want a drink after a class activity. Emma likes milk tea and soy milk. Hank likes soy milk and fruit juice, but he does not like milk tea. They hope to have the same drink, so they talk about both of their preferences.\n\nAt the first stand, the sign says, \"Today: milk tea and fruit juice. Soy milk is sold out.\" Emma first points to milk tea. Hank reminds her that he does not like it. They cannot find a drink at this stand that both of them like.\n\nAt another stand, soy milk is available. The children choose it there. The drinks on a menu and the drinks a person likes are different kinds of information. They need to check both before deciding.\n\n【追加情境】On the next day, soy milk is unavailable again. Emma and Hank agree that they may choose different drinks. The stand still has milk tea and fruit juice. They want each person to get a drink that person likes, even if the two cups are not the same.",
-    "type": "single",
-    "readingOrder": 4,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈A choice after checking the menu：追加資料〉On the next day, which plan fits both children’s preferences and the menu?",
-    "options": [
-      "Milk tea for both.",
-      "Fruit juice for both.",
-      "Milk tea for Emma and fruit juice for Hank.",
-      "Soy milk for both at this stand."
-    ],
-    "answer": 2,
-    "explanation": "Emma喜歡奶茶，Hank喜歡果汁；放寬同飲一種的條件後，這組配對可行。",
-    "difficulty": "challenge",
-    "family": "b-u6-t99-r4",
-    "revision": 6,
-    "glossary": "order：點單；customer：顧客；preference：喜好；available：有供應；sold out：售完。；original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "menu",
-      "caption": "故事中的供應資訊",
-      "heading": "MENU",
-      "items": [
-        "milk tea",
-        "fruit juice"
-      ],
-      "examLineArt": true
-    },
-    "variant": "B"
-  },
-  {
-    "id": "u6-t99-r5",
-    "unit": 6,
-    "topic": 98,
-    "concept": "飲料與喜好",
-    "passageId": "b-u6-p42",
-    "passageTitle": "A choice after checking the menu：追加資料",
-    "passage": "【原始紀錄】Emma and Hank want a drink after a class activity. Emma likes milk tea and soy milk. Hank likes soy milk and fruit juice, but he does not like milk tea. They hope to have the same drink, so they talk about both of their preferences.\n\nAt the first stand, the sign says, \"Today: milk tea and fruit juice. Soy milk is sold out.\" Emma first points to milk tea. Hank reminds her that he does not like it. They cannot find a drink at this stand that both of them like.\n\nAt another stand, soy milk is available. The children choose it there. The drinks on a menu and the drinks a person likes are different kinds of information. They need to check both before deciding.\n\n【追加情境】On the next day, soy milk is unavailable again. Emma and Hank agree that they may choose different drinks. The stand still has milk tea and fruit juice. They want each person to get a drink that person likes, even if the two cups are not the same.",
-    "type": "single",
-    "readingOrder": 5,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈A choice after checking the menu：追加資料〉What changes in the next-day plan, compared with the original plan?",
-    "options": [
-      "They now both like milk tea.",
-      "The stand no longer has a menu.",
-      "They stop checking what they like.",
-      "They may choose different drinks instead of the same drink."
-    ],
-    "answer": 3,
-    "explanation": "改變的是「是否必須同飲一種」的條件，不是把原喜好改寫。",
-    "difficulty": "challenge",
-    "family": "b-u6-t99-r5",
-    "revision": 6,
-    "glossary": "order：點單；customer：顧客；preference：喜好；available：有供應；sold out：售完。；original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "menu",
-      "caption": "故事中的供應資訊",
-      "heading": "MENU",
-      "items": [
-        "milk tea",
-        "fruit juice"
-      ],
-      "examLineArt": true
-    },
-    "variant": "B"
-  },
-  {
-    "id": "u6-t98-r1",
-    "unit": 6,
-    "topic": 97,
-    "concept": "飲料與喜好",
-    "passageId": "b-u6-p43",
-    "passageTitle": "Whose favorite drink?：追加資料",
-    "passage": "【原始紀錄】Cody is making a drink chart for his class. His mother likes soy milk, his father likes tea, and Cody likes fruit juice. He does not want to put his parents’ preferences in his own box on the chart.\n\nDora reads Cody’s note: \"My mom likes soy milk. My dad likes tea. I like fruit juice. I don’t like tea.\" She says that the words my mom, my dad and I do not refer to the same person. She writes one person’s preference on each row.\n\nAnother student sees tea in the note and thinks Cody likes it. Dora checks the last sentence and corrects that idea. There are three people in the note, not three favorite drinks for Cody. The chart is complete only when every row matches the right person.\n\n【追加情境】Dora adds her own note: \"I like tea.\" She puts her name on it. Now there are two notes on the desk. The word I must be checked with the name of the person writing each note; the new sentence does not change Cody’s original preference.",
-    "type": "single",
-    "readingOrder": 1,
-    "readingSkill": "提取關鍵",
-    "text": "〈Whose favorite drink?：追加資料〉依原始紀錄：Which drink belongs in Cody’s own box?",
-    "options": [
-      "Fruit juice.",
-      "Tea.",
-      "Soy milk.",
-      "All three drinks."
-    ],
-    "answer": 0,
-    "explanation": "Fruit juice.。請把本篇的說話者、前後文與資料核對，不能只抓第一個名字或數字。",
-    "difficulty": "core",
-    "family": "b-u6-t98-r1",
-    "revision": 6,
-    "glossary": "order：點單；customer：顧客；preference：喜好；available：有供應；sold out：售完。；original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "menu",
-      "caption": "三位家人的喜好紀錄",
-      "heading": "PREFERENCES",
-      "items": [
-        "soy milk",
-        "tea",
-        "fruit juice"
-      ],
-      "table": {
-        "headers": [
-          "Person",
-          "Likes"
-        ],
-        "rows": [
-          [
-            "Cody’s mom",
-            "soy milk"
-          ],
-          [
-            "Cody’s dad",
-            "tea"
-          ],
-          [
-            "Cody",
-            "fruit juice"
-          ]
-        ]
-      },
-      "examLineArt": true
-    },
-    "variant": "B"
-  },
-  {
-    "id": "u6-t98-r2",
-    "unit": 6,
-    "topic": 97,
-    "concept": "飲料與喜好",
-    "passageId": "b-u6-p43",
-    "passageTitle": "Whose favorite drink?：追加資料",
-    "passage": "【原始紀錄】Cody is making a drink chart for his class. His mother likes soy milk, his father likes tea, and Cody likes fruit juice. He does not want to put his parents’ preferences in his own box on the chart.\n\nDora reads Cody’s note: \"My mom likes soy milk. My dad likes tea. I like fruit juice. I don’t like tea.\" She says that the words my mom, my dad and I do not refer to the same person. She writes one person’s preference on each row.\n\nAnother student sees tea in the note and thinks Cody likes it. Dora checks the last sentence and corrects that idea. There are three people in the note, not three favorite drinks for Cody. The chart is complete only when every row matches the right person.\n\n【追加情境】Dora adds her own note: \"I like tea.\" She puts her name on it. Now there are two notes on the desk. The word I must be checked with the name of the person writing each note; the new sentence does not change Cody’s original preference.",
-    "type": "single",
-    "readingOrder": 2,
-    "readingSkill": "連結資料",
-    "text": "〈Whose favorite drink?：追加資料〉依原始紀錄：Who likes soy milk?",
-    "options": [
-      "Cody’s mother.",
-      "Cody’s father.",
-      "Cody.",
-      "The note does not say."
-    ],
-    "answer": 0,
-    "explanation": "Cody’s mother.。請把本篇的說話者、前後文與資料核對，不能只抓第一個名字或數字。",
-    "difficulty": "core",
-    "family": "b-u6-t98-r2",
-    "revision": 6,
-    "glossary": "order：點單；customer：顧客；preference：喜好；available：有供應；sold out：售完。；original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "menu",
-      "caption": "三位家人的喜好紀錄",
-      "heading": "PREFERENCES",
-      "items": [
-        "soy milk",
-        "tea",
-        "fruit juice"
-      ],
-      "table": {
-        "headers": [
-          "Person",
-          "Likes"
-        ],
-        "rows": [
-          [
-            "Cody’s mom",
-            "soy milk"
-          ],
-          [
-            "Cody’s dad",
-            "tea"
-          ],
-          [
-            "Cody",
-            "fruit juice"
-          ]
-        ]
-      },
-      "examLineArt": true
-    },
-    "variant": "B"
-  },
-  {
-    "id": "u6-t98-r3",
-    "unit": 6,
-    "topic": 97,
-    "concept": "飲料與喜好",
-    "passageId": "b-u6-p43",
-    "passageTitle": "Whose favorite drink?：追加資料",
-    "passage": "【原始紀錄】Cody is making a drink chart for his class. His mother likes soy milk, his father likes tea, and Cody likes fruit juice. He does not want to put his parents’ preferences in his own box on the chart.\n\nDora reads Cody’s note: \"My mom likes soy milk. My dad likes tea. I like fruit juice. I don’t like tea.\" She says that the words my mom, my dad and I do not refer to the same person. She writes one person’s preference on each row.\n\nAnother student sees tea in the note and thinks Cody likes it. Dora checks the last sentence and corrects that idea. There are three people in the note, not three favorite drinks for Cody. The chart is complete only when every row matches the right person.\n\n【追加情境】Dora adds her own note: \"I like tea.\" She puts her name on it. Now there are two notes on the desk. The word I must be checked with the name of the person writing each note; the new sentence does not change Cody’s original preference.",
-    "type": "single",
-    "readingOrder": 3,
-    "readingSkill": "辨識錯誤",
-    "text": "〈Whose favorite drink?：追加資料〉依原始紀錄：Which sentence directly corrects the wrong idea about Cody and tea?",
-    "options": [
-      "I don’t like tea.",
-      "My dad likes tea.",
-      "My mom likes soy milk.",
-      "Cody is making a chart."
-    ],
-    "answer": 0,
-    "explanation": "I don’t like tea.。請把本篇的說話者、前後文與資料核對，不能只抓第一個名字或數字。",
-    "difficulty": "core",
-    "family": "b-u6-t98-r3",
-    "revision": 6,
-    "glossary": "order：點單；customer：顧客；preference：喜好；available：有供應；sold out：售完。；original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "menu",
-      "caption": "三位家人的喜好紀錄",
-      "heading": "PREFERENCES",
-      "items": [
-        "soy milk",
-        "tea",
-        "fruit juice"
-      ],
-      "table": {
-        "headers": [
-          "Person",
-          "Likes"
-        ],
-        "rows": [
-          [
-            "Cody’s mom",
-            "soy milk"
-          ],
-          [
-            "Cody’s dad",
-            "tea"
-          ],
-          [
-            "Cody",
-            "fruit juice"
-          ]
-        ]
-      },
-      "examLineArt": true
-    },
-    "variant": "B"
-  },
-  {
-    "id": "u6-t98-r4",
-    "unit": 6,
-    "topic": 97,
-    "concept": "飲料與喜好",
-    "passageId": "b-u6-p43",
-    "passageTitle": "Whose favorite drink?：追加資料",
-    "passage": "【原始紀錄】Cody is making a drink chart for his class. His mother likes soy milk, his father likes tea, and Cody likes fruit juice. He does not want to put his parents’ preferences in his own box on the chart.\n\nDora reads Cody’s note: \"My mom likes soy milk. My dad likes tea. I like fruit juice. I don’t like tea.\" She says that the words my mom, my dad and I do not refer to the same person. She writes one person’s preference on each row.\n\nAnother student sees tea in the note and thinks Cody likes it. Dora checks the last sentence and corrects that idea. There are three people in the note, not three favorite drinks for Cody. The chart is complete only when every row matches the right person.\n\n【追加情境】Dora adds her own note: \"I like tea.\" She puts her name on it. Now there are two notes on the desk. The word I must be checked with the name of the person writing each note; the new sentence does not change Cody’s original preference.",
-    "type": "single",
-    "readingOrder": 4,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈Whose favorite drink?：追加資料〉In Dora’s new note, who does I refer to?",
-    "options": [
-      "Cody’s mother.",
-      "Dora.",
-      "Cody’s father.",
-      "Cody."
-    ],
-    "answer": 1,
-    "explanation": "相同I依說話或寫字者而定；Dora新筆記的I指Dora。",
-    "difficulty": "challenge",
-    "family": "b-u6-t98-r4",
-    "revision": 6,
-    "glossary": "order：點單；customer：顧客；preference：喜好；available：有供應；sold out：售完。；original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "menu",
-      "caption": "三位家人的喜好紀錄",
-      "heading": "PREFERENCES",
-      "items": [
-        "soy milk",
-        "tea",
-        "fruit juice"
-      ],
-      "table": {
-        "headers": [
-          "Person",
-          "Likes"
-        ],
-        "rows": [
-          [
-            "Cody’s mom",
-            "soy milk"
-          ],
-          [
-            "Cody’s dad",
-            "tea"
-          ],
-          [
-            "Cody",
-            "fruit juice"
-          ]
-        ]
-      },
-      "examLineArt": true
-    },
-    "variant": "B"
-  },
-  {
-    "id": "u6-t98-r5",
-    "unit": 6,
-    "topic": 97,
-    "concept": "飲料與喜好",
-    "passageId": "b-u6-p43",
-    "passageTitle": "Whose favorite drink?：追加資料",
-    "passage": "【原始紀錄】Cody is making a drink chart for his class. His mother likes soy milk, his father likes tea, and Cody likes fruit juice. He does not want to put his parents’ preferences in his own box on the chart.\n\nDora reads Cody’s note: \"My mom likes soy milk. My dad likes tea. I like fruit juice. I don’t like tea.\" She says that the words my mom, my dad and I do not refer to the same person. She writes one person’s preference on each row.\n\nAnother student sees tea in the note and thinks Cody likes it. Dora checks the last sentence and corrects that idea. There are three people in the note, not three favorite drinks for Cody. The chart is complete only when every row matches the right person.\n\n【追加情境】Dora adds her own note: \"I like tea.\" She puts her name on it. Now there are two notes on the desk. The word I must be checked with the name of the person writing each note; the new sentence does not change Cody’s original preference.",
-    "type": "single",
-    "readingOrder": 5,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈Whose favorite drink?：追加資料〉Which statement combines the two notes correctly?",
-    "options": [
-      "Cody and Dora both dislike tea.",
-      "Dora’s note proves Cody likes tea.",
-      "Dora likes tea, but Cody’s original note says he does not.",
-      "Every I refers to Cody’s father."
-    ],
-    "answer": 2,
-    "explanation": "應分清兩位作者，不能把新筆記的喜好移到Cody身上。",
-    "difficulty": "challenge",
-    "family": "b-u6-t98-r5",
-    "revision": 6,
-    "glossary": "order：點單；customer：顧客；preference：喜好；available：有供應；sold out：售完。；original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "menu",
-      "caption": "三位家人的喜好紀錄",
-      "heading": "PREFERENCES",
-      "items": [
-        "soy milk",
-        "tea",
-        "fruit juice"
-      ],
-      "table": {
-        "headers": [
-          "Person",
-          "Likes"
-        ],
-        "rows": [
-          [
-            "Cody’s mom",
-            "soy milk"
-          ],
-          [
-            "Cody’s dad",
-            "tea"
-          ],
-          [
-            "Cody",
-            "fruit juice"
-          ]
-        ]
-      },
-      "examLineArt": true
-    },
-    "variant": "B"
-  },
-  {
-    "id": "u7-t99-r1",
-    "unit": 7,
-    "topic": 98,
-    "concept": "水果沙拉與數量",
-    "passageId": "b-u7-p41",
-    "passageTitle": "A list with two missing fruits：追加資料",
-    "passage": "【原始紀錄】Amy and Fred are preparing fruit salad for their class. Their list says they need eight apples and six bananas in all. On the table, they have five apples and two bananas. They count the fruit first because the shopping list should show what is missing, not everything they will use.\n\nFred writes eight apples and six bananas on a new shopping card. Amy says this would ignore the fruit they already have. Together they subtract the fruit on the table from the amounts on the original list.\n\nThey plan to buy three apples and four bananas. After shopping, they will count again to check that the class has enough. No one has eaten or used any fruit during this preparation. Both kinds of fruit need checking, because neither amount on the table reaches the target.\n\n【追加情境】After the original count, Amy finds that two of the five apples cannot be used. The target is still eight usable apples and six bananas. The two unusable apples are set aside. The bananas have not changed, and they have not bought any new fruit yet.",
-    "type": "single",
-    "readingOrder": 1,
-    "readingSkill": "提取關鍵",
-    "text": "〈A list with two missing fruits：追加資料〉依原始紀錄：How many more apples do they need?",
-    "options": [
-      "3",
-      "8",
-      "5",
-      "13"
-    ],
-    "answer": 0,
-    "explanation": "3。請把本篇的說話者、前後文與資料核對，不能只抓第一個名字或數字。",
-    "difficulty": "core",
-    "family": "b-u7-t99-r1",
-    "revision": 6,
-    "glossary": "target：目標數量；delivery：送來的物品；amount：數量；shopping card：採購單；sufficient：足夠的。；original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "水果準備清單",
-      "table": {
-        "headers": [
-          "Fruit",
-          "Need",
-          "Have"
-        ],
-        "rows": [
-          [
-            "apples",
-            8,
-            5
-          ],
-          [
-            "bananas",
-            6,
-            2
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "pictureInventory",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "英語",
-      "mode": "pictureInventory"
-    }
-  },
-  {
-    "id": "u7-t99-r2",
-    "unit": 7,
-    "topic": 98,
-    "concept": "水果沙拉與數量",
-    "passageId": "b-u7-p41",
-    "passageTitle": "A list with two missing fruits：追加資料",
-    "passage": "【原始紀錄】Amy and Fred are preparing fruit salad for their class. Their list says they need eight apples and six bananas in all. On the table, they have five apples and two bananas. They count the fruit first because the shopping list should show what is missing, not everything they will use.\n\nFred writes eight apples and six bananas on a new shopping card. Amy says this would ignore the fruit they already have. Together they subtract the fruit on the table from the amounts on the original list.\n\nThey plan to buy three apples and four bananas. After shopping, they will count again to check that the class has enough. No one has eaten or used any fruit during this preparation. Both kinds of fruit need checking, because neither amount on the table reaches the target.\n\n【追加情境】After the original count, Amy finds that two of the five apples cannot be used. The target is still eight usable apples and six bananas. The two unusable apples are set aside. The bananas have not changed, and they have not bought any new fruit yet.",
-    "type": "single",
-    "readingOrder": 2,
-    "readingSkill": "連結資料",
-    "text": "〈A list with two missing fruits：追加資料〉依原始紀錄：How many more bananas do they need?",
-    "options": [
-      "4",
-      "6",
-      "2",
-      "8"
-    ],
-    "answer": 0,
-    "explanation": "4。請把本篇的說話者、前後文與資料核對，不能只抓第一個名字或數字。",
-    "difficulty": "core",
-    "family": "b-u7-t99-r2",
-    "revision": 6,
-    "glossary": "target：目標數量；delivery：送來的物品；amount：數量；shopping card：採購單；sufficient：足夠的。；original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "水果準備清單",
-      "table": {
-        "headers": [
-          "Fruit",
-          "Need",
-          "Have"
-        ],
-        "rows": [
-          [
-            "apples",
-            8,
-            5
-          ],
-          [
-            "bananas",
-            6,
-            2
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "pictureInventory",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "英語",
-      "mode": "pictureInventory"
-    }
-  },
-  {
-    "id": "u7-t99-r3",
-    "unit": 7,
-    "topic": 98,
-    "concept": "水果沙拉與數量",
-    "passageId": "b-u7-p41",
-    "passageTitle": "A list with two missing fruits：追加資料",
-    "passage": "【原始紀錄】Amy and Fred are preparing fruit salad for their class. Their list says they need eight apples and six bananas in all. On the table, they have five apples and two bananas. They count the fruit first because the shopping list should show what is missing, not everything they will use.\n\nFred writes eight apples and six bananas on a new shopping card. Amy says this would ignore the fruit they already have. Together they subtract the fruit on the table from the amounts on the original list.\n\nThey plan to buy three apples and four bananas. After shopping, they will count again to check that the class has enough. No one has eaten or used any fruit during this preparation. Both kinds of fruit need checking, because neither amount on the table reaches the target.\n\n【追加情境】After the original count, Amy finds that two of the five apples cannot be used. The target is still eight usable apples and six bananas. The two unusable apples are set aside. The bananas have not changed, and they have not bought any new fruit yet.",
-    "type": "single",
-    "readingOrder": 3,
-    "readingSkill": "辨識錯誤",
-    "text": "〈A list with two missing fruits：追加資料〉依原始紀錄：What is wrong with Fred’s first shopping card?",
-    "options": [
-      "It does not subtract the fruit they already have.",
-      "It only includes fruit they already have.",
-      "It changes bananas into apples.",
-      "The class does not need fruit."
-    ],
-    "answer": 0,
-    "explanation": "It does not subtract the fruit they already have.。請把本篇的說話者、前後文與資料核對，不能只抓第一個名字或數字。",
-    "difficulty": "core",
-    "family": "b-u7-t99-r3",
-    "revision": 6,
-    "glossary": "target：目標數量；delivery：送來的物品；amount：數量；shopping card：採購單；sufficient：足夠的。；original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "水果準備清單",
-      "table": {
-        "headers": [
-          "Fruit",
-          "Need",
-          "Have"
-        ],
-        "rows": [
-          [
-            "apples",
-            8,
-            5
-          ],
-          [
-            "bananas",
-            6,
-            2
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "pictureInventory",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "英語",
-      "mode": "pictureInventory"
-    }
-  },
-  {
-    "id": "u7-t99-r4",
-    "unit": 7,
-    "topic": 98,
-    "concept": "水果沙拉與數量",
-    "passageId": "b-u7-p41",
-    "passageTitle": "A list with two missing fruits：追加資料",
-    "passage": "【原始紀錄】Amy and Fred are preparing fruit salad for their class. Their list says they need eight apples and six bananas in all. On the table, they have five apples and two bananas. They count the fruit first because the shopping list should show what is missing, not everything they will use.\n\nFred writes eight apples and six bananas on a new shopping card. Amy says this would ignore the fruit they already have. Together they subtract the fruit on the table from the amounts on the original list.\n\nThey plan to buy three apples and four bananas. After shopping, they will count again to check that the class has enough. No one has eaten or used any fruit during this preparation. Both kinds of fruit need checking, because neither amount on the table reaches the target.\n\n【追加情境】After the original count, Amy finds that two of the five apples cannot be used. The target is still eight usable apples and six bananas. The two unusable apples are set aside. The bananas have not changed, and they have not bought any new fruit yet.",
-    "type": "single",
-    "readingOrder": 4,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈A list with two missing fruits：追加資料〉After the two apples are set aside, what should the new shopping card say?",
-    "options": [
-      "Three apples and four bananas.",
-      "Eight apples and six bananas.",
-      "Two apples and four bananas.",
-      "Five apples and four bananas."
-    ],
-    "answer": 3,
-    "explanation": "可用蘋果剩3，目標8需再買5；香蕉仍有2、目標6需4。",
-    "difficulty": "challenge",
-    "family": "b-u7-t99-r4",
-    "revision": 6,
-    "glossary": "target：目標數量；delivery：送來的物品；amount：數量；shopping card：採購單；sufficient：足夠的。；original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "水果準備清單",
-      "table": {
-        "headers": [
-          "Fruit",
-          "Need",
-          "Have"
-        ],
-        "rows": [
-          [
-            "apples",
-            8,
-            5
-          ],
-          [
-            "bananas",
-            6,
-            2
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "pictureInventory",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "英語",
-      "mode": "pictureInventory"
-    }
-  },
-  {
-    "id": "u7-t99-r5",
-    "unit": 7,
-    "topic": 98,
-    "concept": "水果沙拉與數量",
-    "passageId": "b-u7-p41",
-    "passageTitle": "A list with two missing fruits：追加資料",
-    "passage": "【原始紀錄】Amy and Fred are preparing fruit salad for their class. Their list says they need eight apples and six bananas in all. On the table, they have five apples and two bananas. They count the fruit first because the shopping list should show what is missing, not everything they will use.\n\nFred writes eight apples and six bananas on a new shopping card. Amy says this would ignore the fruit they already have. Together they subtract the fruit on the table from the amounts on the original list.\n\nThey plan to buy three apples and four bananas. After shopping, they will count again to check that the class has enough. No one has eaten or used any fruit during this preparation. Both kinds of fruit need checking, because neither amount on the table reaches the target.\n\n【追加情境】After the original count, Amy finds that two of the five apples cannot be used. The target is still eight usable apples and six bananas. The two unusable apples are set aside. The bananas have not changed, and they have not bought any new fruit yet.",
-    "type": "single",
-    "readingOrder": 5,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈A list with two missing fruits：追加資料〉Why is the original shopping card no longer enough?",
-    "options": [
-      "The usable apple count changed, even though the target stayed the same.",
-      "The banana target increased.",
-      "The two teams exchanged all their fruit.",
-      "The original subtraction rule is never useful."
-    ],
-    "answer": 0,
-    "explanation": "目標未變，可用量減少，使缺額增加；不是否定扣除已有量的方法。",
-    "difficulty": "challenge",
-    "family": "b-u7-t99-r5",
-    "revision": 6,
-    "glossary": "target：目標數量；delivery：送來的物品；amount：數量；shopping card：採購單；sufficient：足夠的。；original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "水果準備清單",
-      "table": {
-        "headers": [
-          "Fruit",
-          "Need",
-          "Have"
-        ],
-        "rows": [
-          [
-            "apples",
-            8,
-            5
-          ],
-          [
-            "bananas",
-            6,
-            2
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "pictureInventory",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "英語",
-      "mode": "pictureInventory"
-    }
-  },
-  {
-    "id": "u7-t98-r1",
-    "unit": 7,
-    "topic": 97,
-    "concept": "水果沙拉與數量",
-    "passageId": "b-u7-p43",
-    "passageTitle": "Check both rows before saying enough：追加資料",
-    "passage": "【原始紀錄】Two teams are preparing fruit salad. Team A needs six apples and four bananas. It has six apples and two bananas. Team B needs five apples and three bananas. It has four apples and three bananas. The amounts belong to separate teams; they do not share fruit during this activity.\n\nA student looks only at the apple row for Team A and says that the team has everything it needs. Another student checks the banana row and finds that this conclusion is too quick. Each team must check every fruit on its own list.\n\nTeam A needs more bananas, and Team B needs more apples. Their teachers ask the children to write a short shopping card for each team. A correct card must use both the target and the amount already available, and it must keep the two teams separate.\n\n【追加情境】After the separate-team check, the teacher allows the teams to share. Team A gives one apple to Team B. Both teams keep the same targets. Team A now has five apples and two bananas, and Team B has five apples and three bananas. No fruit has been bought yet.",
-    "type": "single",
-    "readingOrder": 1,
-    "readingSkill": "提取關鍵",
-    "text": "〈Check both rows before saying enough：追加資料〉依原始紀錄：What does Team A still need?",
-    "options": [
-      "Two bananas.",
-      "Six apples.",
-      "Three bananas.",
-      "One apple."
-    ],
-    "answer": 0,
-    "explanation": "Two bananas.。請把本篇的說話者、前後文與資料核對，不能只抓第一個名字或數字。",
-    "difficulty": "core",
-    "family": "b-u7-t98-r1",
-    "revision": 6,
-    "glossary": "target：目標數量；delivery：送來的物品；amount：數量；shopping card：採購單；sufficient：足夠的。；original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "水果準備清單",
-      "table": {
-        "headers": [
-          "Team / fruit",
-          "Need",
-          "Have"
-        ],
-        "rows": [
-          [
-            "A: apples",
-            6,
-            6
-          ],
-          [
-            "A: bananas",
-            4,
-            2
-          ],
-          [
-            "B: apples",
-            5,
-            4
-          ],
-          [
-            "B: bananas",
-            3,
-            3
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "pictureInventory",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "英語",
-      "mode": "pictureInventory"
-    }
-  },
-  {
-    "id": "u7-t98-r2",
-    "unit": 7,
-    "topic": 97,
-    "concept": "水果沙拉與數量",
-    "passageId": "b-u7-p43",
-    "passageTitle": "Check both rows before saying enough：追加資料",
-    "passage": "【原始紀錄】Two teams are preparing fruit salad. Team A needs six apples and four bananas. It has six apples and two bananas. Team B needs five apples and three bananas. It has four apples and three bananas. The amounts belong to separate teams; they do not share fruit during this activity.\n\nA student looks only at the apple row for Team A and says that the team has everything it needs. Another student checks the banana row and finds that this conclusion is too quick. Each team must check every fruit on its own list.\n\nTeam A needs more bananas, and Team B needs more apples. Their teachers ask the children to write a short shopping card for each team. A correct card must use both the target and the amount already available, and it must keep the two teams separate.\n\n【追加情境】After the separate-team check, the teacher allows the teams to share. Team A gives one apple to Team B. Both teams keep the same targets. Team A now has five apples and two bananas, and Team B has five apples and three bananas. No fruit has been bought yet.",
-    "type": "single",
-    "readingOrder": 2,
-    "readingSkill": "連結資料",
-    "text": "〈Check both rows before saying enough：追加資料〉依原始紀錄：What does Team B still need?",
-    "options": [
-      "One apple.",
-      "Two bananas.",
-      "Five apples.",
-      "Three apples."
-    ],
-    "answer": 0,
-    "explanation": "One apple.。請把本篇的說話者、前後文與資料核對，不能只抓第一個名字或數字。",
-    "difficulty": "core",
-    "family": "b-u7-t98-r2",
-    "revision": 6,
-    "glossary": "target：目標數量；delivery：送來的物品；amount：數量；shopping card：採購單；sufficient：足夠的。；original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "水果準備清單",
-      "table": {
-        "headers": [
-          "Team / fruit",
-          "Need",
-          "Have"
-        ],
-        "rows": [
-          [
-            "A: apples",
-            6,
-            6
-          ],
-          [
-            "A: bananas",
-            4,
-            2
-          ],
-          [
-            "B: apples",
-            5,
-            4
-          ],
-          [
-            "B: bananas",
-            3,
-            3
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "pictureInventory",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "英語",
-      "mode": "pictureInventory"
-    }
-  },
-  {
-    "id": "u7-t98-r3",
-    "unit": 7,
-    "topic": 97,
-    "concept": "水果沙拉與數量",
-    "passageId": "b-u7-p43",
-    "passageTitle": "Check both rows before saying enough：追加資料",
-    "passage": "【原始紀錄】Two teams are preparing fruit salad. Team A needs six apples and four bananas. It has six apples and two bananas. Team B needs five apples and three bananas. It has four apples and three bananas. The amounts belong to separate teams; they do not share fruit during this activity.\n\nA student looks only at the apple row for Team A and says that the team has everything it needs. Another student checks the banana row and finds that this conclusion is too quick. Each team must check every fruit on its own list.\n\nTeam A needs more bananas, and Team B needs more apples. Their teachers ask the children to write a short shopping card for each team. A correct card must use both the target and the amount already available, and it must keep the two teams separate.\n\n【追加情境】After the separate-team check, the teacher allows the teams to share. Team A gives one apple to Team B. Both teams keep the same targets. Team A now has five apples and two bananas, and Team B has five apples and three bananas. No fruit has been bought yet.",
-    "type": "single",
-    "readingOrder": 3,
-    "readingSkill": "辨識錯誤",
-    "text": "〈Check both rows before saying enough：追加資料〉依原始紀錄：Why is the claim about Team A too quick?",
-    "options": [
-      "Having enough apples does not mean having enough bananas.",
-      "Team A has no apples.",
-      "All teams must buy the same fruit.",
-      "Team A needs no bananas."
-    ],
-    "answer": 0,
-    "explanation": "Having enough apples does not mean having enough bananas.。請把本篇的說話者、前後文與資料核對，不能只抓第一個名字或數字。",
-    "difficulty": "core",
-    "family": "b-u7-t98-r3",
-    "revision": 6,
-    "glossary": "target：目標數量；delivery：送來的物品；amount：數量；shopping card：採購單；sufficient：足夠的。；original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "水果準備清單",
-      "table": {
-        "headers": [
-          "Team / fruit",
-          "Need",
-          "Have"
-        ],
-        "rows": [
-          [
-            "A: apples",
-            6,
-            6
-          ],
-          [
-            "A: bananas",
-            4,
-            2
-          ],
-          [
-            "B: apples",
-            5,
-            4
-          ],
-          [
-            "B: bananas",
-            3,
-            3
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "pictureInventory",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "英語",
-      "mode": "pictureInventory"
-    }
-  },
-  {
-    "id": "u7-t98-r4",
-    "unit": 7,
-    "topic": 97,
-    "concept": "水果沙拉與數量",
-    "passageId": "b-u7-p43",
-    "passageTitle": "Check both rows before saying enough：追加資料",
-    "passage": "【原始紀錄】Two teams are preparing fruit salad. Team A needs six apples and four bananas. It has six apples and two bananas. Team B needs five apples and three bananas. It has four apples and three bananas. The amounts belong to separate teams; they do not share fruit during this activity.\n\nA student looks only at the apple row for Team A and says that the team has everything it needs. Another student checks the banana row and finds that this conclusion is too quick. Each team must check every fruit on its own list.\n\nTeam A needs more bananas, and Team B needs more apples. Their teachers ask the children to write a short shopping card for each team. A correct card must use both the target and the amount already available, and it must keep the two teams separate.\n\n【追加情境】After the separate-team check, the teacher allows the teams to share. Team A gives one apple to Team B. Both teams keep the same targets. Team A now has five apples and two bananas, and Team B has five apples and three bananas. No fruit has been bought yet.",
-    "type": "single",
-    "readingOrder": 4,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈Check both rows before saying enough：追加資料〉After sharing, which shopping record fits the unchanged targets?",
-    "options": [
-      "A: one apple and two bananas; B: no more fruit.",
-      "A: no more fruit; B: two bananas.",
-      "A: two apples; B: one banana.",
-      "Both teams need the full original targets."
-    ],
-    "answer": 0,
-    "explanation": "A目標6蘋果4香蕉，轉出後5蘋果2香蕉，缺1與2；B已達標。",
-    "difficulty": "challenge",
-    "family": "b-u7-t98-r4",
-    "revision": 6,
-    "glossary": "target：目標數量；delivery：送來的物品；amount：數量；shopping card：採購單；sufficient：足夠的。；original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "水果準備清單",
-      "table": {
-        "headers": [
-          "Team / fruit",
-          "Need",
-          "Have"
-        ],
-        "rows": [
-          [
-            "A: apples",
-            6,
-            6
-          ],
-          [
-            "A: bananas",
-            4,
-            2
-          ],
-          [
-            "B: apples",
-            5,
-            4
-          ],
-          [
-            "B: bananas",
-            3,
-            3
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "pictureInventory",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "英語",
-      "mode": "pictureInventory"
-    }
-  },
-  {
-    "id": "u7-t98-r5",
-    "unit": 7,
-    "topic": 97,
-    "concept": "水果沙拉與數量",
-    "passageId": "b-u7-p43",
-    "passageTitle": "Check both rows before saying enough：追加資料",
-    "passage": "【原始紀錄】Two teams are preparing fruit salad. Team A needs six apples and four bananas. It has six apples and two bananas. Team B needs five apples and three bananas. It has four apples and three bananas. The amounts belong to separate teams; they do not share fruit during this activity.\n\nA student looks only at the apple row for Team A and says that the team has everything it needs. Another student checks the banana row and finds that this conclusion is too quick. Each team must check every fruit on its own list.\n\nTeam A needs more bananas, and Team B needs more apples. Their teachers ask the children to write a short shopping card for each team. A correct card must use both the target and the amount already available, and it must keep the two teams separate.\n\n【追加情境】After the separate-team check, the teacher allows the teams to share. Team A gives one apple to Team B. Both teams keep the same targets. Team A now has five apples and two bananas, and Team B has five apples and three bananas. No fruit has been bought yet.",
-    "type": "single",
-    "readingOrder": 5,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈Check both rows before saying enough：追加資料〉Which condition changes between the original record and the added situation?",
-    "options": [
-      "The number of teams.",
-      "Sharing is now allowed, and one apple moves from A to B.",
-      "Team B now needs six bananas.",
-      "All apples become unusable."
-    ],
-    "answer": 1,
-    "explanation": "要區分原始不共享與追加允許共享的條件，並追蹤實際移轉。",
-    "difficulty": "challenge",
-    "family": "b-u7-t98-r5",
-    "revision": 6,
-    "glossary": "target：目標數量；delivery：送來的物品；amount：數量；shopping card：採購單；sufficient：足夠的。；original：原始的；target：目標；available：有供應、可使用的；unavailable：無供應的；usable：可使用的；set aside：先放在一旁；share：分享、共用；note：筆記；refer to：指的是",
-    "sourceIds": [
-      "E5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "水果準備清單",
-      "table": {
-        "headers": [
-          "Team / fruit",
-          "Need",
-          "Have"
-        ],
-        "rows": [
-          [
-            "A: apples",
-            6,
-            6
-          ],
-          [
-            "A: bananas",
-            4,
-            2
-          ],
-          [
-            "B: apples",
-            5,
-            4
-          ],
-          [
-            "B: bananas",
-            3,
-            3
-          ]
-        ]
-      },
-      "examLineArt": false,
-      "mode": "pictureInventory",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。"
-    },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "英語",
-      "mode": "pictureInventory"
-    }
+    "family": "b-u5-t98-r5"
   },
   {
     "type": "boolean",
@@ -22382,18 +15829,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u0-t99-tf",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "beaks",
-      "caption": "動物世界",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "beaks"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -22414,7 +15850,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u0-t98-tf"
+    "family": "b-u0-t98-tf",
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -22435,7 +15872,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u0-t97-tf"
+    "family": "b-u0-t97-tf",
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -22456,7 +15894,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u0-t96-tf"
+    "family": "b-u0-t96-tf",
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -22478,18 +15917,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u0-t95-tf",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "division",
-      "caption": "動物世界",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "division"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -22510,7 +15938,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u1-t99-tf"
+    "family": "b-u1-t99-tf",
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -22532,18 +15961,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u1-t98-tf",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "rubberLab",
-      "caption": "探索聲光世界",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "rubberLab"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -22565,18 +15983,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u1-t97-tf",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "shadow",
-      "caption": "探索聲光世界",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "shadow"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -22598,18 +16005,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u1-t96-tf",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "mirror",
-      "caption": "探索聲光世界",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "mirror"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -22630,7 +16026,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u1-t95-tf"
+    "family": "b-u1-t95-tf",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -22653,7 +16050,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u0-t99-b"
+    "family": "b-u0-t99-b",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -22677,18 +16075,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u0-t98-b",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "fruitSeeds",
-      "caption": "動物世界",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "fruitSeeds"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -22711,7 +16098,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u0-t97-b"
+    "family": "b-u0-t97-b",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -22734,7 +16122,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u0-t96-b"
+    "family": "b-u0-t96-b",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -22758,18 +16147,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u0-t95-b",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "parentYoung",
-      "caption": "動物世界",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "parentYoung"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -22793,18 +16171,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u1-t99-b",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "rubberLab",
-      "caption": "探索聲光世界",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "rubberLab"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -22827,7 +16194,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u1-t98-b"
+    "family": "b-u1-t98-b",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -22851,18 +16219,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u1-t97-b",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "mirror",
-      "caption": "探索聲光世界",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "mirror"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -22885,7 +16242,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u1-t96-b"
+    "family": "b-u1-t96-b",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -22908,7 +16266,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u1-t95-b"
+    "family": "b-u1-t95-b",
+    "visualPolicy": "none"
   },
   {
     "id": "u0-t99-r1",
@@ -24094,7 +17453,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u2-t99-tf"
+    "family": "b-u2-t99-tf",
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -24116,18 +17476,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u2-t98-tf",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "compass",
-      "caption": "臺灣我的家",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "compass"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -24148,7 +17497,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u2-t97-tf"
+    "family": "b-u2-t97-tf",
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -24169,7 +17519,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u2-t96-tf"
+    "family": "b-u2-t96-tf",
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -24191,18 +17542,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u2-t95-tf",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "compass",
-      "caption": "臺灣我的家",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "compass"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -24224,18 +17564,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u3-t99-tf",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "terrain",
-      "caption": "臺灣的自然環境與生活",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "terrain"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -24257,18 +17586,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u3-t98-tf",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "river",
-      "caption": "臺灣的自然環境與生活",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "river"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -24290,18 +17608,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u3-t97-tf",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "weatherClimate",
-      "caption": "臺灣的自然環境與生活",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "weatherClimate"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -24322,7 +17629,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u3-t96-tf"
+    "family": "b-u3-t96-tf",
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -24343,7 +17651,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u3-t95-tf"
+    "family": "b-u3-t95-tf",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -24367,18 +17676,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u2-t99-b",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "compass",
-      "caption": "臺灣我的家",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "compass"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -24401,7 +17699,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u2-t98-b"
+    "family": "b-u2-t98-b",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -24424,7 +17723,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u2-t97-b"
+    "family": "b-u2-t97-b",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -24448,18 +17748,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u2-t96-b",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "compass",
-      "caption": "臺灣我的家",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "compass"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -24482,7 +17771,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u2-t95-b"
+    "family": "b-u2-t95-b",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -24506,18 +17796,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u3-t99-b",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "terrain",
-      "caption": "臺灣的自然環境與生活",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "terrain"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -24541,18 +17820,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u3-t98-b",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "weatherClimate",
-      "caption": "臺灣的自然環境與生活",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "weatherClimate"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -24575,7 +17843,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u3-t97-b"
+    "family": "b-u3-t97-b",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -24598,7 +17867,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u3-t96-b"
+    "family": "b-u3-t96-b",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -24621,7 +17891,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u3-t95-b"
+    "family": "b-u3-t95-b",
+    "visualPolicy": "none"
   },
   {
     "id": "u2-t99-r1",
@@ -24914,306 +18185,6 @@ window.REVIEW_EXAM_ITEMS=[
     "variant": "B"
   },
   {
-    "id": "u2-t98-r1",
-    "unit": 2,
-    "topic": 97,
-    "concept": "臺灣我的家",
-    "type": "single",
-    "passageId": "b-u2-p24",
-    "passageTitle": "小宇的共同空間的使用約定：追加資料",
-    "passage": "【原始紀錄】小宇的社區活動教室需要共用桌椅、圖書與材料。圖卡列出三項約定：借用登記、使用後整理、不同意見先協調。這些約定配合這個場所的共同需要，不代表所有團體、所有場合都只有同一套做法。\n\n有人認為只要自己用得方便，就能讓其他人永遠不能使用；大家回到目的，討論公平與責任。規範若不合適，可以循程序提出修改，不能只用大聲或破壞物品來決定。\n\n閱讀約定時，要連結行為、目的與影響。清楚的分工與紀錄能幫助執行，但仍需要成員願意參與。圖卡是這個教學情境的公約，不把所有團體規則直接說成相同的法律。\n\n【追加情境】活動教室新增一位使用輪椅的居民。原本桌椅擺滿中央走道，雖然可以放更多作品，卻讓他無法通行。另一組晚間使用者也反映，材料常未歸位。社區把不同使用者的需求分別記錄，準備檢討配置與交接流程，而不是把所有問題都歸因於某個人不守規矩。",
-    "readingOrder": 1,
-    "readingSkill": "讀圖取訊",
-    "text": "〈小宇的共同空間的使用約定：追加資料〉依原始紀錄：借用登記主要幫助什麼？",
-    "options": [
-      "追蹤物品去向",
-      "知道每人的私人密碼",
-      "讓少數人永遠占用",
-      "取代所有整理工作"
-    ],
-    "answer": 0,
-    "explanation": "追蹤物品去向。請對照本篇圖卡「共用教室的約定」與文章中的條件、做法和結果；結論不能超過資料提供的範圍。",
-    "family": "b-u2-t98-r1",
-    "difficulty": "core",
-    "sourceIds": [
-      "S5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "共用教室的約定",
-      "table": {
-        "headers": [
-          "行為",
-          "目的"
-        ],
-        "rows": [
-          [
-            "借用時登記",
-            "方便追蹤物品去向"
-          ],
-          [
-            "使用後整理",
-            "讓下一位也能使用"
-          ],
-          [
-            "遇到分歧先協調",
-            "理解不同需要"
-          ]
-        ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "sharedRules"
-    },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "sharedRules"
-    }
-  },
-  {
-    "id": "u2-t98-r2",
-    "unit": 2,
-    "topic": 97,
-    "concept": "臺灣我的家",
-    "type": "single",
-    "passageId": "b-u2-p24",
-    "passageTitle": "小宇的共同空間的使用約定：追加資料",
-    "passage": "【原始紀錄】小宇的社區活動教室需要共用桌椅、圖書與材料。圖卡列出三項約定：借用登記、使用後整理、不同意見先協調。這些約定配合這個場所的共同需要，不代表所有團體、所有場合都只有同一套做法。\n\n有人認為只要自己用得方便，就能讓其他人永遠不能使用；大家回到目的，討論公平與責任。規範若不合適，可以循程序提出修改，不能只用大聲或破壞物品來決定。\n\n閱讀約定時，要連結行為、目的與影響。清楚的分工與紀錄能幫助執行，但仍需要成員願意參與。圖卡是這個教學情境的公約，不把所有團體規則直接說成相同的法律。\n\n【追加情境】活動教室新增一位使用輪椅的居民。原本桌椅擺滿中央走道，雖然可以放更多作品，卻讓他無法通行。另一組晚間使用者也反映，材料常未歸位。社區把不同使用者的需求分別記錄，準備檢討配置與交接流程，而不是把所有問題都歸因於某個人不守規矩。",
-    "readingOrder": 2,
-    "readingSkill": "比較整理",
-    "text": "〈小宇的共同空間的使用約定：追加資料〉依原始紀錄：哪兩項約定直接關係到下一位使用者？",
-    "options": [
-      "借用登記與使用後整理",
-      "只顧自己方便與拒絕協調",
-      "破壞物品與不留紀錄",
-      "只聽最有名的人"
-    ],
-    "answer": 0,
-    "explanation": "借用登記與使用後整理。請對照本篇圖卡「共用教室的約定」與文章中的條件、做法和結果；結論不能超過資料提供的範圍。",
-    "family": "b-u2-t98-r2",
-    "difficulty": "core",
-    "sourceIds": [
-      "S5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "共用教室的約定",
-      "table": {
-        "headers": [
-          "行為",
-          "目的"
-        ],
-        "rows": [
-          [
-            "借用時登記",
-            "方便追蹤物品去向"
-          ],
-          [
-            "使用後整理",
-            "讓下一位也能使用"
-          ],
-          [
-            "遇到分歧先協調",
-            "理解不同需要"
-          ]
-        ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "sharedRules"
-    },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "sharedRules"
-    }
-  },
-  {
-    "id": "u2-t98-r3",
-    "unit": 2,
-    "topic": 97,
-    "concept": "臺灣我的家",
-    "type": "single",
-    "passageId": "b-u2-p24",
-    "passageTitle": "小宇的共同空間的使用約定：追加資料",
-    "passage": "【原始紀錄】小宇的社區活動教室需要共用桌椅、圖書與材料。圖卡列出三項約定：借用登記、使用後整理、不同意見先協調。這些約定配合這個場所的共同需要，不代表所有團體、所有場合都只有同一套做法。\n\n有人認為只要自己用得方便，就能讓其他人永遠不能使用；大家回到目的，討論公平與責任。規範若不合適，可以循程序提出修改，不能只用大聲或破壞物品來決定。\n\n閱讀約定時，要連結行為、目的與影響。清楚的分工與紀錄能幫助執行，但仍需要成員願意參與。圖卡是這個教學情境的公約，不把所有團體規則直接說成相同的法律。\n\n【追加情境】活動教室新增一位使用輪椅的居民。原本桌椅擺滿中央走道，雖然可以放更多作品，卻讓他無法通行。另一組晚間使用者也反映，材料常未歸位。社區把不同使用者的需求分別記錄，準備檢討配置與交接流程，而不是把所有問題都歸因於某個人不守規矩。",
-    "readingOrder": 3,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈小宇的共同空間的使用約定：追加資料〉要同時回應輪椅通行與展示需求，哪個方案最合適？",
-    "options": [
-      "先維持最多桌數，等需要者再自行想辦法",
-      "把全部材料停放走道",
-      "共同調整桌椅與展示區，保留可通行動線",
-      "只准同一組居民使用"
-    ],
-    "answer": 2,
-    "explanation": "規畫應兼顧不同需求，可調整空間而非排除使用者。",
-    "family": "b-u2-t98-r3",
-    "difficulty": "challenge",
-    "sourceIds": [
-      "S5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "共用教室的約定",
-      "table": {
-        "headers": [
-          "行為",
-          "目的"
-        ],
-        "rows": [
-          [
-            "借用時登記",
-            "方便追蹤物品去向"
-          ],
-          [
-            "使用後整理",
-            "讓下一位也能使用"
-          ],
-          [
-            "遇到分歧先協調",
-            "理解不同需要"
-          ]
-        ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "sharedRules"
-    },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "sharedRules"
-    }
-  },
-  {
-    "id": "u2-t98-r4",
-    "unit": 2,
-    "topic": 97,
-    "concept": "臺灣我的家",
-    "type": "single",
-    "passageId": "b-u2-p24",
-    "passageTitle": "小宇的共同空間的使用約定：追加資料",
-    "passage": "【原始紀錄】小宇的社區活動教室需要共用桌椅、圖書與材料。圖卡列出三項約定：借用登記、使用後整理、不同意見先協調。這些約定配合這個場所的共同需要，不代表所有團體、所有場合都只有同一套做法。\n\n有人認為只要自己用得方便，就能讓其他人永遠不能使用；大家回到目的，討論公平與責任。規範若不合適，可以循程序提出修改，不能只用大聲或破壞物品來決定。\n\n閱讀約定時，要連結行為、目的與影響。清楚的分工與紀錄能幫助執行，但仍需要成員願意參與。圖卡是這個教學情境的公約，不把所有團體規則直接說成相同的法律。\n\n【追加情境】活動教室新增一位使用輪椅的居民。原本桌椅擺滿中央走道，雖然可以放更多作品，卻讓他無法通行。另一組晚間使用者也反映，材料常未歸位。社區把不同使用者的需求分別記錄，準備檢討配置與交接流程，而不是把所有問題都歸因於某個人不守規矩。",
-    "readingOrder": 4,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈小宇的共同空間的使用約定：追加資料〉晚間使用者常找不到材料，哪項新增流程最有針對性？",
-    "options": [
-      "依區域標示位置，借還交接時共同核對",
-      "把借用者的名字字體放大",
-      "只改教室門口顏色",
-      "將所有物品取消登記"
-    ],
-    "answer": 0,
-    "explanation": "明確位置和交接核對對應物品歸位問題。",
-    "family": "b-u2-t98-r4",
-    "difficulty": "challenge",
-    "sourceIds": [
-      "S5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "共用教室的約定",
-      "table": {
-        "headers": [
-          "行為",
-          "目的"
-        ],
-        "rows": [
-          [
-            "借用時登記",
-            "方便追蹤物品去向"
-          ],
-          [
-            "使用後整理",
-            "讓下一位也能使用"
-          ],
-          [
-            "遇到分歧先協調",
-            "理解不同需要"
-          ]
-        ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "sharedRules"
-    },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "sharedRules"
-    }
-  },
-  {
-    "id": "u2-t98-r5",
-    "unit": 2,
-    "topic": 97,
-    "concept": "臺灣我的家",
-    "type": "single",
-    "passageId": "b-u2-p24",
-    "passageTitle": "小宇的共同空間的使用約定：追加資料",
-    "passage": "【原始紀錄】小宇的社區活動教室需要共用桌椅、圖書與材料。圖卡列出三項約定：借用登記、使用後整理、不同意見先協調。這些約定配合這個場所的共同需要，不代表所有團體、所有場合都只有同一套做法。\n\n有人認為只要自己用得方便，就能讓其他人永遠不能使用；大家回到目的，討論公平與責任。規範若不合適，可以循程序提出修改，不能只用大聲或破壞物品來決定。\n\n閱讀約定時，要連結行為、目的與影響。清楚的分工與紀錄能幫助執行，但仍需要成員願意參與。圖卡是這個教學情境的公約，不把所有團體規則直接說成相同的法律。\n\n【追加情境】活動教室新增一位使用輪椅的居民。原本桌椅擺滿中央走道，雖然可以放更多作品，卻讓他無法通行。另一組晚間使用者也反映，材料常未歸位。社區把不同使用者的需求分別記錄，準備檢討配置與交接流程，而不是把所有問題都歸因於某個人不守規矩。",
-    "readingOrder": 5,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈小宇的共同空間的使用約定：追加資料〉為什麼不能把所有問題都寫成「有人不守規矩」？",
-    "options": [
-      "共同場所不需要任何約定",
-      "每個問題都只由時間造成",
-      "少數需求不用列入",
-      "空間設計、流程及個別行為可能各有影響，需分開查明"
-    ],
-    "answer": 3,
-    "explanation": "應分辨原因，才能提出對應改善，不以單一標籤代替調查。",
-    "family": "b-u2-t98-r5",
-    "difficulty": "challenge",
-    "sourceIds": [
-      "S5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "共用教室的約定",
-      "table": {
-        "headers": [
-          "行為",
-          "目的"
-        ],
-        "rows": [
-          [
-            "借用時登記",
-            "方便追蹤物品去向"
-          ],
-          [
-            "使用後整理",
-            "讓下一位也能使用"
-          ],
-          [
-            "遇到分歧先協調",
-            "理解不同需要"
-          ]
-        ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "sharedRules"
-    },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "sharedRules"
-    }
-  },
-  {
     "id": "u3-t99-r1",
     "unit": 3,
     "topic": 98,
@@ -25240,8 +18211,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "環境線索與規劃重點",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "地點",
@@ -25265,17 +18237,9 @@ window.REVIEW_EXAM_ITEMS=[
             "水位與活動位置"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "landUse"
+      }
     },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "landUse"
-    }
+    "variant": "B"
   },
   {
     "id": "u3-t99-r2",
@@ -25304,8 +18268,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "環境線索與規劃重點",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "地點",
@@ -25329,17 +18294,9 @@ window.REVIEW_EXAM_ITEMS=[
             "水位與活動位置"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "landUse"
+      }
     },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "landUse"
-    }
+    "variant": "B"
   },
   {
     "id": "u3-t99-r3",
@@ -25368,8 +18325,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "環境線索與規劃重點",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "地點",
@@ -25393,17 +18351,9 @@ window.REVIEW_EXAM_ITEMS=[
             "水位與活動位置"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "landUse"
+      }
     },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "landUse"
-    }
+    "variant": "B"
   },
   {
     "id": "u3-t99-r4",
@@ -25432,8 +18382,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "環境線索與規劃重點",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "地點",
@@ -25457,17 +18408,9 @@ window.REVIEW_EXAM_ITEMS=[
             "水位與活動位置"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "landUse"
+      }
     },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "landUse"
-    }
+    "variant": "B"
   },
   {
     "id": "u3-t99-r5",
@@ -25496,8 +18439,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "環境線索與規劃重點",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "地點",
@@ -25521,285 +18465,7 @@ window.REVIEW_EXAM_ITEMS=[
             "水位與活動位置"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "landUse"
-    },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "landUse"
-    }
-  },
-  {
-    "id": "u3-t98-r1",
-    "unit": 3,
-    "topic": 97,
-    "concept": "臺灣的自然環境與生活",
-    "type": "single",
-    "passageId": "b-u3-p24",
-    "passageTitle": "小宇的沿著河流讀地圖：追加資料",
-    "passage": "【原始紀錄】小宇讀一張虛構河流示意：上游位於較高地勢，河水往較低處流，經過中游聚落後到下游出海。圖上用箭頭標出流向，也標示三個觀察點，讓大家把位置與水流方向連起來。\n\n小組知道地圖上方不一定就是所有河流的上游，這張圖要依地勢與流向箭頭判讀。圖沒有完整道路、比例或水質檢測，不能僅靠這張圖就保證某條路可走，或說哪個地點的水一定能喝。\n\n河流與生活有關，也需要保護環境。觀察時依安全安排、不丟垃圾、不任意靠近危險岸邊；想下水質結論，還需要合適的檢測資料，不能只看水面是否漂亮。\n\n【追加情境】圖上甲到乙之間標有一處取水設施，乙附近有居民活動。某次甲上游發生污染事件，小組在水流經過後才收到消息。示意圖可協助判斷可能受影響的先後位置，但沒有污染濃度、流速或水質檢驗，因此不能算出何時到達，也不能判定河水可直接飲用。",
-    "readingOrder": 1,
-    "readingSkill": "讀圖取訊",
-    "text": "〈小宇的沿著河流讀地圖：追加資料〉依原始紀錄：哪個點接近出海處？",
-    "options": [
-      "丙",
-      "甲",
-      "乙",
-      "圖中沒有任何位置"
-    ],
-    "answer": 0,
-    "explanation": "丙。請對照本篇圖卡「虛構河流位置與流向」與文章中的條件、做法和結果；結論不能超過資料提供的範圍。",
-    "family": "b-u3-t98-r1",
-    "difficulty": "core",
-    "sourceIds": [
-      "S5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "bRiver",
-      "caption": "虛構河流位置與流向",
-      "table": {
-        "headers": [
-          "觀察點",
-          "位置"
-        ],
-        "rows": [
-          [
-            "甲",
-            "較高處的上游"
-          ],
-          [
-            "乙",
-            "中游聚落附近"
-          ],
-          [
-            "丙",
-            "下游接近出海處"
-          ]
-        ]
-      },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
-    },
-    "variant": "B"
-  },
-  {
-    "id": "u3-t98-r2",
-    "unit": 3,
-    "topic": 97,
-    "concept": "臺灣的自然環境與生活",
-    "type": "single",
-    "passageId": "b-u3-p24",
-    "passageTitle": "小宇的沿著河流讀地圖：追加資料",
-    "passage": "【原始紀錄】小宇讀一張虛構河流示意：上游位於較高地勢，河水往較低處流，經過中游聚落後到下游出海。圖上用箭頭標出流向，也標示三個觀察點，讓大家把位置與水流方向連起來。\n\n小組知道地圖上方不一定就是所有河流的上游，這張圖要依地勢與流向箭頭判讀。圖沒有完整道路、比例或水質檢測，不能僅靠這張圖就保證某條路可走，或說哪個地點的水一定能喝。\n\n河流與生活有關，也需要保護環境。觀察時依安全安排、不丟垃圾、不任意靠近危險岸邊；想下水質結論，還需要合適的檢測資料，不能只看水面是否漂亮。\n\n【追加情境】圖上甲到乙之間標有一處取水設施，乙附近有居民活動。某次甲上游發生污染事件，小組在水流經過後才收到消息。示意圖可協助判斷可能受影響的先後位置，但沒有污染濃度、流速或水質檢驗，因此不能算出何時到達，也不能判定河水可直接飲用。",
-    "readingOrder": 2,
-    "readingSkill": "比較整理",
-    "text": "〈小宇的沿著河流讀地圖：追加資料〉依原始紀錄：依本圖，水流經過的順序是哪一個？",
-    "options": [
-      "甲 → 乙 → 丙",
-      "丙 → 甲 → 乙",
-      "乙 → 丙 → 甲",
-      "三點完全沒有關聯"
-    ],
-    "answer": 0,
-    "explanation": "甲 → 乙 → 丙。請對照本篇圖卡「虛構河流位置與流向」與文章中的條件、做法和結果；結論不能超過資料提供的範圍。",
-    "family": "b-u3-t98-r2",
-    "difficulty": "core",
-    "sourceIds": [
-      "S5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "bRiver",
-      "caption": "虛構河流位置與流向",
-      "table": {
-        "headers": [
-          "觀察點",
-          "位置"
-        ],
-        "rows": [
-          [
-            "甲",
-            "較高處的上游"
-          ],
-          [
-            "乙",
-            "中游聚落附近"
-          ],
-          [
-            "丙",
-            "下游接近出海處"
-          ]
-        ]
-      },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
-    },
-    "variant": "B"
-  },
-  {
-    "id": "u3-t98-r3",
-    "unit": 3,
-    "topic": 97,
-    "concept": "臺灣的自然環境與生活",
-    "type": "single",
-    "passageId": "b-u3-p24",
-    "passageTitle": "小宇的沿著河流讀地圖：追加資料",
-    "passage": "【原始紀錄】小宇讀一張虛構河流示意：上游位於較高地勢，河水往較低處流，經過中游聚落後到下游出海。圖上用箭頭標出流向，也標示三個觀察點，讓大家把位置與水流方向連起來。\n\n小組知道地圖上方不一定就是所有河流的上游，這張圖要依地勢與流向箭頭判讀。圖沒有完整道路、比例或水質檢測，不能僅靠這張圖就保證某條路可走，或說哪個地點的水一定能喝。\n\n河流與生活有關，也需要保護環境。觀察時依安全安排、不丟垃圾、不任意靠近危險岸邊；想下水質結論，還需要合適的檢測資料，不能只看水面是否漂亮。\n\n【追加情境】圖上甲到乙之間標有一處取水設施，乙附近有居民活動。某次甲上游發生污染事件，小組在水流經過後才收到消息。示意圖可協助判斷可能受影響的先後位置，但沒有污染濃度、流速或水質檢驗，因此不能算出何時到達，也不能判定河水可直接飲用。",
-    "readingOrder": 3,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈小宇的沿著河流讀地圖：追加資料〉若污染隨主河道往下游移動，依圖哪個先後順序較合理？",
-    "options": [
-      "先乙，再丙",
-      "先丙，再甲",
-      "甲乙丙完全沒有位置關係",
-      "只按紙張左右判斷"
-    ],
-    "answer": 0,
-    "explanation": "本圖流向為甲→乙→丙；這是位置先後，不是精確到達時間。",
-    "family": "b-u3-t98-r3",
-    "difficulty": "challenge",
-    "sourceIds": [
-      "S5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "bRiver",
-      "caption": "虛構河流位置與流向",
-      "table": {
-        "headers": [
-          "觀察點",
-          "位置"
-        ],
-        "rows": [
-          [
-            "甲",
-            "較高處的上游"
-          ],
-          [
-            "乙",
-            "中游聚落附近"
-          ],
-          [
-            "丙",
-            "下游接近出海處"
-          ]
-        ]
-      },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
-    },
-    "variant": "B"
-  },
-  {
-    "id": "u3-t98-r4",
-    "unit": 3,
-    "topic": 97,
-    "concept": "臺灣的自然環境與生活",
-    "type": "single",
-    "passageId": "b-u3-p24",
-    "passageTitle": "小宇的沿著河流讀地圖：追加資料",
-    "passage": "【原始紀錄】小宇讀一張虛構河流示意：上游位於較高地勢，河水往較低處流，經過中游聚落後到下游出海。圖上用箭頭標出流向，也標示三個觀察點，讓大家把位置與水流方向連起來。\n\n小組知道地圖上方不一定就是所有河流的上游，這張圖要依地勢與流向箭頭判讀。圖沒有完整道路、比例或水質檢測，不能僅靠這張圖就保證某條路可走，或說哪個地點的水一定能喝。\n\n河流與生活有關，也需要保護環境。觀察時依安全安排、不丟垃圾、不任意靠近危險岸邊；想下水質結論，還需要合適的檢測資料，不能只看水面是否漂亮。\n\n【追加情境】圖上甲到乙之間標有一處取水設施，乙附近有居民活動。某次甲上游發生污染事件，小組在水流經過後才收到消息。示意圖可協助判斷可能受影響的先後位置，但沒有污染濃度、流速或水質檢驗，因此不能算出何時到達，也不能判定河水可直接飲用。",
-    "readingOrder": 4,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈小宇的沿著河流讀地圖：追加資料〉有人想用圖上兩個記號距離估算污染幾分鐘到乙，最主要缺哪些資料？",
-    "options": [
-      "記號的字體和顏色",
-      "適用比例、河道路徑與流速等資料",
-      "班級人數與座位",
-      "上游名稱有幾個字"
-    ],
-    "answer": 1,
-    "explanation": "距離與流速等資訊不足，示意位置不能直接推成到達時間。",
-    "family": "b-u3-t98-r4",
-    "difficulty": "challenge",
-    "sourceIds": [
-      "S5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "bRiver",
-      "caption": "虛構河流位置與流向",
-      "table": {
-        "headers": [
-          "觀察點",
-          "位置"
-        ],
-        "rows": [
-          [
-            "甲",
-            "較高處的上游"
-          ],
-          [
-            "乙",
-            "中游聚落附近"
-          ],
-          [
-            "丙",
-            "下游接近出海處"
-          ]
-        ]
-      },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
-    },
-    "variant": "B"
-  },
-  {
-    "id": "u3-t98-r5",
-    "unit": 3,
-    "topic": 97,
-    "concept": "臺灣的自然環境與生活",
-    "type": "single",
-    "passageId": "b-u3-p24",
-    "passageTitle": "小宇的沿著河流讀地圖：追加資料",
-    "passage": "【原始紀錄】小宇讀一張虛構河流示意：上游位於較高地勢，河水往較低處流，經過中游聚落後到下游出海。圖上用箭頭標出流向，也標示三個觀察點，讓大家把位置與水流方向連起來。\n\n小組知道地圖上方不一定就是所有河流的上游，這張圖要依地勢與流向箭頭判讀。圖沒有完整道路、比例或水質檢測，不能僅靠這張圖就保證某條路可走，或說哪個地點的水一定能喝。\n\n河流與生活有關，也需要保護環境。觀察時依安全安排、不丟垃圾、不任意靠近危險岸邊；想下水質結論，還需要合適的檢測資料，不能只看水面是否漂亮。\n\n【追加情境】圖上甲到乙之間標有一處取水設施，乙附近有居民活動。某次甲上游發生污染事件，小組在水流經過後才收到消息。示意圖可協助判斷可能受影響的先後位置，但沒有污染濃度、流速或水質檢驗，因此不能算出何時到達，也不能判定河水可直接飲用。",
-    "readingOrder": 5,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈小宇的沿著河流讀地圖：追加資料〉哪項應另外查證，不能由箭頭與高低位置直接得到？",
-    "options": [
-      "甲為較高處",
-      "乙在甲之後的河段",
-      "取水處水質是否安全、應採取何種處置",
-      "丙較接近出海處"
-    ],
-    "answer": 2,
-    "explanation": "水質與處置需檢驗及適用通知，不能由位置示意直接判斷。",
-    "family": "b-u3-t98-r5",
-    "difficulty": "challenge",
-    "sourceIds": [
-      "S5"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "bRiver",
-      "caption": "虛構河流位置與流向",
-      "table": {
-        "headers": [
-          "觀察點",
-          "位置"
-        ],
-        "rows": [
-          [
-            "甲",
-            "較高處的上游"
-          ],
-          [
-            "乙",
-            "中游聚落附近"
-          ],
-          [
-            "丙",
-            "下游接近出海處"
-          ]
-        ]
-      },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
+      }
     },
     "variant": "B"
   },
@@ -25824,18 +18490,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u22-t99-tf",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "leafVeins",
-      "caption": "認識植物",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "leafVeins"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -25858,18 +18513,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u22-t98-tf",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "leafVeins",
-      "caption": "認識植物",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "leafVeins"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -25892,18 +18536,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u22-t97-tf",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "fruitSeeds",
-      "caption": "認識植物",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "fruitSeeds"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -25925,7 +18558,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u22-t96-tf"
+    "family": "b-u22-t96-tf",
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -25947,7 +18581,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u22-t95-tf"
+    "family": "b-u22-t95-tf",
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -25969,7 +18604,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u23-t99-tf"
+    "family": "b-u23-t99-tf",
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -25992,18 +18628,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u23-t98-tf",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "cupAir",
-      "caption": "空氣和水",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "cupAir"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -26026,18 +18651,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u23-t97-tf",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "airCompression",
-      "caption": "空氣和水",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "airCompression"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -26060,18 +18674,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u23-t96-tf",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "wind",
-      "caption": "空氣和水",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "wind"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -26094,18 +18697,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u23-t95-tf",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "airCompression",
-      "caption": "空氣和水",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "airCompression"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -26130,18 +18722,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u22-t99-b",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "leafOrder",
-      "caption": "認識植物",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "leafOrder"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -26165,7 +18746,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u22-t98-b"
+    "family": "b-u22-t98-b",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -26189,7 +18771,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u22-t97-b"
+    "family": "b-u22-t97-b",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -26213,7 +18796,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u22-t96-b"
+    "family": "b-u22-t96-b",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -26238,18 +18822,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u22-t95-b",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "flower",
-      "caption": "認識植物",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "flower"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -26274,18 +18847,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u23-t99-b",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "cupAir",
-      "caption": "空氣和水",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "cupAir"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -26310,18 +18872,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u23-t98-b",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "airCompression",
-      "caption": "空氣和水",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "airCompression"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -26345,7 +18896,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u23-t97-b"
+    "family": "b-u23-t97-b",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -26370,18 +18922,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u23-t96-b",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "wind",
-      "caption": "空氣和水",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "自然",
-      "mode": "wind"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -26405,7 +18946,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u23-t95-b"
+    "family": "b-u23-t95-b",
+    "visualPolicy": "none"
   },
   {
     "id": "u22-t99-r1",
@@ -27223,301 +19765,6 @@ window.REVIEW_EXAM_ITEMS=[
     "variant": "B"
   },
   {
-    "id": "u23-t98-r1",
-    "unit": 23,
-    "topic": 97,
-    "concept": "空氣和水",
-    "type": "single",
-    "passageId": "b-u23-p24",
-    "passageTitle": "小宇的兩端活塞一起動：追加資料",
-    "passage": "【原始紀錄】小宇把兩個無針注射筒用管子連起來。第一組裡面是空氣，第二組裡面是水。連接密合時，推動左端活塞，兩組都能觀察到另一端移動；第三次接頭鬆開，效果就與原先不同。\n\n小組記下管子是否連通、接頭是否密合，再看右端活塞的變化。空氣和水都可以在適當裝置中傳送動力；水較不容易壓縮，不代表水不能把動力傳到另一端。\n\n圖是裝置示意，不能只看箭頭就保證器材沒有漏。遇到不同結果，要先檢查連接與操作條件，再思考原因；不用尖針，也不對同學噴射。整理時擦乾桌面，讓下一組安全使用。\n\n【追加情境】小組接著想比較哪種裝置的右端移動距離較大，卻發現原紀錄只有「可以移動」，沒有刻度差。老師建議先定義要量什麼，再固定器材與操作，檢查接頭。原本的成功紀錄可以回答能否傳動，卻不足以直接排出哪種物質在所有裝置中效果最好。",
-    "readingOrder": 1,
-    "readingSkill": "讀圖取訊",
-    "text": "〈小宇的兩端活塞一起動：追加資料〉依原始紀錄：哪兩種物質的裝置都記錄到傳動？",
-    "options": [
-      "空氣與水",
-      "只有石頭與紙",
-      "只有空氣",
-      "只有水"
-    ],
-    "answer": 0,
-    "explanation": "空氣與水。請對照本篇圖卡「連接裝置的觀察」與文章中的條件、做法和結果；結論不能超過資料提供的範圍。",
-    "family": "b-u23-t98-r1",
-    "difficulty": "core",
-    "sourceIds": [
-      "N3",
-      "N3B"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "bPistons",
-      "caption": "連接裝置的觀察",
-      "table": {
-        "headers": [
-          "情境",
-          "連接狀況",
-          "右端活塞"
-        ],
-        "rows": [
-          [
-            "空氣裝置",
-            "密合並連通",
-            "可以移動"
-          ],
-          [
-            "水的裝置",
-            "密合並連通",
-            "可以移動"
-          ],
-          [
-            "接頭鬆開",
-            "出現漏的情形",
-            "效果與原先不同"
-          ]
-        ]
-      },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
-    },
-    "variant": "B"
-  },
-  {
-    "id": "u23-t98-r2",
-    "unit": 23,
-    "topic": 97,
-    "concept": "空氣和水",
-    "type": "single",
-    "passageId": "b-u23-p24",
-    "passageTitle": "小宇的兩端活塞一起動：追加資料",
-    "passage": "【原始紀錄】小宇把兩個無針注射筒用管子連起來。第一組裡面是空氣，第二組裡面是水。連接密合時，推動左端活塞，兩組都能觀察到另一端移動；第三次接頭鬆開，效果就與原先不同。\n\n小組記下管子是否連通、接頭是否密合，再看右端活塞的變化。空氣和水都可以在適當裝置中傳送動力；水較不容易壓縮，不代表水不能把動力傳到另一端。\n\n圖是裝置示意，不能只看箭頭就保證器材沒有漏。遇到不同結果，要先檢查連接與操作條件，再思考原因；不用尖針，也不對同學噴射。整理時擦乾桌面，讓下一組安全使用。\n\n【追加情境】小組接著想比較哪種裝置的右端移動距離較大，卻發現原紀錄只有「可以移動」，沒有刻度差。老師建議先定義要量什麼，再固定器材與操作，檢查接頭。原本的成功紀錄可以回答能否傳動，卻不足以直接排出哪種物質在所有裝置中效果最好。",
-    "readingOrder": 2,
-    "readingSkill": "比較整理",
-    "text": "〈小宇的兩端活塞一起動：追加資料〉依原始紀錄：第三次和前兩次相比，改變什麼？",
-    "options": [
-      "接頭密合情形",
-      "所有植物的種類",
-      "紙條長度",
-      "班級人數"
-    ],
-    "answer": 0,
-    "explanation": "接頭密合情形。請對照本篇圖卡「連接裝置的觀察」與文章中的條件、做法和結果；結論不能超過資料提供的範圍。",
-    "family": "b-u23-t98-r2",
-    "difficulty": "core",
-    "sourceIds": [
-      "N3",
-      "N3B"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "bPistons",
-      "caption": "連接裝置的觀察",
-      "table": {
-        "headers": [
-          "情境",
-          "連接狀況",
-          "右端活塞"
-        ],
-        "rows": [
-          [
-            "空氣裝置",
-            "密合並連通",
-            "可以移動"
-          ],
-          [
-            "水的裝置",
-            "密合並連通",
-            "可以移動"
-          ],
-          [
-            "接頭鬆開",
-            "出現漏的情形",
-            "效果與原先不同"
-          ]
-        ]
-      },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
-    },
-    "variant": "B"
-  },
-  {
-    "id": "u23-t98-r3",
-    "unit": 23,
-    "topic": 97,
-    "concept": "空氣和水",
-    "type": "single",
-    "passageId": "b-u23-p24",
-    "passageTitle": "小宇的兩端活塞一起動：追加資料",
-    "passage": "【原始紀錄】小宇把兩個無針注射筒用管子連起來。第一組裡面是空氣，第二組裡面是水。連接密合時，推動左端活塞，兩組都能觀察到另一端移動；第三次接頭鬆開，效果就與原先不同。\n\n小組記下管子是否連通、接頭是否密合，再看右端活塞的變化。空氣和水都可以在適當裝置中傳送動力；水較不容易壓縮，不代表水不能把動力傳到另一端。\n\n圖是裝置示意，不能只看箭頭就保證器材沒有漏。遇到不同結果，要先檢查連接與操作條件，再思考原因；不用尖針，也不對同學噴射。整理時擦乾桌面，讓下一組安全使用。\n\n【追加情境】小組接著想比較哪種裝置的右端移動距離較大，卻發現原紀錄只有「可以移動」，沒有刻度差。老師建議先定義要量什麼，再固定器材與操作，檢查接頭。原本的成功紀錄可以回答能否傳動，卻不足以直接排出哪種物質在所有裝置中效果最好。",
-    "readingOrder": 3,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈小宇的兩端活塞一起動：追加資料〉原表可支持哪個結論？",
-    "options": [
-      "只有水能傳動",
-      "空氣沒有占空間",
-      "適當連通裝置中，空氣與水都記到傳動",
-      "所有裝置的移動距離相同"
-    ],
-    "answer": 2,
-    "explanation": "兩種物質皆有成功紀錄，不表示效果量化完全相同。",
-    "family": "b-u23-t98-r3",
-    "difficulty": "challenge",
-    "sourceIds": [
-      "N3",
-      "N3B"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "bPistons",
-      "caption": "連接裝置的觀察",
-      "table": {
-        "headers": [
-          "情境",
-          "連接狀況",
-          "右端活塞"
-        ],
-        "rows": [
-          [
-            "空氣裝置",
-            "密合並連通",
-            "可以移動"
-          ],
-          [
-            "水的裝置",
-            "密合並連通",
-            "可以移動"
-          ],
-          [
-            "接頭鬆開",
-            "出現漏的情形",
-            "效果與原先不同"
-          ]
-        ]
-      },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
-    },
-    "variant": "B"
-  },
-  {
-    "id": "u23-t98-r4",
-    "unit": 23,
-    "topic": 97,
-    "concept": "空氣和水",
-    "type": "single",
-    "passageId": "b-u23-p24",
-    "passageTitle": "小宇的兩端活塞一起動：追加資料",
-    "passage": "【原始紀錄】小宇把兩個無針注射筒用管子連起來。第一組裡面是空氣，第二組裡面是水。連接密合時，推動左端活塞，兩組都能觀察到另一端移動；第三次接頭鬆開，效果就與原先不同。\n\n小組記下管子是否連通、接頭是否密合，再看右端活塞的變化。空氣和水都可以在適當裝置中傳送動力；水較不容易壓縮，不代表水不能把動力傳到另一端。\n\n圖是裝置示意，不能只看箭頭就保證器材沒有漏。遇到不同結果，要先檢查連接與操作條件，再思考原因；不用尖針，也不對同學噴射。整理時擦乾桌面，讓下一組安全使用。\n\n【追加情境】小組接著想比較哪種裝置的右端移動距離較大，卻發現原紀錄只有「可以移動」，沒有刻度差。老師建議先定義要量什麼，再固定器材與操作，檢查接頭。原本的成功紀錄可以回答能否傳動，卻不足以直接排出哪種物質在所有裝置中效果最好。",
-    "readingOrder": 4,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈小宇的兩端活塞一起動：追加資料〉若要比較移動距離大小，原表最主要缺什麼？",
-    "options": [
-      "左右端前後刻度、操作及器材條件等量化紀錄",
-      "紀錄者喜歡哪個裝置",
-      "器材名稱字數",
-      "教室門牌號碼"
-    ],
-    "answer": 0,
-    "explanation": "能否移動與移動多少是不同問題，需要相應量化資料。",
-    "family": "b-u23-t98-r4",
-    "difficulty": "challenge",
-    "sourceIds": [
-      "N3",
-      "N3B"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "bPistons",
-      "caption": "連接裝置的觀察",
-      "table": {
-        "headers": [
-          "情境",
-          "連接狀況",
-          "右端活塞"
-        ],
-        "rows": [
-          [
-            "空氣裝置",
-            "密合並連通",
-            "可以移動"
-          ],
-          [
-            "水的裝置",
-            "密合並連通",
-            "可以移動"
-          ],
-          [
-            "接頭鬆開",
-            "出現漏的情形",
-            "效果與原先不同"
-          ]
-        ]
-      },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
-    },
-    "variant": "B"
-  },
-  {
-    "id": "u23-t98-r5",
-    "unit": 23,
-    "topic": 97,
-    "concept": "空氣和水",
-    "type": "single",
-    "passageId": "b-u23-p24",
-    "passageTitle": "小宇的兩端活塞一起動：追加資料",
-    "passage": "【原始紀錄】小宇把兩個無針注射筒用管子連起來。第一組裡面是空氣，第二組裡面是水。連接密合時，推動左端活塞，兩組都能觀察到另一端移動；第三次接頭鬆開，效果就與原先不同。\n\n小組記下管子是否連通、接頭是否密合，再看右端活塞的變化。空氣和水都可以在適當裝置中傳送動力；水較不容易壓縮，不代表水不能把動力傳到另一端。\n\n圖是裝置示意，不能只看箭頭就保證器材沒有漏。遇到不同結果，要先檢查連接與操作條件，再思考原因；不用尖針，也不對同學噴射。整理時擦乾桌面，讓下一組安全使用。\n\n【追加情境】小組接著想比較哪種裝置的右端移動距離較大，卻發現原紀錄只有「可以移動」，沒有刻度差。老師建議先定義要量什麼，再固定器材與操作，檢查接頭。原本的成功紀錄可以回答能否傳動，卻不足以直接排出哪種物質在所有裝置中效果最好。",
-    "readingOrder": 5,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈小宇的兩端活塞一起動：追加資料〉接頭鬆開後效果變弱，下一輪優先做什麼？",
-    "options": [
-      "直接增加用力直到器材損壞",
-      "把結果改成與前次相同",
-      "只換紀錄同學",
-      "檢查密合與連通，修正後在一致條件下重測"
-    ],
-    "answer": 3,
-    "explanation": "裝置狀況是影響結果的重要條件，應先修正再比較。",
-    "family": "b-u23-t98-r5",
-    "difficulty": "challenge",
-    "sourceIds": [
-      "N3",
-      "N3B"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "bPistons",
-      "caption": "連接裝置的觀察",
-      "table": {
-        "headers": [
-          "情境",
-          "連接狀況",
-          "右端活塞"
-        ],
-        "rows": [
-          [
-            "空氣裝置",
-            "密合並連通",
-            "可以移動"
-          ],
-          [
-            "水的裝置",
-            "密合並連通",
-            "可以移動"
-          ],
-          [
-            "接頭鬆開",
-            "出現漏的情形",
-            "效果與原先不同"
-          ]
-        ]
-      },
-      "description": "原創教學情境圖；資料請與文章一起閱讀。",
-      "examLineArt": true
-    },
-    "variant": "B"
-  },
-  {
     "type": "boolean",
     "text": "小組中一人很擅長畫圖，因此這次連文字、訪問與資料核對也全部交給他。這比討論長處和分工，更能讓每人都有學習與參與機會。",
     "options": [
@@ -27537,18 +19784,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u24-t99-tf",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "division",
-      "caption": "升上三年級的新學習",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "division"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -27569,7 +19805,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u24-t98-tf"
+    "family": "b-u24-t98-tf",
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -27591,18 +19828,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u24-t97-tf",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "schedule",
-      "caption": "升上三年級的新學習",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "schedule"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -27624,18 +19850,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u24-t96-tf",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "discussion",
-      "caption": "升上三年級的新學習",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "discussion"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -27656,7 +19871,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u24-t95-tf"
+    "family": "b-u24-t95-tf",
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -27678,18 +19894,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u25-t99-tf",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "vote",
-      "caption": "校園規範和班級自治",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "vote"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -27711,18 +19916,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u25-t98-tf",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "vote",
-      "caption": "校園規範和班級自治",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "vote"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -27744,18 +19938,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u25-t97-tf",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "discussion",
-      "caption": "校園規範和班級自治",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "discussion"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -27777,18 +19960,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u25-t96-tf",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "division",
-      "caption": "校園規範和班級自治",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "division"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "boolean",
@@ -27810,18 +19982,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u25-t95-tf",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "discussion",
-      "caption": "校園規範和班級自治",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "discussion"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -27844,7 +20005,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u24-t99-b"
+    "family": "b-u24-t99-b",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -27867,7 +20029,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u24-t98-b"
+    "family": "b-u24-t98-b",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -27891,18 +20054,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u24-t97-b",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "division",
-      "caption": "升上三年級的新學習",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "division"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -27925,7 +20077,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u24-t96-b"
+    "family": "b-u24-t96-b",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -27949,18 +20102,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u24-t95-b",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "discussion",
-      "caption": "升上三年級的新學習",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "discussion"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -27984,18 +20126,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u25-t99-b",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "vote",
-      "caption": "校園規範和班級自治",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "vote"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -28019,18 +20150,7 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u25-t98-b",
-    "visual": {
-      "kind": "subjectScene",
-      "mode": "discussion",
-      "caption": "校園規範和班級自治",
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false
-    },
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "discussion"
-    }
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -28053,7 +20173,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u25-t97-b"
+    "family": "b-u25-t97-b",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -28076,7 +20197,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u25-t96-b"
+    "family": "b-u25-t96-b",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -28099,7 +20221,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u25-t95-b"
+    "family": "b-u25-t95-b",
+    "visualPolicy": "none"
   },
   {
     "id": "u24-t99-r1",
@@ -28128,8 +20251,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "這次海報的分工",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "同學",
@@ -28149,17 +20273,9 @@ window.REVIEW_EXAM_ITEMS=[
             "口頭介紹"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "teamSkills"
+      }
     },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "teamSkills"
-    }
+    "variant": "B"
   },
   {
     "id": "u24-t99-r2",
@@ -28188,8 +20304,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "這次海報的分工",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "同學",
@@ -28209,17 +20326,9 @@ window.REVIEW_EXAM_ITEMS=[
             "口頭介紹"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "teamSkills"
+      }
     },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "teamSkills"
-    }
+    "variant": "B"
   },
   {
     "id": "u24-t99-r3",
@@ -28248,8 +20357,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "這次海報的分工",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "同學",
@@ -28269,17 +20379,9 @@ window.REVIEW_EXAM_ITEMS=[
             "口頭介紹"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "teamSkills"
+      }
     },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "teamSkills"
-    }
+    "variant": "B"
   },
   {
     "id": "u24-t99-r4",
@@ -28308,8 +20410,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "這次海報的分工",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "同學",
@@ -28329,17 +20432,9 @@ window.REVIEW_EXAM_ITEMS=[
             "口頭介紹"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "teamSkills"
+      }
     },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "teamSkills"
-    }
+    "variant": "B"
   },
   {
     "id": "u24-t99-r5",
@@ -28368,8 +20463,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "這次海報的分工",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "同學",
@@ -28389,17 +20485,9 @@ window.REVIEW_EXAM_ITEMS=[
             "口頭介紹"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "teamSkills"
+      }
     },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "teamSkills"
-    }
+    "variant": "B"
   },
   {
     "id": "u24-t98-r1",
@@ -28428,8 +20516,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "三種訂正做法",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "做法",
@@ -28449,17 +20538,9 @@ window.REVIEW_EXAM_ITEMS=[
             "檢查是否能獨立完成"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "revise"
+      }
     },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "revise"
-    }
+    "variant": "B"
   },
   {
     "id": "u24-t98-r2",
@@ -28488,8 +20569,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "三種訂正做法",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "做法",
@@ -28509,17 +20591,9 @@ window.REVIEW_EXAM_ITEMS=[
             "檢查是否能獨立完成"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "revise"
+      }
     },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "revise"
-    }
+    "variant": "B"
   },
   {
     "id": "u24-t98-r3",
@@ -28548,8 +20622,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "三種訂正做法",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "做法",
@@ -28569,17 +20644,9 @@ window.REVIEW_EXAM_ITEMS=[
             "檢查是否能獨立完成"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "revise"
+      }
     },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "revise"
-    }
+    "variant": "B"
   },
   {
     "id": "u24-t98-r4",
@@ -28608,8 +20675,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "三種訂正做法",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "做法",
@@ -28629,17 +20697,9 @@ window.REVIEW_EXAM_ITEMS=[
             "檢查是否能獨立完成"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "revise"
+      }
     },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "revise"
-    }
+    "variant": "B"
   },
   {
     "id": "u24-t98-r5",
@@ -28668,8 +20728,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "三種訂正做法",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "做法",
@@ -28689,317 +20750,9 @@ window.REVIEW_EXAM_ITEMS=[
             "檢查是否能獨立完成"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "revise"
+      }
     },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "revise"
-    }
-  },
-  {
-    "id": "u25-t99-r1",
-    "unit": 25,
-    "topic": 98,
-    "concept": "校園規範和班級自治",
-    "type": "single",
-    "passageId": "b-u25-p22",
-    "passageTitle": "小安的閱讀角的共同約定：追加資料",
-    "passage": "【原始紀錄】小安發現班級閱讀角常有書找不到。班會先整理問題，再討論借還規則：借出要登記，歸還放到指定籃，由值日同學整理。圖卡同時列出規則與想改善的事情。\n\n有人提議只有幹部的朋友能借書，其他同學認為不公平，便改成每位成員都能依規則使用。幹部也要登記，不會因身分不同就永遠例外。規則若不合適，可以再次提出問題討論。\n\n共同規範是為了讓大家較安全、公平地使用資源，不是只方便少數人。執行後還要觀察效果；有問題時說出具體情形，比私自破壞物品更能幫助改善。\n\n【追加情境】規則試行一週後，登記表完整，歸還籃卻堆滿書，書架上仍找不到。同學先核對借還與上架流程，發現值日生一天只能整理一小段時間。班會準備調整交接分工，保留登記與共同借閱原則，而不是將找不到書一律當成有人未歸還。",
-    "readingOrder": 1,
-    "readingSkill": "讀圖取訊",
-    "text": "〈小安的閱讀角的共同約定：追加資料〉依原始紀錄：借出時登記，主要能知道什麼？",
-    "options": [
-      "書借給誰",
-      "同學的私人密碼",
-      "所有書的作者年齡",
-      "明天一定下雨"
-    ],
-    "answer": 0,
-    "explanation": "書借給誰。請對照本篇圖卡「閱讀角的約定與目的」與文章中的條件、做法和結果；結論不能超過資料提供的範圍。",
-    "family": "b-u25-t99-r1",
-    "difficulty": "core",
-    "sourceIds": [
-      "S3"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "閱讀角的約定與目的",
-      "table": {
-        "headers": [
-          "約定",
-          "想改善的事情"
-        ],
-        "rows": [
-          [
-            "借出時登記",
-            "知道書借給誰"
-          ],
-          [
-            "歸還放指定籃",
-            "方便檢查與上架"
-          ],
-          [
-            "每位成員依規則借閱",
-            "維持公平使用"
-          ]
-        ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "library"
-    },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "library"
-    }
-  },
-  {
-    "id": "u25-t99-r2",
-    "unit": 25,
-    "topic": 98,
-    "concept": "校園規範和班級自治",
-    "type": "single",
-    "passageId": "b-u25-p22",
-    "passageTitle": "小安的閱讀角的共同約定：追加資料",
-    "passage": "【原始紀錄】小安發現班級閱讀角常有書找不到。班會先整理問題，再討論借還規則：借出要登記，歸還放到指定籃，由值日同學整理。圖卡同時列出規則與想改善的事情。\n\n有人提議只有幹部的朋友能借書，其他同學認為不公平，便改成每位成員都能依規則使用。幹部也要登記，不會因身分不同就永遠例外。規則若不合適，可以再次提出問題討論。\n\n共同規範是為了讓大家較安全、公平地使用資源，不是只方便少數人。執行後還要觀察效果；有問題時說出具體情形，比私自破壞物品更能幫助改善。\n\n【追加情境】規則試行一週後，登記表完整，歸還籃卻堆滿書，書架上仍找不到。同學先核對借還與上架流程，發現值日生一天只能整理一小段時間。班會準備調整交接分工，保留登記與共同借閱原則，而不是將找不到書一律當成有人未歸還。",
-    "readingOrder": 2,
-    "readingSkill": "比較整理",
-    "text": "〈小安的閱讀角的共同約定：追加資料〉依原始紀錄：哪個約定有助歸還後整理？",
-    "options": [
-      "放到指定籃",
-      "任意藏到抽屜",
-      "只交給自己朋友",
-      "不准任何人再閱讀"
-    ],
-    "answer": 0,
-    "explanation": "放到指定籃。請對照本篇圖卡「閱讀角的約定與目的」與文章中的條件、做法和結果；結論不能超過資料提供的範圍。",
-    "family": "b-u25-t99-r2",
-    "difficulty": "core",
-    "sourceIds": [
-      "S3"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "閱讀角的約定與目的",
-      "table": {
-        "headers": [
-          "約定",
-          "想改善的事情"
-        ],
-        "rows": [
-          [
-            "借出時登記",
-            "知道書借給誰"
-          ],
-          [
-            "歸還放指定籃",
-            "方便檢查與上架"
-          ],
-          [
-            "每位成員依規則借閱",
-            "維持公平使用"
-          ]
-        ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "library"
-    },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "library"
-    }
-  },
-  {
-    "id": "u25-t99-r3",
-    "unit": 25,
-    "topic": 98,
-    "concept": "校園規範和班級自治",
-    "type": "single",
-    "passageId": "b-u25-p22",
-    "passageTitle": "小安的閱讀角的共同約定：追加資料",
-    "passage": "【原始紀錄】小安發現班級閱讀角常有書找不到。班會先整理問題，再討論借還規則：借出要登記，歸還放到指定籃，由值日同學整理。圖卡同時列出規則與想改善的事情。\n\n有人提議只有幹部的朋友能借書，其他同學認為不公平，便改成每位成員都能依規則使用。幹部也要登記，不會因身分不同就永遠例外。規則若不合適，可以再次提出問題討論。\n\n共同規範是為了讓大家較安全、公平地使用資源，不是只方便少數人。執行後還要觀察效果；有問題時說出具體情形，比私自破壞物品更能幫助改善。\n\n【追加情境】規則試行一週後，登記表完整，歸還籃卻堆滿書，書架上仍找不到。同學先核對借還與上架流程，發現值日生一天只能整理一小段時間。班會準備調整交接分工，保留登記與共同借閱原則，而不是將找不到書一律當成有人未歸還。",
-    "readingOrder": 3,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈小安的閱讀角的共同約定：追加資料〉表格完整、籃內有書但未上架，最應優先查哪個環節？",
-    "options": [
-      "誰的字最漂亮",
-      "借還之後的整理、交接與上架能力",
-      "書籍封面顏色",
-      "班上誰最常發言"
-    ],
-    "answer": 1,
-    "explanation": "證據指向歸還後處理，不應立即認定未還書。",
-    "family": "b-u25-t99-r3",
-    "difficulty": "challenge",
-    "sourceIds": [
-      "S3"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "閱讀角的約定與目的",
-      "table": {
-        "headers": [
-          "約定",
-          "想改善的事情"
-        ],
-        "rows": [
-          [
-            "借出時登記",
-            "知道書借給誰"
-          ],
-          [
-            "歸還放指定籃",
-            "方便檢查與上架"
-          ],
-          [
-            "每位成員依規則借閱",
-            "維持公平使用"
-          ]
-        ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "library"
-    },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "library"
-    }
-  },
-  {
-    "id": "u25-t99-r4",
-    "unit": 25,
-    "topic": 98,
-    "concept": "校園規範和班級自治",
-    "type": "single",
-    "passageId": "b-u25-p22",
-    "passageTitle": "小安的閱讀角的共同約定：追加資料",
-    "passage": "【原始紀錄】小安發現班級閱讀角常有書找不到。班會先整理問題，再討論借還規則：借出要登記，歸還放到指定籃，由值日同學整理。圖卡同時列出規則與想改善的事情。\n\n有人提議只有幹部的朋友能借書，其他同學認為不公平，便改成每位成員都能依規則使用。幹部也要登記，不會因身分不同就永遠例外。規則若不合適，可以再次提出問題討論。\n\n共同規範是為了讓大家較安全、公平地使用資源，不是只方便少數人。執行後還要觀察效果；有問題時說出具體情形，比私自破壞物品更能幫助改善。\n\n【追加情境】規則試行一週後，登記表完整，歸還籃卻堆滿書，書架上仍找不到。同學先核對借還與上架流程，發現值日生一天只能整理一小段時間。班會準備調整交接分工，保留登記與共同借閱原則，而不是將找不到書一律當成有人未歸還。",
-    "readingOrder": 4,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈小安的閱讀角的共同約定：追加資料〉哪個修改最能對應值日生時間不足？",
-    "options": [
-      "取消每個人的借閱機會",
-      "不留紀錄，書放哪都可以",
-      "協調輪值與交接，增加合適的整理時段並追蹤",
-      "只把規則字體放大"
-    ],
-    "answer": 2,
-    "explanation": "改善須針對工作量、時間和流程。",
-    "family": "b-u25-t99-r4",
-    "difficulty": "challenge",
-    "sourceIds": [
-      "S3"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "閱讀角的約定與目的",
-      "table": {
-        "headers": [
-          "約定",
-          "想改善的事情"
-        ],
-        "rows": [
-          [
-            "借出時登記",
-            "知道書借給誰"
-          ],
-          [
-            "歸還放指定籃",
-            "方便檢查與上架"
-          ],
-          [
-            "每位成員依規則借閱",
-            "維持公平使用"
-          ]
-        ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "library"
-    },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "library"
-    }
-  },
-  {
-    "id": "u25-t99-r5",
-    "unit": 25,
-    "topic": 98,
-    "concept": "校園規範和班級自治",
-    "type": "single",
-    "passageId": "b-u25-p22",
-    "passageTitle": "小安的閱讀角的共同約定：追加資料",
-    "passage": "【原始紀錄】小安發現班級閱讀角常有書找不到。班會先整理問題，再討論借還規則：借出要登記，歸還放到指定籃，由值日同學整理。圖卡同時列出規則與想改善的事情。\n\n有人提議只有幹部的朋友能借書，其他同學認為不公平，便改成每位成員都能依規則使用。幹部也要登記，不會因身分不同就永遠例外。規則若不合適，可以再次提出問題討論。\n\n共同規範是為了讓大家較安全、公平地使用資源，不是只方便少數人。執行後還要觀察效果；有問題時說出具體情形，比私自破壞物品更能幫助改善。\n\n【追加情境】規則試行一週後，登記表完整，歸還籃卻堆滿書，書架上仍找不到。同學先核對借還與上架流程，發現值日生一天只能整理一小段時間。班會準備調整交接分工，保留登記與共同借閱原則，而不是將找不到書一律當成有人未歸還。",
-    "readingOrder": 5,
-    "readingSkill": "整合證據、條件與推論",
-    "text": "〈小安的閱讀角的共同約定：追加資料〉為什麼應先查流程，而不直接公開指責借書者？",
-    "options": [
-      "有登記就表示所有工作都完成",
-      "規則不能檢討",
-      "幹部不必提供紀錄",
-      "找不到書有不同可能，應以具體證據判斷原因"
-    ],
-    "answer": 3,
-    "explanation": "程序問題和個人行為應分清，避免無根據歸責。",
-    "family": "b-u25-t99-r5",
-    "difficulty": "challenge",
-    "sourceIds": [
-      "S3"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "visual": {
-      "kind": "subjectScene",
-      "caption": "閱讀角的約定與目的",
-      "table": {
-        "headers": [
-          "約定",
-          "想改善的事情"
-        ],
-        "rows": [
-          [
-            "借出時登記",
-            "知道書借給誰"
-          ],
-          [
-            "歸還放指定籃",
-            "方便檢查與上架"
-          ],
-          [
-            "每位成員依規則借閱",
-            "維持公平使用"
-          ]
-        ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "library"
-    },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "library"
-    }
+    "variant": "B"
   },
   {
     "id": "u25-t98-r1",
@@ -29028,8 +20781,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "這一週的值日分工",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "同學",
@@ -29049,17 +20803,9 @@ window.REVIEW_EXAM_ITEMS=[
             "檢查用品"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "division"
+      }
     },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "division"
-    }
+    "variant": "B"
   },
   {
     "id": "u25-t98-r2",
@@ -29088,8 +20834,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "這一週的值日分工",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "同學",
@@ -29109,17 +20856,9 @@ window.REVIEW_EXAM_ITEMS=[
             "檢查用品"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "division"
+      }
     },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "division"
-    }
+    "variant": "B"
   },
   {
     "id": "u25-t98-r3",
@@ -29148,8 +20887,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "這一週的值日分工",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "同學",
@@ -29169,17 +20909,9 @@ window.REVIEW_EXAM_ITEMS=[
             "檢查用品"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "division"
+      }
     },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "division"
-    }
+    "variant": "B"
   },
   {
     "id": "u25-t98-r4",
@@ -29208,8 +20940,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "這一週的值日分工",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "同學",
@@ -29229,17 +20962,9 @@ window.REVIEW_EXAM_ITEMS=[
             "檢查用品"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "division"
+      }
     },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "division"
-    }
+    "variant": "B"
   },
   {
     "id": "u25-t98-r5",
@@ -29268,8 +20993,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "subjectScene",
+      "kind": "referenceData",
       "caption": "這一週的值日分工",
+      "description": "依題目、文章與資料表判斷。",
       "table": {
         "headers": [
           "同學",
@@ -29289,17 +21015,9 @@ window.REVIEW_EXAM_ITEMS=[
             "檢查用品"
           ]
         ]
-      },
-      "description": "依圖觀察物體、配置或前後關係；圖為情境示意，具體資料以題目與附表為準。",
-      "examLineArt": false,
-      "mode": "division"
+      }
     },
-    "variant": "B",
-    "visualAudit": {
-      "version": 12,
-      "subject": "社會",
-      "mode": "division"
-    }
+    "variant": "B"
   },
   {
     "type": "single",
@@ -29323,7 +21041,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u17-t99-b"
+    "family": "b-u17-t99-b",
+    "visualPolicy": "none"
   },
   {
     "type": "numeric",
@@ -29473,7 +21192,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u18-t99-b"
+    "family": "b-u18-t99-b",
+    "visualPolicy": "none"
   },
   {
     "type": "numeric",
@@ -29521,7 +21241,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u18-t98-n1"
+    "family": "b-u18-t98-n1",
+    "visualPolicy": "none"
   },
   {
     "type": "numeric",
@@ -29613,7 +21334,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u19-t99-b"
+    "family": "b-u19-t99-b",
+    "visualPolicy": "none"
   },
   {
     "type": "numeric",
@@ -29659,7 +21381,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u19-t98-n1"
+    "family": "b-u19-t98-n1",
+    "visualPolicy": "none"
   },
   {
     "type": "numeric",
@@ -29709,7 +21432,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u19-t96-n1"
+    "family": "b-u19-t96-n1",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -29733,7 +21457,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u20-t99-b"
+    "family": "b-u20-t99-b",
+    "visualPolicy": "none"
   },
   {
     "type": "numeric",
@@ -29752,7 +21477,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u20-t99-n1"
+    "family": "b-u20-t99-n1",
+    "visualPolicy": "none"
   },
   {
     "type": "numeric",
@@ -29771,7 +21497,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u20-t98-n1"
+    "family": "b-u20-t98-n1",
+    "visualPolicy": "none"
   },
   {
     "type": "numeric",
@@ -29846,140 +21573,6 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u20-t96-n1"
-  },
-  {
-    "type": "single",
-    "text": "圖中甲、乙都是用三角尺直角畫出的角，乙的兩邊畫得較長。哪個說法有道理？",
-    "options": [
-      "乙的邊長，所以乙的角較大",
-      "兩角張開程度相同，邊畫長不改變角的大小",
-      "甲占紙面少，所以甲是銳角",
-      "角旋轉後就不能再比較"
-    ],
-    "answer": 1,
-    "explanation": "角看兩邊張開程度，邊長與旋轉方向不改變直角性質。",
-    "visual": {
-      "kind": "bAngleCompare",
-      "caption": "兩個直角的不同畫法",
-      "examLineArt": true
-    },
-    "id": "u21-t99-b",
-    "unit": 21,
-    "topic": 98,
-    "concept": "角",
-    "sourceIds": [
-      "A3",
-      "M3"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u21-t99-b"
-  },
-  {
-    "type": "numeric",
-    "text": "附圖是機器人走的路線。每遇到一處直角轉彎就做一個記號，從起點走到終點、不把出發方向當作轉彎，共需做幾個記號？",
-    "answer": 4,
-    "unitLabel": "個",
-    "explanation": "路線有五段直線，中間四個連接處均為直角轉彎。",
-    "visual": {
-      "kind": "bRoute",
-      "caption": "機器人路線；各段橫直交替",
-      "examLineArt": true
-    },
-    "id": "u21-t99-n1",
-    "unit": 21,
-    "topic": 98,
-    "concept": "角",
-    "sourceIds": [
-      "A3",
-      "M3"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u21-t99-n1"
-  },
-  {
-    "type": "text",
-    "text": "把一個直角分成兩個較小的角，沒有缺口也沒有重疊。若其中一角是銳角，另一角應填「銳角」、「直角」還是「鈍角」？",
-    "answer": "銳角",
-    "explanation": "兩部分都小於原來的直角，因此另一角也是銳角。",
-    "visual": {
-      "kind": "bSplitRight",
-      "caption": "一個直角內增加一條分隔線",
-      "examLineArt": true
-    },
-    "id": "u21-t98-b",
-    "unit": 21,
-    "topic": 97,
-    "concept": "角",
-    "sourceIds": [
-      "A3",
-      "M3"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u21-t98-b"
-  },
-  {
-    "type": "single",
-    "text": "附圖中，甲是直角，乙比甲張得小，丙比甲張得大。小組要從小到大排列，並說明依據，哪組記錄正確？",
-    "options": [
-      "乙、甲、丙；依張開程度比較",
-      "甲、乙、丙；先看邊長",
-      "丙、甲、乙；大角先排",
-      "乙、丙、甲；直角一律放最後"
-    ],
-    "answer": 0,
-    "explanation": "乙為銳角、甲直角、丙鈍角，張開程度由乙到丙增加。",
-    "visual": {
-      "kind": "bThreeAngles",
-      "caption": "三個角的比較",
-      "examLineArt": true
-    },
-    "id": "u21-t97-b",
-    "unit": 21,
-    "topic": 96,
-    "concept": "角",
-    "sourceIds": [
-      "A3",
-      "M3"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u21-t97-b"
-  },
-  {
-    "type": "single",
-    "text": "小組用三角尺的直角比圖中的角，已把頂點對齊，但三角尺的邊沒有和圖形重合。小安直接說原角是鈍角。哪個檢查步驟最重要？",
-    "options": [
-      "只看三角尺哪一邊較長",
-      "先讓其中一邊重合，再比較另一邊的張開位置",
-      "把三角尺移到離頂點更遠處",
-      "只看圖形是否朝上"
-    ],
-    "answer": 1,
-    "explanation": "比角時須頂點對齊、一邊重合，才能用另一邊判斷張開程度，不能只對頂點就下結論。",
-    "visual": {
-      "kind": "bAngleMeasure",
-      "caption": "實線為待比較的角，虛線為未擺正的三角尺",
-      "examLineArt": true
-    },
-    "id": "u21-t96-b",
-    "unit": 21,
-    "topic": 95,
-    "concept": "角",
-    "sourceIds": [
-      "A3",
-      "M3"
-    ],
-    "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
-    "difficulty": "challenge",
-    "variant": "B",
-    "family": "b-u21-t96-b"
   },
   {
     "type": "single",
@@ -30213,7 +21806,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u9-t99-b"
+    "family": "b-u9-t99-b",
+    "visualPolicy": "none"
   },
   {
     "type": "numeric",
@@ -30232,7 +21826,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u9-t99-n1"
+    "family": "b-u9-t99-n1",
+    "visualPolicy": "none"
   },
   {
     "type": "numeric",
@@ -30251,7 +21846,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u9-t98-n1"
+    "family": "b-u9-t98-n1",
+    "visualPolicy": "none"
   },
   {
     "type": "numeric",
@@ -30270,7 +21866,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u9-t97-n1"
+    "family": "b-u9-t97-n1",
+    "visualPolicy": "none"
   },
   {
     "type": "numeric",
@@ -30289,7 +21886,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u9-t96-n1"
+    "family": "b-u9-t96-n1",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -30426,7 +22024,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u10-t98-b"
+    "family": "b-u10-t98-b",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -30450,7 +22049,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u11-t99-b"
+    "family": "b-u11-t99-b",
+    "visualPolicy": "none"
   },
   {
     "type": "numeric",
@@ -30469,7 +22069,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u11-t99-n1"
+    "family": "b-u11-t99-n1",
+    "visualPolicy": "none"
   },
   {
     "type": "numeric",
@@ -30488,7 +22089,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u11-t98-n1"
+    "family": "b-u11-t98-n1",
+    "visualPolicy": "none"
   },
   {
     "type": "numeric",
@@ -30507,7 +22109,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u11-t97-n1"
+    "family": "b-u11-t97-n1",
+    "visualPolicy": "none"
   },
   {
     "type": "numeric",
@@ -30526,7 +22129,8 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u11-t96-n1"
+    "family": "b-u11-t96-n1",
+    "visualPolicy": "none"
   },
   {
     "type": "single",
@@ -30957,6 +22561,9538 @@ window.REVIEW_EXAM_ITEMS=[
       "M3B"
     ],
     "sourceType": "依三上第 1～4 單元原創命題",
+    "variant": "B"
+  },
+  {
+    "id": "u13-t94-b",
+    "unit": 13,
+    "topic": 200,
+    "concept": "語詞、句型與閱讀方法",
+    "type": "single",
+    "text": "「由於下雨，因此運動會延期。」哪一部分說明原因？",
+    "options": [
+      "由於下雨",
+      "運動會延期",
+      "因此",
+      "運動會"
+    ],
+    "answer": 0,
+    "explanation": "「由於」後接下雨這個原因，「因此」後說明結果。",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-language-13-0",
+    "visualPolicy": "none",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
+    "libraryKey": "u13-t201-a",
+    "examRevision": 16,
+    "examOrigin": "u13-t51-a",
+    "variant": "A"
+  },
+  {
+    "id": "u13-t93-b",
+    "unit": 13,
+    "topic": 201,
+    "concept": "語詞、句型與閱讀方法",
+    "type": "single",
+    "text": "「我先整理書包，再檢查聯絡簿。」主要表示什麼關係？",
+    "options": [
+      "事情的先後順序",
+      "兩件事完全相反",
+      "只介紹地點",
+      "只表示問題"
+    ],
+    "answer": 0,
+    "explanation": "「先……再……」把動作依順序連起來。",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-language-13-1",
+    "visualPolicy": "none",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
+    "libraryKey": "u13-t202-a",
+    "examRevision": 16,
+    "examOrigin": "u13-t52-a",
+    "variant": "A"
+  },
+  {
+    "id": "u13-t92-b",
+    "unit": 13,
+    "topic": 202,
+    "concept": "語詞、句型與閱讀方法",
+    "type": "single",
+    "text": "哪個句子適合放在問號前？",
+    "options": [
+      "你把便條貼在哪裡",
+      "我已經把作業完成了",
+      "請先把門關上",
+      "今天的天空真美"
+    ],
+    "answer": 0,
+    "explanation": "詢問地點的句子需要問號，其餘是陳述、請求或感嘆。",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-language-13-2",
+    "visualPolicy": "none",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
+    "libraryKey": "u13-t203-a",
+    "examRevision": 16,
+    "examOrigin": "u13-t53-a",
+    "variant": "A"
+  },
+  {
+    "id": "u14-t94-b",
+    "unit": 14,
+    "topic": 200,
+    "concept": "語詞、句型與閱讀方法",
+    "type": "single",
+    "text": "「雖然紙橋倒了，可是小安沒有放棄。」前後是什麼關係？",
+    "options": [
+      "轉折",
+      "事情的先後順序",
+      "同一件事重複兩次",
+      "地點改變"
+    ],
+    "answer": 0,
+    "explanation": "前面說遇到挫折，後面說仍繼續，語意有轉折。",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-language-14-0",
+    "visualPolicy": "none",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
+    "libraryKey": "u14-t201-a",
+    "examRevision": 16,
+    "examOrigin": "u14-t51-a",
+    "variant": "A"
+  },
+  {
+    "id": "u14-t93-b",
+    "unit": 14,
+    "topic": 201,
+    "concept": "語詞、句型與閱讀方法",
+    "type": "single",
+    "text": "「他全神貫注地看著圖畫。」較接近哪個意思？",
+    "options": [
+      "非常專心",
+      "非常生氣",
+      "心裡害怕",
+      "急著離開"
+    ],
+    "answer": 0,
+    "explanation": "全神貫注形容精神高度集中。",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-language-14-1",
+    "visualPolicy": "none",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
+    "libraryKey": "u14-t202-a",
+    "examRevision": 16,
+    "examOrigin": "u14-t52-a",
+    "variant": "A"
+  },
+  {
+    "id": "u13-t91-b",
+    "unit": 13,
+    "topic": 203,
+    "concept": "語詞、句型與閱讀方法",
+    "type": "single",
+    "text": "「鈴聲一響，大家就回教室。」哪件事先發生？",
+    "options": [
+      "鈴聲響",
+      "大家回教室",
+      "兩件事都沒有發生",
+      "句中沒有說明"
+    ],
+    "answer": 0,
+    "explanation": "「一……就……」表示前一事件發生後，緊接著出現後一事件。",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-language-13-3",
+    "visualPolicy": "none",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
+    "libraryKey": "u13-t204-a",
+    "examRevision": 16,
+    "examOrigin": "u13-t54-a",
+    "variant": "A"
+  },
+  {
+    "id": "u13-t90-b",
+    "unit": 13,
+    "topic": 204,
+    "concept": "語詞、句型與閱讀方法",
+    "type": "single",
+    "text": "「請把書放回原位。」是什麼語氣？",
+    "options": [
+      "請求",
+      "疑問",
+      "驚訝",
+      "猜測"
+    ],
+    "answer": 0,
+    "explanation": "「請」表達請求對方採取行動，屬於祈使語氣。",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-language-13-4",
+    "visualPolicy": "none",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
+    "libraryKey": "u13-t205-a",
+    "examRevision": 16,
+    "examOrigin": "u13-t55-a",
+    "variant": "A"
+  },
+  {
+    "id": "u14-t92-b",
+    "unit": 14,
+    "topic": 202,
+    "concept": "語詞、句型與閱讀方法",
+    "type": "single",
+    "text": "「一副眼鏡」的量詞應用在哪個詞組？",
+    "options": [
+      "一副手套",
+      "一副圖畫",
+      "一副書本",
+      "一副鉛筆"
+    ],
+    "answer": 0,
+    "explanation": "「副」常用於成套物件，如眼鏡、手套；圖畫常用幅。",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-language-14-2",
+    "visualPolicy": "none",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
+    "libraryKey": "u14-t203-a",
+    "examRevision": 16,
+    "examOrigin": "u14-t53-a",
+    "variant": "A"
+  },
+  {
+    "id": "u14-t91-b",
+    "unit": 14,
+    "topic": 203,
+    "concept": "語詞、句型與閱讀方法",
+    "type": "single",
+    "text": "「小涵找到方法，終於鬆了一口氣。」可推知她先前可能怎樣？",
+    "options": [
+      "擔心問題無法解決",
+      "早就毫不在意",
+      "正在熟睡",
+      "已經知道所有答案"
+    ],
+    "answer": 0,
+    "explanation": "找到方法後放心，與先前擔憂形成前後關係。",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-language-14-3",
+    "visualPolicy": "none",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
+    "libraryKey": "u14-t204-a",
+    "examRevision": 16,
+    "examOrigin": "u14-t54-a",
+    "variant": "A"
+  },
+  {
+    "id": "u14-t90-b",
+    "unit": 14,
+    "topic": 204,
+    "concept": "語詞、句型與閱讀方法",
+    "type": "single",
+    "text": "哪句把原因說得最清楚？",
+    "options": [
+      "因為紙太薄，所以橋面容易彎曲",
+      "紙橋和書本都在桌上",
+      "今天有自然課",
+      "紙張有白色和藍色"
+    ],
+    "answer": 0,
+    "explanation": "第一句同時指出原因與結果，其他句沒有解釋彎曲的原因。",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-language-14-4",
+    "visualPolicy": "none",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
+    "libraryKey": "u14-t205-a",
+    "examRevision": 16,
+    "examOrigin": "u14-t55-a",
+    "variant": "A"
+  },
+  {
+    "id": "u13-t89-b",
+    "unit": 13,
+    "topic": 220,
+    "concept": "運用時間",
+    "type": "single",
+    "text": "〈早晨少了一場尋找〉第一天阿禾花時間找什麼？",
+    "options": [
+      "水壺",
+      "鉛筆",
+      "外套",
+      "雨傘"
+    ],
+    "answer": 0,
+    "explanation": "文中提到：「七點十分，阿禾又在找水壺」。這項線索支持「水壺」。",
+    "passageId": "library-chinese-13-0",
+    "passageTitle": "早晨少了一場尋找",
+    "passage": "七點十分，阿禾又在找水壺。他把書包翻了兩遍，最後才發現水壺留在昨天的餐袋裡。走到校門時，早自習已經開始。\n\n放學後，他在門旁貼一張便條，寫下「聯絡簿、水壺、餐袋」。睡前先照便條準備，準備好一項便在旁邊畫記號。隔天早晨，他只再檢查一次，就能準時出門。\n\n星期五，媽媽問他是不是跑得更快了。阿禾笑說：「我沒有跑快，是少找了一次東西。」他把便條留在原位，打算下星期繼續使用。",
+    "readingOrder": 1,
+    "readingSkill": "擷取細節",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-chinese-13-0",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u13-t221-r1",
+    "examRevision": 16,
+    "examOrigin": "u13-t63-r1",
+    "variant": "A"
+  },
+  {
+    "id": "u13-t88-b",
+    "unit": 13,
+    "topic": 220,
+    "concept": "運用時間",
+    "type": "single",
+    "text": "〈早晨少了一場尋找〉水壺原本在哪裡？",
+    "options": [
+      "昨天的餐袋裡",
+      "校門旁",
+      "老師桌上",
+      "公車上"
+    ],
+    "answer": 0,
+    "explanation": "文中提到：「他把書包翻了兩遍，最後才發現水壺留在昨天的餐袋裡」。這項線索支持「昨天的餐袋裡」。",
+    "passageId": "library-chinese-13-0",
+    "passageTitle": "早晨少了一場尋找",
+    "passage": "七點十分，阿禾又在找水壺。他把書包翻了兩遍，最後才發現水壺留在昨天的餐袋裡。走到校門時，早自習已經開始。\n\n放學後，他在門旁貼一張便條，寫下「聯絡簿、水壺、餐袋」。睡前先照便條準備，準備好一項便在旁邊畫記號。隔天早晨，他只再檢查一次，就能準時出門。\n\n星期五，媽媽問他是不是跑得更快了。阿禾笑說：「我沒有跑快，是少找了一次東西。」他把便條留在原位，打算下星期繼續使用。",
+    "readingOrder": 2,
+    "readingSkill": "理解詞句",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-chinese-13-0",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u13-t221-r2",
+    "examRevision": 16,
+    "examOrigin": "u13-t63-r2",
+    "variant": "A"
+  },
+  {
+    "id": "u13-t87-b",
+    "unit": 13,
+    "topic": 220,
+    "concept": "運用時間",
+    "type": "single",
+    "text": "〈早晨少了一場尋找〉後來的便條主要有什麼作用？",
+    "options": [
+      "提醒事先備妥用品",
+      "代替完成作業",
+      "記下全班姓名",
+      "裝飾餐袋"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「提醒事先備妥用品」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-13-0",
+    "passageTitle": "早晨少了一場尋找",
+    "passage": "七點十分，阿禾又在找水壺。他把書包翻了兩遍，最後才發現水壺留在昨天的餐袋裡。走到校門時，早自習已經開始。\n\n放學後，他在門旁貼一張便條，寫下「聯絡簿、水壺、餐袋」。睡前先照便條準備，準備好一項便在旁邊畫記號。隔天早晨，他只再檢查一次，就能準時出門。\n\n星期五，媽媽問他是不是跑得更快了。阿禾笑說：「我沒有跑快，是少找了一次東西。」他把便條留在原位，打算下星期繼續使用。",
+    "readingOrder": 3,
+    "readingSkill": "因果整合",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-chinese-13-0",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u13-t221-r3",
+    "examRevision": 16,
+    "examOrigin": "u13-t63-r3",
+    "variant": "A"
+  },
+  {
+    "id": "u13-t86-b",
+    "unit": 13,
+    "topic": 221,
+    "concept": "運用時間",
+    "type": "single",
+    "text": "〈圖書角的五分鐘〉小晴原本想做什麼？",
+    "options": [
+      "再讀一章故事",
+      "擦黑板",
+      "買一本新書",
+      "回家吃飯"
+    ],
+    "answer": 0,
+    "explanation": "文中提到：「午休後還有五分鐘，小晴原本想再讀一章故事」。這項線索支持「再讀一章故事」。",
+    "passageId": "library-chinese-13-1",
+    "passageTitle": "圖書角的五分鐘",
+    "passage": "午休後還有五分鐘，小晴原本想再讀一章故事。她翻到下一頁，卻看到同學正搬著一大疊書，書本快從手上滑落。\n\n小晴先把書籤夾好，走過去接住幾本書，和同學一起依書背標籤放回架上。兩人分別負責左、右兩排，很快就把桌面清空。\n\n上課鈴響時，小晴沒有讀完下一章，但她也沒有忘記自己讀到哪裡。她看著書籤想：這五分鐘沒有被浪費，只是用來完成另一件需要做的事。",
+    "readingOrder": 1,
+    "readingSkill": "擷取細節",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-chinese-13-1",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u13-t222-r1",
+    "examRevision": 16,
+    "examOrigin": "u13-t64-r1",
+    "variant": "A"
+  },
+  {
+    "id": "u13-t85-b",
+    "unit": 13,
+    "topic": 221,
+    "concept": "運用時間",
+    "type": "single",
+    "text": "〈圖書角的五分鐘〉她先夾書籤的原因較可能是什麼？",
+    "options": [
+      "方便之後接著讀",
+      "把書永久封起來",
+      "記錄同學成績",
+      "更換書背標籤"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「方便之後接著讀」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-13-1",
+    "passageTitle": "圖書角的五分鐘",
+    "passage": "午休後還有五分鐘，小晴原本想再讀一章故事。她翻到下一頁，卻看到同學正搬著一大疊書，書本快從手上滑落。\n\n小晴先把書籤夾好，走過去接住幾本書，和同學一起依書背標籤放回架上。兩人分別負責左、右兩排，很快就把桌面清空。\n\n上課鈴響時，小晴沒有讀完下一章，但她也沒有忘記自己讀到哪裡。她看著書籤想：這五分鐘沒有被浪費，只是用來完成另一件需要做的事。",
+    "readingOrder": 2,
+    "readingSkill": "理解詞句",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-chinese-13-1",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u13-t222-r2",
+    "examRevision": 16,
+    "examOrigin": "u13-t64-r2",
+    "variant": "A"
+  },
+  {
+    "id": "u13-t84-b",
+    "unit": 13,
+    "topic": 221,
+    "concept": "運用時間",
+    "type": "single",
+    "text": "〈圖書角的五分鐘〉兩人怎麼分工？",
+    "options": [
+      "各負責一排書架",
+      "一人做完全部工作",
+      "兩人都只看書",
+      "都先離開圖書角"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「各負責一排書架」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-13-1",
+    "passageTitle": "圖書角的五分鐘",
+    "passage": "午休後還有五分鐘，小晴原本想再讀一章故事。她翻到下一頁，卻看到同學正搬著一大疊書，書本快從手上滑落。\n\n小晴先把書籤夾好，走過去接住幾本書，和同學一起依書背標籤放回架上。兩人分別負責左、右兩排，很快就把桌面清空。\n\n上課鈴響時，小晴沒有讀完下一章，但她也沒有忘記自己讀到哪裡。她看著書籤想：這五分鐘沒有被浪費，只是用來完成另一件需要做的事。",
+    "readingOrder": 3,
+    "readingSkill": "因果整合",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-chinese-13-1",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u13-t222-r3",
+    "examRevision": 16,
+    "examOrigin": "u13-t64-r3",
+    "variant": "A"
+  },
+  {
+    "id": "u13-t83-b",
+    "unit": 13,
+    "topic": 222,
+    "concept": "運用時間",
+    "type": "single",
+    "text": "〈不會再掉下來的便條〉第一次便條貼在哪裡？",
+    "options": [
+      "書桌底下",
+      "鉛筆盒旁",
+      "書包拉鍊上",
+      "教室門口"
+    ],
+    "answer": 0,
+    "explanation": "文中提到：「小宇把「星期四帶彩色筆」寫在便條上，貼在書桌底下」。這項線索支持「書桌底下」。",
+    "passageId": "library-chinese-13-2",
+    "passageTitle": "不會再掉下來的便條",
+    "passage": "小宇把「星期四帶彩色筆」寫在便條上，貼在書桌底下。到了星期四，他仍空著手進教室，才想起自己根本沒看見那張便條。\n\n回家後，他沒有多寫十張，而是把原來的一張移到鉛筆盒旁。準備書包時，便條正好在視線裡；把彩色筆放進去後，他再取下便條。\n\n下次要帶剪刀時，小宇也用同一個位置。他發現，提醒不只要寫對內容，還要放在會看見、會用到的地方。",
+    "readingOrder": 1,
+    "readingSkill": "擷取細節",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-chinese-13-2",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u13-t223-r1",
+    "examRevision": 16,
+    "examOrigin": "u13-t65-r1",
+    "variant": "A"
+  },
+  {
+    "id": "u13-t82-b",
+    "unit": 13,
+    "topic": 222,
+    "concept": "運用時間",
+    "type": "single",
+    "text": "〈不會再掉下來的便條〉為什麼寫了便條仍忘記？",
+    "options": [
+      "便條放在不容易看見的位置",
+      "便條上沒有任何字",
+      "他把彩色筆借完了",
+      "星期四沒有上課"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「便條放在不容易看見的位置」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-13-2",
+    "passageTitle": "不會再掉下來的便條",
+    "passage": "小宇把「星期四帶彩色筆」寫在便條上，貼在書桌底下。到了星期四，他仍空著手進教室，才想起自己根本沒看見那張便條。\n\n回家後，他沒有多寫十張，而是把原來的一張移到鉛筆盒旁。準備書包時，便條正好在視線裡；把彩色筆放進去後，他再取下便條。\n\n下次要帶剪刀時，小宇也用同一個位置。他發現，提醒不只要寫對內容，還要放在會看見、會用到的地方。",
+    "readingOrder": 2,
+    "readingSkill": "理解詞句",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-chinese-13-2",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u13-t223-r2",
+    "examRevision": 16,
+    "examOrigin": "u13-t65-r2",
+    "variant": "A"
+  },
+  {
+    "id": "u13-t81-b",
+    "unit": 13,
+    "topic": 222,
+    "concept": "運用時間",
+    "type": "single",
+    "text": "〈不會再掉下來的便條〉後來他把便條移到哪裡？",
+    "options": [
+      "鉛筆盒旁",
+      "書桌底下",
+      "衣櫃最上層",
+      "學校操場"
+    ],
+    "answer": 0,
+    "explanation": "文中提到：「回家後，他沒有多寫十張，而是把原來的一張移到鉛筆盒旁」。這項線索支持「鉛筆盒旁」。",
+    "passageId": "library-chinese-13-2",
+    "passageTitle": "不會再掉下來的便條",
+    "passage": "小宇把「星期四帶彩色筆」寫在便條上，貼在書桌底下。到了星期四，他仍空著手進教室，才想起自己根本沒看見那張便條。\n\n回家後，他沒有多寫十張，而是把原來的一張移到鉛筆盒旁。準備書包時，便條正好在視線裡；把彩色筆放進去後，他再取下便條。\n\n下次要帶剪刀時，小宇也用同一個位置。他發現，提醒不只要寫對內容，還要放在會看見、會用到的地方。",
+    "readingOrder": 3,
+    "readingSkill": "因果整合",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-chinese-13-2",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u13-t223-r3",
+    "examRevision": 16,
+    "examOrigin": "u13-t65-r3",
+    "variant": "A"
+  },
+  {
+    "id": "u13-t80-b",
+    "unit": 13,
+    "topic": 222,
+    "concept": "運用時間",
+    "type": "single",
+    "text": "〈不會再掉下來的便條〉哪個做法最符合後來的方法？",
+    "options": [
+      "在準備用品的位置放提醒",
+      "只增加便條數量但都藏起來",
+      "帶好用品前就丟掉便條",
+      "把日期全部刪掉"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「在準備用品的位置放提醒」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-13-2",
+    "passageTitle": "不會再掉下來的便條",
+    "passage": "小宇把「星期四帶彩色筆」寫在便條上，貼在書桌底下。到了星期四，他仍空著手進教室，才想起自己根本沒看見那張便條。\n\n回家後，他沒有多寫十張，而是把原來的一張移到鉛筆盒旁。準備書包時，便條正好在視線裡；把彩色筆放進去後，他再取下便條。\n\n下次要帶剪刀時，小宇也用同一個位置。他發現，提醒不只要寫對內容，還要放在會看見、會用到的地方。",
+    "readingOrder": 4,
+    "readingSkill": "事件順序與應用",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-chinese-13-2",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u13-t223-r4",
+    "examRevision": 16,
+    "examOrigin": "u13-t65-r4",
+    "variant": "A"
+  },
+  {
+    "id": "u14-t89-b",
+    "unit": 14,
+    "topic": 220,
+    "concept": "解決問題",
+    "type": "single",
+    "text": "〈紙橋第二次站起來〉第一次紙橋發生什麼事？",
+    "options": [
+      "放硬幣後彎下",
+      "變成木橋",
+      "沒有使用紙",
+      "書本消失了"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「放硬幣後彎下」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-14-0",
+    "passageTitle": "紙橋第二次站起來",
+    "passage": "小安把一張平紙搭在兩本書之間，放上一枚硬幣，紙橋就彎了。他正想再加一張紙，同學卻指著紙扇問：「摺過的紙會不會不一樣？」\n\n小安用相同大小的另一張紙摺出連續折痕，書本距離不變，再放同樣硬幣。這次紙橋沒有立刻彎下。他把兩次的紙張形狀和結果畫在紀錄上。\n\n他沒有說所有紙橋都一定承受得住，而是先寫下這次比較的條件。下次，他想再試試書本距離改變後會怎樣。",
+    "readingOrder": 1,
+    "readingSkill": "擷取細節",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-chinese-14-0",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u14-t221-r1",
+    "examRevision": 16,
+    "examOrigin": "u14-t63-r1",
+    "variant": "A"
+  },
+  {
+    "id": "u14-t88-b",
+    "unit": 14,
+    "topic": 220,
+    "concept": "解決問題",
+    "type": "single",
+    "text": "〈紙橋第二次站起來〉同學用什麼提醒他想新方法？",
+    "options": [
+      "紙扇",
+      "水壺",
+      "鞋帶",
+      "時鐘"
+    ],
+    "answer": 0,
+    "explanation": "文中提到：「他正想再加一張紙，同學卻指著紙扇問：「摺過的紙會不會不一樣」。這項線索支持「紙扇」。",
+    "passageId": "library-chinese-14-0",
+    "passageTitle": "紙橋第二次站起來",
+    "passage": "小安把一張平紙搭在兩本書之間，放上一枚硬幣，紙橋就彎了。他正想再加一張紙，同學卻指著紙扇問：「摺過的紙會不會不一樣？」\n\n小安用相同大小的另一張紙摺出連續折痕，書本距離不變，再放同樣硬幣。這次紙橋沒有立刻彎下。他把兩次的紙張形狀和結果畫在紀錄上。\n\n他沒有說所有紙橋都一定承受得住，而是先寫下這次比較的條件。下次，他想再試試書本距離改變後會怎樣。",
+    "readingOrder": 2,
+    "readingSkill": "理解詞句",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-chinese-14-0",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u14-t221-r2",
+    "examRevision": 16,
+    "examOrigin": "u14-t63-r2",
+    "variant": "A"
+  },
+  {
+    "id": "u14-t87-b",
+    "unit": 14,
+    "topic": 220,
+    "concept": "解決問題",
+    "type": "single",
+    "text": "〈紙橋第二次站起來〉第二次主要改變什麼？",
+    "options": [
+      "紙張摺成有連續折痕",
+      "書本距離加倍",
+      "硬幣換成更輕的羽毛",
+      "書本全部拿走"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「紙張摺成有連續折痕」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-14-0",
+    "passageTitle": "紙橋第二次站起來",
+    "passage": "小安把一張平紙搭在兩本書之間，放上一枚硬幣，紙橋就彎了。他正想再加一張紙，同學卻指著紙扇問：「摺過的紙會不會不一樣？」\n\n小安用相同大小的另一張紙摺出連續折痕，書本距離不變，再放同樣硬幣。這次紙橋沒有立刻彎下。他把兩次的紙張形狀和結果畫在紀錄上。\n\n他沒有說所有紙橋都一定承受得住，而是先寫下這次比較的條件。下次，他想再試試書本距離改變後會怎樣。",
+    "readingOrder": 3,
+    "readingSkill": "因果整合",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-chinese-14-0",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u14-t221-r3",
+    "examRevision": 16,
+    "examOrigin": "u14-t63-r3",
+    "variant": "A"
+  },
+  {
+    "id": "u14-t86-b",
+    "unit": 14,
+    "topic": 221,
+    "concept": "解決問題",
+    "type": "single",
+    "text": "〈鉛筆不再滾下桌〉鉛筆為什麼容易掉下？",
+    "options": [
+      "圓筆在微斜桌面滾動",
+      "鉛筆自己會跳",
+      "桌子完全沒有桌面",
+      "筆槽太深"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「圓筆在微斜桌面滾動」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-14-1",
+    "passageTitle": "鉛筆不再滾下桌",
+    "passage": "小涵的圓鉛筆常從微斜的桌面滾下。她先用橡皮擦擋住，拿橡皮擦寫別題時，鉛筆又掉了。\n\n她找一張厚紙摺成淺淺的長槽，把鉛筆放在裡面。下課推椅子時，鉛筆仍留在槽裡。小涵把紙槽貼在桌面不妨礙寫字的一側，也留出拿筆空間。\n\n同學問她為什麼不一直用手扶著，她笑說：「寫字時可以拿筆，休息時也該有個放筆的位置。」她的做法解決了鉛筆滾動，也沒有占去整張桌子。",
+    "readingOrder": 1,
+    "readingSkill": "擷取細節",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-chinese-14-1",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u14-t222-r1",
+    "examRevision": 16,
+    "examOrigin": "u14-t64-r1",
+    "variant": "A"
+  },
+  {
+    "id": "u14-t85-b",
+    "unit": 14,
+    "topic": 221,
+    "concept": "解決問題",
+    "type": "single",
+    "text": "〈鉛筆不再滾下桌〉最初用什麼擋住鉛筆？",
+    "options": [
+      "橡皮擦",
+      "紙槽",
+      "膠水瓶蓋",
+      "書籤"
+    ],
+    "answer": 0,
+    "explanation": "文中提到：「她先用橡皮擦擋住，拿橡皮擦寫別題時，鉛筆又掉了」。這項線索支持「橡皮擦」。",
+    "passageId": "library-chinese-14-1",
+    "passageTitle": "鉛筆不再滾下桌",
+    "passage": "小涵的圓鉛筆常從微斜的桌面滾下。她先用橡皮擦擋住，拿橡皮擦寫別題時，鉛筆又掉了。\n\n她找一張厚紙摺成淺淺的長槽，把鉛筆放在裡面。下課推椅子時，鉛筆仍留在槽裡。小涵把紙槽貼在桌面不妨礙寫字的一側，也留出拿筆空間。\n\n同學問她為什麼不一直用手扶著，她笑說：「寫字時可以拿筆，休息時也該有個放筆的位置。」她的做法解決了鉛筆滾動，也沒有占去整張桌子。",
+    "readingOrder": 2,
+    "readingSkill": "理解詞句",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-chinese-14-1",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u14-t222-r2",
+    "examRevision": 16,
+    "examOrigin": "u14-t64-r2",
+    "variant": "A"
+  },
+  {
+    "id": "u14-t84-b",
+    "unit": 14,
+    "topic": 221,
+    "concept": "解決問題",
+    "type": "single",
+    "text": "〈鉛筆不再滾下桌〉原先的方法有何困難？",
+    "options": [
+      "拿走橡皮擦後就失去阻擋",
+      "橡皮擦不能被移動",
+      "鉛筆不能拿來寫字",
+      "桌子一定會裂開"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「拿走橡皮擦後就失去阻擋」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-14-1",
+    "passageTitle": "鉛筆不再滾下桌",
+    "passage": "小涵的圓鉛筆常從微斜的桌面滾下。她先用橡皮擦擋住，拿橡皮擦寫別題時，鉛筆又掉了。\n\n她找一張厚紙摺成淺淺的長槽，把鉛筆放在裡面。下課推椅子時，鉛筆仍留在槽裡。小涵把紙槽貼在桌面不妨礙寫字的一側，也留出拿筆空間。\n\n同學問她為什麼不一直用手扶著，她笑說：「寫字時可以拿筆，休息時也該有個放筆的位置。」她的做法解決了鉛筆滾動，也沒有占去整張桌子。",
+    "readingOrder": 3,
+    "readingSkill": "因果整合",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-chinese-14-1",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u14-t222-r3",
+    "examRevision": 16,
+    "examOrigin": "u14-t64-r3",
+    "variant": "A"
+  },
+  {
+    "id": "u14-t83-b",
+    "unit": 14,
+    "topic": 222,
+    "concept": "解決問題",
+    "type": "single",
+    "text": "〈公告上的小字〉從門口原先看不清什麼？",
+    "options": [
+      "集合時間",
+      "教室窗戶",
+      "老師姓名牌",
+      "海報紙張背面"
+    ],
+    "answer": 0,
+    "explanation": "文中提到：「站近時看得清楚，站到門口的同學卻只看見彩色圖案，不知道集合時間」。這項線索支持「集合時間」。",
+    "passageId": "library-chinese-14-2",
+    "passageTitle": "公告上的小字",
+    "passage": "校慶海報完成後，小琳把它貼在教室後方。站近時看得清楚，站到門口的同學卻只看見彩色圖案，不知道集合時間。\n\n小琳沒有只把花邊畫得更粗。她把集合時間和地點改成較大的字，減少不必要的裝飾，再請同學站到門口讀一次。這回，同學順利說出兩項資訊。\n\n她把修改前後的海報放在一起，發現美觀之外，公告更要讓需要的人看清楚。下一次，她打算先從遠處檢查，再正式張貼。",
+    "readingOrder": 1,
+    "readingSkill": "擷取細節",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-chinese-14-2",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u14-t223-r1",
+    "examRevision": 16,
+    "examOrigin": "u14-t65-r1",
+    "variant": "A"
+  },
+  {
+    "id": "u14-t82-b",
+    "unit": 14,
+    "topic": 222,
+    "concept": "解決問題",
+    "type": "single",
+    "text": "〈公告上的小字〉小琳主要做了什麼修改？",
+    "options": [
+      "放大重要資訊並減少裝飾",
+      "只把花邊加粗",
+      "把時間全部刪掉",
+      "把海報藏到櫃子"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「放大重要資訊並減少裝飾」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-14-2",
+    "passageTitle": "公告上的小字",
+    "passage": "校慶海報完成後，小琳把它貼在教室後方。站近時看得清楚，站到門口的同學卻只看見彩色圖案，不知道集合時間。\n\n小琳沒有只把花邊畫得更粗。她把集合時間和地點改成較大的字，減少不必要的裝飾，再請同學站到門口讀一次。這回，同學順利說出兩項資訊。\n\n她把修改前後的海報放在一起，發現美觀之外，公告更要讓需要的人看清楚。下一次，她打算先從遠處檢查，再正式張貼。",
+    "readingOrder": 2,
+    "readingSkill": "理解詞句",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-chinese-14-2",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u14-t223-r2",
+    "examRevision": 16,
+    "examOrigin": "u14-t65-r2",
+    "variant": "A"
+  },
+  {
+    "id": "u14-t81-b",
+    "unit": 14,
+    "topic": 222,
+    "concept": "解決問題",
+    "type": "single",
+    "text": "〈公告上的小字〉如何確認修改有效？",
+    "options": [
+      "請同學站到門口再讀",
+      "只由自己站最近看",
+      "只比較顏色數量",
+      "不讓任何人看"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「請同學站到門口再讀」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-14-2",
+    "passageTitle": "公告上的小字",
+    "passage": "校慶海報完成後，小琳把它貼在教室後方。站近時看得清楚，站到門口的同學卻只看見彩色圖案，不知道集合時間。\n\n小琳沒有只把花邊畫得更粗。她把集合時間和地點改成較大的字，減少不必要的裝飾，再請同學站到門口讀一次。這回，同學順利說出兩項資訊。\n\n她把修改前後的海報放在一起，發現美觀之外，公告更要讓需要的人看清楚。下一次，她打算先從遠處檢查，再正式張貼。",
+    "readingOrder": 3,
+    "readingSkill": "因果整合",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-chinese-14-2",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u14-t223-r3",
+    "examRevision": 16,
+    "examOrigin": "u14-t65-r3",
+    "variant": "A"
+  },
+  {
+    "id": "u14-t80-b",
+    "unit": 14,
+    "topic": 222,
+    "concept": "解決問題",
+    "type": "single",
+    "text": "〈公告上的小字〉「美觀之外」在文中提醒什麼？",
+    "options": [
+      "也要注意資訊是否清楚可讀",
+      "公告不能有任何圖案",
+      "字體只能有一種顏色",
+      "越遠越不需要讀懂"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「也要注意資訊是否清楚可讀」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-14-2",
+    "passageTitle": "公告上的小字",
+    "passage": "校慶海報完成後，小琳把它貼在教室後方。站近時看得清楚，站到門口的同學卻只看見彩色圖案，不知道集合時間。\n\n小琳沒有只把花邊畫得更粗。她把集合時間和地點改成較大的字，減少不必要的裝飾，再請同學站到門口讀一次。這回，同學順利說出兩項資訊。\n\n她把修改前後的海報放在一起，發現美觀之外，公告更要讓需要的人看清楚。下一次，她打算先從遠處檢查，再正式張貼。",
+    "readingOrder": 4,
+    "readingSkill": "事件順序與應用",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-chinese-14-2",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u14-t223-r4",
+    "examRevision": 16,
+    "examOrigin": "u14-t65-r4",
+    "variant": "A"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u15-t94-b",
+    "topic": 200,
+    "concept": "名字與初次見面",
+    "family": "library-en-15-0",
+    "type": "single",
+    "text": "A: What’s your name?　B: ______",
+    "options": [
+      "My name is Ben.",
+      "I’m seven.",
+      "Good morning.",
+      "Nice to meet you."
+    ],
+    "answer": 0,
+    "explanation": "詢問姓名時，以 My name is… 或 I’m… 加姓名回答。",
+    "libraryKey": "u15-t201-a",
+    "examRevision": 16,
+    "examOrigin": "u15-t51-a",
+    "variant": "A"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u15-t93-b",
+    "topic": 201,
+    "concept": "名字與初次見面",
+    "family": "library-en-15-1",
+    "type": "single",
+    "text": "A: Nice to meet you.　B: ______",
+    "options": [
+      "Nice to meet you, too.",
+      "My name is Nice.",
+      "What’s your name, too?",
+      "I’m morning."
+    ],
+    "answer": 0,
+    "explanation": "初次見面的招呼可回應 Nice to meet you, too.。",
+    "libraryKey": "u15-t202-a",
+    "examRevision": 16,
+    "examOrigin": "u15-t52-a",
+    "variant": "A"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u15-t92-b",
+    "topic": 202,
+    "concept": "名字與初次見面",
+    "family": "library-en-15-2",
+    "type": "single",
+    "text": "「My name is Amy.」說話者的名字是什麼？",
+    "options": [
+      "Amy",
+      "My",
+      "Name",
+      "Is"
+    ],
+    "answer": 0,
+    "explanation": "My name is 後面的 Amy 是姓名。",
+    "libraryKey": "u15-t203-a",
+    "examRevision": 16,
+    "examOrigin": "u15-t53-a",
+    "variant": "A"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u16-t94-b",
+    "topic": 200,
+    "concept": "年齡與自我介紹",
+    "family": "library-en-16-0",
+    "type": "single",
+    "text": "A: How old are you?　B: ______",
+    "options": [
+      "I’m eight.",
+      "My name is Amy.",
+      "Good morning.",
+      "Nice to meet you."
+    ],
+    "answer": 0,
+    "explanation": "How old are you? 詢問年齡，應以年歲回答。",
+    "libraryKey": "u16-t201-a",
+    "examRevision": 16,
+    "examOrigin": "u16-t51-a",
+    "variant": "A"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u16-t93-b",
+    "topic": 201,
+    "concept": "年齡與自我介紹",
+    "family": "library-en-16-1",
+    "type": "single",
+    "text": "「I’m ten years old.」是幾歲？",
+    "options": [
+      "10",
+      "1",
+      "7",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "ten 是十，不是 one。",
+    "libraryKey": "u16-t202-a",
+    "examRevision": 16,
+    "examOrigin": "u16-t52-a",
+    "variant": "A"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u15-t91-b",
+    "topic": 203,
+    "concept": "名字與初次見面",
+    "family": "library-en-15-3",
+    "type": "single",
+    "text": "哪個句子是在介紹自己？",
+    "options": [
+      "I’m Cody.",
+      "Hello, Cody.",
+      "Good morning, Cody.",
+      "Nice to meet you, Cody."
+    ],
+    "answer": 0,
+    "explanation": "I’m Cody. 介紹自己的名字；其他句子是在對 Cody 打招呼。",
+    "libraryKey": "u15-t204-a",
+    "examRevision": 16,
+    "examOrigin": "u15-t54-a",
+    "variant": "A"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u15-t90-b",
+    "topic": 204,
+    "concept": "名字與初次見面",
+    "family": "library-en-15-4",
+    "type": "single",
+    "text": "Tom 說：「Hello, Tina.」誰是被打招呼的人？",
+    "options": [
+      "Tina",
+      "Tom",
+      "Hello",
+      "兩人都叫 Tom"
+    ],
+    "answer": 0,
+    "explanation": "冒號前是 Tom 在說話，Hello 後的 Tina 是被稱呼的人。",
+    "libraryKey": "u15-t205-a",
+    "examRevision": 16,
+    "examOrigin": "u15-t55-a",
+    "variant": "A"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u16-t92-b",
+    "topic": 202,
+    "concept": "年齡與自我介紹",
+    "family": "library-en-16-2",
+    "type": "single",
+    "text": "圖卡上的生日數字是 7。請選出對應句子。",
+    "options": [
+      "I’m seven.",
+      "I’m six.",
+      "I’m eight.",
+      "I’m ten."
+    ],
+    "answer": 0,
+    "explanation": "圖卡數字 7 對應 seven。",
+    "visual": {
+      "kind": "referenceNumber",
+      "caption": "生日數字卡",
+      "description": "依數字卡選出對應的英文句子。",
+      "value": 7
+    },
+    "libraryKey": "u16-t203-a",
+    "examRevision": 16,
+    "examOrigin": "u16-t53-a",
+    "variant": "A"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u16-t91-b",
+    "topic": 203,
+    "concept": "年齡與自我介紹",
+    "family": "library-en-16-3",
+    "type": "single",
+    "text": "哪個問句適合詢問對方幾歲？",
+    "options": [
+      "How old are you?",
+      "What’s your name?",
+      "Good morning.",
+      "Nice to meet you."
+    ],
+    "answer": 0,
+    "explanation": "How old 用來問年齡；What’s your name? 問姓名。",
+    "libraryKey": "u16-t204-a",
+    "examRevision": 16,
+    "examOrigin": "u16-t54-a",
+    "variant": "A"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u16-t90-b",
+    "topic": 204,
+    "concept": "年齡與自我介紹",
+    "family": "library-en-16-4",
+    "type": "single",
+    "text": "A: I’m nine.　B: I’m nine, too.　兩人情況如何？",
+    "options": [
+      "兩人都九歲",
+      "A 九歲，B 十歲",
+      "兩人名字相同",
+      "兩人都十九歲"
+    ],
+    "answer": 0,
+    "explanation": "too 在這裡表示也，兩人都九歲。",
+    "libraryKey": "u16-t205-a",
+    "examRevision": 16,
+    "examOrigin": "u16-t55-a",
+    "variant": "A"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Meet our friends 1〉第一個介紹自己的人是誰？",
+    "options": [
+      "Amy",
+      "Ben",
+      "Cody",
+      "沒有介紹"
+    ],
+    "answer": 0,
+    "explanation": "對話開頭是 Amy 說 My name is Amy.。",
+    "id": "u15-t89-b",
+    "topic": 220,
+    "concept": "名字與初次見面",
+    "passageId": "library-english-15-0",
+    "passageTitle": "Meet our friends 1",
+    "passage": "Amy: Good morning! My name is Amy. What’s your name?\nBen: Hello! I’m Ben. Nice to meet you.\n\nAmy: Nice to meet you, too.\nCody: Hi, Ben! My name is Cody.\n\nBen: Hello, Cody!",
+    "readingOrder": 1,
+    "readingSkill": "找資料",
+    "family": "library-english-15-0",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name"
+        ],
+        "rows": [
+          [
+            "Amy"
+          ],
+          [
+            "Ben"
+          ],
+          [
+            "Cody"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u15-t221-r1",
+    "examRevision": 16,
+    "examOrigin": "u15-t63-r1",
+    "variant": "A"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Meet our friends 1〉誰回答 Amy 的姓名問題？",
+    "options": [
+      "Ben",
+      "Amy",
+      "Cody",
+      "三人同時"
+    ],
+    "answer": 0,
+    "explanation": "What’s your name? 之後由 Ben 回答。",
+    "id": "u15-t88-b",
+    "topic": 220,
+    "concept": "名字與初次見面",
+    "passageId": "library-english-15-0",
+    "passageTitle": "Meet our friends 1",
+    "passage": "Amy: Good morning! My name is Amy. What’s your name?\nBen: Hello! I’m Ben. Nice to meet you.\n\nAmy: Nice to meet you, too.\nCody: Hi, Ben! My name is Cody.\n\nBen: Hello, Cody!",
+    "readingOrder": 2,
+    "readingSkill": "配對資訊",
+    "family": "library-english-15-0",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name"
+        ],
+        "rows": [
+          [
+            "Amy"
+          ],
+          [
+            "Ben"
+          ],
+          [
+            "Cody"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u15-t221-r2",
+    "examRevision": 16,
+    "examOrigin": "u15-t63-r2",
+    "variant": "A"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Meet our friends 1〉Hi, Ben! My name is Cody. 是誰說的？",
+    "options": [
+      "Cody",
+      "Amy",
+      "Ben",
+      "沒有說話者"
+    ],
+    "answer": 0,
+    "explanation": "冒號前標明說話者 Cody；Ben 是被打招呼的人。",
+    "id": "u15-t87-b",
+    "topic": 220,
+    "concept": "名字與初次見面",
+    "passageId": "library-english-15-0",
+    "passageTitle": "Meet our friends 1",
+    "passage": "Amy: Good morning! My name is Amy. What’s your name?\nBen: Hello! I’m Ben. Nice to meet you.\n\nAmy: Nice to meet you, too.\nCody: Hi, Ben! My name is Cody.\n\nBen: Hello, Cody!",
+    "readingOrder": 3,
+    "readingSkill": "句型理解",
+    "family": "library-english-15-0",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name"
+        ],
+        "rows": [
+          [
+            "Amy"
+          ],
+          [
+            "Ben"
+          ],
+          [
+            "Cody"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u15-t221-r3",
+    "examRevision": 16,
+    "examOrigin": "u15-t63-r3",
+    "variant": "A"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Meet our friends 1〉哪組名單與三人介紹一致？",
+    "options": [
+      "Amy、Ben、Cody",
+      "Amy、Hello、Cody",
+      "Ben、Morning、Name",
+      "Cody、Nice、You"
+    ],
+    "answer": 0,
+    "explanation": "名單應列三位人物，招呼語不是姓名。",
+    "id": "u15-t86-b",
+    "topic": 220,
+    "concept": "名字與初次見面",
+    "passageId": "library-english-15-0",
+    "passageTitle": "Meet our friends 1",
+    "passage": "Amy: Good morning! My name is Amy. What’s your name?\nBen: Hello! I’m Ben. Nice to meet you.\n\nAmy: Nice to meet you, too.\nCody: Hi, Ben! My name is Cody.\n\nBen: Hello, Cody!",
+    "readingOrder": 4,
+    "readingSkill": "整合對話",
+    "family": "library-english-15-0",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name"
+        ],
+        "rows": [
+          [
+            "Amy"
+          ],
+          [
+            "Ben"
+          ],
+          [
+            "Cody"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u15-t221-r4",
+    "examRevision": 16,
+    "examOrigin": "u15-t63-r4",
+    "variant": "A"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Meet our friends 1〉哪句適合回應 Nice to meet you.?",
+    "options": [
+      "Nice to meet you, too.",
+      "My name is Nice.",
+      "What’s your old?",
+      "I’m morning."
+    ],
+    "answer": 0,
+    "explanation": "初次見面可用 Nice to meet you, too. 回應。",
+    "id": "u15-t85-b",
+    "topic": 220,
+    "concept": "名字與初次見面",
+    "passageId": "library-english-15-0",
+    "passageTitle": "Meet our friends 1",
+    "passage": "Amy: Good morning! My name is Amy. What’s your name?\nBen: Hello! I’m Ben. Nice to meet you.\n\nAmy: Nice to meet you, too.\nCody: Hi, Ben! My name is Cody.\n\nBen: Hello, Cody!",
+    "readingOrder": 5,
+    "readingSkill": "情境應用",
+    "family": "library-english-15-0",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name"
+        ],
+        "rows": [
+          [
+            "Amy"
+          ],
+          [
+            "Ben"
+          ],
+          [
+            "Cody"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u15-t221-r5",
+    "examRevision": 16,
+    "examOrigin": "u15-t63-r5",
+    "variant": "A"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Meet our friends 2〉第一個介紹自己的人是誰？",
+    "options": [
+      "Emma",
+      "Fred",
+      "Gina",
+      "沒有介紹"
+    ],
+    "answer": 0,
+    "explanation": "對話開頭是 Emma 說 My name is Emma.。",
+    "id": "u15-t84-b",
+    "topic": 221,
+    "concept": "名字與初次見面",
+    "passageId": "library-english-15-1",
+    "passageTitle": "Meet our friends 2",
+    "passage": "Emma: Good morning! My name is Emma. What’s your name?\nFred: Hello! I’m Fred. Nice to meet you.\n\nEmma: Nice to meet you, too.\nGina: Hi, Fred! My name is Gina.\n\nFred: Hello, Gina!",
+    "readingOrder": 1,
+    "readingSkill": "找資料",
+    "family": "library-english-15-1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name"
+        ],
+        "rows": [
+          [
+            "Emma"
+          ],
+          [
+            "Fred"
+          ],
+          [
+            "Gina"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u15-t222-r1",
+    "examRevision": 16,
+    "examOrigin": "u15-t64-r1",
+    "variant": "A"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Meet our friends 2〉誰回答 Emma 的姓名問題？",
+    "options": [
+      "Fred",
+      "Emma",
+      "Gina",
+      "三人同時"
+    ],
+    "answer": 0,
+    "explanation": "What’s your name? 之後由 Fred 回答。",
+    "id": "u15-t83-b",
+    "topic": 221,
+    "concept": "名字與初次見面",
+    "passageId": "library-english-15-1",
+    "passageTitle": "Meet our friends 2",
+    "passage": "Emma: Good morning! My name is Emma. What’s your name?\nFred: Hello! I’m Fred. Nice to meet you.\n\nEmma: Nice to meet you, too.\nGina: Hi, Fred! My name is Gina.\n\nFred: Hello, Gina!",
+    "readingOrder": 2,
+    "readingSkill": "配對資訊",
+    "family": "library-english-15-1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name"
+        ],
+        "rows": [
+          [
+            "Emma"
+          ],
+          [
+            "Fred"
+          ],
+          [
+            "Gina"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u15-t222-r2",
+    "examRevision": 16,
+    "examOrigin": "u15-t64-r2",
+    "variant": "A"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Meet our friends 2〉Hi, Fred! My name is Gina. 是誰說的？",
+    "options": [
+      "Gina",
+      "Emma",
+      "Fred",
+      "沒有說話者"
+    ],
+    "answer": 0,
+    "explanation": "冒號前標明說話者 Gina；Fred 是被打招呼的人。",
+    "id": "u15-t82-b",
+    "topic": 221,
+    "concept": "名字與初次見面",
+    "passageId": "library-english-15-1",
+    "passageTitle": "Meet our friends 2",
+    "passage": "Emma: Good morning! My name is Emma. What’s your name?\nFred: Hello! I’m Fred. Nice to meet you.\n\nEmma: Nice to meet you, too.\nGina: Hi, Fred! My name is Gina.\n\nFred: Hello, Gina!",
+    "readingOrder": 3,
+    "readingSkill": "句型理解",
+    "family": "library-english-15-1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name"
+        ],
+        "rows": [
+          [
+            "Emma"
+          ],
+          [
+            "Fred"
+          ],
+          [
+            "Gina"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u15-t222-r3",
+    "examRevision": 16,
+    "examOrigin": "u15-t64-r3",
+    "variant": "A"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Meet our friends 2〉哪組名單與三人介紹一致？",
+    "options": [
+      "Emma、Fred、Gina",
+      "Emma、Hello、Gina",
+      "Fred、Morning、Name",
+      "Gina、Nice、You"
+    ],
+    "answer": 0,
+    "explanation": "名單應列三位人物，招呼語不是姓名。",
+    "id": "u15-t81-b",
+    "topic": 221,
+    "concept": "名字與初次見面",
+    "passageId": "library-english-15-1",
+    "passageTitle": "Meet our friends 2",
+    "passage": "Emma: Good morning! My name is Emma. What’s your name?\nFred: Hello! I’m Fred. Nice to meet you.\n\nEmma: Nice to meet you, too.\nGina: Hi, Fred! My name is Gina.\n\nFred: Hello, Gina!",
+    "readingOrder": 4,
+    "readingSkill": "整合對話",
+    "family": "library-english-15-1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name"
+        ],
+        "rows": [
+          [
+            "Emma"
+          ],
+          [
+            "Fred"
+          ],
+          [
+            "Gina"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u15-t222-r4",
+    "examRevision": 16,
+    "examOrigin": "u15-t64-r4",
+    "variant": "A"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Meet our friends 2〉哪句適合回應 Nice to meet you.?",
+    "options": [
+      "Nice to meet you, too.",
+      "My name is Nice.",
+      "What’s your old?",
+      "I’m morning."
+    ],
+    "answer": 0,
+    "explanation": "初次見面可用 Nice to meet you, too. 回應。",
+    "id": "u15-t80-b",
+    "topic": 221,
+    "concept": "名字與初次見面",
+    "passageId": "library-english-15-1",
+    "passageTitle": "Meet our friends 2",
+    "passage": "Emma: Good morning! My name is Emma. What’s your name?\nFred: Hello! I’m Fred. Nice to meet you.\n\nEmma: Nice to meet you, too.\nGina: Hi, Fred! My name is Gina.\n\nFred: Hello, Gina!",
+    "readingOrder": 5,
+    "readingSkill": "情境應用",
+    "family": "library-english-15-1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name"
+        ],
+        "rows": [
+          [
+            "Emma"
+          ],
+          [
+            "Fred"
+          ],
+          [
+            "Gina"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u15-t222-r5",
+    "examRevision": 16,
+    "examOrigin": "u15-t64-r5",
+    "variant": "A"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Names and ages 1〉Amy 幾歲？",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "answer": 0,
+    "explanation": "對話中 Amy 說 I’m 7.。",
+    "id": "u16-t89-b",
+    "topic": 220,
+    "concept": "年齡與自我介紹",
+    "passageId": "library-english-16-0",
+    "passageTitle": "Names and ages 1",
+    "passage": "Amy: Hello! My name is Amy. I’m 7. How old are you?\nBen: Hi! I’m Ben. I’m 9 years old.\n\nCody: Good morning! My name is Cody. I’m 8.\nAmy: Nice to meet you, Cody.\n\nCody: Nice to meet you, too.",
+    "readingOrder": 1,
+    "readingSkill": "找資料",
+    "family": "library-english-16-0",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name",
+          "Age"
+        ],
+        "rows": [
+          [
+            "Amy",
+            7
+          ],
+          [
+            "Ben",
+            9
+          ],
+          [
+            "Cody",
+            8
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u16-t221-r1",
+    "examRevision": 16,
+    "examOrigin": "u16-t63-r1",
+    "variant": "A"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Names and ages 1〉誰說 I’m nine years old.?",
+    "options": [
+      "Ben",
+      "Amy",
+      "Cody",
+      "三人一起說"
+    ],
+    "answer": 0,
+    "explanation": "Ben 說自己九歲。",
+    "id": "u16-t88-b",
+    "topic": 220,
+    "concept": "年齡與自我介紹",
+    "passageId": "library-english-16-0",
+    "passageTitle": "Names and ages 1",
+    "passage": "Amy: Hello! My name is Amy. I’m 7. How old are you?\nBen: Hi! I’m Ben. I’m 9 years old.\n\nCody: Good morning! My name is Cody. I’m 8.\nAmy: Nice to meet you, Cody.\n\nCody: Nice to meet you, too.",
+    "readingOrder": 2,
+    "readingSkill": "配對資訊",
+    "family": "library-english-16-0",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name",
+          "Age"
+        ],
+        "rows": [
+          [
+            "Amy",
+            7
+          ],
+          [
+            "Ben",
+            9
+          ],
+          [
+            "Cody",
+            8
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u16-t221-r2",
+    "examRevision": 16,
+    "examOrigin": "u16-t63-r2",
+    "variant": "A"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Names and ages 1〉誰向 Cody 說 Nice to meet you?",
+    "options": [
+      "Amy",
+      "Ben",
+      "Cody",
+      "沒有任何人"
+    ],
+    "answer": 0,
+    "explanation": "第三人的介紹後，是 Amy 向 Cody 打招呼。",
+    "id": "u16-t87-b",
+    "topic": 220,
+    "concept": "年齡與自我介紹",
+    "passageId": "library-english-16-0",
+    "passageTitle": "Names and ages 1",
+    "passage": "Amy: Hello! My name is Amy. I’m 7. How old are you?\nBen: Hi! I’m Ben. I’m 9 years old.\n\nCody: Good morning! My name is Cody. I’m 8.\nAmy: Nice to meet you, Cody.\n\nCody: Nice to meet you, too.",
+    "readingOrder": 3,
+    "readingSkill": "句型理解",
+    "family": "library-english-16-0",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name",
+          "Age"
+        ],
+        "rows": [
+          [
+            "Amy",
+            7
+          ],
+          [
+            "Ben",
+            9
+          ],
+          [
+            "Cody",
+            8
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u16-t221-r3",
+    "examRevision": 16,
+    "examOrigin": "u16-t63-r3",
+    "variant": "A"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Names and ages 1〉哪筆姓名年齡資料正確？",
+    "options": [
+      "Cody—8",
+      "Cody—6",
+      "Ben—7",
+      "Amy—10"
+    ],
+    "answer": 0,
+    "explanation": "Cody 在介紹中說 I’m 8.。",
+    "id": "u16-t86-b",
+    "topic": 220,
+    "concept": "年齡與自我介紹",
+    "passageId": "library-english-16-0",
+    "passageTitle": "Names and ages 1",
+    "passage": "Amy: Hello! My name is Amy. I’m 7. How old are you?\nBen: Hi! I’m Ben. I’m 9 years old.\n\nCody: Good morning! My name is Cody. I’m 8.\nAmy: Nice to meet you, Cody.\n\nCody: Nice to meet you, too.",
+    "readingOrder": 4,
+    "readingSkill": "整合對話",
+    "family": "library-english-16-0",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name",
+          "Age"
+        ],
+        "rows": [
+          [
+            "Amy",
+            7
+          ],
+          [
+            "Ben",
+            9
+          ],
+          [
+            "Cody",
+            8
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u16-t221-r4",
+    "examRevision": 16,
+    "examOrigin": "u16-t63-r4",
+    "variant": "A"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Names and ages 1〉How old are you? 是要確認哪項資料？",
+    "options": [
+      "年齡",
+      "姓名",
+      "飲料喜好",
+      "水果數量"
+    ],
+    "answer": 0,
+    "explanation": "How old 詢問年齡，與介紹姓名不同。",
+    "id": "u16-t85-b",
+    "topic": 220,
+    "concept": "年齡與自我介紹",
+    "passageId": "library-english-16-0",
+    "passageTitle": "Names and ages 1",
+    "passage": "Amy: Hello! My name is Amy. I’m 7. How old are you?\nBen: Hi! I’m Ben. I’m 9 years old.\n\nCody: Good morning! My name is Cody. I’m 8.\nAmy: Nice to meet you, Cody.\n\nCody: Nice to meet you, too.",
+    "readingOrder": 5,
+    "readingSkill": "情境應用",
+    "family": "library-english-16-0",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name",
+          "Age"
+        ],
+        "rows": [
+          [
+            "Amy",
+            7
+          ],
+          [
+            "Ben",
+            9
+          ],
+          [
+            "Cody",
+            8
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u16-t221-r5",
+    "examRevision": 16,
+    "examOrigin": "u16-t63-r5",
+    "variant": "A"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Names and ages 2〉Emma 幾歲？",
+    "options": [
+      "8",
+      "6",
+      "7",
+      "9"
+    ],
+    "answer": 0,
+    "explanation": "對話中 Emma 說 I’m 8.。",
+    "id": "u16-t84-b",
+    "topic": 221,
+    "concept": "年齡與自我介紹",
+    "passageId": "library-english-16-1",
+    "passageTitle": "Names and ages 2",
+    "passage": "Emma: Hello! My name is Emma. I’m 8. How old are you?\nFred: Hi! I’m Fred. I’m 9 years old.\n\nGina: Good morning! My name is Gina. I’m 8.\nEmma: Nice to meet you, Gina.\n\nGina: Nice to meet you, too.",
+    "readingOrder": 1,
+    "readingSkill": "找資料",
+    "family": "library-english-16-1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name",
+          "Age"
+        ],
+        "rows": [
+          [
+            "Emma",
+            8
+          ],
+          [
+            "Fred",
+            9
+          ],
+          [
+            "Gina",
+            8
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u16-t222-r1",
+    "examRevision": 16,
+    "examOrigin": "u16-t64-r1",
+    "variant": "A"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Names and ages 2〉誰說 I’m nine years old.?",
+    "options": [
+      "Fred",
+      "Emma",
+      "Gina",
+      "三人一起說"
+    ],
+    "answer": 0,
+    "explanation": "Fred 說自己九歲。",
+    "id": "u16-t83-b",
+    "topic": 221,
+    "concept": "年齡與自我介紹",
+    "passageId": "library-english-16-1",
+    "passageTitle": "Names and ages 2",
+    "passage": "Emma: Hello! My name is Emma. I’m 8. How old are you?\nFred: Hi! I’m Fred. I’m 9 years old.\n\nGina: Good morning! My name is Gina. I’m 8.\nEmma: Nice to meet you, Gina.\n\nGina: Nice to meet you, too.",
+    "readingOrder": 2,
+    "readingSkill": "配對資訊",
+    "family": "library-english-16-1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name",
+          "Age"
+        ],
+        "rows": [
+          [
+            "Emma",
+            8
+          ],
+          [
+            "Fred",
+            9
+          ],
+          [
+            "Gina",
+            8
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u16-t222-r2",
+    "examRevision": 16,
+    "examOrigin": "u16-t64-r2",
+    "variant": "A"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Names and ages 2〉誰向 Gina 說 Nice to meet you?",
+    "options": [
+      "Emma",
+      "Fred",
+      "Gina",
+      "沒有任何人"
+    ],
+    "answer": 0,
+    "explanation": "第三人的介紹後，是 Emma 向 Gina 打招呼。",
+    "id": "u16-t82-b",
+    "topic": 221,
+    "concept": "年齡與自我介紹",
+    "passageId": "library-english-16-1",
+    "passageTitle": "Names and ages 2",
+    "passage": "Emma: Hello! My name is Emma. I’m 8. How old are you?\nFred: Hi! I’m Fred. I’m 9 years old.\n\nGina: Good morning! My name is Gina. I’m 8.\nEmma: Nice to meet you, Gina.\n\nGina: Nice to meet you, too.",
+    "readingOrder": 3,
+    "readingSkill": "句型理解",
+    "family": "library-english-16-1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name",
+          "Age"
+        ],
+        "rows": [
+          [
+            "Emma",
+            8
+          ],
+          [
+            "Fred",
+            9
+          ],
+          [
+            "Gina",
+            8
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u16-t222-r3",
+    "examRevision": 16,
+    "examOrigin": "u16-t64-r3",
+    "variant": "A"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Names and ages 2〉哪筆姓名年齡資料正確？",
+    "options": [
+      "Gina—8",
+      "Gina—6",
+      "Fred—7",
+      "Emma—10"
+    ],
+    "answer": 0,
+    "explanation": "Gina 在介紹中說 I’m 8.。",
+    "id": "u16-t81-b",
+    "topic": 221,
+    "concept": "年齡與自我介紹",
+    "passageId": "library-english-16-1",
+    "passageTitle": "Names and ages 2",
+    "passage": "Emma: Hello! My name is Emma. I’m 8. How old are you?\nFred: Hi! I’m Fred. I’m 9 years old.\n\nGina: Good morning! My name is Gina. I’m 8.\nEmma: Nice to meet you, Gina.\n\nGina: Nice to meet you, too.",
+    "readingOrder": 4,
+    "readingSkill": "整合對話",
+    "family": "library-english-16-1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name",
+          "Age"
+        ],
+        "rows": [
+          [
+            "Emma",
+            8
+          ],
+          [
+            "Fred",
+            9
+          ],
+          [
+            "Gina",
+            8
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u16-t222-r4",
+    "examRevision": 16,
+    "examOrigin": "u16-t64-r4",
+    "variant": "A"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Names and ages 2〉How old are you? 是要確認哪項資料？",
+    "options": [
+      "年齡",
+      "姓名",
+      "飲料喜好",
+      "水果數量"
+    ],
+    "answer": 0,
+    "explanation": "How old 詢問年齡，與介紹姓名不同。",
+    "id": "u16-t80-b",
+    "topic": 221,
+    "concept": "年齡與自我介紹",
+    "passageId": "library-english-16-1",
+    "passageTitle": "Names and ages 2",
+    "passage": "Emma: Hello! My name is Emma. I’m 8. How old are you?\nFred: Hi! I’m Fred. I’m 9 years old.\n\nGina: Good morning! My name is Gina. I’m 8.\nEmma: Nice to meet you, Gina.\n\nGina: Nice to meet you, too.",
+    "readingOrder": 5,
+    "readingSkill": "情境應用",
+    "family": "library-english-16-1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name",
+          "Age"
+        ],
+        "rows": [
+          [
+            "Emma",
+            8
+          ],
+          [
+            "Fred",
+            9
+          ],
+          [
+            "Gina",
+            8
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u16-t222-r5",
+    "examRevision": 16,
+    "examOrigin": "u16-t64-r5",
+    "variant": "A"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u6-t94-b",
+    "topic": 200,
+    "concept": "飲料與喜好",
+    "family": "library-en-6-0",
+    "type": "single",
+    "text": "______ she like milk tea?",
+    "options": [
+      "Does",
+      "Do",
+      "Is",
+      "Are"
+    ],
+    "answer": 0,
+    "explanation": "第三人稱單數 she 用 Does 詢問喜好。",
+    "libraryKey": "u6-t201-a",
+    "examRevision": 16,
+    "examOrigin": "u6-t51-a",
+    "variant": "A"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u6-t93-b",
+    "topic": 201,
+    "concept": "飲料與喜好",
+    "family": "library-en-6-1",
+    "type": "single",
+    "text": "He ______ orange juice.",
+    "options": [
+      "likes",
+      "like",
+      "liking",
+      "are like"
+    ],
+    "answer": 0,
+    "explanation": "he 搭配 likes。",
+    "libraryKey": "u6-t202-a",
+    "examRevision": 16,
+    "examOrigin": "u6-t52-a",
+    "variant": "A"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u6-t92-b",
+    "topic": 202,
+    "concept": "飲料與喜好",
+    "family": "library-en-6-2",
+    "type": "single",
+    "text": "A: Do you like milk?　B: No, I ______.",
+    "options": [
+      "don’t",
+      "doesn’t",
+      "isn’t",
+      "aren’t"
+    ],
+    "answer": 0,
+    "explanation": "Do you…? 的否定回答為 No, I don’t.。",
+    "libraryKey": "u6-t203-a",
+    "examRevision": 16,
+    "examOrigin": "u6-t53-a",
+    "variant": "A"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u7-t94-b",
+    "topic": 200,
+    "concept": "水果沙拉與數量",
+    "family": "library-en-7-0",
+    "type": "single",
+    "text": "How many ______ do you need?",
+    "options": [
+      "apples",
+      "apple",
+      "an apple",
+      "a apple"
+    ],
+    "answer": 0,
+    "explanation": "How many 後接可數名詞複數 apples。",
+    "libraryKey": "u7-t201-a",
+    "examRevision": 16,
+    "examOrigin": "u7-t51-a",
+    "variant": "A"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u7-t93-b",
+    "topic": 201,
+    "concept": "水果沙拉與數量",
+    "family": "library-en-7-1",
+    "type": "single",
+    "text": "She ______ two bananas.",
+    "options": [
+      "needs",
+      "need",
+      "needing",
+      "are need"
+    ],
+    "answer": 0,
+    "explanation": "第三人稱單數 she 搭配 needs。",
+    "libraryKey": "u7-t202-a",
+    "examRevision": 16,
+    "examOrigin": "u7-t52-a",
+    "variant": "A"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u6-t91-b",
+    "topic": 203,
+    "concept": "飲料與喜好",
+    "family": "library-en-6-3",
+    "type": "single",
+    "text": "A: Does Ben like tea?　B: Yes, he ______.",
+    "options": [
+      "does",
+      "do",
+      "is",
+      "likes"
+    ],
+    "answer": 0,
+    "explanation": "Does 問句的簡答為 Yes, he does.。",
+    "libraryKey": "u6-t204-a",
+    "examRevision": 16,
+    "examOrigin": "u6-t54-a",
+    "variant": "A"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u6-t90-b",
+    "topic": 204,
+    "concept": "飲料與喜好",
+    "family": "library-en-6-4",
+    "type": "single",
+    "text": "They ______ water.",
+    "options": [
+      "like",
+      "likes",
+      "does like",
+      "is like"
+    ],
+    "answer": 0,
+    "explanation": "they 是複數主詞，使用 like。",
+    "libraryKey": "u6-t205-a",
+    "examRevision": 16,
+    "examOrigin": "u6-t55-a",
+    "variant": "A"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u7-t92-b",
+    "topic": 202,
+    "concept": "水果沙拉與數量",
+    "family": "library-en-7-2",
+    "type": "single",
+    "text": "A: How many oranges do you need?　B: ______",
+    "options": [
+      "I need three oranges.",
+      "I like orange juice.",
+      "Yes, I do.",
+      "She likes milk."
+    ],
+    "answer": 0,
+    "explanation": "問數量需要回答所需水果及數量。",
+    "libraryKey": "u7-t203-a",
+    "examRevision": 16,
+    "examOrigin": "u7-t53-a",
+    "variant": "A"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u7-t91-b",
+    "topic": 203,
+    "concept": "水果沙拉與數量",
+    "family": "library-en-7-3",
+    "type": "single",
+    "text": "We need one ______.",
+    "options": [
+      "apple",
+      "apples",
+      "an apples",
+      "a apples"
+    ],
+    "answer": 0,
+    "explanation": "one 後接單數 apple。",
+    "libraryKey": "u7-t204-a",
+    "examRevision": 16,
+    "examOrigin": "u7-t54-a",
+    "variant": "A"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u7-t90-b",
+    "topic": 204,
+    "concept": "水果沙拉與數量",
+    "family": "library-en-7-4",
+    "type": "single",
+    "text": "They ______ four bananas.",
+    "options": [
+      "need",
+      "needs",
+      "does need",
+      "is need"
+    ],
+    "answer": 0,
+    "explanation": "複數主詞 they 搭配 need。",
+    "libraryKey": "u7-t205-a",
+    "examRevision": 16,
+    "examOrigin": "u7-t55-a",
+    "variant": "A"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Check the drink order 1〉What does Ben like?",
+    "options": [
+      "orange juice",
+      "milk tea",
+      "water",
+      "All three drinks."
+    ],
+    "answer": 0,
+    "explanation": "Ben 說 I like orange juice.。",
+    "id": "u6-t89-b",
+    "topic": 220,
+    "concept": "飲料與喜好",
+    "passageId": "library-english-6-0",
+    "passageTitle": "Check the drink order 1",
+    "passage": "Amy: I like milk tea. Do you like milk tea, Ben?\nBen: No, I don’t. I like orange juice.\n\nCody: My mom likes milk tea. I like water.\nAmy: Does your mom like orange juice?\nCody: No, she doesn’t.\n\nBen: One milk tea for Amy, one orange juice for me, and one water for Cody.\nAmy: Thank you!",
+    "readingOrder": 1,
+    "readingSkill": "找資料",
+    "family": "library-english-6-0",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Person",
+          "Likes"
+        ],
+        "rows": [
+          [
+            "Amy",
+            "milk tea"
+          ],
+          [
+            "Ben",
+            "orange juice"
+          ],
+          [
+            "Cody",
+            "water"
+          ],
+          [
+            "Cody’s mom",
+            "milk tea"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u6-t221-r1",
+    "examRevision": 16,
+    "examOrigin": "u6-t63-r1",
+    "variant": "A"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Check the drink order 1〉Who likes water?",
+    "options": [
+      "Cody",
+      "Amy",
+      "Ben",
+      "Cody’s mom"
+    ],
+    "answer": 0,
+    "explanation": "Cody 自己喜歡 water，母親喜好不同。",
+    "id": "u6-t88-b",
+    "topic": 220,
+    "concept": "飲料與喜好",
+    "passageId": "library-english-6-0",
+    "passageTitle": "Check the drink order 1",
+    "passage": "Amy: I like milk tea. Do you like milk tea, Ben?\nBen: No, I don’t. I like orange juice.\n\nCody: My mom likes milk tea. I like water.\nAmy: Does your mom like orange juice?\nCody: No, she doesn’t.\n\nBen: One milk tea for Amy, one orange juice for me, and one water for Cody.\nAmy: Thank you!",
+    "readingOrder": 2,
+    "readingSkill": "配對資訊",
+    "family": "library-english-6-0",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Person",
+          "Likes"
+        ],
+        "rows": [
+          [
+            "Amy",
+            "milk tea"
+          ],
+          [
+            "Ben",
+            "orange juice"
+          ],
+          [
+            "Cody",
+            "water"
+          ],
+          [
+            "Cody’s mom",
+            "milk tea"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u6-t221-r2",
+    "examRevision": 16,
+    "examOrigin": "u6-t63-r2",
+    "variant": "A"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Check the drink order 2〉What does Fred like?",
+    "options": [
+      "water",
+      "orange juice",
+      "milk",
+      "All three drinks."
+    ],
+    "answer": 0,
+    "explanation": "Fred 說 I like water.。",
+    "id": "u6-t87-b",
+    "topic": 221,
+    "concept": "飲料與喜好",
+    "passageId": "library-english-6-1",
+    "passageTitle": "Check the drink order 2",
+    "passage": "Emma: I like orange juice. Do you like orange juice, Fred?\nFred: No, I don’t. I like water.\n\nGina: My mom likes orange juice. I like milk.\nEmma: Does your mom like water?\nGina: No, she doesn’t.\n\nFred: One orange juice for Emma, one water for me, and one milk for Gina.\nEmma: Thank you!",
+    "readingOrder": 1,
+    "readingSkill": "找資料",
+    "family": "library-english-6-1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Person",
+          "Likes"
+        ],
+        "rows": [
+          [
+            "Emma",
+            "orange juice"
+          ],
+          [
+            "Fred",
+            "water"
+          ],
+          [
+            "Gina",
+            "milk"
+          ],
+          [
+            "Gina’s mom",
+            "orange juice"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u6-t222-r1",
+    "examRevision": 16,
+    "examOrigin": "u6-t64-r1",
+    "variant": "A"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Check the drink order 2〉Who likes milk?",
+    "options": [
+      "Gina",
+      "Emma",
+      "Fred",
+      "Gina’s mom"
+    ],
+    "answer": 0,
+    "explanation": "Gina 自己喜歡 milk，母親喜好不同。",
+    "id": "u6-t86-b",
+    "topic": 221,
+    "concept": "飲料與喜好",
+    "passageId": "library-english-6-1",
+    "passageTitle": "Check the drink order 2",
+    "passage": "Emma: I like orange juice. Do you like orange juice, Fred?\nFred: No, I don’t. I like water.\n\nGina: My mom likes orange juice. I like milk.\nEmma: Does your mom like water?\nGina: No, she doesn’t.\n\nFred: One orange juice for Emma, one water for me, and one milk for Gina.\nEmma: Thank you!",
+    "readingOrder": 2,
+    "readingSkill": "配對資訊",
+    "family": "library-english-6-1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Person",
+          "Likes"
+        ],
+        "rows": [
+          [
+            "Emma",
+            "orange juice"
+          ],
+          [
+            "Fred",
+            "water"
+          ],
+          [
+            "Gina",
+            "milk"
+          ],
+          [
+            "Gina’s mom",
+            "orange juice"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u6-t222-r2",
+    "examRevision": 16,
+    "examOrigin": "u6-t64-r2",
+    "variant": "A"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Check the drink order 2〉Does Gina’s mom like water?",
+    "options": [
+      "No, she doesn’t.",
+      "Yes, she does.",
+      "Yes, he does.",
+      "No, they don’t."
+    ],
+    "answer": 0,
+    "explanation": "母親是否喜歡這種飲料，對話已有否定回答。",
+    "id": "u6-t85-b",
+    "topic": 221,
+    "concept": "飲料與喜好",
+    "passageId": "library-english-6-1",
+    "passageTitle": "Check the drink order 2",
+    "passage": "Emma: I like orange juice. Do you like orange juice, Fred?\nFred: No, I don’t. I like water.\n\nGina: My mom likes orange juice. I like milk.\nEmma: Does your mom like water?\nGina: No, she doesn’t.\n\nFred: One orange juice for Emma, one water for me, and one milk for Gina.\nEmma: Thank you!",
+    "readingOrder": 3,
+    "readingSkill": "句型理解",
+    "family": "library-english-6-1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Person",
+          "Likes"
+        ],
+        "rows": [
+          [
+            "Emma",
+            "orange juice"
+          ],
+          [
+            "Fred",
+            "water"
+          ],
+          [
+            "Gina",
+            "milk"
+          ],
+          [
+            "Gina’s mom",
+            "orange juice"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u6-t222-r3",
+    "examRevision": 16,
+    "examOrigin": "u6-t64-r3",
+    "variant": "A"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Check the drink order 2〉Which order is for Emma?",
+    "options": [
+      "orange juice",
+      "water",
+      "milk",
+      "No drink."
+    ],
+    "answer": 0,
+    "explanation": "Emma 說喜歡 orange juice，最後點單也對應 orange juice。",
+    "id": "u6-t84-b",
+    "topic": 221,
+    "concept": "飲料與喜好",
+    "passageId": "library-english-6-1",
+    "passageTitle": "Check the drink order 2",
+    "passage": "Emma: I like orange juice. Do you like orange juice, Fred?\nFred: No, I don’t. I like water.\n\nGina: My mom likes orange juice. I like milk.\nEmma: Does your mom like water?\nGina: No, she doesn’t.\n\nFred: One orange juice for Emma, one water for me, and one milk for Gina.\nEmma: Thank you!",
+    "readingOrder": 4,
+    "readingSkill": "整合對話",
+    "family": "library-english-6-1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Person",
+          "Likes"
+        ],
+        "rows": [
+          [
+            "Emma",
+            "orange juice"
+          ],
+          [
+            "Fred",
+            "water"
+          ],
+          [
+            "Gina",
+            "milk"
+          ],
+          [
+            "Gina’s mom",
+            "orange juice"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u6-t222-r4",
+    "examRevision": 16,
+    "examOrigin": "u6-t64-r4",
+    "variant": "A"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Check the drink order 3〉What does May like?",
+    "options": [
+      "milk",
+      "water",
+      "milk tea",
+      "All three drinks."
+    ],
+    "answer": 0,
+    "explanation": "May 說 I like milk.。",
+    "id": "u6-t83-b",
+    "topic": 222,
+    "concept": "飲料與喜好",
+    "passageId": "library-english-6-2",
+    "passageTitle": "Check the drink order 3",
+    "passage": "Leo: I like water. Do you like water, May?\nMay: No, I don’t. I like milk.\n\nNick: My mom likes water. I like milk tea.\nLeo: Does your mom like milk?\nNick: No, she doesn’t.\n\nMay: One water for Leo, one milk for me, and one milk tea for Nick.\nLeo: Thank you!",
+    "readingOrder": 1,
+    "readingSkill": "找資料",
+    "family": "library-english-6-2",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Person",
+          "Likes"
+        ],
+        "rows": [
+          [
+            "Leo",
+            "water"
+          ],
+          [
+            "May",
+            "milk"
+          ],
+          [
+            "Nick",
+            "milk tea"
+          ],
+          [
+            "Nick’s mom",
+            "water"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u6-t223-r1",
+    "examRevision": 16,
+    "examOrigin": "u6-t65-r1",
+    "variant": "A"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Check the drink order 3〉Who likes milk tea?",
+    "options": [
+      "Nick",
+      "Leo",
+      "May",
+      "Nick’s mom"
+    ],
+    "answer": 0,
+    "explanation": "Nick 自己喜歡 milk tea，母親喜好不同。",
+    "id": "u6-t82-b",
+    "topic": 222,
+    "concept": "飲料與喜好",
+    "passageId": "library-english-6-2",
+    "passageTitle": "Check the drink order 3",
+    "passage": "Leo: I like water. Do you like water, May?\nMay: No, I don’t. I like milk.\n\nNick: My mom likes water. I like milk tea.\nLeo: Does your mom like milk?\nNick: No, she doesn’t.\n\nMay: One water for Leo, one milk for me, and one milk tea for Nick.\nLeo: Thank you!",
+    "readingOrder": 2,
+    "readingSkill": "配對資訊",
+    "family": "library-english-6-2",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Person",
+          "Likes"
+        ],
+        "rows": [
+          [
+            "Leo",
+            "water"
+          ],
+          [
+            "May",
+            "milk"
+          ],
+          [
+            "Nick",
+            "milk tea"
+          ],
+          [
+            "Nick’s mom",
+            "water"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u6-t223-r2",
+    "examRevision": 16,
+    "examOrigin": "u6-t65-r2",
+    "variant": "A"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Check the drink order 3〉Does Nick’s mom like milk?",
+    "options": [
+      "No, she doesn’t.",
+      "Yes, she does.",
+      "Yes, he does.",
+      "No, they don’t."
+    ],
+    "answer": 0,
+    "explanation": "母親是否喜歡這種飲料，對話已有否定回答。",
+    "id": "u6-t81-b",
+    "topic": 222,
+    "concept": "飲料與喜好",
+    "passageId": "library-english-6-2",
+    "passageTitle": "Check the drink order 3",
+    "passage": "Leo: I like water. Do you like water, May?\nMay: No, I don’t. I like milk.\n\nNick: My mom likes water. I like milk tea.\nLeo: Does your mom like milk?\nNick: No, she doesn’t.\n\nMay: One water for Leo, one milk for me, and one milk tea for Nick.\nLeo: Thank you!",
+    "readingOrder": 3,
+    "readingSkill": "句型理解",
+    "family": "library-english-6-2",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Person",
+          "Likes"
+        ],
+        "rows": [
+          [
+            "Leo",
+            "water"
+          ],
+          [
+            "May",
+            "milk"
+          ],
+          [
+            "Nick",
+            "milk tea"
+          ],
+          [
+            "Nick’s mom",
+            "water"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u6-t223-r3",
+    "examRevision": 16,
+    "examOrigin": "u6-t65-r3",
+    "variant": "A"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Check the drink order 3〉Which order is for Leo?",
+    "options": [
+      "water",
+      "milk",
+      "milk tea",
+      "No drink."
+    ],
+    "answer": 0,
+    "explanation": "Leo 說喜歡 water，最後點單也對應 water。",
+    "id": "u6-t80-b",
+    "topic": 222,
+    "concept": "飲料與喜好",
+    "passageId": "library-english-6-2",
+    "passageTitle": "Check the drink order 3",
+    "passage": "Leo: I like water. Do you like water, May?\nMay: No, I don’t. I like milk.\n\nNick: My mom likes water. I like milk tea.\nLeo: Does your mom like milk?\nNick: No, she doesn’t.\n\nMay: One water for Leo, one milk for me, and one milk tea for Nick.\nLeo: Thank you!",
+    "readingOrder": 4,
+    "readingSkill": "整合對話",
+    "family": "library-english-6-2",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Person",
+          "Likes"
+        ],
+        "rows": [
+          [
+            "Leo",
+            "water"
+          ],
+          [
+            "May",
+            "milk"
+          ],
+          [
+            "Nick",
+            "milk tea"
+          ],
+          [
+            "Nick’s mom",
+            "water"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u6-t223-r4",
+    "examRevision": 16,
+    "examOrigin": "u6-t65-r4",
+    "variant": "A"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Check the drink order 3〉Why must they check the names in the order?",
+    "options": [
+      "Different people like different drinks.",
+      "Everyone likes the same drink.",
+      "All the names are the same.",
+      "Nobody wants a drink."
+    ],
+    "answer": 0,
+    "explanation": "三人的喜好不同，要將人名與飲料正確配對。",
+    "id": "u6-t79-b",
+    "topic": 222,
+    "concept": "飲料與喜好",
+    "passageId": "library-english-6-2",
+    "passageTitle": "Check the drink order 3",
+    "passage": "Leo: I like water. Do you like water, May?\nMay: No, I don’t. I like milk.\n\nNick: My mom likes water. I like milk tea.\nLeo: Does your mom like milk?\nNick: No, she doesn’t.\n\nMay: One water for Leo, one milk for me, and one milk tea for Nick.\nLeo: Thank you!",
+    "readingOrder": 5,
+    "readingSkill": "情境應用",
+    "family": "library-english-6-2",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Person",
+          "Likes"
+        ],
+        "rows": [
+          [
+            "Leo",
+            "water"
+          ],
+          [
+            "May",
+            "milk"
+          ],
+          [
+            "Nick",
+            "milk tea"
+          ],
+          [
+            "Nick’s mom",
+            "water"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u6-t223-r5",
+    "examRevision": 16,
+    "examOrigin": "u6-t65-r5",
+    "variant": "A"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Fruit for our salad 1〉How many apples do they need in all?",
+    "options": [
+      "5",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "目標是 5 apples，需與一開始已有的數量區分。",
+    "id": "u7-t89-b",
+    "topic": 220,
+    "concept": "水果沙拉與數量",
+    "passageId": "library-english-7-0",
+    "passageTitle": "Fruit for our salad 1",
+    "passage": "Amy: Let’s make fruit salad. We need 5 apples and 2 bananas.\nBen: We have 2 apples and 2 bananas.\n\nAmy: How many more apples do we need?\nBen: Three. We don’t need more bananas.\n\nCody: I have three apples. Here you are!\nAmy: Thank you. Now we have 5 apples. Let’s wash the fruit first.",
+    "readingOrder": 1,
+    "readingSkill": "找資料",
+    "family": "library-english-7-0",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Fruit",
+          "Need",
+          "Have at first"
+        ],
+        "rows": [
+          [
+            "apples",
+            5,
+            2
+          ],
+          [
+            "bananas",
+            2,
+            2
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u7-t221-r1",
+    "examRevision": 16,
+    "examOrigin": "u7-t63-r1",
+    "variant": "A"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Fruit for our salad 1〉How many more apples do they need at first?",
+    "options": [
+      "3",
+      "5",
+      "2",
+      "1"
+    ],
+    "answer": 0,
+    "explanation": "目標減現有數量，還差三個。",
+    "id": "u7-t88-b",
+    "topic": 220,
+    "concept": "水果沙拉與數量",
+    "passageId": "library-english-7-0",
+    "passageTitle": "Fruit for our salad 1",
+    "passage": "Amy: Let’s make fruit salad. We need 5 apples and 2 bananas.\nBen: We have 2 apples and 2 bananas.\n\nAmy: How many more apples do we need?\nBen: Three. We don’t need more bananas.\n\nCody: I have three apples. Here you are!\nAmy: Thank you. Now we have 5 apples. Let’s wash the fruit first.",
+    "readingOrder": 2,
+    "readingSkill": "配對資訊",
+    "family": "library-english-7-0",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Fruit",
+          "Need",
+          "Have at first"
+        ],
+        "rows": [
+          [
+            "apples",
+            5,
+            2
+          ],
+          [
+            "bananas",
+            2,
+            2
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u7-t221-r2",
+    "examRevision": 16,
+    "examOrigin": "u7-t63-r2",
+    "variant": "A"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Fruit for our salad 1〉Do they need more bananas?",
+    "options": [
+      "No, they don’t.",
+      "Yes, they do.",
+      "They need three more.",
+      "They need five more."
+    ],
+    "answer": 0,
+    "explanation": "現有香蕉數已等於目標，不需再補。",
+    "id": "u7-t87-b",
+    "topic": 220,
+    "concept": "水果沙拉與數量",
+    "passageId": "library-english-7-0",
+    "passageTitle": "Fruit for our salad 1",
+    "passage": "Amy: Let’s make fruit salad. We need 5 apples and 2 bananas.\nBen: We have 2 apples and 2 bananas.\n\nAmy: How many more apples do we need?\nBen: Three. We don’t need more bananas.\n\nCody: I have three apples. Here you are!\nAmy: Thank you. Now we have 5 apples. Let’s wash the fruit first.",
+    "readingOrder": 3,
+    "readingSkill": "句型理解",
+    "family": "library-english-7-0",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Fruit",
+          "Need",
+          "Have at first"
+        ],
+        "rows": [
+          [
+            "apples",
+            5,
+            2
+          ],
+          [
+            "bananas",
+            2,
+            2
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u7-t221-r3",
+    "examRevision": 16,
+    "examOrigin": "u7-t63-r3",
+    "variant": "A"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Fruit for our salad 1〉Who brings three apples?",
+    "options": [
+      "Cody",
+      "Amy",
+      "Ben",
+      "Nobody."
+    ],
+    "answer": 0,
+    "explanation": "Cody 說 I have three apples. Here you are!。",
+    "id": "u7-t86-b",
+    "topic": 220,
+    "concept": "水果沙拉與數量",
+    "passageId": "library-english-7-0",
+    "passageTitle": "Fruit for our salad 1",
+    "passage": "Amy: Let’s make fruit salad. We need 5 apples and 2 bananas.\nBen: We have 2 apples and 2 bananas.\n\nAmy: How many more apples do we need?\nBen: Three. We don’t need more bananas.\n\nCody: I have three apples. Here you are!\nAmy: Thank you. Now we have 5 apples. Let’s wash the fruit first.",
+    "readingOrder": 4,
+    "readingSkill": "整合對話",
+    "family": "library-english-7-0",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Fruit",
+          "Need",
+          "Have at first"
+        ],
+        "rows": [
+          [
+            "apples",
+            5,
+            2
+          ],
+          [
+            "bananas",
+            2,
+            2
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u7-t221-r4",
+    "examRevision": 16,
+    "examOrigin": "u7-t63-r4",
+    "variant": "A"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Fruit for our salad 2〉How many apples do they need in all?",
+    "options": [
+      "6",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "目標是 6 apples，需與一開始已有的數量區分。",
+    "id": "u7-t85-b",
+    "topic": 221,
+    "concept": "水果沙拉與數量",
+    "passageId": "library-english-7-1",
+    "passageTitle": "Fruit for our salad 2",
+    "passage": "Emma: Let’s make fruit salad. We need 6 apples and 3 bananas.\nFred: We have 3 apples and 3 bananas.\n\nEmma: How many more apples do we need?\nFred: Three. We don’t need more bananas.\n\nGina: I have three apples. Here you are!\nEmma: Thank you. Now we have 6 apples. Let’s wash the fruit first.",
+    "readingOrder": 1,
+    "readingSkill": "找資料",
+    "family": "library-english-7-1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Fruit",
+          "Need",
+          "Have at first"
+        ],
+        "rows": [
+          [
+            "apples",
+            6,
+            3
+          ],
+          [
+            "bananas",
+            3,
+            3
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u7-t222-r1",
+    "examRevision": 16,
+    "examOrigin": "u7-t64-r1",
+    "variant": "A"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Fruit for our salad 2〉How many more apples do they need at first?",
+    "options": [
+      "3",
+      "6",
+      "1",
+      "9"
+    ],
+    "answer": 0,
+    "explanation": "目標減現有數量，還差三個。",
+    "id": "u7-t84-b",
+    "topic": 221,
+    "concept": "水果沙拉與數量",
+    "passageId": "library-english-7-1",
+    "passageTitle": "Fruit for our salad 2",
+    "passage": "Emma: Let’s make fruit salad. We need 6 apples and 3 bananas.\nFred: We have 3 apples and 3 bananas.\n\nEmma: How many more apples do we need?\nFred: Three. We don’t need more bananas.\n\nGina: I have three apples. Here you are!\nEmma: Thank you. Now we have 6 apples. Let’s wash the fruit first.",
+    "readingOrder": 2,
+    "readingSkill": "配對資訊",
+    "family": "library-english-7-1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Fruit",
+          "Need",
+          "Have at first"
+        ],
+        "rows": [
+          [
+            "apples",
+            6,
+            3
+          ],
+          [
+            "bananas",
+            3,
+            3
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u7-t222-r2",
+    "examRevision": 16,
+    "examOrigin": "u7-t64-r2",
+    "variant": "A"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Fruit for our salad 2〉Do they need more bananas?",
+    "options": [
+      "No, they don’t.",
+      "Yes, they do.",
+      "They need three more.",
+      "They need five more."
+    ],
+    "answer": 0,
+    "explanation": "現有香蕉數已等於目標，不需再補。",
+    "id": "u7-t83-b",
+    "topic": 221,
+    "concept": "水果沙拉與數量",
+    "passageId": "library-english-7-1",
+    "passageTitle": "Fruit for our salad 2",
+    "passage": "Emma: Let’s make fruit salad. We need 6 apples and 3 bananas.\nFred: We have 3 apples and 3 bananas.\n\nEmma: How many more apples do we need?\nFred: Three. We don’t need more bananas.\n\nGina: I have three apples. Here you are!\nEmma: Thank you. Now we have 6 apples. Let’s wash the fruit first.",
+    "readingOrder": 3,
+    "readingSkill": "句型理解",
+    "family": "library-english-7-1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Fruit",
+          "Need",
+          "Have at first"
+        ],
+        "rows": [
+          [
+            "apples",
+            6,
+            3
+          ],
+          [
+            "bananas",
+            3,
+            3
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u7-t222-r3",
+    "examRevision": 16,
+    "examOrigin": "u7-t64-r3",
+    "variant": "A"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Fruit for our salad 2〉Who brings three apples?",
+    "options": [
+      "Gina",
+      "Emma",
+      "Fred",
+      "Nobody."
+    ],
+    "answer": 0,
+    "explanation": "Gina 說 I have three apples. Here you are!。",
+    "id": "u7-t82-b",
+    "topic": 221,
+    "concept": "水果沙拉與數量",
+    "passageId": "library-english-7-1",
+    "passageTitle": "Fruit for our salad 2",
+    "passage": "Emma: Let’s make fruit salad. We need 6 apples and 3 bananas.\nFred: We have 3 apples and 3 bananas.\n\nEmma: How many more apples do we need?\nFred: Three. We don’t need more bananas.\n\nGina: I have three apples. Here you are!\nEmma: Thank you. Now we have 6 apples. Let’s wash the fruit first.",
+    "readingOrder": 4,
+    "readingSkill": "整合對話",
+    "family": "library-english-7-1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Fruit",
+          "Need",
+          "Have at first"
+        ],
+        "rows": [
+          [
+            "apples",
+            6,
+            3
+          ],
+          [
+            "bananas",
+            3,
+            3
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u7-t222-r4",
+    "examRevision": 16,
+    "examOrigin": "u7-t64-r4",
+    "variant": "A"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Fruit for our salad 2〉What do they do before making the salad?",
+    "options": [
+      "Wash the fruit.",
+      "Eat all the apples.",
+      "Buy more bananas.",
+      "Throw away the list."
+    ],
+    "answer": 0,
+    "explanation": "最後一句 Let’s wash the fruit first. 指出先洗水果。",
+    "id": "u7-t81-b",
+    "topic": 221,
+    "concept": "水果沙拉與數量",
+    "passageId": "library-english-7-1",
+    "passageTitle": "Fruit for our salad 2",
+    "passage": "Emma: Let’s make fruit salad. We need 6 apples and 3 bananas.\nFred: We have 3 apples and 3 bananas.\n\nEmma: How many more apples do we need?\nFred: Three. We don’t need more bananas.\n\nGina: I have three apples. Here you are!\nEmma: Thank you. Now we have 6 apples. Let’s wash the fruit first.",
+    "readingOrder": 5,
+    "readingSkill": "情境應用",
+    "family": "library-english-7-1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Fruit",
+          "Need",
+          "Have at first"
+        ],
+        "rows": [
+          [
+            "apples",
+            6,
+            3
+          ],
+          [
+            "bananas",
+            3,
+            3
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u7-t222-r5",
+    "examRevision": 16,
+    "examOrigin": "u7-t64-r5",
+    "variant": "A"
+  },
+  {
+    "id": "u13-t79-b",
+    "unit": 13,
+    "topic": 205,
+    "concept": "語詞、句型與閱讀方法",
+    "type": "single",
+    "text": "「我提早五分鐘出門，所以沒有遲到。」哪個是結果？",
+    "options": [
+      "沒有遲到",
+      "提早五分鐘",
+      "出門前",
+      "分鐘"
+    ],
+    "answer": 0,
+    "explanation": "「所以」後接由前面原因造成的結果。",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-language-13-5",
+    "visualPolicy": "none",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
+    "libraryKey": "u13-t206-a",
+    "examRevision": 16,
+    "examOrigin": "u13-t56-a",
+    "variant": "B"
+  },
+  {
+    "id": "u13-t78-b",
+    "unit": 13,
+    "topic": 206,
+    "concept": "語詞、句型與閱讀方法",
+    "type": "single",
+    "text": "「先看聯絡簿，接著準備用品，最後再檢查。」最後要做什麼？",
+    "options": [
+      "檢查",
+      "看聯絡簿",
+      "準備用品",
+      "三項都不用做"
+    ],
+    "answer": 0,
+    "explanation": "順序詞「最後」明確指出檢查是末一步。",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-language-13-6",
+    "visualPolicy": "none",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
+    "libraryKey": "u13-t207-a",
+    "examRevision": 16,
+    "examOrigin": "u13-t57-a",
+    "variant": "B"
+  },
+  {
+    "id": "u13-t77-b",
+    "unit": 13,
+    "topic": 207,
+    "concept": "語詞、句型與閱讀方法",
+    "type": "single",
+    "text": "「大家七嘴八舌地討論。」哪種情況最符合這個詞？",
+    "options": [
+      "許多人同時說話",
+      "一個人安靜寫字",
+      "全班沒有出聲",
+      "只有一人在朗讀"
+    ],
+    "answer": 0,
+    "explanation": "「七嘴八舌」形容許多人紛紛發言。",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-language-13-7",
+    "visualPolicy": "none",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
+    "libraryKey": "u13-t208-a",
+    "examRevision": 16,
+    "examOrigin": "u13-t58-a",
+    "variant": "B"
+  },
+  {
+    "id": "u14-t79-b",
+    "unit": 14,
+    "topic": 205,
+    "concept": "語詞、句型與閱讀方法",
+    "type": "single",
+    "text": "「大家把不同做法一一試過。」一一是什麼意思？",
+    "options": [
+      "一個接著一個",
+      "只試其中一次",
+      "全部同時混在一起",
+      "完全沒有試"
+    ],
+    "answer": 0,
+    "explanation": "「一一」表示逐個進行。",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-language-14-5",
+    "visualPolicy": "none",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
+    "libraryKey": "u14-t206-a",
+    "examRevision": 16,
+    "examOrigin": "u14-t56-a",
+    "variant": "B"
+  },
+  {
+    "id": "u14-t78-b",
+    "unit": 14,
+    "topic": 206,
+    "concept": "語詞、句型與閱讀方法",
+    "type": "single",
+    "text": "「解決問題後，小安眉開眼笑。」哪個詞最能說明心情？",
+    "options": [
+      "高興",
+      "焦急",
+      "難過",
+      "疑惑"
+    ],
+    "answer": 0,
+    "explanation": "眉開眼笑形容高興的樣子。",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-language-14-6",
+    "visualPolicy": "none",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
+    "libraryKey": "u14-t207-a",
+    "examRevision": 16,
+    "examOrigin": "u14-t57-a",
+    "variant": "B"
+  },
+  {
+    "id": "u13-t76-b",
+    "unit": 13,
+    "topic": 208,
+    "concept": "語詞、句型與閱讀方法",
+    "type": "single",
+    "text": "「由於雨勢變大，因此改到室內。」哪個是結果？",
+    "options": [
+      "改到室內",
+      "雨勢變大",
+      "由於",
+      "雨勢"
+    ],
+    "answer": 0,
+    "explanation": "「因此」後交代結果，前面的雨勢是原因。",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-language-13-8",
+    "visualPolicy": "none",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
+    "libraryKey": "u13-t209-a",
+    "examRevision": 16,
+    "examOrigin": "u13-t59-a",
+    "variant": "B"
+  },
+  {
+    "id": "u13-t75-b",
+    "unit": 13,
+    "topic": 209,
+    "concept": "語詞、句型與閱讀方法",
+    "type": "single",
+    "text": "「同學有條不紊地整理材料。」有條不紊較接近什麼意思？",
+    "options": [
+      "有順序而不混亂",
+      "非常慌張",
+      "完全不動",
+      "只顧自己的東西"
+    ],
+    "answer": 0,
+    "explanation": "有條不紊指做事有條理、不混亂。",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-language-13-9",
+    "visualPolicy": "none",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
+    "libraryKey": "u13-t210-a",
+    "examRevision": 16,
+    "examOrigin": "u13-t60-a",
+    "variant": "B"
+  },
+  {
+    "id": "u14-t77-b",
+    "unit": 14,
+    "topic": 207,
+    "concept": "語詞、句型與閱讀方法",
+    "type": "single",
+    "text": "「先找出原因，再調整做法。」哪個順序符合句意？",
+    "options": [
+      "找原因→調整做法",
+      "調整做法→找原因",
+      "兩步都省略",
+      "只調整，不找原因"
+    ],
+    "answer": 0,
+    "explanation": "句中先、再指出思考與行動的順序。",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-language-14-7",
+    "visualPolicy": "none",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
+    "libraryKey": "u14-t208-a",
+    "examRevision": 16,
+    "examOrigin": "u14-t58-a",
+    "variant": "B"
+  },
+  {
+    "id": "u14-t76-b",
+    "unit": 14,
+    "topic": 208,
+    "concept": "語詞、句型與閱讀方法",
+    "type": "single",
+    "text": "「由於雨勢變大，因此改到室內。」哪個是結果？",
+    "options": [
+      "改到室內",
+      "雨勢變大",
+      "由於",
+      "雨勢"
+    ],
+    "answer": 0,
+    "explanation": "「因此」後交代結果，前面的雨勢是原因。",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-language-14-8",
+    "visualPolicy": "none",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
+    "libraryKey": "u14-t209-a",
+    "examRevision": 16,
+    "examOrigin": "u14-t59-a",
+    "variant": "B"
+  },
+  {
+    "id": "u14-t75-b",
+    "unit": 14,
+    "topic": 209,
+    "concept": "語詞、句型與閱讀方法",
+    "type": "single",
+    "text": "「同學有條不紊地整理材料。」有條不紊較接近什麼意思？",
+    "options": [
+      "有順序而不混亂",
+      "非常慌張",
+      "完全不動",
+      "只顧自己的東西"
+    ],
+    "answer": 0,
+    "explanation": "有條不紊指做事有條理、不混亂。",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-language-14-9",
+    "visualPolicy": "none",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
+    "libraryKey": "u14-t210-a",
+    "examRevision": 16,
+    "examOrigin": "u14-t60-a",
+    "variant": "B"
+  },
+  {
+    "id": "u13-t74-b",
+    "unit": 13,
+    "topic": 223,
+    "concept": "運用時間",
+    "type": "single",
+    "text": "〈提早到的練習〉練習幾點開始？",
+    "options": [
+      "九點",
+      "八點",
+      "十點",
+      "十二點"
+    ],
+    "answer": 0,
+    "explanation": "文中提到：「合唱練習九點開始，阿安總在九點才走進校門」。這項線索支持「九點」。",
+    "passageId": "library-chinese-13-3",
+    "passageTitle": "提早到的練習",
+    "passage": "合唱練習九點開始，阿安總在九點才走進校門。等他放好水壺、找到座位，大家已經唱完第一遍。他原本覺得自己沒有遲到，卻常接不上老師的指示。\n\n老師請他把「到校」與「準備好開始」分開想。下次他提早十分鐘到，先整理物品，再看今天練習的段落。九點時，他已坐在位置上。\n\n那天結束後，阿安沒有請同學重說第一遍的內容。他在行事曆寫下：開始前的準備，也要算進需要的時間。",
+    "readingOrder": 1,
+    "readingSkill": "擷取細節",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-chinese-13-3",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u13-t224-r1",
+    "examRevision": 16,
+    "examOrigin": "u13-t66-r1",
+    "variant": "B"
+  },
+  {
+    "id": "u13-t73-b",
+    "unit": 13,
+    "topic": 223,
+    "concept": "運用時間",
+    "type": "single",
+    "text": "〈提早到的練習〉原先阿安九點時在哪個階段？",
+    "options": [
+      "剛走進校門",
+      "已唱完整首歌",
+      "已整理完所有東西",
+      "正在回家"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「剛走進校門」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-13-3",
+    "passageTitle": "提早到的練習",
+    "passage": "合唱練習九點開始，阿安總在九點才走進校門。等他放好水壺、找到座位，大家已經唱完第一遍。他原本覺得自己沒有遲到，卻常接不上老師的指示。\n\n老師請他把「到校」與「準備好開始」分開想。下次他提早十分鐘到，先整理物品，再看今天練習的段落。九點時，他已坐在位置上。\n\n那天結束後，阿安沒有請同學重說第一遍的內容。他在行事曆寫下：開始前的準備，也要算進需要的時間。",
+    "readingOrder": 2,
+    "readingSkill": "理解詞句",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-chinese-13-3",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u13-t224-r2",
+    "examRevision": 16,
+    "examOrigin": "u13-t66-r2",
+    "variant": "B"
+  },
+  {
+    "id": "u13-t72-b",
+    "unit": 13,
+    "topic": 223,
+    "concept": "運用時間",
+    "type": "single",
+    "text": "〈提早到的練習〉老師請他分清楚哪兩件事？",
+    "options": [
+      "到校與準備好開始",
+      "唱歌與畫圖",
+      "水壺與午餐",
+      "昨天與下個月"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「到校與準備好開始」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-13-3",
+    "passageTitle": "提早到的練習",
+    "passage": "合唱練習九點開始，阿安總在九點才走進校門。等他放好水壺、找到座位，大家已經唱完第一遍。他原本覺得自己沒有遲到，卻常接不上老師的指示。\n\n老師請他把「到校」與「準備好開始」分開想。下次他提早十分鐘到，先整理物品，再看今天練習的段落。九點時，他已坐在位置上。\n\n那天結束後，阿安沒有請同學重說第一遍的內容。他在行事曆寫下：開始前的準備，也要算進需要的時間。",
+    "readingOrder": 3,
+    "readingSkill": "因果整合",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-chinese-13-3",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u13-t224-r3",
+    "examRevision": 16,
+    "examOrigin": "u13-t66-r3",
+    "variant": "B"
+  },
+  {
+    "id": "u13-t71-b",
+    "unit": 13,
+    "topic": 223,
+    "concept": "運用時間",
+    "type": "single",
+    "text": "〈提早到的練習〉後來有什麼改變？",
+    "options": [
+      "提早到校完成準備",
+      "九點才開始出門",
+      "不再帶任何用品",
+      "請同學代替練習"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「提早到校完成準備」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-13-3",
+    "passageTitle": "提早到的練習",
+    "passage": "合唱練習九點開始，阿安總在九點才走進校門。等他放好水壺、找到座位，大家已經唱完第一遍。他原本覺得自己沒有遲到，卻常接不上老師的指示。\n\n老師請他把「到校」與「準備好開始」分開想。下次他提早十分鐘到，先整理物品，再看今天練習的段落。九點時，他已坐在位置上。\n\n那天結束後，阿安沒有請同學重說第一遍的內容。他在行事曆寫下：開始前的準備，也要算進需要的時間。",
+    "readingOrder": 4,
+    "readingSkill": "事件順序與應用",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-chinese-13-3",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u13-t224-r4",
+    "examRevision": 16,
+    "examOrigin": "u13-t66-r4",
+    "variant": "B"
+  },
+  {
+    "id": "u13-t70-b",
+    "unit": 13,
+    "topic": 223,
+    "concept": "運用時間",
+    "type": "single",
+    "text": "〈提早到的練習〉行事曆上的話表示他學到什麼？",
+    "options": [
+      "規劃時要包含準備時間",
+      "只要記得時間就不用行動",
+      "活動開始後才適合找用品",
+      "到校時間永遠等於開始時間"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「規劃時要包含準備時間」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-13-3",
+    "passageTitle": "提早到的練習",
+    "passage": "合唱練習九點開始，阿安總在九點才走進校門。等他放好水壺、找到座位，大家已經唱完第一遍。他原本覺得自己沒有遲到，卻常接不上老師的指示。\n\n老師請他把「到校」與「準備好開始」分開想。下次他提早十分鐘到，先整理物品，再看今天練習的段落。九點時，他已坐在位置上。\n\n那天結束後，阿安沒有請同學重說第一遍的內容。他在行事曆寫下：開始前的準備，也要算進需要的時間。",
+    "readingOrder": 5,
+    "readingSkill": "主旨與推論",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-chinese-13-3",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u13-t224-r5",
+    "examRevision": 16,
+    "examOrigin": "u13-t66-r5",
+    "variant": "B"
+  },
+  {
+    "id": "u13-t69-b",
+    "unit": 13,
+    "topic": 224,
+    "concept": "運用時間",
+    "type": "single",
+    "text": "〈兩張不一樣的表〉兩張表分別記什麼？",
+    "options": [
+      "物品與時間",
+      "午餐與成績",
+      "書名與售價",
+      "姓名與年齡"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「物品與時間」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-13-4",
+    "passageTitle": "兩張不一樣的表",
+    "passage": "班上明天要戶外教學，小蓉寫了兩張表。第一張是要帶的物品，第二張是集合到出發的時間。她原本把所有內容混在一張紙上，查水壺時卻一直看到公車發車時間。\n\n分開後，她先依物品表收拾書包，再依時間表設定鬧鐘。爸爸問她為什麼不只留一張，她說：「我要找什麼，就看哪一張。」\n\n隔天她順利到達集合地點，也把兩張表帶在身邊。老師臨時調整出發時間時，她只修改時間表，不必重寫整份物品清單。",
+    "readingOrder": 1,
+    "readingSkill": "擷取細節",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-chinese-13-4",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u13-t225-r1",
+    "examRevision": 16,
+    "examOrigin": "u13-t67-r1",
+    "variant": "B"
+  },
+  {
+    "id": "u13-t68-b",
+    "unit": 13,
+    "topic": 224,
+    "concept": "運用時間",
+    "type": "single",
+    "text": "〈兩張不一樣的表〉原先混在一起有什麼困難？",
+    "options": [
+      "查物品時容易被時間資訊打斷",
+      "完全沒有記到時間",
+      "紙上只有圖畫",
+      "所有字都被擦掉"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「查物品時容易被時間資訊打斷」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-13-4",
+    "passageTitle": "兩張不一樣的表",
+    "passage": "班上明天要戶外教學，小蓉寫了兩張表。第一張是要帶的物品，第二張是集合到出發的時間。她原本把所有內容混在一張紙上，查水壺時卻一直看到公車發車時間。\n\n分開後，她先依物品表收拾書包，再依時間表設定鬧鐘。爸爸問她為什麼不只留一張，她說：「我要找什麼，就看哪一張。」\n\n隔天她順利到達集合地點，也把兩張表帶在身邊。老師臨時調整出發時間時，她只修改時間表，不必重寫整份物品清單。",
+    "readingOrder": 2,
+    "readingSkill": "理解詞句",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-chinese-13-4",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u13-t225-r2",
+    "examRevision": 16,
+    "examOrigin": "u13-t67-r2",
+    "variant": "B"
+  },
+  {
+    "id": "u13-t67-b",
+    "unit": 13,
+    "topic": 224,
+    "concept": "運用時間",
+    "type": "single",
+    "text": "〈兩張不一樣的表〉她先做哪件事？",
+    "options": [
+      "依物品表收拾書包",
+      "修改全班成績",
+      "把所有表丟掉",
+      "等公車來才找水壺"
+    ],
+    "answer": 0,
+    "explanation": "文中提到：「分開後，她先依物品表收拾書包，再依時間表設定鬧鐘」。這項線索支持「依物品表收拾書包」。",
+    "passageId": "library-chinese-13-4",
+    "passageTitle": "兩張不一樣的表",
+    "passage": "班上明天要戶外教學，小蓉寫了兩張表。第一張是要帶的物品，第二張是集合到出發的時間。她原本把所有內容混在一張紙上，查水壺時卻一直看到公車發車時間。\n\n分開後，她先依物品表收拾書包，再依時間表設定鬧鐘。爸爸問她為什麼不只留一張，她說：「我要找什麼，就看哪一張。」\n\n隔天她順利到達集合地點，也把兩張表帶在身邊。老師臨時調整出發時間時，她只修改時間表，不必重寫整份物品清單。",
+    "readingOrder": 3,
+    "readingSkill": "因果整合",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-chinese-13-4",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u13-t225-r3",
+    "examRevision": 16,
+    "examOrigin": "u13-t67-r3",
+    "variant": "B"
+  },
+  {
+    "id": "u13-t66-b",
+    "unit": 13,
+    "topic": 224,
+    "concept": "運用時間",
+    "type": "single",
+    "text": "〈兩張不一樣的表〉出發時間改變時，需修改哪張？",
+    "options": [
+      "時間表",
+      "物品表的所有項目",
+      "兩張都完全重寫",
+      "兩張都不能改"
+    ],
+    "answer": 0,
+    "explanation": "文中提到：「分開後，她先依物品表收拾書包，再依時間表設定鬧鐘」。這項線索支持「時間表」。",
+    "passageId": "library-chinese-13-4",
+    "passageTitle": "兩張不一樣的表",
+    "passage": "班上明天要戶外教學，小蓉寫了兩張表。第一張是要帶的物品，第二張是集合到出發的時間。她原本把所有內容混在一張紙上，查水壺時卻一直看到公車發車時間。\n\n分開後，她先依物品表收拾書包，再依時間表設定鬧鐘。爸爸問她為什麼不只留一張，她說：「我要找什麼，就看哪一張。」\n\n隔天她順利到達集合地點，也把兩張表帶在身邊。老師臨時調整出發時間時，她只修改時間表，不必重寫整份物品清單。",
+    "readingOrder": 4,
+    "readingSkill": "事件順序與應用",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-chinese-13-4",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u13-t225-r4",
+    "examRevision": 16,
+    "examOrigin": "u13-t67-r4",
+    "variant": "B"
+  },
+  {
+    "id": "u13-t65-b",
+    "unit": 13,
+    "topic": 224,
+    "concept": "運用時間",
+    "type": "single",
+    "text": "〈兩張不一樣的表〉「我要找什麼，就看哪一張」表示什麼？",
+    "options": [
+      "分類能幫助快速找到需要資訊",
+      "所有資訊都必須刪掉",
+      "一張紙只能寫一個字",
+      "表格越混亂越好找"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「分類能幫助快速找到需要資訊」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-13-4",
+    "passageTitle": "兩張不一樣的表",
+    "passage": "班上明天要戶外教學，小蓉寫了兩張表。第一張是要帶的物品，第二張是集合到出發的時間。她原本把所有內容混在一張紙上，查水壺時卻一直看到公車發車時間。\n\n分開後，她先依物品表收拾書包，再依時間表設定鬧鐘。爸爸問她為什麼不只留一張，她說：「我要找什麼，就看哪一張。」\n\n隔天她順利到達集合地點，也把兩張表帶在身邊。老師臨時調整出發時間時，她只修改時間表，不必重寫整份物品清單。",
+    "readingOrder": 5,
+    "readingSkill": "主旨與推論",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-chinese-13-4",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u13-t225-r5",
+    "examRevision": 16,
+    "examOrigin": "u13-t67-r5",
+    "variant": "B"
+  },
+  {
+    "id": "u14-t74-b",
+    "unit": 14,
+    "topic": 223,
+    "concept": "解決問題",
+    "type": "single",
+    "text": "〈認得自己的水壺〉桌上水壺有什麼相同處？",
+    "options": [
+      "都是藍色且外形相同",
+      "姓名全部一樣",
+      "吸管一定全相同",
+      "每個都沒有底部"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「都是藍色且外形相同」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-14-3",
+    "passageTitle": "認得自己的水壺",
+    "passage": "戶外教學後，桌上擺著四個一樣的藍水壺。小禾伸手拿了一個，卻發現吸管不是自己習慣的款式。他停下來，先看水壺底部。\n\n其中一個底部貼有自己的姓名，另一個卻只有圖案。小禾拿回有姓名的水壺，並提醒同學先辨認標記，不要只看外表顏色。回家後，他又把快脫落的姓名貼換好。\n\n媽媽問他為什麼不只貼最喜歡的圖案。他說：「圖案可能一樣，姓名比較能讓大家知道是誰的。」標記不必很華麗，清楚而牢固才有用。",
+    "readingOrder": 1,
+    "readingSkill": "擷取細節",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-chinese-14-3",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u14-t224-r1",
+    "examRevision": 16,
+    "examOrigin": "u14-t66-r1",
+    "variant": "B"
+  },
+  {
+    "id": "u14-t73-b",
+    "unit": 14,
+    "topic": 223,
+    "concept": "解決問題",
+    "type": "single",
+    "text": "〈認得自己的水壺〉什麼讓小禾停下來確認？",
+    "options": [
+      "吸管款式不像自己的",
+      "水壺突然破裂",
+      "沒有任何水壺",
+      "老師把桌子搬走"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「吸管款式不像自己的」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-14-3",
+    "passageTitle": "認得自己的水壺",
+    "passage": "戶外教學後，桌上擺著四個一樣的藍水壺。小禾伸手拿了一個，卻發現吸管不是自己習慣的款式。他停下來，先看水壺底部。\n\n其中一個底部貼有自己的姓名，另一個卻只有圖案。小禾拿回有姓名的水壺，並提醒同學先辨認標記，不要只看外表顏色。回家後，他又把快脫落的姓名貼換好。\n\n媽媽問他為什麼不只貼最喜歡的圖案。他說：「圖案可能一樣，姓名比較能讓大家知道是誰的。」標記不必很華麗，清楚而牢固才有用。",
+    "readingOrder": 2,
+    "readingSkill": "理解詞句",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-chinese-14-3",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u14-t224-r2",
+    "examRevision": 16,
+    "examOrigin": "u14-t66-r2",
+    "variant": "B"
+  },
+  {
+    "id": "u14-t72-b",
+    "unit": 14,
+    "topic": 223,
+    "concept": "解決問題",
+    "type": "single",
+    "text": "〈認得自己的水壺〉最後依什麼拿回水壺？",
+    "options": [
+      "底部姓名貼",
+      "只依顏色",
+      "只依哪個最近",
+      "依同學猜測"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「底部姓名貼」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-14-3",
+    "passageTitle": "認得自己的水壺",
+    "passage": "戶外教學後，桌上擺著四個一樣的藍水壺。小禾伸手拿了一個，卻發現吸管不是自己習慣的款式。他停下來，先看水壺底部。\n\n其中一個底部貼有自己的姓名，另一個卻只有圖案。小禾拿回有姓名的水壺，並提醒同學先辨認標記，不要只看外表顏色。回家後，他又把快脫落的姓名貼換好。\n\n媽媽問他為什麼不只貼最喜歡的圖案。他說：「圖案可能一樣，姓名比較能讓大家知道是誰的。」標記不必很華麗，清楚而牢固才有用。",
+    "readingOrder": 3,
+    "readingSkill": "因果整合",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-chinese-14-3",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u14-t224-r3",
+    "examRevision": 16,
+    "examOrigin": "u14-t66-r3",
+    "variant": "B"
+  },
+  {
+    "id": "u14-t71-b",
+    "unit": 14,
+    "topic": 223,
+    "concept": "解決問題",
+    "type": "single",
+    "text": "〈認得自己的水壺〉回家後他做什麼？",
+    "options": [
+      "更換快脫落的姓名貼",
+      "把所有標記撕掉",
+      "把別人姓名貼上",
+      "不用再帶水壺"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「更換快脫落的姓名貼」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-14-3",
+    "passageTitle": "認得自己的水壺",
+    "passage": "戶外教學後，桌上擺著四個一樣的藍水壺。小禾伸手拿了一個，卻發現吸管不是自己習慣的款式。他停下來，先看水壺底部。\n\n其中一個底部貼有自己的姓名，另一個卻只有圖案。小禾拿回有姓名的水壺，並提醒同學先辨認標記，不要只看外表顏色。回家後，他又把快脫落的姓名貼換好。\n\n媽媽問他為什麼不只貼最喜歡的圖案。他說：「圖案可能一樣，姓名比較能讓大家知道是誰的。」標記不必很華麗，清楚而牢固才有用。",
+    "readingOrder": 4,
+    "readingSkill": "事件順序與應用",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-chinese-14-3",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u14-t224-r4",
+    "examRevision": 16,
+    "examOrigin": "u14-t66-r4",
+    "variant": "B"
+  },
+  {
+    "id": "u14-t70-b",
+    "unit": 14,
+    "topic": 223,
+    "concept": "解決問題",
+    "type": "single",
+    "text": "〈認得自己的水壺〉「清楚而牢固才有用」強調什麼？",
+    "options": [
+      "標記要能辨認並持續附著",
+      "圖案越多越一定正確",
+      "姓名可以隨意改成別人",
+      "標記只要漂亮即可"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「標記要能辨認並持續附著」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-14-3",
+    "passageTitle": "認得自己的水壺",
+    "passage": "戶外教學後，桌上擺著四個一樣的藍水壺。小禾伸手拿了一個，卻發現吸管不是自己習慣的款式。他停下來，先看水壺底部。\n\n其中一個底部貼有自己的姓名，另一個卻只有圖案。小禾拿回有姓名的水壺，並提醒同學先辨認標記，不要只看外表顏色。回家後，他又把快脫落的姓名貼換好。\n\n媽媽問他為什麼不只貼最喜歡的圖案。他說：「圖案可能一樣，姓名比較能讓大家知道是誰的。」標記不必很華麗，清楚而牢固才有用。",
+    "readingOrder": 5,
+    "readingSkill": "主旨與推論",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-chinese-14-3",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u14-t224-r5",
+    "examRevision": 16,
+    "examOrigin": "u14-t66-r5",
+    "variant": "B"
+  },
+  {
+    "id": "u14-t69-b",
+    "unit": 14,
+    "topic": 224,
+    "concept": "解決問題",
+    "type": "single",
+    "text": "〈只有一把剪刀〉小組原先有什麼困難？",
+    "options": [
+      "四人同時搶一把剪刀",
+      "紙張完全不夠",
+      "所有人都不想做",
+      "每人都有多把剪刀"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「四人同時搶一把剪刀」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-14-4",
+    "passageTitle": "只有一把剪刀",
+    "passage": "紙工課上，四人小組只有一把剪刀，大家都伸手想拿。紙張推來推去，十分鐘過去，沒有一件作品完成。\n\n小德提議先把紙上輪廓畫好，再輪流剪；等待的人負責摺紙或整理材料。他們把剪刀放在桌上指定位置，交接時先握好安全的一端，不互相拉扯。\n\n下課前，四件作品終於排成一列。大家發現，工具數量沒有增加，但工作順序改了，等待的人也能做別的步驟，整體反而更順利。",
+    "readingOrder": 1,
+    "readingSkill": "擷取細節",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-chinese-14-4",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u14-t225-r1",
+    "examRevision": 16,
+    "examOrigin": "u14-t67-r1",
+    "variant": "B"
+  },
+  {
+    "id": "u14-t68-b",
+    "unit": 14,
+    "topic": 224,
+    "concept": "解決問題",
+    "type": "single",
+    "text": "〈只有一把剪刀〉小德先建議什麼？",
+    "options": [
+      "畫好輪廓，再輪流剪",
+      "把紙全丟掉",
+      "讓一人完成四份而別人離開",
+      "邊拉扯邊剪"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「畫好輪廓，再輪流剪」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-14-4",
+    "passageTitle": "只有一把剪刀",
+    "passage": "紙工課上，四人小組只有一把剪刀，大家都伸手想拿。紙張推來推去，十分鐘過去，沒有一件作品完成。\n\n小德提議先把紙上輪廓畫好，再輪流剪；等待的人負責摺紙或整理材料。他們把剪刀放在桌上指定位置，交接時先握好安全的一端，不互相拉扯。\n\n下課前，四件作品終於排成一列。大家發現，工具數量沒有增加，但工作順序改了，等待的人也能做別的步驟，整體反而更順利。",
+    "readingOrder": 2,
+    "readingSkill": "理解詞句",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-chinese-14-4",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u14-t225-r2",
+    "examRevision": 16,
+    "examOrigin": "u14-t67-r2",
+    "variant": "B"
+  },
+  {
+    "id": "u14-t67-b",
+    "unit": 14,
+    "topic": 224,
+    "concept": "解決問題",
+    "type": "single",
+    "text": "〈只有一把剪刀〉等待的人做什麼？",
+    "options": [
+      "摺紙或整理材料",
+      "必須完全不做任何事",
+      "把別人作品藏起來",
+      "阻止交接"
+    ],
+    "answer": 0,
+    "explanation": "文中提到：「小德提議先把紙上輪廓畫好，再輪流剪；等待的人負責摺紙或整理材料」。這項線索支持「摺紙或整理材料」。",
+    "passageId": "library-chinese-14-4",
+    "passageTitle": "只有一把剪刀",
+    "passage": "紙工課上，四人小組只有一把剪刀，大家都伸手想拿。紙張推來推去，十分鐘過去，沒有一件作品完成。\n\n小德提議先把紙上輪廓畫好，再輪流剪；等待的人負責摺紙或整理材料。他們把剪刀放在桌上指定位置，交接時先握好安全的一端，不互相拉扯。\n\n下課前，四件作品終於排成一列。大家發現，工具數量沒有增加，但工作順序改了，等待的人也能做別的步驟，整體反而更順利。",
+    "readingOrder": 3,
+    "readingSkill": "因果整合",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-chinese-14-4",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u14-t225-r3",
+    "examRevision": 16,
+    "examOrigin": "u14-t67-r3",
+    "variant": "B"
+  },
+  {
+    "id": "u14-t66-b",
+    "unit": 14,
+    "topic": 224,
+    "concept": "解決問題",
+    "type": "single",
+    "text": "〈只有一把剪刀〉工具數量有增加嗎？",
+    "options": [
+      "沒有，改的是工作安排",
+      "有，每人多三把",
+      "有，老師送來一箱",
+      "文章沒有提到剪刀"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「沒有，改的是工作安排」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-14-4",
+    "passageTitle": "只有一把剪刀",
+    "passage": "紙工課上，四人小組只有一把剪刀，大家都伸手想拿。紙張推來推去，十分鐘過去，沒有一件作品完成。\n\n小德提議先把紙上輪廓畫好，再輪流剪；等待的人負責摺紙或整理材料。他們把剪刀放在桌上指定位置，交接時先握好安全的一端，不互相拉扯。\n\n下課前，四件作品終於排成一列。大家發現，工具數量沒有增加，但工作順序改了，等待的人也能做別的步驟，整體反而更順利。",
+    "readingOrder": 4,
+    "readingSkill": "事件順序與應用",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-chinese-14-4",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u14-t225-r4",
+    "examRevision": 16,
+    "examOrigin": "u14-t67-r4",
+    "variant": "B"
+  },
+  {
+    "id": "u14-t65-b",
+    "unit": 14,
+    "topic": 224,
+    "concept": "解決問題",
+    "type": "single",
+    "text": "〈只有一把剪刀〉哪項最能說明成功原因？",
+    "options": [
+      "分清步驟與輪流使用，提高合作效率",
+      "只是作品排得比較整齊",
+      "大家不再需要安全操作",
+      "工具越少一定越快"
+    ],
+    "answer": 0,
+    "explanation": "把題目中的事件與全文前後關係一起核對，可知答案是「分清步驟與輪流使用，提高合作效率」，不能只看單一字詞判斷。",
+    "passageId": "library-chinese-14-4",
+    "passageTitle": "只有一把剪刀",
+    "passage": "紙工課上，四人小組只有一把剪刀，大家都伸手想拿。紙張推來推去，十分鐘過去，沒有一件作品完成。\n\n小德提議先把紙上輪廓畫好，再輪流剪；等待的人負責摺紙或整理材料。他們把剪刀放在桌上指定位置，交接時先握好安全的一端，不互相拉扯。\n\n下課前，四件作品終於排成一列。大家發現，工具數量沒有增加，但工作順序改了，等待的人也能做別的步驟，整體反而更順利。",
+    "readingOrder": 5,
+    "readingSkill": "主旨與推論",
+    "visualPolicy": "none",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-chinese-14-4",
+    "sourceIds": [
+      "REF-259cc36ab7"
+    ],
+    "referencePages": [
+      2
+    ],
+    "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
+    "libraryKey": "u14-t225-r5",
+    "examRevision": 16,
+    "examOrigin": "u14-t67-r5",
+    "variant": "B"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u15-t79-b",
+    "topic": 205,
+    "concept": "名字與初次見面",
+    "family": "library-en-15-5",
+    "type": "single",
+    "text": "字母 A 對應哪個小寫？",
+    "options": [
+      "a",
+      "b",
+      "d",
+      "e"
+    ],
+    "answer": 0,
+    "explanation": "A 的小寫是 a，留意 b 與 d 的方向。",
+    "libraryKey": "u15-t206-a",
+    "examRevision": 16,
+    "examOrigin": "u15-t56-a",
+    "variant": "B"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u15-t78-b",
+    "topic": 206,
+    "concept": "名字與初次見面",
+    "family": "library-en-15-6",
+    "type": "single",
+    "text": "字母 m 對應哪個大寫？",
+    "options": [
+      "M",
+      "N",
+      "W",
+      "H"
+    ],
+    "answer": 0,
+    "explanation": "m 的大寫是 M，不能與 N 混淆。",
+    "libraryKey": "u15-t207-a",
+    "examRevision": 16,
+    "examOrigin": "u15-t57-a",
+    "variant": "B"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u15-t77-b",
+    "topic": 207,
+    "concept": "名字與初次見面",
+    "family": "library-en-15-7",
+    "type": "single",
+    "text": "A、B、C、______，空格應填哪個？",
+    "options": [
+      "D",
+      "E",
+      "G",
+      "B"
+    ],
+    "answer": 0,
+    "explanation": "英文字母依序是 A、B、C、D。",
+    "libraryKey": "u15-t208-a",
+    "examRevision": 16,
+    "examOrigin": "u15-t58-a",
+    "variant": "B"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u16-t79-b",
+    "topic": 205,
+    "concept": "年齡與自我介紹",
+    "family": "library-en-16-5",
+    "type": "single",
+    "text": "I’m six ______ old.",
+    "options": [
+      "years",
+      "name",
+      "morning",
+      "hello"
+    ],
+    "answer": 0,
+    "explanation": "表達年齡常用數字加 years old。",
+    "libraryKey": "u16-t206-a",
+    "examRevision": 16,
+    "examOrigin": "u16-t56-a",
+    "variant": "B"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u16-t78-b",
+    "topic": 206,
+    "concept": "年齡與自我介紹",
+    "family": "library-en-16-6",
+    "type": "single",
+    "text": "ten、eight、six，依數量由大到小是哪個？",
+    "options": [
+      "10、8、6",
+      "6、8、10",
+      "8、10、6",
+      "10、6、8"
+    ],
+    "answer": 0,
+    "explanation": "三個英文數字依序是十、八、六。",
+    "libraryKey": "u16-t207-a",
+    "examRevision": 16,
+    "examOrigin": "u16-t57-a",
+    "variant": "B"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u15-t76-b",
+    "topic": 208,
+    "concept": "名字與初次見面",
+    "family": "library-en-15-8",
+    "type": "single",
+    "text": "Amy 和 Ann 的名字如何辨別？",
+    "options": [
+      "比較完整拼字",
+      "只看第一個 A 就當同一人",
+      "只看字母顏色",
+      "只看兩人誰先說話"
+    ],
+    "answer": 0,
+    "explanation": "兩個名字都以 A 開頭，需繼續核對後面的字母。",
+    "libraryKey": "u15-t209-a",
+    "examRevision": 16,
+    "examOrigin": "u15-t59-a",
+    "variant": "B"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u15-t75-b",
+    "topic": 209,
+    "concept": "名字與初次見面",
+    "family": "library-en-15-9",
+    "type": "single",
+    "text": "A: Good morning!　B: ______",
+    "options": [
+      "Good morning!",
+      "My morning is Ben.",
+      "Name is good.",
+      "I’m your name."
+    ],
+    "answer": 0,
+    "explanation": "早晨可用 Good morning! 互相問候。",
+    "libraryKey": "u15-t210-a",
+    "examRevision": 16,
+    "examOrigin": "u15-t60-a",
+    "variant": "B"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u16-t77-b",
+    "topic": 207,
+    "concept": "年齡與自我介紹",
+    "family": "library-en-16-7",
+    "type": "single",
+    "text": "A: My name is Ben. I’m eight.　Ben 介紹了什麼？",
+    "options": [
+      "姓名與年齡",
+      "只有姓名",
+      "只有年齡",
+      "飲料喜好"
+    ],
+    "answer": 0,
+    "explanation": "My name is Ben. 介紹姓名，I’m eight. 介紹年齡。",
+    "libraryKey": "u16-t208-a",
+    "examRevision": 16,
+    "examOrigin": "u16-t58-a",
+    "variant": "B"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u16-t76-b",
+    "topic": 208,
+    "concept": "年齡與自我介紹",
+    "family": "library-en-16-8",
+    "type": "single",
+    "text": "「nine」對應哪個數字？",
+    "options": [
+      "9",
+      "6",
+      "8",
+      "10"
+    ],
+    "answer": 0,
+    "explanation": "nine 是九，與 six 的六不同。",
+    "libraryKey": "u16-t209-a",
+    "examRevision": 16,
+    "examOrigin": "u16-t59-a",
+    "variant": "B"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u16-t75-b",
+    "topic": 209,
+    "concept": "年齡與自我介紹",
+    "family": "library-en-16-9",
+    "type": "single",
+    "text": "A: How old are you?　B: I’m ______.　要表示五歲應填？",
+    "options": [
+      "five",
+      "fine",
+      "name",
+      "hello"
+    ],
+    "answer": 0,
+    "explanation": "five 是五；fine 不是年齡數字。",
+    "libraryKey": "u16-t210-a",
+    "examRevision": 16,
+    "examOrigin": "u16-t60-a",
+    "variant": "B"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Meet our friends 3〉第一個介紹自己的人是誰？",
+    "options": [
+      "Leo",
+      "May",
+      "Nick",
+      "沒有介紹"
+    ],
+    "answer": 0,
+    "explanation": "對話開頭是 Leo 說 My name is Leo.。",
+    "id": "u15-t74-b",
+    "topic": 222,
+    "concept": "名字與初次見面",
+    "passageId": "library-english-15-2",
+    "passageTitle": "Meet our friends 3",
+    "passage": "Leo: Good morning! My name is Leo. What’s your name?\nMay: Hello! I’m May. Nice to meet you.\n\nLeo: Nice to meet you, too.\nNick: Hi, May! My name is Nick.\n\nMay: Hello, Nick!",
+    "readingOrder": 1,
+    "readingSkill": "找資料",
+    "family": "library-english-15-2",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name"
+        ],
+        "rows": [
+          [
+            "Leo"
+          ],
+          [
+            "May"
+          ],
+          [
+            "Nick"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u15-t223-r1",
+    "examRevision": 16,
+    "examOrigin": "u15-t65-r1",
+    "variant": "B"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Meet our friends 3〉誰回答 Leo 的姓名問題？",
+    "options": [
+      "May",
+      "Leo",
+      "Nick",
+      "三人同時"
+    ],
+    "answer": 0,
+    "explanation": "What’s your name? 之後由 May 回答。",
+    "id": "u15-t73-b",
+    "topic": 222,
+    "concept": "名字與初次見面",
+    "passageId": "library-english-15-2",
+    "passageTitle": "Meet our friends 3",
+    "passage": "Leo: Good morning! My name is Leo. What’s your name?\nMay: Hello! I’m May. Nice to meet you.\n\nLeo: Nice to meet you, too.\nNick: Hi, May! My name is Nick.\n\nMay: Hello, Nick!",
+    "readingOrder": 2,
+    "readingSkill": "配對資訊",
+    "family": "library-english-15-2",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name"
+        ],
+        "rows": [
+          [
+            "Leo"
+          ],
+          [
+            "May"
+          ],
+          [
+            "Nick"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u15-t223-r2",
+    "examRevision": 16,
+    "examOrigin": "u15-t65-r2",
+    "variant": "B"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Meet our friends 3〉Hi, May! My name is Nick. 是誰說的？",
+    "options": [
+      "Nick",
+      "Leo",
+      "May",
+      "沒有說話者"
+    ],
+    "answer": 0,
+    "explanation": "冒號前標明說話者 Nick；May 是被打招呼的人。",
+    "id": "u15-t72-b",
+    "topic": 222,
+    "concept": "名字與初次見面",
+    "passageId": "library-english-15-2",
+    "passageTitle": "Meet our friends 3",
+    "passage": "Leo: Good morning! My name is Leo. What’s your name?\nMay: Hello! I’m May. Nice to meet you.\n\nLeo: Nice to meet you, too.\nNick: Hi, May! My name is Nick.\n\nMay: Hello, Nick!",
+    "readingOrder": 3,
+    "readingSkill": "句型理解",
+    "family": "library-english-15-2",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name"
+        ],
+        "rows": [
+          [
+            "Leo"
+          ],
+          [
+            "May"
+          ],
+          [
+            "Nick"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u15-t223-r3",
+    "examRevision": 16,
+    "examOrigin": "u15-t65-r3",
+    "variant": "B"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Meet our friends 3〉哪組名單與三人介紹一致？",
+    "options": [
+      "Leo、May、Nick",
+      "Leo、Hello、Nick",
+      "May、Morning、Name",
+      "Nick、Nice、You"
+    ],
+    "answer": 0,
+    "explanation": "名單應列三位人物，招呼語不是姓名。",
+    "id": "u15-t71-b",
+    "topic": 222,
+    "concept": "名字與初次見面",
+    "passageId": "library-english-15-2",
+    "passageTitle": "Meet our friends 3",
+    "passage": "Leo: Good morning! My name is Leo. What’s your name?\nMay: Hello! I’m May. Nice to meet you.\n\nLeo: Nice to meet you, too.\nNick: Hi, May! My name is Nick.\n\nMay: Hello, Nick!",
+    "readingOrder": 4,
+    "readingSkill": "整合對話",
+    "family": "library-english-15-2",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name"
+        ],
+        "rows": [
+          [
+            "Leo"
+          ],
+          [
+            "May"
+          ],
+          [
+            "Nick"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u15-t223-r4",
+    "examRevision": 16,
+    "examOrigin": "u15-t65-r4",
+    "variant": "B"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Meet our friends 3〉哪句適合回應 Nice to meet you.?",
+    "options": [
+      "Nice to meet you, too.",
+      "My name is Nice.",
+      "What’s your old?",
+      "I’m morning."
+    ],
+    "answer": 0,
+    "explanation": "初次見面可用 Nice to meet you, too. 回應。",
+    "id": "u15-t70-b",
+    "topic": 222,
+    "concept": "名字與初次見面",
+    "passageId": "library-english-15-2",
+    "passageTitle": "Meet our friends 3",
+    "passage": "Leo: Good morning! My name is Leo. What’s your name?\nMay: Hello! I’m May. Nice to meet you.\n\nLeo: Nice to meet you, too.\nNick: Hi, May! My name is Nick.\n\nMay: Hello, Nick!",
+    "readingOrder": 5,
+    "readingSkill": "情境應用",
+    "family": "library-english-15-2",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name"
+        ],
+        "rows": [
+          [
+            "Leo"
+          ],
+          [
+            "May"
+          ],
+          [
+            "Nick"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u15-t223-r5",
+    "examRevision": 16,
+    "examOrigin": "u15-t65-r5",
+    "variant": "B"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Meet our friends 4〉第一個介紹自己的人是誰？",
+    "options": [
+      "Tina",
+      "Tom",
+      "Mia",
+      "沒有介紹"
+    ],
+    "answer": 0,
+    "explanation": "對話開頭是 Tina 說 My name is Tina.。",
+    "id": "u15-t69-b",
+    "topic": 223,
+    "concept": "名字與初次見面",
+    "passageId": "library-english-15-3",
+    "passageTitle": "Meet our friends 4",
+    "passage": "Tina: Good morning! My name is Tina. What’s your name?\nTom: Hello! I’m Tom. Nice to meet you.\n\nTina: Nice to meet you, too.\nMia: Hi, Tom! My name is Mia.\n\nTom: Hello, Mia!",
+    "readingOrder": 1,
+    "readingSkill": "找資料",
+    "family": "library-english-15-3",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name"
+        ],
+        "rows": [
+          [
+            "Tina"
+          ],
+          [
+            "Tom"
+          ],
+          [
+            "Mia"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u15-t224-r1",
+    "examRevision": 16,
+    "examOrigin": "u15-t66-r1",
+    "variant": "B"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Meet our friends 4〉誰回答 Tina 的姓名問題？",
+    "options": [
+      "Tom",
+      "Tina",
+      "Mia",
+      "三人同時"
+    ],
+    "answer": 0,
+    "explanation": "What’s your name? 之後由 Tom 回答。",
+    "id": "u15-t68-b",
+    "topic": 223,
+    "concept": "名字與初次見面",
+    "passageId": "library-english-15-3",
+    "passageTitle": "Meet our friends 4",
+    "passage": "Tina: Good morning! My name is Tina. What’s your name?\nTom: Hello! I’m Tom. Nice to meet you.\n\nTina: Nice to meet you, too.\nMia: Hi, Tom! My name is Mia.\n\nTom: Hello, Mia!",
+    "readingOrder": 2,
+    "readingSkill": "配對資訊",
+    "family": "library-english-15-3",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name"
+        ],
+        "rows": [
+          [
+            "Tina"
+          ],
+          [
+            "Tom"
+          ],
+          [
+            "Mia"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u15-t224-r2",
+    "examRevision": 16,
+    "examOrigin": "u15-t66-r2",
+    "variant": "B"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Meet our friends 4〉Hi, Tom! My name is Mia. 是誰說的？",
+    "options": [
+      "Mia",
+      "Tina",
+      "Tom",
+      "沒有說話者"
+    ],
+    "answer": 0,
+    "explanation": "冒號前標明說話者 Mia；Tom 是被打招呼的人。",
+    "id": "u15-t67-b",
+    "topic": 223,
+    "concept": "名字與初次見面",
+    "passageId": "library-english-15-3",
+    "passageTitle": "Meet our friends 4",
+    "passage": "Tina: Good morning! My name is Tina. What’s your name?\nTom: Hello! I’m Tom. Nice to meet you.\n\nTina: Nice to meet you, too.\nMia: Hi, Tom! My name is Mia.\n\nTom: Hello, Mia!",
+    "readingOrder": 3,
+    "readingSkill": "句型理解",
+    "family": "library-english-15-3",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name"
+        ],
+        "rows": [
+          [
+            "Tina"
+          ],
+          [
+            "Tom"
+          ],
+          [
+            "Mia"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u15-t224-r3",
+    "examRevision": 16,
+    "examOrigin": "u15-t66-r3",
+    "variant": "B"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Meet our friends 4〉哪組名單與三人介紹一致？",
+    "options": [
+      "Tina、Tom、Mia",
+      "Tina、Hello、Mia",
+      "Tom、Morning、Name",
+      "Mia、Nice、You"
+    ],
+    "answer": 0,
+    "explanation": "名單應列三位人物，招呼語不是姓名。",
+    "id": "u15-t66-b",
+    "topic": 223,
+    "concept": "名字與初次見面",
+    "passageId": "library-english-15-3",
+    "passageTitle": "Meet our friends 4",
+    "passage": "Tina: Good morning! My name is Tina. What’s your name?\nTom: Hello! I’m Tom. Nice to meet you.\n\nTina: Nice to meet you, too.\nMia: Hi, Tom! My name is Mia.\n\nTom: Hello, Mia!",
+    "readingOrder": 4,
+    "readingSkill": "整合對話",
+    "family": "library-english-15-3",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name"
+        ],
+        "rows": [
+          [
+            "Tina"
+          ],
+          [
+            "Tom"
+          ],
+          [
+            "Mia"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u15-t224-r4",
+    "examRevision": 16,
+    "examOrigin": "u15-t66-r4",
+    "variant": "B"
+  },
+  {
+    "unit": 15,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Meet our friends 4〉哪句適合回應 Nice to meet you.?",
+    "options": [
+      "Nice to meet you, too.",
+      "My name is Nice.",
+      "What’s your old?",
+      "I’m morning."
+    ],
+    "answer": 0,
+    "explanation": "初次見面可用 Nice to meet you, too. 回應。",
+    "id": "u15-t65-b",
+    "topic": 223,
+    "concept": "名字與初次見面",
+    "passageId": "library-english-15-3",
+    "passageTitle": "Meet our friends 4",
+    "passage": "Tina: Good morning! My name is Tina. What’s your name?\nTom: Hello! I’m Tom. Nice to meet you.\n\nTina: Nice to meet you, too.\nMia: Hi, Tom! My name is Mia.\n\nTom: Hello, Mia!",
+    "readingOrder": 5,
+    "readingSkill": "情境應用",
+    "family": "library-english-15-3",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name"
+        ],
+        "rows": [
+          [
+            "Tina"
+          ],
+          [
+            "Tom"
+          ],
+          [
+            "Mia"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u15-t224-r5",
+    "examRevision": 16,
+    "examOrigin": "u15-t66-r5",
+    "variant": "B"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Names and ages 3〉Leo 幾歲？",
+    "options": [
+      "9",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "對話中 Leo 說 I’m 9.。",
+    "id": "u16-t74-b",
+    "topic": 222,
+    "concept": "年齡與自我介紹",
+    "passageId": "library-english-16-2",
+    "passageTitle": "Names and ages 3",
+    "passage": "Leo: Hello! My name is Leo. I’m 9. How old are you?\nMay: Hi! I’m May. I’m 9 years old.\n\nNick: Good morning! My name is Nick. I’m 8.\nLeo: Nice to meet you, Nick.\n\nNick: Nice to meet you, too.",
+    "readingOrder": 1,
+    "readingSkill": "找資料",
+    "family": "library-english-16-2",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name",
+          "Age"
+        ],
+        "rows": [
+          [
+            "Leo",
+            9
+          ],
+          [
+            "May",
+            9
+          ],
+          [
+            "Nick",
+            8
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u16-t223-r1",
+    "examRevision": 16,
+    "examOrigin": "u16-t65-r1",
+    "variant": "B"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Names and ages 3〉誰說 I’m nine years old.?",
+    "options": [
+      "May",
+      "Leo",
+      "Nick",
+      "三人一起說"
+    ],
+    "answer": 0,
+    "explanation": "May 說自己九歲。",
+    "id": "u16-t73-b",
+    "topic": 222,
+    "concept": "年齡與自我介紹",
+    "passageId": "library-english-16-2",
+    "passageTitle": "Names and ages 3",
+    "passage": "Leo: Hello! My name is Leo. I’m 9. How old are you?\nMay: Hi! I’m May. I’m 9 years old.\n\nNick: Good morning! My name is Nick. I’m 8.\nLeo: Nice to meet you, Nick.\n\nNick: Nice to meet you, too.",
+    "readingOrder": 2,
+    "readingSkill": "配對資訊",
+    "family": "library-english-16-2",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name",
+          "Age"
+        ],
+        "rows": [
+          [
+            "Leo",
+            9
+          ],
+          [
+            "May",
+            9
+          ],
+          [
+            "Nick",
+            8
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u16-t223-r2",
+    "examRevision": 16,
+    "examOrigin": "u16-t65-r2",
+    "variant": "B"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Names and ages 3〉誰向 Nick 說 Nice to meet you?",
+    "options": [
+      "Leo",
+      "May",
+      "Nick",
+      "沒有任何人"
+    ],
+    "answer": 0,
+    "explanation": "第三人的介紹後，是 Leo 向 Nick 打招呼。",
+    "id": "u16-t72-b",
+    "topic": 222,
+    "concept": "年齡與自我介紹",
+    "passageId": "library-english-16-2",
+    "passageTitle": "Names and ages 3",
+    "passage": "Leo: Hello! My name is Leo. I’m 9. How old are you?\nMay: Hi! I’m May. I’m 9 years old.\n\nNick: Good morning! My name is Nick. I’m 8.\nLeo: Nice to meet you, Nick.\n\nNick: Nice to meet you, too.",
+    "readingOrder": 3,
+    "readingSkill": "句型理解",
+    "family": "library-english-16-2",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name",
+          "Age"
+        ],
+        "rows": [
+          [
+            "Leo",
+            9
+          ],
+          [
+            "May",
+            9
+          ],
+          [
+            "Nick",
+            8
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u16-t223-r3",
+    "examRevision": 16,
+    "examOrigin": "u16-t65-r3",
+    "variant": "B"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Names and ages 3〉哪筆姓名年齡資料正確？",
+    "options": [
+      "Nick—8",
+      "Nick—6",
+      "May—7",
+      "Leo—10"
+    ],
+    "answer": 0,
+    "explanation": "Nick 在介紹中說 I’m 8.。",
+    "id": "u16-t71-b",
+    "topic": 222,
+    "concept": "年齡與自我介紹",
+    "passageId": "library-english-16-2",
+    "passageTitle": "Names and ages 3",
+    "passage": "Leo: Hello! My name is Leo. I’m 9. How old are you?\nMay: Hi! I’m May. I’m 9 years old.\n\nNick: Good morning! My name is Nick. I’m 8.\nLeo: Nice to meet you, Nick.\n\nNick: Nice to meet you, too.",
+    "readingOrder": 4,
+    "readingSkill": "整合對話",
+    "family": "library-english-16-2",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name",
+          "Age"
+        ],
+        "rows": [
+          [
+            "Leo",
+            9
+          ],
+          [
+            "May",
+            9
+          ],
+          [
+            "Nick",
+            8
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u16-t223-r4",
+    "examRevision": 16,
+    "examOrigin": "u16-t65-r4",
+    "variant": "B"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Names and ages 3〉How old are you? 是要確認哪項資料？",
+    "options": [
+      "年齡",
+      "姓名",
+      "飲料喜好",
+      "水果數量"
+    ],
+    "answer": 0,
+    "explanation": "How old 詢問年齡，與介紹姓名不同。",
+    "id": "u16-t70-b",
+    "topic": 222,
+    "concept": "年齡與自我介紹",
+    "passageId": "library-english-16-2",
+    "passageTitle": "Names and ages 3",
+    "passage": "Leo: Hello! My name is Leo. I’m 9. How old are you?\nMay: Hi! I’m May. I’m 9 years old.\n\nNick: Good morning! My name is Nick. I’m 8.\nLeo: Nice to meet you, Nick.\n\nNick: Nice to meet you, too.",
+    "readingOrder": 5,
+    "readingSkill": "情境應用",
+    "family": "library-english-16-2",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name",
+          "Age"
+        ],
+        "rows": [
+          [
+            "Leo",
+            9
+          ],
+          [
+            "May",
+            9
+          ],
+          [
+            "Nick",
+            8
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u16-t223-r5",
+    "examRevision": 16,
+    "examOrigin": "u16-t65-r5",
+    "variant": "B"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Names and ages 4〉Tina 幾歲？",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "answer": 0,
+    "explanation": "對話中 Tina 說 I’m 7.。",
+    "id": "u16-t69-b",
+    "topic": 223,
+    "concept": "年齡與自我介紹",
+    "passageId": "library-english-16-3",
+    "passageTitle": "Names and ages 4",
+    "passage": "Tina: Hello! My name is Tina. I’m 7. How old are you?\nTom: Hi! I’m Tom. I’m 9 years old.\n\nMia: Good morning! My name is Mia. I’m 8.\nTina: Nice to meet you, Mia.\n\nMia: Nice to meet you, too.",
+    "readingOrder": 1,
+    "readingSkill": "找資料",
+    "family": "library-english-16-3",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name",
+          "Age"
+        ],
+        "rows": [
+          [
+            "Tina",
+            7
+          ],
+          [
+            "Tom",
+            9
+          ],
+          [
+            "Mia",
+            8
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u16-t224-r1",
+    "examRevision": 16,
+    "examOrigin": "u16-t66-r1",
+    "variant": "B"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Names and ages 4〉誰說 I’m nine years old.?",
+    "options": [
+      "Tom",
+      "Tina",
+      "Mia",
+      "三人一起說"
+    ],
+    "answer": 0,
+    "explanation": "Tom 說自己九歲。",
+    "id": "u16-t68-b",
+    "topic": 223,
+    "concept": "年齡與自我介紹",
+    "passageId": "library-english-16-3",
+    "passageTitle": "Names and ages 4",
+    "passage": "Tina: Hello! My name is Tina. I’m 7. How old are you?\nTom: Hi! I’m Tom. I’m 9 years old.\n\nMia: Good morning! My name is Mia. I’m 8.\nTina: Nice to meet you, Mia.\n\nMia: Nice to meet you, too.",
+    "readingOrder": 2,
+    "readingSkill": "配對資訊",
+    "family": "library-english-16-3",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name",
+          "Age"
+        ],
+        "rows": [
+          [
+            "Tina",
+            7
+          ],
+          [
+            "Tom",
+            9
+          ],
+          [
+            "Mia",
+            8
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u16-t224-r2",
+    "examRevision": 16,
+    "examOrigin": "u16-t66-r2",
+    "variant": "B"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Names and ages 4〉誰向 Mia 說 Nice to meet you?",
+    "options": [
+      "Tina",
+      "Tom",
+      "Mia",
+      "沒有任何人"
+    ],
+    "answer": 0,
+    "explanation": "第三人的介紹後，是 Tina 向 Mia 打招呼。",
+    "id": "u16-t67-b",
+    "topic": 223,
+    "concept": "年齡與自我介紹",
+    "passageId": "library-english-16-3",
+    "passageTitle": "Names and ages 4",
+    "passage": "Tina: Hello! My name is Tina. I’m 7. How old are you?\nTom: Hi! I’m Tom. I’m 9 years old.\n\nMia: Good morning! My name is Mia. I’m 8.\nTina: Nice to meet you, Mia.\n\nMia: Nice to meet you, too.",
+    "readingOrder": 3,
+    "readingSkill": "句型理解",
+    "family": "library-english-16-3",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name",
+          "Age"
+        ],
+        "rows": [
+          [
+            "Tina",
+            7
+          ],
+          [
+            "Tom",
+            9
+          ],
+          [
+            "Mia",
+            8
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u16-t224-r3",
+    "examRevision": 16,
+    "examOrigin": "u16-t66-r3",
+    "variant": "B"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Names and ages 4〉哪筆姓名年齡資料正確？",
+    "options": [
+      "Mia—8",
+      "Mia—6",
+      "Tom—7",
+      "Tina—10"
+    ],
+    "answer": 0,
+    "explanation": "Mia 在介紹中說 I’m 8.。",
+    "id": "u16-t66-b",
+    "topic": 223,
+    "concept": "年齡與自我介紹",
+    "passageId": "library-english-16-3",
+    "passageTitle": "Names and ages 4",
+    "passage": "Tina: Hello! My name is Tina. I’m 7. How old are you?\nTom: Hi! I’m Tom. I’m 9 years old.\n\nMia: Good morning! My name is Mia. I’m 8.\nTina: Nice to meet you, Mia.\n\nMia: Nice to meet you, too.",
+    "readingOrder": 4,
+    "readingSkill": "整合對話",
+    "family": "library-english-16-3",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name",
+          "Age"
+        ],
+        "rows": [
+          [
+            "Tina",
+            7
+          ],
+          [
+            "Tom",
+            9
+          ],
+          [
+            "Mia",
+            8
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u16-t224-r4",
+    "examRevision": 16,
+    "examOrigin": "u16-t66-r4",
+    "variant": "B"
+  },
+  {
+    "unit": 16,
+    "revision": 16,
+    "sourceIds": [
+      "REF-d7ead9893d"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Names and ages 4〉How old are you? 是要確認哪項資料？",
+    "options": [
+      "年齡",
+      "姓名",
+      "飲料喜好",
+      "水果數量"
+    ],
+    "answer": 0,
+    "explanation": "How old 詢問年齡，與介紹姓名不同。",
+    "id": "u16-t65-b",
+    "topic": 223,
+    "concept": "年齡與自我介紹",
+    "passageId": "library-english-16-3",
+    "passageTitle": "Names and ages 4",
+    "passage": "Tina: Hello! My name is Tina. I’m 7. How old are you?\nTom: Hi! I’m Tom. I’m 9 years old.\n\nMia: Good morning! My name is Mia. I’m 8.\nTina: Nice to meet you, Mia.\n\nMia: Nice to meet you, too.",
+    "readingOrder": 5,
+    "readingSkill": "情境應用",
+    "family": "library-english-16-3",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "對話資料卡",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Name",
+          "Age"
+        ],
+        "rows": [
+          [
+            "Tina",
+            7
+          ],
+          [
+            "Tom",
+            9
+          ],
+          [
+            "Mia",
+            8
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u16-t224-r5",
+    "examRevision": 16,
+    "examOrigin": "u16-t66-r5",
+    "variant": "B"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u6-t78-b",
+    "topic": 205,
+    "concept": "飲料與喜好",
+    "family": "library-en-6-5",
+    "type": "single",
+    "text": "She doesn’t ______ milk tea.",
+    "options": [
+      "like",
+      "likes",
+      "liking",
+      "liked"
+    ],
+    "answer": 0,
+    "explanation": "doesn’t 後使用原形動詞 like。",
+    "libraryKey": "u6-t206-a",
+    "examRevision": 16,
+    "examOrigin": "u6-t56-a",
+    "variant": "B"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u6-t77-b",
+    "topic": 206,
+    "concept": "飲料與喜好",
+    "family": "library-en-6-6",
+    "type": "single",
+    "text": "A: What do you like?　B: ______",
+    "options": [
+      "I like orange juice.",
+      "I’m eight.",
+      "My name is Amy.",
+      "I need two apples."
+    ],
+    "answer": 0,
+    "explanation": "問題問喜好，應回應喜歡的飲料。",
+    "libraryKey": "u6-t207-a",
+    "examRevision": 16,
+    "examOrigin": "u6-t57-a",
+    "variant": "B"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u6-t76-b",
+    "topic": 207,
+    "concept": "飲料與喜好",
+    "family": "library-en-6-7",
+    "type": "single",
+    "text": "My dad likes tea. I like milk. Who likes tea?",
+    "options": [
+      "My dad.",
+      "I do.",
+      "Both people.",
+      "Nobody."
+    ],
+    "answer": 0,
+    "explanation": "第一句直接指出 dad 喜歡 tea。",
+    "libraryKey": "u6-t208-a",
+    "examRevision": 16,
+    "examOrigin": "u6-t58-a",
+    "variant": "B"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u7-t80-b",
+    "topic": 205,
+    "concept": "水果沙拉與數量",
+    "family": "library-en-7-5",
+    "type": "single",
+    "text": "圖中有幾個 apples？",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "逐個數圖上的蘋果，共三個。",
+    "visual": {
+      "kind": "referenceFruit",
+      "caption": "水果數量圖",
+      "description": "請觀察圖中的水果，逐一數出數量。",
+      "items": [
+        {
+          "name": "apples",
+          "count": 3
+        }
+      ]
+    },
+    "libraryKey": "u7-t206-a",
+    "examRevision": 16,
+    "examOrigin": "u7-t56-a",
+    "variant": "B"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u7-t79-b",
+    "topic": 206,
+    "concept": "水果沙拉與數量",
+    "family": "library-en-7-6",
+    "type": "single",
+    "text": "「We need two oranges.」中需要幾個橘子？",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "two 表示二，所以這句是需要兩個橘子。",
+    "libraryKey": "u7-t207-a",
+    "examRevision": 16,
+    "examOrigin": "u7-t57-a",
+    "variant": "B"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u6-t75-b",
+    "topic": 208,
+    "concept": "飲料與喜好",
+    "family": "library-en-6-8",
+    "type": "single",
+    "text": "Which sentence is correct?",
+    "options": [
+      "She likes milk.",
+      "She like milk.",
+      "She do like milk.",
+      "She are like milk."
+    ],
+    "answer": 0,
+    "explanation": "第三人稱單數 she 的肯定句用 likes。",
+    "libraryKey": "u6-t209-a",
+    "examRevision": 16,
+    "examOrigin": "u6-t59-a",
+    "variant": "B"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u6-t74-b",
+    "topic": 209,
+    "concept": "飲料與喜好",
+    "family": "library-en-6-9",
+    "type": "single",
+    "text": "A: Do Amy and Ben like water?　B: Yes, ______.",
+    "options": [
+      "they do",
+      "she does",
+      "he does",
+      "they does"
+    ],
+    "answer": 0,
+    "explanation": "Amy and Ben 是兩人，用 they do。",
+    "libraryKey": "u6-t210-a",
+    "examRevision": 16,
+    "examOrigin": "u6-t60-a",
+    "variant": "B"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u7-t78-b",
+    "topic": 207,
+    "concept": "水果沙拉與數量",
+    "family": "library-en-7-7",
+    "type": "single",
+    "text": "A: Does Ben need apples?　B: Yes, he ______.",
+    "options": [
+      "does",
+      "do",
+      "need",
+      "is"
+    ],
+    "answer": 0,
+    "explanation": "Does 問句的肯定簡答用 Yes, he does.。",
+    "libraryKey": "u7-t208-a",
+    "examRevision": 16,
+    "examOrigin": "u7-t58-a",
+    "variant": "B"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u7-t77-b",
+    "topic": 208,
+    "concept": "水果沙拉與數量",
+    "family": "library-en-7-8",
+    "type": "single",
+    "text": "Amy needs five bananas. She has three. How many more does she need?",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "需要五根、已有三根，再需 5－3＝2 根。",
+    "libraryKey": "u7-t209-a",
+    "examRevision": 16,
+    "examOrigin": "u7-t59-a",
+    "variant": "B"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "id": "u7-t76-b",
+    "topic": 209,
+    "concept": "水果沙拉與數量",
+    "family": "library-en-7-9",
+    "type": "single",
+    "text": "A: How many apples does she need?　B: She ______ one apple.",
+    "options": [
+      "needs",
+      "need",
+      "do",
+      "are"
+    ],
+    "answer": 0,
+    "explanation": "回答為 she needs，需注意第三人稱單數。",
+    "libraryKey": "u7-t210-a",
+    "examRevision": 16,
+    "examOrigin": "u7-t60-a",
+    "variant": "B"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Check the drink order 4〉What does Tom like?",
+    "options": [
+      "milk tea",
+      "milk",
+      "orange juice",
+      "All three drinks."
+    ],
+    "answer": 0,
+    "explanation": "Tom 說 I like milk tea.。",
+    "id": "u6-t73-b",
+    "topic": 223,
+    "concept": "飲料與喜好",
+    "passageId": "library-english-6-3",
+    "passageTitle": "Check the drink order 4",
+    "passage": "Tina: I like milk. Do you like milk, Tom?\nTom: No, I don’t. I like milk tea.\n\nMia: My mom likes milk. I like orange juice.\nTina: Does your mom like milk tea?\nMia: No, she doesn’t.\n\nTom: One milk for Tina, one milk tea for me, and one orange juice for Mia.\nTina: Thank you!",
+    "readingOrder": 1,
+    "readingSkill": "找資料",
+    "family": "library-english-6-3",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Person",
+          "Likes"
+        ],
+        "rows": [
+          [
+            "Tina",
+            "milk"
+          ],
+          [
+            "Tom",
+            "milk tea"
+          ],
+          [
+            "Mia",
+            "orange juice"
+          ],
+          [
+            "Mia’s mom",
+            "milk"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u6-t224-r1",
+    "examRevision": 16,
+    "examOrigin": "u6-t66-r1",
+    "variant": "B"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Check the drink order 4〉Who likes orange juice?",
+    "options": [
+      "Mia",
+      "Tina",
+      "Tom",
+      "Mia’s mom"
+    ],
+    "answer": 0,
+    "explanation": "Mia 自己喜歡 orange juice，母親喜好不同。",
+    "id": "u6-t72-b",
+    "topic": 223,
+    "concept": "飲料與喜好",
+    "passageId": "library-english-6-3",
+    "passageTitle": "Check the drink order 4",
+    "passage": "Tina: I like milk. Do you like milk, Tom?\nTom: No, I don’t. I like milk tea.\n\nMia: My mom likes milk. I like orange juice.\nTina: Does your mom like milk tea?\nMia: No, she doesn’t.\n\nTom: One milk for Tina, one milk tea for me, and one orange juice for Mia.\nTina: Thank you!",
+    "readingOrder": 2,
+    "readingSkill": "配對資訊",
+    "family": "library-english-6-3",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Person",
+          "Likes"
+        ],
+        "rows": [
+          [
+            "Tina",
+            "milk"
+          ],
+          [
+            "Tom",
+            "milk tea"
+          ],
+          [
+            "Mia",
+            "orange juice"
+          ],
+          [
+            "Mia’s mom",
+            "milk"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u6-t224-r2",
+    "examRevision": 16,
+    "examOrigin": "u6-t66-r2",
+    "variant": "B"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Check the drink order 4〉Does Mia’s mom like milk tea?",
+    "options": [
+      "No, she doesn’t.",
+      "Yes, she does.",
+      "Yes, he does.",
+      "No, they don’t."
+    ],
+    "answer": 0,
+    "explanation": "母親是否喜歡這種飲料，對話已有否定回答。",
+    "id": "u6-t71-b",
+    "topic": 223,
+    "concept": "飲料與喜好",
+    "passageId": "library-english-6-3",
+    "passageTitle": "Check the drink order 4",
+    "passage": "Tina: I like milk. Do you like milk, Tom?\nTom: No, I don’t. I like milk tea.\n\nMia: My mom likes milk. I like orange juice.\nTina: Does your mom like milk tea?\nMia: No, she doesn’t.\n\nTom: One milk for Tina, one milk tea for me, and one orange juice for Mia.\nTina: Thank you!",
+    "readingOrder": 3,
+    "readingSkill": "句型理解",
+    "family": "library-english-6-3",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Person",
+          "Likes"
+        ],
+        "rows": [
+          [
+            "Tina",
+            "milk"
+          ],
+          [
+            "Tom",
+            "milk tea"
+          ],
+          [
+            "Mia",
+            "orange juice"
+          ],
+          [
+            "Mia’s mom",
+            "milk"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u6-t224-r3",
+    "examRevision": 16,
+    "examOrigin": "u6-t66-r3",
+    "variant": "B"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Check the drink order 4〉Which order is for Tina?",
+    "options": [
+      "milk",
+      "milk tea",
+      "orange juice",
+      "No drink."
+    ],
+    "answer": 0,
+    "explanation": "Tina 說喜歡 milk，最後點單也對應 milk。",
+    "id": "u6-t70-b",
+    "topic": 223,
+    "concept": "飲料與喜好",
+    "passageId": "library-english-6-3",
+    "passageTitle": "Check the drink order 4",
+    "passage": "Tina: I like milk. Do you like milk, Tom?\nTom: No, I don’t. I like milk tea.\n\nMia: My mom likes milk. I like orange juice.\nTina: Does your mom like milk tea?\nMia: No, she doesn’t.\n\nTom: One milk for Tina, one milk tea for me, and one orange juice for Mia.\nTina: Thank you!",
+    "readingOrder": 4,
+    "readingSkill": "整合對話",
+    "family": "library-english-6-3",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Person",
+          "Likes"
+        ],
+        "rows": [
+          [
+            "Tina",
+            "milk"
+          ],
+          [
+            "Tom",
+            "milk tea"
+          ],
+          [
+            "Mia",
+            "orange juice"
+          ],
+          [
+            "Mia’s mom",
+            "milk"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u6-t224-r4",
+    "examRevision": 16,
+    "examOrigin": "u6-t66-r4",
+    "variant": "B"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Check the drink order 4〉Why must they check the names in the order?",
+    "options": [
+      "Different people like different drinks.",
+      "Everyone likes the same drink.",
+      "All the names are the same.",
+      "Nobody wants a drink."
+    ],
+    "answer": 0,
+    "explanation": "三人的喜好不同，要將人名與飲料正確配對。",
+    "id": "u6-t69-b",
+    "topic": 223,
+    "concept": "飲料與喜好",
+    "passageId": "library-english-6-3",
+    "passageTitle": "Check the drink order 4",
+    "passage": "Tina: I like milk. Do you like milk, Tom?\nTom: No, I don’t. I like milk tea.\n\nMia: My mom likes milk. I like orange juice.\nTina: Does your mom like milk tea?\nMia: No, she doesn’t.\n\nTom: One milk for Tina, one milk tea for me, and one orange juice for Mia.\nTina: Thank you!",
+    "readingOrder": 5,
+    "readingSkill": "情境應用",
+    "family": "library-english-6-3",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Person",
+          "Likes"
+        ],
+        "rows": [
+          [
+            "Tina",
+            "milk"
+          ],
+          [
+            "Tom",
+            "milk tea"
+          ],
+          [
+            "Mia",
+            "orange juice"
+          ],
+          [
+            "Mia’s mom",
+            "milk"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u6-t224-r5",
+    "examRevision": 16,
+    "examOrigin": "u6-t66-r5",
+    "variant": "B"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Choose from the menu〉Which drink is NOT available?",
+    "options": [
+      "Milk.",
+      "Water.",
+      "Tea.",
+      "All three drinks."
+    ],
+    "answer": 0,
+    "explanation": "Paul 說沒有 milk；另兩種飲料有提供。",
+    "id": "u6-t68-b",
+    "topic": 224,
+    "concept": "飲料與喜好",
+    "passageId": "library-english-6-4",
+    "passageTitle": "Choose from the menu",
+    "passage": "Nina: I like milk and water.\nOwen: I like milk, too. I don’t like tea.\n\nPaul: We have tea and water. We don’t have milk.\nNina: Water for me, please.\n\nOwen: Water for me, too.\nPaul: OK. Two cups of water.",
+    "readingOrder": 1,
+    "readingSkill": "找資料",
+    "family": "library-english-6-4",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Menu",
+          "Available"
+        ],
+        "rows": [
+          [
+            "milk",
+            "No"
+          ],
+          [
+            "tea",
+            "Yes"
+          ],
+          [
+            "water",
+            "Yes"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u6-t225-r1",
+    "examRevision": 16,
+    "examOrigin": "u6-t67-r1",
+    "variant": "B"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Choose from the menu〉What does Owen NOT like?",
+    "options": [
+      "Tea.",
+      "Milk.",
+      "Water.",
+      "All drinks."
+    ],
+    "answer": 0,
+    "explanation": "Owen 說 I don’t like tea.。",
+    "id": "u6-t67-b",
+    "topic": 224,
+    "concept": "飲料與喜好",
+    "passageId": "library-english-6-4",
+    "passageTitle": "Choose from the menu",
+    "passage": "Nina: I like milk and water.\nOwen: I like milk, too. I don’t like tea.\n\nPaul: We have tea and water. We don’t have milk.\nNina: Water for me, please.\n\nOwen: Water for me, too.\nPaul: OK. Two cups of water.",
+    "readingOrder": 2,
+    "readingSkill": "配對資訊",
+    "family": "library-english-6-4",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Menu",
+          "Available"
+        ],
+        "rows": [
+          [
+            "milk",
+            "No"
+          ],
+          [
+            "tea",
+            "Yes"
+          ],
+          [
+            "water",
+            "Yes"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u6-t225-r2",
+    "examRevision": 16,
+    "examOrigin": "u6-t67-r2",
+    "variant": "B"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Choose from the menu〉What does Nina choose at the end?",
+    "options": [
+      "Water.",
+      "Milk.",
+      "Tea.",
+      "No drink."
+    ],
+    "answer": 0,
+    "explanation": "Nina 在得知沒有牛奶後，選擇 water。",
+    "id": "u6-t66-b",
+    "topic": 224,
+    "concept": "飲料與喜好",
+    "passageId": "library-english-6-4",
+    "passageTitle": "Choose from the menu",
+    "passage": "Nina: I like milk and water.\nOwen: I like milk, too. I don’t like tea.\n\nPaul: We have tea and water. We don’t have milk.\nNina: Water for me, please.\n\nOwen: Water for me, too.\nPaul: OK. Two cups of water.",
+    "readingOrder": 3,
+    "readingSkill": "句型理解",
+    "family": "library-english-6-4",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Menu",
+          "Available"
+        ],
+        "rows": [
+          [
+            "milk",
+            "No"
+          ],
+          [
+            "tea",
+            "Yes"
+          ],
+          [
+            "water",
+            "Yes"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u6-t225-r3",
+    "examRevision": 16,
+    "examOrigin": "u6-t67-r3",
+    "variant": "B"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Choose from the menu〉How many cups of water does Paul prepare?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "Nina 與 Owen 各一杯，共兩杯。",
+    "id": "u6-t65-b",
+    "topic": 224,
+    "concept": "飲料與喜好",
+    "passageId": "library-english-6-4",
+    "passageTitle": "Choose from the menu",
+    "passage": "Nina: I like milk and water.\nOwen: I like milk, too. I don’t like tea.\n\nPaul: We have tea and water. We don’t have milk.\nNina: Water for me, please.\n\nOwen: Water for me, too.\nPaul: OK. Two cups of water.",
+    "readingOrder": 4,
+    "readingSkill": "整合對話",
+    "family": "library-english-6-4",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Menu",
+          "Available"
+        ],
+        "rows": [
+          [
+            "milk",
+            "No"
+          ],
+          [
+            "tea",
+            "Yes"
+          ],
+          [
+            "water",
+            "Yes"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u6-t225-r4",
+    "examRevision": 16,
+    "examOrigin": "u6-t67-r4",
+    "variant": "B"
+  },
+  {
+    "unit": 6,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Choose from the menu〉Why does Nina choose water instead of milk?",
+    "options": [
+      "There is no milk.",
+      "She does not like water.",
+      "Paul only has tea.",
+      "Owen takes all the water."
+    ],
+    "answer": 0,
+    "explanation": "Nina 原本喜歡牛奶與水；Paul 說沒有牛奶，所以選現有的水。",
+    "id": "u6-t64-b",
+    "topic": 224,
+    "concept": "飲料與喜好",
+    "passageId": "library-english-6-4",
+    "passageTitle": "Choose from the menu",
+    "passage": "Nina: I like milk and water.\nOwen: I like milk, too. I don’t like tea.\n\nPaul: We have tea and water. We don’t have milk.\nNina: Water for me, please.\n\nOwen: Water for me, too.\nPaul: OK. Two cups of water.",
+    "readingOrder": 5,
+    "readingSkill": "情境應用",
+    "family": "library-english-6-4",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Menu",
+          "Available"
+        ],
+        "rows": [
+          [
+            "milk",
+            "No"
+          ],
+          [
+            "tea",
+            "Yes"
+          ],
+          [
+            "water",
+            "Yes"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u6-t225-r5",
+    "examRevision": 16,
+    "examOrigin": "u6-t67-r5",
+    "variant": "B"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Fruit for our salad 3〉How many apples do they need in all?",
+    "options": [
+      "7",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "目標是 7 apples，需與一開始已有的數量區分。",
+    "id": "u7-t75-b",
+    "topic": 222,
+    "concept": "水果沙拉與數量",
+    "passageId": "library-english-7-2",
+    "passageTitle": "Fruit for our salad 3",
+    "passage": "Leo: Let’s make fruit salad. We need 7 apples and 2 bananas.\nMay: We have 4 apples and 2 bananas.\n\nLeo: How many more apples do we need?\nMay: Three. We don’t need more bananas.\n\nNick: I have three apples. Here you are!\nLeo: Thank you. Now we have 7 apples. Let’s wash the fruit first.",
+    "readingOrder": 1,
+    "readingSkill": "找資料",
+    "family": "library-english-7-2",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Fruit",
+          "Need",
+          "Have at first"
+        ],
+        "rows": [
+          [
+            "apples",
+            7,
+            4
+          ],
+          [
+            "bananas",
+            2,
+            2
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u7-t223-r1",
+    "examRevision": 16,
+    "examOrigin": "u7-t65-r1",
+    "variant": "B"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Fruit for our salad 3〉How many more apples do they need at first?",
+    "options": [
+      "3",
+      "7",
+      "4",
+      "1"
+    ],
+    "answer": 0,
+    "explanation": "目標減現有數量，還差三個。",
+    "id": "u7-t74-b",
+    "topic": 222,
+    "concept": "水果沙拉與數量",
+    "passageId": "library-english-7-2",
+    "passageTitle": "Fruit for our salad 3",
+    "passage": "Leo: Let’s make fruit salad. We need 7 apples and 2 bananas.\nMay: We have 4 apples and 2 bananas.\n\nLeo: How many more apples do we need?\nMay: Three. We don’t need more bananas.\n\nNick: I have three apples. Here you are!\nLeo: Thank you. Now we have 7 apples. Let’s wash the fruit first.",
+    "readingOrder": 2,
+    "readingSkill": "配對資訊",
+    "family": "library-english-7-2",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Fruit",
+          "Need",
+          "Have at first"
+        ],
+        "rows": [
+          [
+            "apples",
+            7,
+            4
+          ],
+          [
+            "bananas",
+            2,
+            2
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u7-t223-r2",
+    "examRevision": 16,
+    "examOrigin": "u7-t65-r2",
+    "variant": "B"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Fruit for our salad 3〉Do they need more bananas?",
+    "options": [
+      "No, they don’t.",
+      "Yes, they do.",
+      "They need three more.",
+      "They need five more."
+    ],
+    "answer": 0,
+    "explanation": "現有香蕉數已等於目標，不需再補。",
+    "id": "u7-t73-b",
+    "topic": 222,
+    "concept": "水果沙拉與數量",
+    "passageId": "library-english-7-2",
+    "passageTitle": "Fruit for our salad 3",
+    "passage": "Leo: Let’s make fruit salad. We need 7 apples and 2 bananas.\nMay: We have 4 apples and 2 bananas.\n\nLeo: How many more apples do we need?\nMay: Three. We don’t need more bananas.\n\nNick: I have three apples. Here you are!\nLeo: Thank you. Now we have 7 apples. Let’s wash the fruit first.",
+    "readingOrder": 3,
+    "readingSkill": "句型理解",
+    "family": "library-english-7-2",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Fruit",
+          "Need",
+          "Have at first"
+        ],
+        "rows": [
+          [
+            "apples",
+            7,
+            4
+          ],
+          [
+            "bananas",
+            2,
+            2
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u7-t223-r3",
+    "examRevision": 16,
+    "examOrigin": "u7-t65-r3",
+    "variant": "B"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Fruit for our salad 3〉Who brings three apples?",
+    "options": [
+      "Nick",
+      "Leo",
+      "May",
+      "Nobody."
+    ],
+    "answer": 0,
+    "explanation": "Nick 說 I have three apples. Here you are!。",
+    "id": "u7-t72-b",
+    "topic": 222,
+    "concept": "水果沙拉與數量",
+    "passageId": "library-english-7-2",
+    "passageTitle": "Fruit for our salad 3",
+    "passage": "Leo: Let’s make fruit salad. We need 7 apples and 2 bananas.\nMay: We have 4 apples and 2 bananas.\n\nLeo: How many more apples do we need?\nMay: Three. We don’t need more bananas.\n\nNick: I have three apples. Here you are!\nLeo: Thank you. Now we have 7 apples. Let’s wash the fruit first.",
+    "readingOrder": 4,
+    "readingSkill": "整合對話",
+    "family": "library-english-7-2",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Fruit",
+          "Need",
+          "Have at first"
+        ],
+        "rows": [
+          [
+            "apples",
+            7,
+            4
+          ],
+          [
+            "bananas",
+            2,
+            2
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u7-t223-r4",
+    "examRevision": 16,
+    "examOrigin": "u7-t65-r4",
+    "variant": "B"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Fruit for our salad 3〉What do they do before making the salad?",
+    "options": [
+      "Wash the fruit.",
+      "Eat all the apples.",
+      "Buy more bananas.",
+      "Throw away the list."
+    ],
+    "answer": 0,
+    "explanation": "最後一句 Let’s wash the fruit first. 指出先洗水果。",
+    "id": "u7-t71-b",
+    "topic": 222,
+    "concept": "水果沙拉與數量",
+    "passageId": "library-english-7-2",
+    "passageTitle": "Fruit for our salad 3",
+    "passage": "Leo: Let’s make fruit salad. We need 7 apples and 2 bananas.\nMay: We have 4 apples and 2 bananas.\n\nLeo: How many more apples do we need?\nMay: Three. We don’t need more bananas.\n\nNick: I have three apples. Here you are!\nLeo: Thank you. Now we have 7 apples. Let’s wash the fruit first.",
+    "readingOrder": 5,
+    "readingSkill": "情境應用",
+    "family": "library-english-7-2",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Fruit",
+          "Need",
+          "Have at first"
+        ],
+        "rows": [
+          [
+            "apples",
+            7,
+            4
+          ],
+          [
+            "bananas",
+            2,
+            2
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u7-t223-r5",
+    "examRevision": 16,
+    "examOrigin": "u7-t65-r5",
+    "variant": "B"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Fruit for our salad 4〉How many apples do they need in all?",
+    "options": [
+      "8",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "目標是 8 apples，需與一開始已有的數量區分。",
+    "id": "u7-t70-b",
+    "topic": 223,
+    "concept": "水果沙拉與數量",
+    "passageId": "library-english-7-3",
+    "passageTitle": "Fruit for our salad 4",
+    "passage": "Tina: Let’s make fruit salad. We need 8 apples and 3 bananas.\nTom: We have 5 apples and 3 bananas.\n\nTina: How many more apples do we need?\nTom: Three. We don’t need more bananas.\n\nMia: I have three apples. Here you are!\nTina: Thank you. Now we have 8 apples. Let’s wash the fruit first.",
+    "readingOrder": 1,
+    "readingSkill": "找資料",
+    "family": "library-english-7-3",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Fruit",
+          "Need",
+          "Have at first"
+        ],
+        "rows": [
+          [
+            "apples",
+            8,
+            5
+          ],
+          [
+            "bananas",
+            3,
+            3
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u7-t224-r1",
+    "examRevision": 16,
+    "examOrigin": "u7-t66-r1",
+    "variant": "B"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Fruit for our salad 4〉How many more apples do they need at first?",
+    "options": [
+      "3",
+      "8",
+      "5",
+      "1"
+    ],
+    "answer": 0,
+    "explanation": "目標減現有數量，還差三個。",
+    "id": "u7-t69-b",
+    "topic": 223,
+    "concept": "水果沙拉與數量",
+    "passageId": "library-english-7-3",
+    "passageTitle": "Fruit for our salad 4",
+    "passage": "Tina: Let’s make fruit salad. We need 8 apples and 3 bananas.\nTom: We have 5 apples and 3 bananas.\n\nTina: How many more apples do we need?\nTom: Three. We don’t need more bananas.\n\nMia: I have three apples. Here you are!\nTina: Thank you. Now we have 8 apples. Let’s wash the fruit first.",
+    "readingOrder": 2,
+    "readingSkill": "配對資訊",
+    "family": "library-english-7-3",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Fruit",
+          "Need",
+          "Have at first"
+        ],
+        "rows": [
+          [
+            "apples",
+            8,
+            5
+          ],
+          [
+            "bananas",
+            3,
+            3
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u7-t224-r2",
+    "examRevision": 16,
+    "examOrigin": "u7-t66-r2",
+    "variant": "B"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Fruit for our salad 4〉Do they need more bananas?",
+    "options": [
+      "No, they don’t.",
+      "Yes, they do.",
+      "They need three more.",
+      "They need five more."
+    ],
+    "answer": 0,
+    "explanation": "現有香蕉數已等於目標，不需再補。",
+    "id": "u7-t68-b",
+    "topic": 223,
+    "concept": "水果沙拉與數量",
+    "passageId": "library-english-7-3",
+    "passageTitle": "Fruit for our salad 4",
+    "passage": "Tina: Let’s make fruit salad. We need 8 apples and 3 bananas.\nTom: We have 5 apples and 3 bananas.\n\nTina: How many more apples do we need?\nTom: Three. We don’t need more bananas.\n\nMia: I have three apples. Here you are!\nTina: Thank you. Now we have 8 apples. Let’s wash the fruit first.",
+    "readingOrder": 3,
+    "readingSkill": "句型理解",
+    "family": "library-english-7-3",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Fruit",
+          "Need",
+          "Have at first"
+        ],
+        "rows": [
+          [
+            "apples",
+            8,
+            5
+          ],
+          [
+            "bananas",
+            3,
+            3
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u7-t224-r3",
+    "examRevision": 16,
+    "examOrigin": "u7-t66-r3",
+    "variant": "B"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Fruit for our salad 4〉Who brings three apples?",
+    "options": [
+      "Mia",
+      "Tina",
+      "Tom",
+      "Nobody."
+    ],
+    "answer": 0,
+    "explanation": "Mia 說 I have three apples. Here you are!。",
+    "id": "u7-t67-b",
+    "topic": 223,
+    "concept": "水果沙拉與數量",
+    "passageId": "library-english-7-3",
+    "passageTitle": "Fruit for our salad 4",
+    "passage": "Tina: Let’s make fruit salad. We need 8 apples and 3 bananas.\nTom: We have 5 apples and 3 bananas.\n\nTina: How many more apples do we need?\nTom: Three. We don’t need more bananas.\n\nMia: I have three apples. Here you are!\nTina: Thank you. Now we have 8 apples. Let’s wash the fruit first.",
+    "readingOrder": 4,
+    "readingSkill": "整合對話",
+    "family": "library-english-7-3",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Fruit",
+          "Need",
+          "Have at first"
+        ],
+        "rows": [
+          [
+            "apples",
+            8,
+            5
+          ],
+          [
+            "bananas",
+            3,
+            3
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u7-t224-r4",
+    "examRevision": 16,
+    "examOrigin": "u7-t66-r4",
+    "variant": "B"
+  },
+  {
+    "unit": 7,
+    "revision": 16,
+    "sourceIds": [
+      "REF-bf9819daf9"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
+    "visualPolicy": "none",
+    "difficulty": "core",
+    "type": "single",
+    "text": "〈Fruit for our salad 4〉What do they do before making the salad?",
+    "options": [
+      "Wash the fruit.",
+      "Eat all the apples.",
+      "Buy more bananas.",
+      "Throw away the list."
+    ],
+    "answer": 0,
+    "explanation": "最後一句 Let’s wash the fruit first. 指出先洗水果。",
+    "id": "u7-t66-b",
+    "topic": 223,
+    "concept": "水果沙拉與數量",
+    "passageId": "library-english-7-3",
+    "passageTitle": "Fruit for our salad 4",
+    "passage": "Tina: Let’s make fruit salad. We need 8 apples and 3 bananas.\nTom: We have 5 apples and 3 bananas.\n\nTina: How many more apples do we need?\nTom: Three. We don’t need more bananas.\n\nMia: I have three apples. Here you are!\nTina: Thank you. Now we have 8 apples. Let’s wash the fruit first.",
+    "readingOrder": 5,
+    "readingSkill": "情境應用",
+    "family": "library-english-7-3",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇訂單資料",
+      "description": "搭配完整對話核對人物及資訊。",
+      "table": {
+        "headers": [
+          "Fruit",
+          "Need",
+          "Have at first"
+        ],
+        "rows": [
+          [
+            "apples",
+            8,
+            5
+          ],
+          [
+            "bananas",
+            3,
+            3
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u7-t224-r5",
+    "examRevision": 16,
+    "examOrigin": "u7-t66-r5",
+    "variant": "B"
+  },
+  {
+    "id": "u2-t94-b",
+    "unit": 2,
+    "topic": 220,
+    "concept": "臺灣我的家",
+    "type": "single",
+    "text": "〈旅行前先看位置圖〉從本島前往澎湖，大致朝哪個方向？",
+    "options": [
+      "西方",
+      "東方",
+      "北方",
+      "南方"
+    ],
+    "answer": 0,
+    "explanation": "澎湖位於臺灣本島西側，需依圖上方向判讀。",
+    "passageId": "library-u2-case1",
+    "passageTitle": "旅行前先看位置圖",
+    "passage": "小晴和爸爸整理暑假旅行地點。圖上標出臺灣本島、澎湖與周邊海域，並畫了指北箭頭。澎湖位於臺灣本島的西側，臺灣本島東側面向太平洋。這是一張位置示意圖，沒有標出航程時間。\n\n爸爸請小晴先說明方向，再查交通資訊。她能利用圖上的位置判斷由本島前往澎湖大致朝西，但不能僅由這張圖知道船要開多久。\n\n查完資料後，他們把「圖上可判讀的資訊」與「需要另外查詢的資訊」分開記錄。船班時間與當天海象可能改變，所以真正出發前還要重新核對；位置圖本身無法回答所有旅行問題。",
+    "readingOrder": 1,
+    "readingSkill": "擷取資訊",
+    "sourceIds": [
+      "REF-843f6a9aff"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開卷題型，情境與文字重新編寫",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-u2-case1",
+    "visual": {
+      "kind": "referenceMap",
+      "caption": "臺灣與澎湖位置示意",
+      "description": "圖與本文資料相互對照；示意圖未依比例。",
+      "table": {
+        "headers": [
+          "項目",
+          "紀錄"
+        ],
+        "rows": [
+          [
+            "臺灣本島西側",
+            "臺灣海峽、澎湖"
+          ],
+          [
+            "臺灣本島東側",
+            "太平洋"
+          ],
+          [
+            "指北箭頭",
+            "表示北方"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u2-t221-r1",
+    "examRevision": 16,
+    "examOrigin": "u2-t63-r1",
+    "variant": "B"
+  },
+  {
+    "id": "u2-t93-b",
+    "unit": 2,
+    "topic": 220,
+    "concept": "臺灣我的家",
+    "type": "single",
+    "text": "〈旅行前先看位置圖〉本島東側是哪個海洋？",
+    "options": [
+      "太平洋",
+      "印度洋",
+      "大西洋",
+      "北冰洋"
+    ],
+    "answer": 0,
+    "explanation": "本文直接指出臺灣本島東側面向太平洋。",
+    "passageId": "library-u2-case1",
+    "passageTitle": "旅行前先看位置圖",
+    "passage": "小晴和爸爸整理暑假旅行地點。圖上標出臺灣本島、澎湖與周邊海域，並畫了指北箭頭。澎湖位於臺灣本島的西側，臺灣本島東側面向太平洋。這是一張位置示意圖，沒有標出航程時間。\n\n爸爸請小晴先說明方向，再查交通資訊。她能利用圖上的位置判斷由本島前往澎湖大致朝西，但不能僅由這張圖知道船要開多久。\n\n查完資料後，他們把「圖上可判讀的資訊」與「需要另外查詢的資訊」分開記錄。船班時間與當天海象可能改變，所以真正出發前還要重新核對；位置圖本身無法回答所有旅行問題。",
+    "readingOrder": 2,
+    "readingSkill": "對照資料",
+    "sourceIds": [
+      "REF-843f6a9aff"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開卷題型，情境與文字重新編寫",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-u2-case1",
+    "visual": {
+      "kind": "referenceMap",
+      "caption": "臺灣與澎湖位置示意",
+      "description": "圖與本文資料相互對照；示意圖未依比例。",
+      "table": {
+        "headers": [
+          "項目",
+          "紀錄"
+        ],
+        "rows": [
+          [
+            "臺灣本島西側",
+            "臺灣海峽、澎湖"
+          ],
+          [
+            "臺灣本島東側",
+            "太平洋"
+          ],
+          [
+            "指北箭頭",
+            "表示北方"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u2-t221-r2",
+    "examRevision": 16,
+    "examOrigin": "u2-t63-r2",
+    "variant": "B"
+  },
+  {
+    "id": "u2-t92-b",
+    "unit": 2,
+    "topic": 220,
+    "concept": "臺灣我的家",
+    "type": "single",
+    "text": "〈旅行前先看位置圖〉哪項資訊不能單由本文的位置圖確定？",
+    "options": [
+      "實際航程所需時間",
+      "本島與澎湖的相對位置",
+      "北方在哪裡",
+      "本島東側海洋名稱"
+    ],
+    "answer": 0,
+    "explanation": "圖沒有航程時間，必須另查交通資訊。",
+    "passageId": "library-u2-case1",
+    "passageTitle": "旅行前先看位置圖",
+    "passage": "小晴和爸爸整理暑假旅行地點。圖上標出臺灣本島、澎湖與周邊海域，並畫了指北箭頭。澎湖位於臺灣本島的西側，臺灣本島東側面向太平洋。這是一張位置示意圖，沒有標出航程時間。\n\n爸爸請小晴先說明方向，再查交通資訊。她能利用圖上的位置判斷由本島前往澎湖大致朝西，但不能僅由這張圖知道船要開多久。\n\n查完資料後，他們把「圖上可判讀的資訊」與「需要另外查詢的資訊」分開記錄。船班時間與當天海象可能改變，所以真正出發前還要重新核對；位置圖本身無法回答所有旅行問題。",
+    "readingOrder": 3,
+    "readingSkill": "整合線索",
+    "sourceIds": [
+      "REF-843f6a9aff"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開卷題型，情境與文字重新編寫",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-u2-case1",
+    "visual": {
+      "kind": "referenceMap",
+      "caption": "臺灣與澎湖位置示意",
+      "description": "圖與本文資料相互對照；示意圖未依比例。",
+      "table": {
+        "headers": [
+          "項目",
+          "紀錄"
+        ],
+        "rows": [
+          [
+            "臺灣本島西側",
+            "臺灣海峽、澎湖"
+          ],
+          [
+            "臺灣本島東側",
+            "太平洋"
+          ],
+          [
+            "指北箭頭",
+            "表示北方"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u2-t221-r3",
+    "examRevision": 16,
+    "examOrigin": "u2-t63-r3",
+    "variant": "B"
+  },
+  {
+    "id": "u2-t91-b",
+    "unit": 2,
+    "topic": 220,
+    "concept": "臺灣我的家",
+    "type": "single",
+    "text": "〈旅行前先看位置圖〉出發前核對船班與海象的主要原因為何？",
+    "options": [
+      "它們可能隨時間改變",
+      "澎湖每天換到不同海洋",
+      "指北箭頭不能表示方向",
+      "位置圖一定沒有任何用途"
+    ],
+    "answer": 0,
+    "explanation": "位置相對穩定，船班和海象卻可能變動。",
+    "passageId": "library-u2-case1",
+    "passageTitle": "旅行前先看位置圖",
+    "passage": "小晴和爸爸整理暑假旅行地點。圖上標出臺灣本島、澎湖與周邊海域，並畫了指北箭頭。澎湖位於臺灣本島的西側，臺灣本島東側面向太平洋。這是一張位置示意圖，沒有標出航程時間。\n\n爸爸請小晴先說明方向，再查交通資訊。她能利用圖上的位置判斷由本島前往澎湖大致朝西，但不能僅由這張圖知道船要開多久。\n\n查完資料後，他們把「圖上可判讀的資訊」與「需要另外查詢的資訊」分開記錄。船班時間與當天海象可能改變，所以真正出發前還要重新核對；位置圖本身無法回答所有旅行問題。",
+    "readingOrder": 4,
+    "readingSkill": "情境推論",
+    "sourceIds": [
+      "REF-843f6a9aff"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開卷題型，情境與文字重新編寫",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-u2-case1",
+    "visual": {
+      "kind": "referenceMap",
+      "caption": "臺灣與澎湖位置示意",
+      "description": "圖與本文資料相互對照；示意圖未依比例。",
+      "table": {
+        "headers": [
+          "項目",
+          "紀錄"
+        ],
+        "rows": [
+          [
+            "臺灣本島西側",
+            "臺灣海峽、澎湖"
+          ],
+          [
+            "臺灣本島東側",
+            "太平洋"
+          ],
+          [
+            "指北箭頭",
+            "表示北方"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u2-t221-r4",
+    "examRevision": 16,
+    "examOrigin": "u2-t63-r4",
+    "variant": "B"
+  },
+  {
+    "id": "u2-t90-b",
+    "unit": 2,
+    "topic": 220,
+    "concept": "臺灣我的家",
+    "type": "single",
+    "text": "〈旅行前先看位置圖〉哪種整理方式最適合這次準備？",
+    "options": [
+      "地圖判位置，另查船班和海象",
+      "只看位置圖就決定所有細節",
+      "只看船票價格就判斷東西方",
+      "把航程時間當作指北標記"
+    ],
+    "answer": 0,
+    "explanation": "不同資料回答不同問題，應分工使用。",
+    "passageId": "library-u2-case1",
+    "passageTitle": "旅行前先看位置圖",
+    "passage": "小晴和爸爸整理暑假旅行地點。圖上標出臺灣本島、澎湖與周邊海域，並畫了指北箭頭。澎湖位於臺灣本島的西側，臺灣本島東側面向太平洋。這是一張位置示意圖，沒有標出航程時間。\n\n爸爸請小晴先說明方向，再查交通資訊。她能利用圖上的位置判斷由本島前往澎湖大致朝西，但不能僅由這張圖知道船要開多久。\n\n查完資料後，他們把「圖上可判讀的資訊」與「需要另外查詢的資訊」分開記錄。船班時間與當天海象可能改變，所以真正出發前還要重新核對；位置圖本身無法回答所有旅行問題。",
+    "readingOrder": 5,
+    "readingSkill": "整理結論",
+    "sourceIds": [
+      "REF-843f6a9aff"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開卷題型，情境與文字重新編寫",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-u2-case1",
+    "visual": {
+      "kind": "referenceMap",
+      "caption": "臺灣與澎湖位置示意",
+      "description": "圖與本文資料相互對照；示意圖未依比例。",
+      "table": {
+        "headers": [
+          "項目",
+          "紀錄"
+        ],
+        "rows": [
+          [
+            "臺灣本島西側",
+            "臺灣海峽、澎湖"
+          ],
+          [
+            "臺灣本島東側",
+            "太平洋"
+          ],
+          [
+            "指北箭頭",
+            "表示北方"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u2-t221-r5",
+    "examRevision": 16,
+    "examOrigin": "u2-t63-r5",
+    "variant": "B"
+  },
+  {
+    "id": "u3-t94-b",
+    "unit": 3,
+    "topic": 220,
+    "concept": "臺灣的自然環境與生活",
+    "type": "single",
+    "text": "〈兩座茶園的用水〉甲地最符合哪種地形？",
+    "options": [
+      "臺地",
+      "盆地",
+      "高山山頂的尖峰",
+      "海岸沙洲"
+    ],
+    "answer": 0,
+    "explanation": "頂部平坦、比周圍高且邊緣較陡，符合臺地。",
+    "passageId": "library-u3-case1",
+    "passageTitle": "兩座茶園的用水",
+    "passage": "萱萱拜訪兩位親戚的茶園。甲地地勢較高，頂部平坦、邊緣較陡，附近設有埤塘；乙地坡面起伏，茶樹沿山坡分層種植，並設蓄水池。兩地都種茶，地形及可用土地卻不相同。\n\n甲地的主人說，當地較平坦的土地有利於安排道路與蓄水空間。乙地的主人則要配合坡度安排種植與用水，不能把甲地的方法原封不動搬過來。\n\n小組把觀察整理成表，不只記下「兩地都是茶園」，也記錄地勢、坡度和設施。他們發現，相同產業在不同環境中可能採取不同做法；地形會影響生活，但不代表人們只能用唯一一種方式經營。",
+    "readingOrder": 1,
+    "readingSkill": "擷取資訊",
+    "sourceIds": [
+      "REF-843f6a9aff"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開卷題型，情境與文字重新編寫",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-u3-case1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇觀察與資料",
+      "description": "根據本文與表格核對資訊。",
+      "table": {
+        "headers": [
+          "地點",
+          "地勢",
+          "用水設施"
+        ],
+        "rows": [
+          [
+            "甲地",
+            "頂部平坦、邊緣較陡",
+            "埤塘"
+          ],
+          [
+            "乙地",
+            "坡面起伏、分層種植",
+            "蓄水池"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u3-t221-r1",
+    "examRevision": 16,
+    "examOrigin": "u3-t63-r1",
+    "variant": "B"
+  },
+  {
+    "id": "u3-t93-b",
+    "unit": 3,
+    "topic": 220,
+    "concept": "臺灣的自然環境與生活",
+    "type": "single",
+    "text": "〈兩座茶園的用水〉乙地分層種植主要在配合什麼？",
+    "options": [
+      "山坡地形與可利用空間",
+      "海水的鹽分",
+      "茶樹必須完全遮光",
+      "每天相同的潮汐"
+    ],
+    "answer": 0,
+    "explanation": "層狀安排與坡地利用有關。",
+    "passageId": "library-u3-case1",
+    "passageTitle": "兩座茶園的用水",
+    "passage": "萱萱拜訪兩位親戚的茶園。甲地地勢較高，頂部平坦、邊緣較陡，附近設有埤塘；乙地坡面起伏，茶樹沿山坡分層種植，並設蓄水池。兩地都種茶，地形及可用土地卻不相同。\n\n甲地的主人說，當地較平坦的土地有利於安排道路與蓄水空間。乙地的主人則要配合坡度安排種植與用水，不能把甲地的方法原封不動搬過來。\n\n小組把觀察整理成表，不只記下「兩地都是茶園」，也記錄地勢、坡度和設施。他們發現，相同產業在不同環境中可能採取不同做法；地形會影響生活，但不代表人們只能用唯一一種方式經營。",
+    "readingOrder": 2,
+    "readingSkill": "對照資料",
+    "sourceIds": [
+      "REF-843f6a9aff"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開卷題型，情境與文字重新編寫",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-u3-case1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇觀察與資料",
+      "description": "根據本文與表格核對資訊。",
+      "table": {
+        "headers": [
+          "地點",
+          "地勢",
+          "用水設施"
+        ],
+        "rows": [
+          [
+            "甲地",
+            "頂部平坦、邊緣較陡",
+            "埤塘"
+          ],
+          [
+            "乙地",
+            "坡面起伏、分層種植",
+            "蓄水池"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u3-t221-r2",
+    "examRevision": 16,
+    "examOrigin": "u3-t63-r2",
+    "variant": "B"
+  },
+  {
+    "id": "u3-t92-b",
+    "unit": 3,
+    "topic": 220,
+    "concept": "臺灣的自然環境與生活",
+    "type": "single",
+    "text": "〈兩座茶園的用水〉哪項是兩地的共同點？",
+    "options": [
+      "都種植茶樹",
+      "地形完全相同",
+      "都有相同大小埤塘",
+      "道路一定一樣寬"
+    ],
+    "answer": 0,
+    "explanation": "文章只明確指出兩地都是茶園，其他條件不同或未提供。",
+    "passageId": "library-u3-case1",
+    "passageTitle": "兩座茶園的用水",
+    "passage": "萱萱拜訪兩位親戚的茶園。甲地地勢較高，頂部平坦、邊緣較陡，附近設有埤塘；乙地坡面起伏，茶樹沿山坡分層種植，並設蓄水池。兩地都種茶，地形及可用土地卻不相同。\n\n甲地的主人說，當地較平坦的土地有利於安排道路與蓄水空間。乙地的主人則要配合坡度安排種植與用水，不能把甲地的方法原封不動搬過來。\n\n小組把觀察整理成表，不只記下「兩地都是茶園」，也記錄地勢、坡度和設施。他們發現，相同產業在不同環境中可能採取不同做法；地形會影響生活，但不代表人們只能用唯一一種方式經營。",
+    "readingOrder": 3,
+    "readingSkill": "整合線索",
+    "sourceIds": [
+      "REF-843f6a9aff"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開卷題型，情境與文字重新編寫",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-u3-case1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇觀察與資料",
+      "description": "根據本文與表格核對資訊。",
+      "table": {
+        "headers": [
+          "地點",
+          "地勢",
+          "用水設施"
+        ],
+        "rows": [
+          [
+            "甲地",
+            "頂部平坦、邊緣較陡",
+            "埤塘"
+          ],
+          [
+            "乙地",
+            "坡面起伏、分層種植",
+            "蓄水池"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u3-t221-r3",
+    "examRevision": 16,
+    "examOrigin": "u3-t63-r3",
+    "variant": "B"
+  },
+  {
+    "id": "u3-t91-b",
+    "unit": 3,
+    "topic": 220,
+    "concept": "臺灣的自然環境與生活",
+    "type": "single",
+    "text": "〈兩座茶園的用水〉為什麼不能直接把甲地方法搬到乙地？",
+    "options": [
+      "坡度與可用空間不同",
+      "乙地不需要任何水",
+      "甲地沒有種茶",
+      "兩地不可能有相同產業"
+    ],
+    "answer": 0,
+    "explanation": "方法須配合實際環境，不能只看產業名稱。",
+    "passageId": "library-u3-case1",
+    "passageTitle": "兩座茶園的用水",
+    "passage": "萱萱拜訪兩位親戚的茶園。甲地地勢較高，頂部平坦、邊緣較陡，附近設有埤塘；乙地坡面起伏，茶樹沿山坡分層種植，並設蓄水池。兩地都種茶，地形及可用土地卻不相同。\n\n甲地的主人說，當地較平坦的土地有利於安排道路與蓄水空間。乙地的主人則要配合坡度安排種植與用水，不能把甲地的方法原封不動搬過來。\n\n小組把觀察整理成表，不只記下「兩地都是茶園」，也記錄地勢、坡度和設施。他們發現，相同產業在不同環境中可能採取不同做法；地形會影響生活，但不代表人們只能用唯一一種方式經營。",
+    "readingOrder": 4,
+    "readingSkill": "情境推論",
+    "sourceIds": [
+      "REF-843f6a9aff"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開卷題型，情境與文字重新編寫",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-u3-case1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇觀察與資料",
+      "description": "根據本文與表格核對資訊。",
+      "table": {
+        "headers": [
+          "地點",
+          "地勢",
+          "用水設施"
+        ],
+        "rows": [
+          [
+            "甲地",
+            "頂部平坦、邊緣較陡",
+            "埤塘"
+          ],
+          [
+            "乙地",
+            "坡面起伏、分層種植",
+            "蓄水池"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u3-t221-r4",
+    "examRevision": 16,
+    "examOrigin": "u3-t63-r4",
+    "variant": "B"
+  },
+  {
+    "id": "u3-t90-b",
+    "unit": 3,
+    "topic": 220,
+    "concept": "臺灣的自然環境與生活",
+    "type": "single",
+    "text": "〈兩座茶園的用水〉哪個結論最符合全文？",
+    "options": [
+      "同一產業可因地形不同而採不同做法",
+      "地形不會影響任何設施",
+      "所有茶園只能設埤塘",
+      "有山坡就一定不能種植作物"
+    ],
+    "answer": 0,
+    "explanation": "比較兩地可看出環境與土地利用的關係。",
+    "passageId": "library-u3-case1",
+    "passageTitle": "兩座茶園的用水",
+    "passage": "萱萱拜訪兩位親戚的茶園。甲地地勢較高，頂部平坦、邊緣較陡，附近設有埤塘；乙地坡面起伏，茶樹沿山坡分層種植，並設蓄水池。兩地都種茶，地形及可用土地卻不相同。\n\n甲地的主人說，當地較平坦的土地有利於安排道路與蓄水空間。乙地的主人則要配合坡度安排種植與用水，不能把甲地的方法原封不動搬過來。\n\n小組把觀察整理成表，不只記下「兩地都是茶園」，也記錄地勢、坡度和設施。他們發現，相同產業在不同環境中可能採取不同做法；地形會影響生活，但不代表人們只能用唯一一種方式經營。",
+    "readingOrder": 5,
+    "readingSkill": "整理結論",
+    "sourceIds": [
+      "REF-843f6a9aff"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開卷題型，情境與文字重新編寫",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-u3-case1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇觀察與資料",
+      "description": "根據本文與表格核對資訊。",
+      "table": {
+        "headers": [
+          "地點",
+          "地勢",
+          "用水設施"
+        ],
+        "rows": [
+          [
+            "甲地",
+            "頂部平坦、邊緣較陡",
+            "埤塘"
+          ],
+          [
+            "乙地",
+            "坡面起伏、分層種植",
+            "蓄水池"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u3-t221-r5",
+    "examRevision": 16,
+    "examOrigin": "u3-t63-r5",
+    "variant": "B"
+  },
+  {
+    "id": "u23-t94-b",
+    "unit": 23,
+    "topic": 220,
+    "concept": "空氣和水",
+    "type": "single",
+    "text": "〈紙團為什麼沒有溼〉第一次杯子如何進入水中？",
+    "options": [
+      "杯口朝下垂直壓入",
+      "杯口朝上舀水",
+      "把杯子打破後放入",
+      "先把杯子裝滿水"
+    ],
+    "answer": 0,
+    "explanation": "依第一段，第一次杯口朝下垂直壓入。",
+    "passageId": "library-u23-case1",
+    "passageTitle": "紙團為什麼沒有溼",
+    "passage": "小組把紙團固定在透明杯底，杯口朝下，垂直壓入水盆。杯中的紙團沒有溼。第二次仍使用同一個杯子，但把杯子慢慢傾斜，看到氣泡從杯口冒出，水也進入杯中，紙團變溼了。\n\n兩次都使用相同水盆與紙團位置，主要改變杯子進水時的方向。小組把「垂直」與「傾斜」的結果分開記錄，沒有把空杯誤認成裡面什麼都沒有。\n\n討論時，他們用空氣占有空間來解釋差異。垂直時空氣留在杯內；傾斜時部分空氣以氣泡離開，水才進入原先被空氣占據的位置。",
+    "readingOrder": 1,
+    "readingSkill": "擷取資訊",
+    "sourceIds": [
+      "REF-62e311149b"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開卷題型，情境與文字重新編寫",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-u23-case1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇觀察與資料",
+      "description": "根據本文與表格核對資訊。",
+      "table": {
+        "headers": [
+          "操作",
+          "條件或結果",
+          "觀察"
+        ],
+        "rows": [
+          [
+            "第一次",
+            "杯口朝下，垂直壓入",
+            "紙團未溼"
+          ],
+          [
+            "第二次",
+            "杯子傾斜",
+            "氣泡冒出，紙團變溼"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u23-t221-r1",
+    "examRevision": 16,
+    "examOrigin": "u23-t63-r1",
+    "variant": "B"
+  },
+  {
+    "id": "u23-t93-b",
+    "unit": 23,
+    "topic": 220,
+    "concept": "空氣和水",
+    "type": "single",
+    "text": "〈紙團為什麼沒有溼〉第二次冒出的氣泡主要是什麼？",
+    "options": [
+      "原先留在杯內的空氣",
+      "紙團變成的石頭",
+      "水盆中新增的磁力",
+      "杯子產生的光"
+    ],
+    "answer": 0,
+    "explanation": "傾斜使杯內空氣由杯口逸出，形成氣泡。",
+    "passageId": "library-u23-case1",
+    "passageTitle": "紙團為什麼沒有溼",
+    "passage": "小組把紙團固定在透明杯底，杯口朝下，垂直壓入水盆。杯中的紙團沒有溼。第二次仍使用同一個杯子，但把杯子慢慢傾斜，看到氣泡從杯口冒出，水也進入杯中，紙團變溼了。\n\n兩次都使用相同水盆與紙團位置，主要改變杯子進水時的方向。小組把「垂直」與「傾斜」的結果分開記錄，沒有把空杯誤認成裡面什麼都沒有。\n\n討論時，他們用空氣占有空間來解釋差異。垂直時空氣留在杯內；傾斜時部分空氣以氣泡離開，水才進入原先被空氣占據的位置。",
+    "readingOrder": 2,
+    "readingSkill": "對照資料",
+    "sourceIds": [
+      "REF-62e311149b"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開卷題型，情境與文字重新編寫",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-u23-case1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇觀察與資料",
+      "description": "根據本文與表格核對資訊。",
+      "table": {
+        "headers": [
+          "操作",
+          "條件或結果",
+          "觀察"
+        ],
+        "rows": [
+          [
+            "第一次",
+            "杯口朝下，垂直壓入",
+            "紙團未溼"
+          ],
+          [
+            "第二次",
+            "杯子傾斜",
+            "氣泡冒出，紙團變溼"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u23-t221-r2",
+    "examRevision": 16,
+    "examOrigin": "u23-t63-r2",
+    "variant": "B"
+  },
+  {
+    "id": "u23-t92-b",
+    "unit": 23,
+    "topic": 220,
+    "concept": "空氣和水",
+    "type": "single",
+    "text": "〈紙團為什麼沒有溼〉兩次主要改變哪個條件？",
+    "options": [
+      "杯子的方向",
+      "水盆材質",
+      "紙團固定位置",
+      "杯子大小"
+    ],
+    "answer": 0,
+    "explanation": "器材與紙團位置相同，主要改變垂直或傾斜。",
+    "passageId": "library-u23-case1",
+    "passageTitle": "紙團為什麼沒有溼",
+    "passage": "小組把紙團固定在透明杯底，杯口朝下，垂直壓入水盆。杯中的紙團沒有溼。第二次仍使用同一個杯子，但把杯子慢慢傾斜，看到氣泡從杯口冒出，水也進入杯中，紙團變溼了。\n\n兩次都使用相同水盆與紙團位置，主要改變杯子進水時的方向。小組把「垂直」與「傾斜」的結果分開記錄，沒有把空杯誤認成裡面什麼都沒有。\n\n討論時，他們用空氣占有空間來解釋差異。垂直時空氣留在杯內；傾斜時部分空氣以氣泡離開，水才進入原先被空氣占據的位置。",
+    "readingOrder": 3,
+    "readingSkill": "整合線索",
+    "sourceIds": [
+      "REF-62e311149b"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開卷題型，情境與文字重新編寫",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-u23-case1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇觀察與資料",
+      "description": "根據本文與表格核對資訊。",
+      "table": {
+        "headers": [
+          "操作",
+          "條件或結果",
+          "觀察"
+        ],
+        "rows": [
+          [
+            "第一次",
+            "杯口朝下，垂直壓入",
+            "紙團未溼"
+          ],
+          [
+            "第二次",
+            "杯子傾斜",
+            "氣泡冒出，紙團變溼"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u23-t221-r3",
+    "examRevision": 16,
+    "examOrigin": "u23-t63-r3",
+    "variant": "B"
+  },
+  {
+    "id": "u23-t91-b",
+    "unit": 23,
+    "topic": 220,
+    "concept": "空氣和水",
+    "type": "single",
+    "text": "〈紙團為什麼沒有溼〉第一次紙團沒有溼，主要支持什麼？",
+    "options": [
+      "杯內空氣占有空間",
+      "杯內原本完全真空",
+      "紙團一定不會吸水",
+      "水沒有體積"
+    ],
+    "answer": 0,
+    "explanation": "留在杯內的空氣阻擋水完全進入。",
+    "passageId": "library-u23-case1",
+    "passageTitle": "紙團為什麼沒有溼",
+    "passage": "小組把紙團固定在透明杯底，杯口朝下，垂直壓入水盆。杯中的紙團沒有溼。第二次仍使用同一個杯子，但把杯子慢慢傾斜，看到氣泡從杯口冒出，水也進入杯中，紙團變溼了。\n\n兩次都使用相同水盆與紙團位置，主要改變杯子進水時的方向。小組把「垂直」與「傾斜」的結果分開記錄，沒有把空杯誤認成裡面什麼都沒有。\n\n討論時，他們用空氣占有空間來解釋差異。垂直時空氣留在杯內；傾斜時部分空氣以氣泡離開，水才進入原先被空氣占據的位置。",
+    "readingOrder": 4,
+    "readingSkill": "情境推論",
+    "sourceIds": [
+      "REF-62e311149b"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開卷題型，情境與文字重新編寫",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-u23-case1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇觀察與資料",
+      "description": "根據本文與表格核對資訊。",
+      "table": {
+        "headers": [
+          "操作",
+          "條件或結果",
+          "觀察"
+        ],
+        "rows": [
+          [
+            "第一次",
+            "杯口朝下，垂直壓入",
+            "紙團未溼"
+          ],
+          [
+            "第二次",
+            "杯子傾斜",
+            "氣泡冒出，紙團變溼"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u23-t221-r4",
+    "examRevision": 16,
+    "examOrigin": "u23-t63-r4",
+    "variant": "B"
+  },
+  {
+    "id": "u23-t90-b",
+    "unit": 23,
+    "topic": 220,
+    "concept": "空氣和水",
+    "type": "single",
+    "text": "〈紙團為什麼沒有溼〉第二次紙團變溼，與哪個過程最有關？",
+    "options": [
+      "部分空氣離開後，水進入杯內",
+      "水完全離開水盆",
+      "紙團變成不吸水材料",
+      "杯子突然沒有杯口"
+    ],
+    "answer": 0,
+    "explanation": "空氣逸出後，水能進入原先空氣占據的位置。",
+    "passageId": "library-u23-case1",
+    "passageTitle": "紙團為什麼沒有溼",
+    "passage": "小組把紙團固定在透明杯底，杯口朝下，垂直壓入水盆。杯中的紙團沒有溼。第二次仍使用同一個杯子，但把杯子慢慢傾斜，看到氣泡從杯口冒出，水也進入杯中，紙團變溼了。\n\n兩次都使用相同水盆與紙團位置，主要改變杯子進水時的方向。小組把「垂直」與「傾斜」的結果分開記錄，沒有把空杯誤認成裡面什麼都沒有。\n\n討論時，他們用空氣占有空間來解釋差異。垂直時空氣留在杯內；傾斜時部分空氣以氣泡離開，水才進入原先被空氣占據的位置。",
+    "readingOrder": 5,
+    "readingSkill": "整理結論",
+    "sourceIds": [
+      "REF-62e311149b"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開卷題型，情境與文字重新編寫",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-u23-case1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇觀察與資料",
+      "description": "根據本文與表格核對資訊。",
+      "table": {
+        "headers": [
+          "操作",
+          "條件或結果",
+          "觀察"
+        ],
+        "rows": [
+          [
+            "第一次",
+            "杯口朝下，垂直壓入",
+            "紙團未溼"
+          ],
+          [
+            "第二次",
+            "杯子傾斜",
+            "氣泡冒出，紙團變溼"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u23-t221-r5",
+    "examRevision": 16,
+    "examOrigin": "u23-t63-r5",
+    "variant": "B"
+  },
+  {
+    "id": "u25-t94-b",
+    "unit": 25,
+    "topic": 220,
+    "concept": "校園規範和班級自治",
+    "type": "single",
+    "text": "〈一顆球的借用規則〉原先需要解決什麼問題？",
+    "options": [
+      "同一顆球的使用機會",
+      "所有球都已損壞",
+      "沒有人想借球",
+      "兩組都沒有課"
+    ],
+    "answer": 0,
+    "explanation": "文章的衝突是兩組同時想使用有限器材。",
+    "passageId": "library-u25-case1",
+    "passageTitle": "一顆球的借用規則",
+    "passage": "午休後，甲、乙兩組都想借同一顆球。班會討論時，甲組提出每天由先到的人借，乙組擔心同一組總是比較早下課，另一組便很難用到。主席請兩組說明理由，也讓其他同學提出輪流方式。\n\n討論後，全班依程序通過兩組輪流使用，由器材股長記錄借還。記錄同學寫下適用日期和負責人，並約定兩週後檢查是否仍有困難。\n\n兩週後，有一天下雨，輪到的組別無法到戶外。大家把這件事帶回班會，討論如何補用。共同規則不只是寫在紙上，還要實際執行、檢查，必要時按程序調整。",
+    "readingOrder": 1,
+    "readingSkill": "擷取資訊",
+    "sourceIds": [
+      "REF-857b30709b"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開卷題型，情境與文字重新編寫",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-u25-case1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇觀察與資料",
+      "description": "根據本文與表格核對資訊。",
+      "table": {
+        "headers": [
+          "項目",
+          "紀錄"
+        ],
+        "rows": [
+          [
+            "問題",
+            "兩組同時借同一顆球"
+          ],
+          [
+            "決議",
+            "兩組輪流使用"
+          ],
+          [
+            "負責",
+            "器材股長記錄借還"
+          ],
+          [
+            "檢查",
+            "兩週後討論執行情形"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u25-t221-r1",
+    "examRevision": 16,
+    "examOrigin": "u25-t63-r1",
+    "variant": "B"
+  },
+  {
+    "id": "u25-t93-b",
+    "unit": 25,
+    "topic": 220,
+    "concept": "校園規範和班級自治",
+    "type": "single",
+    "text": "〈一顆球的借用規則〉乙組擔心先到先借的哪項問題？",
+    "options": [
+      "固定較晚下課者可能長期借不到",
+      "球一定會變小",
+      "器材股長一定不能記錄",
+      "每組都會同時下課"
+    ],
+    "answer": 0,
+    "explanation": "各組下課時間不同，可能造成使用機會不均。",
+    "passageId": "library-u25-case1",
+    "passageTitle": "一顆球的借用規則",
+    "passage": "午休後，甲、乙兩組都想借同一顆球。班會討論時，甲組提出每天由先到的人借，乙組擔心同一組總是比較早下課，另一組便很難用到。主席請兩組說明理由，也讓其他同學提出輪流方式。\n\n討論後，全班依程序通過兩組輪流使用，由器材股長記錄借還。記錄同學寫下適用日期和負責人，並約定兩週後檢查是否仍有困難。\n\n兩週後，有一天下雨，輪到的組別無法到戶外。大家把這件事帶回班會，討論如何補用。共同規則不只是寫在紙上，還要實際執行、檢查，必要時按程序調整。",
+    "readingOrder": 2,
+    "readingSkill": "對照資料",
+    "sourceIds": [
+      "REF-857b30709b"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開卷題型，情境與文字重新編寫",
+    "revision": 16,
+    "difficulty": "core",
+    "family": "library-u25-case1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇觀察與資料",
+      "description": "根據本文與表格核對資訊。",
+      "table": {
+        "headers": [
+          "項目",
+          "紀錄"
+        ],
+        "rows": [
+          [
+            "問題",
+            "兩組同時借同一顆球"
+          ],
+          [
+            "決議",
+            "兩組輪流使用"
+          ],
+          [
+            "負責",
+            "器材股長記錄借還"
+          ],
+          [
+            "檢查",
+            "兩週後討論執行情形"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u25-t221-r2",
+    "examRevision": 16,
+    "examOrigin": "u25-t63-r2",
+    "variant": "B"
+  },
+  {
+    "id": "u25-t92-b",
+    "unit": 25,
+    "topic": 220,
+    "concept": "校園規範和班級自治",
+    "type": "single",
+    "text": "〈一顆球的借用規則〉主席讓兩組說明理由，主要有助於什麼？",
+    "options": [
+      "理解不同需求再作討論",
+      "先宣布唯一正確答案",
+      "取消所有人的發言",
+      "不必再作任何決議"
+    ],
+    "answer": 0,
+    "explanation": "讓不同立場表達，才能比較方案是否公平可行。",
+    "passageId": "library-u25-case1",
+    "passageTitle": "一顆球的借用規則",
+    "passage": "午休後，甲、乙兩組都想借同一顆球。班會討論時，甲組提出每天由先到的人借，乙組擔心同一組總是比較早下課，另一組便很難用到。主席請兩組說明理由，也讓其他同學提出輪流方式。\n\n討論後，全班依程序通過兩組輪流使用，由器材股長記錄借還。記錄同學寫下適用日期和負責人，並約定兩週後檢查是否仍有困難。\n\n兩週後，有一天下雨，輪到的組別無法到戶外。大家把這件事帶回班會，討論如何補用。共同規則不只是寫在紙上，還要實際執行、檢查，必要時按程序調整。",
+    "readingOrder": 3,
+    "readingSkill": "整合線索",
+    "sourceIds": [
+      "REF-857b30709b"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開卷題型，情境與文字重新編寫",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-u25-case1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇觀察與資料",
+      "description": "根據本文與表格核對資訊。",
+      "table": {
+        "headers": [
+          "項目",
+          "紀錄"
+        ],
+        "rows": [
+          [
+            "問題",
+            "兩組同時借同一顆球"
+          ],
+          [
+            "決議",
+            "兩組輪流使用"
+          ],
+          [
+            "負責",
+            "器材股長記錄借還"
+          ],
+          [
+            "檢查",
+            "兩週後討論執行情形"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u25-t221-r3",
+    "examRevision": 16,
+    "examOrigin": "u25-t63-r3",
+    "variant": "B"
+  },
+  {
+    "id": "u25-t91-b",
+    "unit": 25,
+    "topic": 220,
+    "concept": "校園規範和班級自治",
+    "type": "single",
+    "text": "〈一顆球的借用規則〉下雨造成無法使用，接下來怎麼做？",
+    "options": [
+      "依程序討論補用安排",
+      "自行塗改所有借還紀錄",
+      "永久取消另一組借用",
+      "假裝每次都順利使用"
+    ],
+    "answer": 0,
+    "explanation": "可用具體事例討論改善，而非擅改紀錄。",
+    "passageId": "library-u25-case1",
+    "passageTitle": "一顆球的借用規則",
+    "passage": "午休後，甲、乙兩組都想借同一顆球。班會討論時，甲組提出每天由先到的人借，乙組擔心同一組總是比較早下課，另一組便很難用到。主席請兩組說明理由，也讓其他同學提出輪流方式。\n\n討論後，全班依程序通過兩組輪流使用，由器材股長記錄借還。記錄同學寫下適用日期和負責人，並約定兩週後檢查是否仍有困難。\n\n兩週後，有一天下雨，輪到的組別無法到戶外。大家把這件事帶回班會，討論如何補用。共同規則不只是寫在紙上，還要實際執行、檢查，必要時按程序調整。",
+    "readingOrder": 4,
+    "readingSkill": "情境推論",
+    "sourceIds": [
+      "REF-857b30709b"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開卷題型，情境與文字重新編寫",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-u25-case1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇觀察與資料",
+      "description": "根據本文與表格核對資訊。",
+      "table": {
+        "headers": [
+          "項目",
+          "紀錄"
+        ],
+        "rows": [
+          [
+            "問題",
+            "兩組同時借同一顆球"
+          ],
+          [
+            "決議",
+            "兩組輪流使用"
+          ],
+          [
+            "負責",
+            "器材股長記錄借還"
+          ],
+          [
+            "檢查",
+            "兩週後討論執行情形"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u25-t221-r4",
+    "examRevision": 16,
+    "examOrigin": "u25-t63-r4",
+    "variant": "B"
+  },
+  {
+    "id": "u25-t90-b",
+    "unit": 25,
+    "topic": 220,
+    "concept": "校園規範和班級自治",
+    "type": "single",
+    "text": "〈一顆球的借用規則〉為什麼要約定兩週後檢查？",
+    "options": [
+      "確認規則實際執行是否合適",
+      "證明決議永遠不能修改",
+      "讓未使用者永遠不能提問",
+      "只為再抄一次同樣文字"
+    ],
+    "answer": 0,
+    "explanation": "規則需追蹤效果，必要時按程序修正。",
+    "passageId": "library-u25-case1",
+    "passageTitle": "一顆球的借用規則",
+    "passage": "午休後，甲、乙兩組都想借同一顆球。班會討論時，甲組提出每天由先到的人借，乙組擔心同一組總是比較早下課，另一組便很難用到。主席請兩組說明理由，也讓其他同學提出輪流方式。\n\n討論後，全班依程序通過兩組輪流使用，由器材股長記錄借還。記錄同學寫下適用日期和負責人，並約定兩週後檢查是否仍有困難。\n\n兩週後，有一天下雨，輪到的組別無法到戶外。大家把這件事帶回班會，討論如何補用。共同規則不只是寫在紙上，還要實際執行、檢查，必要時按程序調整。",
+    "readingOrder": 5,
+    "readingSkill": "整理結論",
+    "sourceIds": [
+      "REF-857b30709b"
+    ],
+    "referencePages": [
+      1,
+      2
+    ],
+    "sourceType": "參考公開卷題型，情境與文字重新編寫",
+    "revision": 16,
+    "difficulty": "challenge",
+    "family": "library-u25-case1",
+    "visual": {
+      "kind": "referenceData",
+      "caption": "本篇觀察與資料",
+      "description": "根據本文與表格核對資訊。",
+      "table": {
+        "headers": [
+          "項目",
+          "紀錄"
+        ],
+        "rows": [
+          [
+            "問題",
+            "兩組同時借同一顆球"
+          ],
+          [
+            "決議",
+            "兩組輪流使用"
+          ],
+          [
+            "負責",
+            "器材股長記錄借還"
+          ],
+          [
+            "檢查",
+            "兩週後討論執行情形"
+          ]
+        ]
+      }
+    },
+    "libraryKey": "u25-t221-r5",
+    "examRevision": 16,
+    "examOrigin": "u25-t63-r5",
     "variant": "B"
   }
 ];

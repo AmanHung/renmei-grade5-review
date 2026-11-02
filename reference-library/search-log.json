@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-02",
+  "method": "網路搜尋找到官方索引，再從公開連結下載；只有有效 PDF 算入下載量。",
+  "queries": [
+    "國小 三上 翰林 國語 期中 試卷 時間是什麼 pdf",
+    "國小 三上 Here We Go 期中 試卷 pdf",
+    "國小 五上 康軒 國語 期中 試卷 蚊帳大使 pdf",
+    "國小 五上 Wonder World 5 期中 試卷 pdf",
+    "site.edu.tw 114 三 期中 英語 試卷 pdf",
+    "site.edu.tw 114 三 期中 國語 pdf",
+    "site.edu.tw 五 期中 探索聲光 試卷",
+    "site.edu.tw 三 期中 空氣和水 試卷",
+    "site.edu.tw 三上 期中 時間是什麼",
+    "site.edu.tw 五上 期中 動物世界",
+    "site.edu.tw 三上 期中 Here We Go",
+    "site.edu.tw 五上 期中 Wonder World",
+    "site.wdps.kl.edu.tw 113 期中",
+    "site.thps.tyc.edu.tw 114 期中評量"
+  ],
+  "official_archive": "https://www.yap.kh.edu.tw/view/index.php?MainMenuId=44061&MainType=104&SubMenuId=0&SubType=0&TypeChange=&WebID=33&page=8",
+  "archive_pages_checked": {"first": 8, "last": 48, "count": 41},
+  "other_sources": "五堵、大華、明義、深美的既有原卷連結重新核對；包含 5 筆下載失敗。",
+  "excluded_search_results": ["商售光碟與大量重製教材站", "只有搜尋摘要而未讀原卷者", "課程計畫與範圍表", "沒有可讀試卷的商品介紹", "下學期、期末與其他年級，既有局部參考例外另行標記"],
+  "limitations": "截至本日的廣泛搜尋與重點分析，並非全網窮盡；可下載與範圍相符分開記錄。"
+}

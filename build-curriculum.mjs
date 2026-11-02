@@ -54,9 +54,11 @@ for(const u of units){
  }
 }
 fs.writeFileSync(new URL('dist/content.js',import.meta.url),'window.REVIEW_UNITS='+JSON.stringify(units,null,2)+';\n');
-console.table(units.map(u=>({科目:u.subject,單元:u.name,重點:u.cards.length,題目:u.questions.length})));
+// Build preview before final review.
+/*console.table(units.map(u=>({科目:u.subject,單元:u.name,重點:u.cards.length,題目:u.questions.length})));*/
 const {default:writeMockExams}=await import('./curriculum/mock-exams.mjs');
 writeMockExams(units);
 fs.writeFileSync(new URL('dist/content.js',import.meta.url),'window.REVIEW_UNITS='+JSON.stringify(units,null,2)+';\n');
 
 reports(units);
+console.log('修訂完成：'+units.filter(u=>u.active!==false).reduce((n,u)=>n+u.questions.length,0)+' 題。');

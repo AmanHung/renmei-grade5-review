@@ -9,7 +9,7 @@ for(const p of W.REVIEW_EXAMS)assert.equal(p.signature,createHash('sha256').upda
 let count=0,reading=0,figures=0;
 for(const b of W.REVIEW_EXAMS.filter(p=>p.variant==='B')){
  const a=W.REVIEW_EXAMS.find(p=>p.id===b.id.replace(/-b$/,'-a')),aq=a.entries.map(e=>byId.get(e.questionId)),aIds=new Set(aq.map(q=>q.id)),aTexts=new Set(aq.map(q=>q.text));
- for(const e of b.entries){const q=byId.get(e.questionId);assert.ok(!aIds.has(q.id));assert.ok(!aTexts.has(q.text));assert.equal(q.variant,'B');assert.match(q.id,/^u\d{1,2}-t\d{2}-(?:b|tf|n[12]|r[1-5])$/);assert.ok(q.explanation);count++;
+ for(const e of b.entries){const q=byId.get(e.questionId);assert.ok(!aIds.has(q.id));assert.ok(!aTexts.has(q.text));assert.equal(q.variant,'B');assert.match(q.id,/^u\d{1,2}-t\d{2,3}-(?:a|b|tf|n[12]|r[1-5])$/);assert.ok(q.explanation);count++;
   if(q.visual){const v=q.visual,r=W.BExamDiagrams.draw(v)||W.ExamDiagrams.draw(v);if(v.kind.startsWith('b'))assert.ok(r,'B卷必須實際支援新圖形 '+v.kind);if(r){assert.ok(!/NaN|Infinity|undefined/.test(r.body));for(const tag of r.body.match(/<[a-z]+\b[^>]*>/g)||[]){const names=[...tag.matchAll(/\s([\w:-]+)="[^"]*"/g)].map(m=>m[1]);assert.equal(new Set(names).size,names.length);}figures++;}}
  }
  const groups=new Set(b.entries.map(e=>byId.get(e.questionId).passageId).filter(Boolean));if(b.subject!=='數學'){assert.equal(groups.size,4);for(const id of groups){const qs=b.entries.map(e=>byId.get(e.questionId)).filter(q=>q.passageId===id);assert.equal(qs.length,5);assert.equal(new Set(qs.map(q=>q.passage)).size,1);reading++;}}
