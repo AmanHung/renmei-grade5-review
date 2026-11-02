@@ -8,5 +8,10 @@
  function grade(e,units){const u=units.find(u=>u.questions.some(q=>q.id===e.questionId));return u?u.grade:Number(e.grade)|| (String(e.unitName).startsWith('三上｜')?3:5);}
  function summary(events){const answers=events.filter(e=>e.kind==='answer'),sessions=events.filter(e=>e.kind==='session'),groups=new Map();for(const e of answers){const key=e.questionId||e.question;const a=groups.get(key)||[];a.push(e);groups.set(key,a);}const wrong=[...groups.values()].filter(a=>a.some(e=>e.correct===false)).map(a=>({latest:a.at(-1),count:a.filter(e=>e.correct===false).length,resolved:a.at(-1).correct===true,attempts:a}));return {answers,sessions,wrong,open:wrong.filter(w=>!w.resolved),accuracy:answers.length?Math.round(answers.filter(e=>e.correct===true).length/answers.length*100):null,days:new Set(answers.map(e=>new Date(e.createdAt).toLocaleDateString('en-CA',{timeZone:'Asia/Taipei'}))).size};}
  function wrongForUnit(summary,unitId,bank){return summary.open.filter(w=>bank.get(w.latest.questionId)?.unit===unitId).sort((a,b)=>b.count-a.count||String(b.latest.createdAt).localeCompare(String(a.latest.createdAt)));}
- const api={csv,fromCSV,merge,canonical,grade,summary,wrongForUnit};if(typeof module==='object')module.exports=api;else root.ParentModel=api;
+ function unitProgress(answers,unit,bank){
+  const practiceIds=new Set(unit.questions.map(q=>q.id)),available=[...bank.values()].filter(q=>q.unit===unit.id),rows=answers.filter(e=>e.kind==='answer'&&bank.get(e.questionId)?.unit===unit.id),ids=new Set(rows.map(e=>e.questionId));
+  const practice=[...ids].filter(id=>practiceIds.has(id)).length,exam=[...ids].filter(id=>!practiceIds.has(id)).length;
+  return {rows,practice,exam,covered:ids.size,total:new Set(available.map(q=>q.id)).size,attempts:rows.length,right:rows.filter(e=>e.correct===true).length,sessions:new Set(rows.map(e=>e.sessionId)).size};
+ }
+ const api={csv,fromCSV,merge,canonical,grade,summary,wrongForUnit,unitProgress};if(typeof module==='object')module.exports=api;else root.ParentModel=api;
 })(typeof window==='undefined'?globalThis:window);
