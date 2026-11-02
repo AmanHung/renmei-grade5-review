@@ -28,6 +28,7 @@ jobs:
       - run: node test-gas.cjs
       - run: node test-parent.cjs
       - run: node test-learners.cjs
+      - run: node test-cloud.cjs
       - run: node test-reading.cjs
       - run: node test-grades.cjs
       - run: node test-visuals.cjs

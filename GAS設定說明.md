@@ -54,3 +54,5 @@
 跨裝置家長登入：設定 STUDY_PARENT_PASSWORD_HASH 後優先使用共用密碼（SHA-256 驗證），舊長金鑰不再接受。公開網站不保存實際家長密碼或其驗證值。各裝置輸入共用密碼即可登入，無須 CSV 或 Google 帳號。
 
 姓名整理：執行 organizeLearnerNames 會先備份「作答紀錄」，再只修改姓名欄，並核對寫入結果。後續新紀錄由 normalizeEvent_ 統一姓名。家長查詢預設於伺服器排除測試，includeTest=1 才包含測試紀錄。
+
+雲端學習狀態：紀錄種類增加「學習狀態」（kind=state），stateKey 支援 read、draw、draft；值存於作答內容欄並經格式驗證。家長與孩子查詢均須既有密碼驗證，孩子端以 learner 篩選並逐頁取得自己的事件。本機離線待傳內容會合併補傳；閱讀取消標記以最後事件為準，模擬考草稿包含選項順序與答案狀態。測試：node test-cloud.cjs。

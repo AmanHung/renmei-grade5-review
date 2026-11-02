@@ -22,7 +22,14 @@ function normalizeEvent_(e) {
   if(!e||!/^[-\w]{12,100}$/.test(String(e.id||'')))throw new Error('紀錄編號格式錯誤');
   if(!/^[-\w]{12,100}$/.test(String(e.sessionId||'')))throw new Error('練習編號格式錯誤');
   if(typeof e.learner!=='string'||!e.learner.trim()||e.learner.length>20)throw new Error('請輸入有效暱稱');
-  if(['answer','session'].indexOf(e.kind)<0)throw new Error('紀錄種類不支援');
+  if(['answer','session','state'].indexOf(e.kind)<0)throw new Error('紀錄種類不支援');
+  if(e.kind==='state'&&(!/^(read|draw|draft):[\w-]{1,100}$/.test(String(e.stateKey||''))||e.stateValue===undefined||JSON.stringify(e.stateValue).length>35000))throw new Error('學習狀態格式錯誤');
+  if(e.kind==='state'){
+    var stateType=e.stateKey.split(':')[0],value=e.stateValue;
+    if(stateType==='read'&&typeof value!=='boolean')throw new Error('閱讀狀態格式錯誤');
+    if(stateType==='draw'&&(!value||!Array.isArray(value.seen)))throw new Error('抽題狀態格式錯誤');
+    if(stateType==='draft'&&(!value||typeof value.paperId!=='string'||!Array.isArray(value.questions)||value.questions.length>100||canonicalLearner_(value.owner)!==canonicalLearner_(e.learner)))throw new Error('考卷草稿格式錯誤');
+  }
   if(!Number.isFinite(Number(e.elapsedSeconds))||Number(e.elapsedSeconds)<0)throw new Error('作答時間格式錯誤');
   if(e.kind==='answer'&&(!/^u\d{1,2}-t\d{2}-(a|b|tf|multi|match|r[1-5]|n[1-5])$/.test(String(e.questionId||''))||['single','boolean','multiple','matching','numeric','text'].indexOf(e.questionType)<0||typeof e.correct!=='boolean'))throw new Error('題目資料格式錯誤');
   if(e.kind==='session'&&(!Number.isInteger(e.total)||e.total<1||e.total>100||!Number.isInteger(e.right)||e.right<0||e.right>e.total||!validScore_(e)))throw new Error('成績格式錯誤');
@@ -42,13 +49,14 @@ function validScore_(e) {
 
 function safeCell_(value) {
   var text=value==null?'':String(value);
-  if(text.length>8000)text=text.slice(0,8000);
+  if(text.length>40000)text=text.slice(0,40000);
   // 名字或題目即使以公式符號開頭，也只當純文字保存。
   return /^\s*[=+@-]/.test(text)?"'"+text:text;
 }
 
 function eventRow_(e,now) {
-  return [Utilities.formatDate(now,'Asia/Taipei','yyyy/MM/dd HH:mm:ss'),e.learner,e.kind==='answer'?'逐題作答':'練習完成',e.sessionId,e.subject||'',e.unitName||'',e.questionId||'',e.questionType||'',e.question||'',JSON.stringify(e.selected||[]),JSON.stringify(e.expected||[]),e.kind==='answer'?(e.correct?'答對':'待複習'):'',e.kind==='session'?e.score:'',e.kind==='session'?e.right:'',e.kind==='session'?e.total:'',Math.round(Number(e.elapsedSeconds)*10)/10,e.id,e.createdAt||'',e.appVersion||''].map(safeCell_);
+  if(e.kind==='state')e={...e,questionId:e.stateKey,selected:[e.stateValue]};
+  return [Utilities.formatDate(now,'Asia/Taipei','yyyy/MM/dd HH:mm:ss'),e.learner,e.kind==='answer'?'逐題作答':e.kind==='state'?'學習狀態':'練習完成',e.sessionId,e.subject||'',e.unitName||'',e.questionId||'',e.questionType||'',e.question||'',JSON.stringify(e.selected||[]),JSON.stringify(e.expected||[]),e.kind==='answer'?(e.correct?'答對':'待複習'):'',e.kind==='session'?e.score:'',e.kind==='session'?e.right:'',e.kind==='session'?e.total:'',Math.round(Number(e.elapsedSeconds)*10)/10,e.id,e.createdAt||'',e.appVersion||''].map(safeCell_);
 }
 
 function doPost(request) {
@@ -119,7 +127,7 @@ function parentRecords_(p) {
   if(start<2||end>last||end<1||start>end+1)return {ok:false,error:'分頁範圍錯誤'};
   var count=Math.min(250,Math.max(0,end-start+1)),rows=count?sheet.getRange(start,1,count,STUDY_HEADERS.length).getValues():[];
   var array=function(v){try{var a=JSON.parse(v);return Array.isArray(a)?a:[String(v)];}catch(e){return [String(v||'')];}};
-  var events=rows.filter(function(r){return r[16]&&r[1]&&(p.includeTest==='1'||canonicalLearner_(r[1])!=='測試');}).map(function(r){return {id:String(r[16]),learner:canonicalLearner_(r[1]),kind:r[2]==='逐題作答'?'answer':'session',sessionId:String(r[3]),subject:String(r[4]),unitName:String(r[5]),questionId:String(r[6]),questionType:String(r[7]),question:String(r[8]),selected:array(r[9]),expected:array(r[10]),correct:r[11]==='答對',score:Number(r[12]),right:Number(r[13]),total:Number(r[14]),elapsedSeconds:Number(r[15]),createdAt:r[17] instanceof Date?r[17].toISOString():String(r[17]),appVersion:String(r[18])};});
+  var events=rows.filter(function(r){return r[16]&&r[1]&&(!p.learner||canonicalLearner_(r[1])===canonicalLearner_(p.learner))&&(p.includeTest==='1'||canonicalLearner_(r[1])!=='測試');}).map(function(r){return {id:String(r[16]),learner:canonicalLearner_(r[1]),kind:r[2]==='逐題作答'?'answer':r[2]==='學習狀態'?'state':'session',stateKey:r[2]==='學習狀態'?String(r[6]):undefined,stateValue:r[2]==='學習狀態'?array(r[9])[0]:undefined,sessionId:String(r[3]),subject:String(r[4]),unitName:String(r[5]),questionId:String(r[6]),questionType:String(r[7]),question:String(r[8]),selected:array(r[9]),expected:array(r[10]),correct:r[11]==='答對',score:Number(r[12]),right:Number(r[13]),total:Number(r[14]),elapsedSeconds:Number(r[15]),createdAt:r[17] instanceof Date?r[17].toISOString():String(r[17]),appVersion:String(r[18])};});
   return {ok:true,events:events,end:end,next:start+count<=end?start+count:0};
 }
 

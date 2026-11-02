@@ -43,3 +43,6 @@ const goodWeighted={...summary,id:'weighted-valid-0002',total:25,right:24,score:
 assert.equal(post({...payload,requestId:'request-weighted-good',events:[goodWeighted]}).ok,true);
 for(const bad of [{score:96},{right:25},{weights:Array(25).fill(3)},{outcomes:[true]}])assert.equal(post({...payload,requestId:'request-weighted-bad',events:[{...goodWeighted,...bad,id:'weighted-bad-'+Math.random().toString().slice(2)}]}).ok,false);
 console.log('加權實得分、作答題數、配分總和及不合法配分檢查通過。');
+
+const stateEvent={...event,id:'state-read-000001',kind:'state',stateKey:'read:u13-t1',stateValue:true};assert.equal(post({...payload,requestId:'request-state-read',events:[stateEvent]}).ok,true);assert.equal(logs.at(-1)[2],'學習狀態');assert.equal(logs.at(-1)[6],'read:u13-t1');assert.equal(logs.at(-1)[9],'[true]');assert.equal(post({...payload,requestId:'request-bad-state',events:[{...stateEvent,id:'state-bad-000001',stateValue:'yes'}]}).ok,false);
+const draftState={...stateEvent,id:'state-draft-00001',stateKey:'draft:test-paper',stateValue:{owner:'測試',paperId:'test-paper',questions:[{id:'q',options:['甲','乙'],answer:1}],answers:{q:0}}};assert.equal(post({...payload,requestId:'request-state-draft',events:[draftState]}).ok,true);assert.equal(JSON.parse(logs.at(-1)[9])[0].answers.q,0);console.log('閱讀、抽題及考卷草稿的雲端狀態格式與保存通過。');
