@@ -5,12 +5,38 @@
  const store=(key,value)=>{try{localStorage.setItem(key,JSON.stringify(value));return true;}catch{return false;}};
  const uuid=()=>crypto.randomUUID?crypto.randomUUID():Date.now().toString(36)+'-'+Math.random().toString(36).slice(2)+Math.random().toString(36).slice(2);
  const normalize=name=>String(name||'').normalize('NFC').replace(/[\u0000-\u001f\u007f]/g,'').trim().slice(0,20);
- let name=normalize(safeRead(ACTIVE,'')),sending=false,receiptNo=0;
+
+ const canonical=value=>{const n=normalize(value);return ['悠晴','晴晴','洪悠晴'].includes(n)?'悠晴':n==='言旭'?'言旭':'測試';};
+ const testMode=new URL(location.href).searchParams.get('test')==='1';
+ const prefix=n=>'little-study-v3:'+encodeURIComponent(n);
+ function migrate(){
+  const oldNames=[...new Set([...safeRead(INDEX,[]),safeRead(ACTIVE,''),'晴晴','洪悠晴'].filter(n=>typeof n==='string'&&n))];
+  for(const old of oldNames){const target=canonical(old),marker='little-study-name-merged-v1:'+encodeURIComponent(old);if(old===target||safeRead(marker,false))continue;
+   const source=prefix(old),dest=prefix(target),history=safeRead(source+':records',[]),existing=safeRead(dest+':records',[]),byId=new Map([...existing,...history].map(e=>[e.id,{...e,learner:target}]));
+   const merged=[...byId.values()].sort((a,b)=>String(a.createdAt).localeCompare(String(b.createdAt)));let ok=store(dest+':records',merged);
+   const a=safeRead(source,null),b=safeRead(dest,{version:2,read:[],attempts:{},mistakes:[],readCards:[],draws:{}});
+   if(a){const attempts={...b.attempts};for(const [id,value] of Object.entries(a.attempts||{})){const prior=attempts[id];attempts[id]=prior?{...(String(value.date)>String(prior.date)?value:prior),count:(prior.count||0)+(value.count||0),bestPct:Math.max(prior.bestPct||0,value.bestPct||0)}:value;}
+    const mistakes=new Set([...(b.mistakes||[]),...(a.mistakes||[])]);merged.filter(e=>e.kind==='answer').forEach(e=>e.correct?mistakes.delete(e.questionId):mistakes.add(e.questionId));
+    ok=store(dest,{...b,version:2,read:[...new Set([...(b.read||[]),...(a.read||[])])],readCards:[...new Set([...(b.readCards||[]),...(a.readCards||[])])],mistakes:[...mistakes],attempts,draws:{...(a.draws||{}),...(b.draws||{})}})&&ok;
+   }
+   const keys=Array.from({length:localStorage.length},(_,i)=>localStorage.key(i)).filter(k=>k&&k.startsWith(source+':mock:'));
+   for(const k of keys){const draft=safeRead(k,null);if(!draft)continue;const nextKey=dest+k.slice(source.length),prior=safeRead(nextKey,null),time=d=>d?.result?.finishedAt||d?.updatedAt||d?.startedAt||0;if(!prior||time(draft)>time(prior)){draft.owner=target;if(draft.events)draft.events=draft.events.map(e=>({...e,learner:target}));ok=store(nextKey,draft)&&ok;}}
+   if(!safeRead(dest+':grade',null)&&safeRead(source+':grade',null))ok=store(dest+':grade',safeRead(source+':grade',null))&&ok;
+   if(ok)store(marker,true);
+  }
+  store(QUEUE,safeRead(QUEUE,[]).map(e=>({...e,learner:canonical(e.learner)})));
+  store(INDEX,['悠晴','言旭','測試']);
+ }
+ migrate();
+ const previous=normalize(safeRead(ACTIVE,''));
+ let name=testMode?'測試':previous&&canonical(previous)!=='測試'?canonical(previous):'',sending=false,receiptNo=0;
+ store(ACTIVE,name);
+
  const listeners=[];
  function notify(){listeners.forEach(fn=>fn());renderBadge();}
  function key(){return 'little-study-v3:'+encodeURIComponent(name);}
- function names(){return safeRead(INDEX,[]).filter(n=>typeof n==='string'&&normalize(n));}
- function setName(value){const next=normalize(value);if(!next)return false;name=next;store(ACTIVE,name);store(INDEX,[...new Set([...names(),name])]);notify();return true;}
+ function names(){return testMode?['測試']:['悠晴','言旭'];}
+ function setName(value){const next=normalize(value);if(!names().includes(next))return false;name=next;store(ACTIVE,name);store(INDEX,['悠晴','言旭','測試']);notify();return true;}
  function outbox(){return safeRead(QUEUE,[]).filter(e=>e&&typeof e.id==='string');}
  function status(){return {configured:/^https:\/\/script\.google\.com\/macros\/s\/[\w-]+\/exec$/.test(config.gasUrl||''),pending:outbox().filter(e=>e.learner===name).length,online:navigator.onLine};}
  function renderBadge(){const el=document.querySelector('#learner-name'),sync=document.querySelector('#sync-status');if(el)el.textContent=name||'選擇學習者';if(sync){const s=status();sync.textContent=!s.configured?'紀錄保存在這台裝置':!s.online?'離線保存，連線後補傳':s.pending?`待同步 ${s.pending} 筆`:'紀錄已同步';}}
@@ -25,7 +51,7 @@
   if(!store(historyKey,[...history,...rows.filter(e=>!known.has(e.id))]))return false;
   notify();flush();return true;
  }
- function showName(){const dialog=document.querySelector('#name-dialog'),input=document.querySelector('#student-name'),form=document.querySelector('#name-form');input.value=name;document.querySelector('#name-help').textContent=name?'更換名字後，會切換到那位小朋友自己的學習紀錄。':'名字或暱稱就好，例如「晴晴」。';const recent=document.querySelector('#recent-learners');recent.replaceChildren();names().forEach(n=>{const b=document.createElement('button');b.type='button';b.className='secondary';b.textContent=n;b.onclick=()=>{input.value=n;form.requestSubmit();};recent.appendChild(b);});dialog.showModal();input.focus();form.onsubmit=e=>{e.preventDefault();if(!setName(input.value)){input.setCustomValidity('請先輸入名字或暱稱。');input.reportValidity();return;}input.setCustomValidity('');dialog.close();if(window.onLearnerChanged)window.onLearnerChanged();flush();};input.oninput=()=>input.setCustomValidity('');dialog.oncancel=e=>{if(!name)e.preventDefault();};}
+ function showName(){const dialog=document.querySelector('#name-dialog'),recent=document.querySelector('#recent-learners');document.querySelector('#name-help').textContent=testMode?'目前為測試模式，作答統一記為「測試」。':'選擇自己的名字，繼續複習。';recent.replaceChildren();names().forEach(n=>{const b=document.createElement('button');b.type='button';b.className='primary';b.textContent=n;b.onclick=()=>{if(!setName(n))return;dialog.close();if(window.onLearnerChanged)window.onLearnerChanged();flush();};recent.appendChild(b);});dialog.showModal();recent.querySelector('button')?.focus();dialog.oncancel=e=>{if(!name)e.preventDefault();};}
  document.querySelector('#change-learner').onclick=()=>{if(window.studyInProgress&&!confirm('這份練習還沒完成。已作答的紀錄會保留，要切換小朋友嗎？'))return;showName();};
  document.querySelector('#sync-now').onclick=flush;
  window.addEventListener('online',flush);setInterval(flush,60000);

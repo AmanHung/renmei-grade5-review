@@ -8,7 +8,7 @@ props.set('STUDY_SPREADSHEET_ID','test-book');vm.createContext(context);vm.runIn
 const event={id:'event-test-000001',learner:'測試學生',sessionId:'session-test-0001',kind:'answer',subject:'自然',unitName:'動物世界',questionId:'u0-t01-a',questionType:'single',question:'測試題目',selected:['測試選項'],expected:['測試答案'],correct:false,elapsedSeconds:3,createdAt:'2026-10-30T12:00:00Z',appVersion:'test'};
 const payload={schemaVersion:1,requestId:'request-test-001',events:[event]};
 const post=p=>JSON.parse(context.doPost({postData:{contents:JSON.stringify(p)}}).text);
-assert.equal(post(payload).ok,true);assert.equal(logs.length,1);assert.equal(logs[0][1],'測試學生');assert.equal(logs[0][11],'待複習');
+assert.equal(post(payload).ok,true);assert.equal(logs.length,1);assert.equal(logs[0][1],'測試');assert.equal(logs[0][11],'待複習');
 assert.equal(post(payload).ok,true);assert.equal(logs.length,1,'重送不可產生重複作答');
 const receipt=JSON.parse(context.doGet({parameter:{action:'receipt',id:payload.requestId}}).text);assert.equal(receipt.ok,true);assert.deepEqual(receipt.acceptedIds,[event.id]);assert.ok(!JSON.stringify(receipt).includes('測試學生'),'回執不公開名字');
 assert.equal(context.safeCell_('=IMPORTXML("x")').startsWith("'"),true,'必須阻擋公式注入');

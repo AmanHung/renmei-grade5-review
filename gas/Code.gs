@@ -26,6 +26,7 @@ function normalizeEvent_(e) {
   if(!Number.isFinite(Number(e.elapsedSeconds))||Number(e.elapsedSeconds)<0)throw new Error('作答時間格式錯誤');
   if(e.kind==='answer'&&(!/^u\d{1,2}-t\d{2}-(a|b|tf|multi|match|r[1-5]|n[1-5])$/.test(String(e.questionId||''))||['single','boolean','multiple','matching','numeric','text'].indexOf(e.questionType)<0||typeof e.correct!=='boolean'))throw new Error('題目資料格式錯誤');
   if(e.kind==='session'&&(!Number.isInteger(e.total)||e.total<1||e.total>100||!Number.isInteger(e.right)||e.right<0||e.right>e.total||!validScore_(e)))throw new Error('成績格式錯誤');
+  e.learner=canonicalLearner_(e.learner);
   return e;
 }
 
@@ -118,6 +119,23 @@ function parentRecords_(p) {
   if(start<2||end>last||end<1||start>end+1)return {ok:false,error:'分頁範圍錯誤'};
   var count=Math.min(250,Math.max(0,end-start+1)),rows=count?sheet.getRange(start,1,count,STUDY_HEADERS.length).getValues():[];
   var array=function(v){try{var a=JSON.parse(v);return Array.isArray(a)?a:[String(v)];}catch(e){return [String(v||'')];}};
-  var events=rows.filter(function(r){return r[16]&&r[1];}).map(function(r){return {id:String(r[16]),learner:String(r[1]),kind:r[2]==='逐題作答'?'answer':'session',sessionId:String(r[3]),subject:String(r[4]),unitName:String(r[5]),questionId:String(r[6]),questionType:String(r[7]),question:String(r[8]),selected:array(r[9]),expected:array(r[10]),correct:r[11]==='答對',score:Number(r[12]),right:Number(r[13]),total:Number(r[14]),elapsedSeconds:Number(r[15]),createdAt:r[17] instanceof Date?r[17].toISOString():String(r[17]),appVersion:String(r[18])};});
+  var events=rows.filter(function(r){return r[16]&&r[1]&&(p.includeTest==='1'||canonicalLearner_(r[1])!=='測試');}).map(function(r){return {id:String(r[16]),learner:canonicalLearner_(r[1]),kind:r[2]==='逐題作答'?'answer':'session',sessionId:String(r[3]),subject:String(r[4]),unitName:String(r[5]),questionId:String(r[6]),questionType:String(r[7]),question:String(r[8]),selected:array(r[9]),expected:array(r[10]),correct:r[11]==='答對',score:Number(r[12]),right:Number(r[13]),total:Number(r[14]),elapsedSeconds:Number(r[15]),createdAt:r[17] instanceof Date?r[17].toISOString():String(r[17]),appVersion:String(r[18])};});
   return {ok:true,events:events,end:end,next:start+count<=end?start+count:0};
+}
+
+function canonicalLearner_(name){name=String(name||'').normalize('NFC').trim();return ['悠晴','晴晴','洪悠晴'].indexOf(name)>=0?'悠晴':name==='言旭'?'言旭':'測試';}
+
+function organizeLearnerNames(){
+  var lock=LockService.getScriptLock();lock.waitLock(20000);
+  try{
+    var book=getBook_(),sheet=book.getSheetByName('作答紀錄'),count=Math.max(0,sheet.getLastRow()-1),totals={'悠晴':0,'言旭':0,'測試':0},changed=0;
+    if(!count){console.log(JSON.stringify({rows:0,changed:0,totals:totals}));return;}
+    var range=sheet.getRange(2,2,count,1),names=range.getValues();
+    var backupName='姓名整理前備份_20261102';
+    if(!book.getSheetByName(backupName))sheet.copyTo(book).setName(backupName);
+    var mapped=names.map(function(r){var n=canonicalLearner_(r[0]);totals[n]++;if(String(r[0])!==n)changed++;return [n];});
+    range.setValues(mapped);SpreadsheetApp.flush();
+    var check=range.getValues();if(check.some(function(r,i){return r[0]!==mapped[i][0];}))throw new Error('姓名整理驗證失敗');
+    console.log(JSON.stringify({rows:count,changed:changed,totals:totals,backup:backupName}));
+  }finally{lock.releaseLock();}
 }
