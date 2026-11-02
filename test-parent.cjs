@@ -13,15 +13,23 @@ assert.ok(query({token:'wrong'}).includes('"ok":false'));assert.equal(reads,0,'�
 assert.ok(query({token:'x'.repeat(32),callback:'evil()'}).includes('"ok":false'));assert.equal(reads,0);
 const parse=t=>JSON.parse(t.slice(t.indexOf('(')+1,-2));let result=parse(query({token:'x'.repeat(32),cursor:'2'}));assert.equal(result.events.length,250);assert.equal(result.next,252);assert.equal(result.end,502);assert.equal(result.events[0].correct,false);assert.equal(result.events[0].question,row[8]);result=parse(query({token:'x'.repeat(32),cursor:'502_502'}));assert.equal(result.events.length,1);assert.equal(result.next,0);assert.ok(query({token:'x'.repeat(32),cursor:'0'}).includes('"ok":false'));assert.ok(query({token:'x'.repeat(32),cursor:'2_9999'}).includes('"ok":false'));
 props.delete('STUDY_PARENT_TOKEN');assert.ok(query({token:'x'.repeat(32)}).includes('"ok":false'));
+// Shared family password is verified only by the server; leading zeroes stay strings.
+const digest=s=>require('node:crypto').createHash('sha256').update(s).digest('hex');
+ctx.Utilities={DigestAlgorithm:{SHA_256:'sha256'},Charset:{UTF_8:'utf8'},computeDigest:(_,s)=>[...require('node:crypto').createHash('sha256').update(s).digest()]};
+props.set('STUDY_PARENT_PASSWORD_HASH',digest('0123'));
+assert.equal(parse(query({token:'0123',cursor:'502_502'})).events.length,1);
+const beforeDenied=reads;assert.equal(parse(query({token:'123'})).ok,false);assert.equal(parse(query({token:'9999'})).ok,false);assert.equal(reads,beforeDenied);
+props.set('STUDY_PARENT_TOKEN','x'.repeat(32));assert.equal(parse(query({token:'x'.repeat(32)})).ok,false,'設定家長密碼後停用舊金鑰');
+props.delete('STUDY_PARENT_PASSWORD_HASH');props.delete('STUDY_PARENT_TOKEN');
 // Smoke-render the empty page and a populated report without a browser or real child data.
-const nodes=new Map(),node=id=>{if(!nodes.has(id))nodes.set(id,{value:id==='#period'?'0':'',innerHTML:'',textContent:'',querySelectorAll:()=>[],addEventListener(){},insertAdjacentHTML(){}});return nodes.get(id);};
+const nodes=new Map(),node=id=>{if(!nodes.has(id))nodes.set(id,{value:id==='#period'?'0':'',innerHTML:'',textContent:'',querySelectorAll:()=>[],addEventListener(){},insertAdjacentHTML(){},showModal(){}});return nodes.get(id);};
 const browser={window:{REVIEW_UNITS:[],REVIEW_EXAM_ITEMS:[],addEventListener(){}},ParentModel:M,document:{querySelector:node,querySelectorAll:()=>[],addEventListener(){}},setInterval(){},localStorage:{getItem:()=>null},console,Date,Map,Set,URL};vm.createContext(browser);vm.runInContext(fs.readFileSync('dist/parent.js','utf8'),browser);assert.ok(node('#report').innerHTML.includes('目前篩選條件下沒有作答紀錄'));
 browser.localStorage.getItem=k=>JSON.stringify(k==='little-study-names-v3'?['晴晴']:[a,b,c,{...a,id:'summary-1',kind:'session',right:1,total:3,score:33}]);node('#child').value='晴晴';node('#refresh').onclick();assert.ok(node('#report').innerHTML.includes('各單元複習進度'));assert.ok(node('#wrong-list').innerHTML.includes('待複習'));assert.ok(node('#sessions').innerHTML.includes('33 分'));
 console.log('家長後台通過：CSV 引號換行、紀錄去重、錯題狀態、正確率、空白與有資料畫面、家長查詢授權及快照分頁。');
 
 (async()=>{
  const store=new Map([['little-study-parent-connection-v1',JSON.stringify({token:'x'.repeat(32)})]]),nodes=new Map(),events={},timers=[];let calls=0,reply;
- const node=k=>{if(!nodes.has(k))nodes.set(k,{value:k==='#period'?'0':'晴晴',innerHTML:'',querySelectorAll:()=>[],addEventListener(){},insertAdjacentHTML(){}});return nodes.get(k);};
+ const node=k=>{if(!nodes.has(k))nodes.set(k,{value:k==='#period'?'0':'晴晴',innerHTML:'',querySelectorAll:()=>[],addEventListener(){},insertAdjacentHTML(){},showModal(){}});return nodes.get(k);};
  const w={REVIEW_UNITS:[],REVIEW_EXAM_ITEMS:[],addEventListener:(k,fn)=>events[k]=fn};
  const d={hidden:false,querySelector:node,querySelectorAll:()=>[],addEventListener:(k,fn)=>events[k]=fn,createElement:()=>({remove(){}}),head:{appendChild(script){calls++;const cb=new URL(script.src).searchParams.get('callback');reply=()=>w[cb]({ok:true,events:[a,b],end:3,next:0});}}};
  const ctx={window:w,document:d,ParentModel:M,localStorage:{getItem:k=>store.get(k)||null,setItem:(k,v)=>store.set(k,v),removeItem:k=>store.delete(k)},setInterval:fn=>timers.push(fn),setTimeout:()=>1,clearTimeout(){},Date,URL,Map,Set};w.LEARNING_CONFIG={gasUrl:'https://script.google.com/macros/s/test/exec'};

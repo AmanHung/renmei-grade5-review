@@ -48,7 +48,7 @@
  };
  $('#disconnect').onclick=()=>{
   connectionGeneration++;connectionToken='';try{localStorage.removeItem(AUTH_KEY);}catch{}
-  imported=[];cloud=[];sourceNote='已中斷自動連線並清除本裝置保存的金鑰。';$('#token').value='';$('#remember').checked=false;
+  imported=[];cloud=[];sourceNote='已中斷自動連線並清除本裝置保存的密碼。';$('#token').value='';$('#remember').checked=false;
   options();render();$('#connection').textContent=sourceNote;
  };
  window.addEventListener('storage',e=>{loadLocal();options();render();if(e.key===AUTH_KEY){const auth=read(AUTH_KEY,null);connectionGeneration++;connectionToken=auth?.token||'';if(connectionToken)syncCloud();else{cloud=[];sourceNote='自動連線已在另一分頁中斷。';options();render();}}});
@@ -56,5 +56,5 @@
  setInterval(()=>{if(connectionToken&&!document.hidden)syncCloud();},60000);
  document.addEventListener('visibilitychange',()=>{if(!document.hidden&&connectionToken)syncCloud();});
  loadLocal();options();render();
- const auth=read(AUTH_KEY,null);if(typeof auth?.token==='string'&&auth.token.length>=24){connectionToken=auth.token;$('#remember').checked=true;syncCloud();}
+ const auth=read(AUTH_KEY,null);if(typeof auth?.token==='string'&&auth.token.length>=4){connectionToken=auth.token;$('#remember').checked=true;syncCloud();}else $('#source-dialog').showModal();
 })();

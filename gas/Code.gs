@@ -106,11 +106,13 @@ function doGet(request) {
 function json_(value){return ContentService.createTextOutput(JSON.stringify(value)).setMimeType(ContentService.MimeType.JSON);}
 
 function parentRecords_(p) {
-  var expected=PropertiesService.getScriptProperties().getProperty('STUDY_PARENT_TOKEN')||'';
+  var properties=PropertiesService.getScriptProperties(),passwordHash=properties.getProperty('STUDY_PARENT_PASSWORD_HASH')||'';
+  var expected=passwordHash||properties.getProperty('STUDY_PARENT_TOKEN')||'';
   var supplied=String(p.token||'');
-  if(expected.length<24||supplied.length!==expected.length)return {ok:false,error:'家長金鑰不正確，或後端尚未設定金鑰。'};
+  if(passwordHash&&supplied.length<=128)supplied=Utilities.computeDigest(Utilities.DigestAlgorithm.SHA_256,supplied,Utilities.Charset.UTF_8).map(function(b){return ('0'+(b&255).toString(16)).slice(-2);}).join('');
+  if(expected.length<24||supplied.length!==expected.length)return {ok:false,error:'家長密碼不正確，請重新輸入。'};
   var mismatch=0;for(var i=0;i<expected.length;i++)mismatch|=expected.charCodeAt(i)^supplied.charCodeAt(i);
-  if(mismatch)return {ok:false,error:'家長金鑰不正確，或後端尚未設定金鑰。'};
+  if(mismatch)return {ok:false,error:'家長密碼不正確，請重新輸入。'};
   if(!/^\d+(?:_\d+)?$/.test(String(p.cursor||'2')))return {ok:false,error:'分頁格式錯誤'};
   var parts=String(p.cursor||'2').split('_'),start=Number(parts[0]),sheet=getBook_().getSheetByName('作答紀錄'),last=sheet.getLastRow(),end=parts.length>1?Number(parts[1]):last;
   if(start<2||end>last||end<1||start>end+1)return {ok:false,error:'分頁範圍錯誤'};
