@@ -54,7 +54,7 @@
   notify();flush();return true;
  }
 
- let cloudToken='',cloudError='';const cloudStatus=new Map(),cloudLoaded=new Set(),cloudBusy=new Set(),cloudListeners=[];
+ let cloudToken='',cloudError='';const cloudHistory=new Map(),cloudStatus=new Map(),cloudLoaded=new Set(),cloudBusy=new Set(),cloudListeners=[];
  function state(stateKey,stateValue,meta={}){log({kind:'state',stateKey,stateValue,sessionId:'state-'+uuid(),elapsedSeconds:0,grade:learnerGrade,unitName:(learnerGrade===3?'三上':'五上')+'｜學習狀態',...meta});}
  function cloudRequest(owner,cursor){return new Promise((resolve,reject)=>{const cb='studyParent_'+Date.now()+'_'+(++receiptNo),script=document.createElement('script'),cleanup=()=>{clearTimeout(timer);script.remove();delete window[cb];},timer=setTimeout(()=>{cleanup();reject(Error('雲端查詢逾時'));},30000);window[cb]=r=>{cleanup();r.ok&&Array.isArray(r.events)?resolve(r):reject(Error(r.error||'請重新登入'));};script.onerror=()=>{cleanup();reject(Error('雲端連線失敗'));};const url=new URL(config.gasUrl);url.searchParams.set('action','parent');url.searchParams.set('callback',cb);url.searchParams.set('token',cloudToken);url.searchParams.set('learner',owner);url.searchParams.set('cursor',cursor);if(owner==='測試')url.searchParams.set('includeTest','1');script.src=url.href;script.referrerPolicy='no-referrer';document.head.appendChild(script);});}
  async function syncCloud(){
@@ -62,7 +62,7 @@
   try{let cursor=2,end,rows=[];do{const r=await cloudRequest(owner,cursor+(end?'_'+end:''));rows=window.ParentModel.merge(rows,r.events);end=r.end;const next=Number(r.next);if(next&&next<=cursor)throw Error('雲端分頁錯誤');cursor=next;}while(cursor);
    const localKey=prefix(owner)+':records',local=safeRead(localKey,[]),known=new Set(rows.map(e=>e.id)),missing=local.filter(e=>!known.has(e.id)),queued=new Set(outbox().map(e=>e.id));
    if(missing.length)store(QUEUE,[...outbox(),...missing.filter(e=>!queued.has(e.id))]);
-   const merged=window.ParentModel.merge(rows,local);store(localKey,merged);cloudStatus.set(owner,'ready');cloudLoaded.add(owner);cloudError='';
+   const merged=window.ParentModel.merge(rows,local);cloudHistory.set(owner,merged);store(localKey,merged);cloudStatus.set(owner,'ready');cloudLoaded.add(owner);cloudError='';
    cloudListeners.forEach(fn=>fn(owner,merged));if(missing.length&&!sending)flush();
   }catch(error){cloudError=error.message;cloudStatus.set(owner,'error');}finally{cloudBusy.delete(owner);renderBadge();}
  }
@@ -73,6 +73,6 @@
  document.querySelector('#toggle-test').onclick=toggleTest;
  document.querySelector('#sync-now').onclick=async()=>{await flush();if(cloudToken)syncCloud();else document.querySelector('#cloud-login').showModal();};
  window.addEventListener('online',()=>{flush();if(cloudToken)syncCloud();});setInterval(()=>{flush();if(cloudToken&&!document.hidden)syncCloud();},60000);
- window.Learner={getName:()=>name,key,names,selectGrade,getGrade:()=>learnerGrade,isTest:()=>testMode,log,logBatch,status,flush,uuid,onChange:fn=>listeners.push(fn),records:()=>safeRead(key()+':records',[]),state,connectCloud,syncCloud,onCloud:fn=>cloudListeners.push(fn)};
+ window.Learner={getName:()=>name,key,names,selectGrade,getGrade:()=>learnerGrade,isTest:()=>testMode,log,logBatch,status,flush,uuid,onChange:fn=>listeners.push(fn),records:()=>cloudHistory.has(name)?window.ParentModel.merge(cloudHistory.get(name),safeRead(key()+':records',[])):safeRead(key()+':records',[]),state,connectCloud,syncCloud,onCloud:fn=>cloudListeners.push(fn)};
  renderBadge();flush();
 })();

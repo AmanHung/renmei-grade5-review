@@ -53,7 +53,7 @@ function renderRecords(){const records=Learner.records().filter(e=>gradeOfRecord
 Learner.onCloud((owner,records)=>{
  if(owner!==Learner.getName())return;
  const latest=new Map(),answered=new Map();records.forEach(e=>{if(e.kind==='state')latest.set(e.stateKey,e);if(e.kind==='answer')answered.set(e.questionId,e);});
- const importedKey=Learner.key()+':cloud-import-v1';if(!localStorage.getItem(importedKey)){for(const id of saved.readCards)if(!latest.has('read:'+id))Learner.state('read:'+id,true);for(const [id,value] of Object.entries(saved.draws))if(!latest.has('draw:'+id))Learner.state('draw:'+id,value);localStorage.setItem(importedKey,'1');}
+ const importedKey=Learner.key()+':cloud-import-v1';if(!localStorage.getItem(importedKey)){for(const id of saved.readCards)if(!latest.has('read:'+id))Learner.state('read:'+id,true);for(const [id,value] of Object.entries(saved.draws))if(!latest.has('draw:'+id))Learner.state('draw:'+id,value);try{localStorage.setItem(importedKey,'1');}catch{}}
  for(const [stateKey,e] of latest){if(stateKey.startsWith('read:')){const id=stateKey.slice(5);saved.readCards=saved.readCards.filter(c=>c!==id);if(e.stateValue===true)saved.readCards.push(id);}if(stateKey.startsWith('draw:'))saved.draws[stateKey.slice(5)]=e.stateValue;}
  saved.mistakes=[...answered.values()].filter(e=>e.correct===false).map(e=>e.questionId);
  for(const u of selectedUnits()){const sessions=records.filter(e=>e.kind==='session'&&e.unitName===gradeLabel(u.grade)+'｜'+u.name);if(sessions.length){const last=sessions.at(-1);saved.attempts[u.id]={count:sessions.length,last:last.right,total:last.total,bestPct:Math.max(...sessions.map(e=>e.score)),date:last.createdAt};}syncRead(u.id);}
