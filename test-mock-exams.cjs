@@ -9,8 +9,8 @@ for(const p of papers){
  assert.equal(p.entries.length,p.count);assert.equal(p.entries.reduce((n,e)=>n+e.points,0),100);assert.equal(new Set(p.entries.map(e=>e.questionId)).size,p.count);
  assert.equal(p.sections.length,3);assert.equal(p.sections.reduce((n,s)=>n+s.points,0),100);assert.ok(new Set(p.entries.map(e=>e.points)).size>1);
  const expected=units.filter(u=>u.active!==false&&u.grade===p.grade&&u.subject===p.subject);assert.equal(p.coverage.length,expected.length);
- const d=M.create(p,bank,'測試學生',()=>`session-mock-${++number}`,()=>.37);
- assert.equal(M.compatible(d,p,'測試學生'),true);assert.equal(M.compatible(d,p,'另一位'),false);assert.equal(M.compatible(d,{...p,signature:'new-version'},'測試學生'),false);
+ const d=M.create(p,bank,'測試',()=>`session-mock-${++number}`,()=>.37);
+ assert.equal(M.compatible(d,p,'測試'),true);assert.equal(M.compatible(d,p,'另一位'),false);assert.equal(M.compatible(d,{...p,signature:'new-version'},'測試'),false);
  assert.equal(M.missing(d).length,p.count);assert.throws(()=>M.grade(d),/整份/);assert.equal(d.result,null);
  for(const q of d.questions){assert.equal(units[q.unit].grade,p.grade);assert.equal(units[q.unit].subject,p.subject);assert.ok(q.sourceIds?.length);assert.ok(['single','numeric','boolean','text'].includes(q.type));d.answers[q.id]=q.type==='numeric'?String(q.answer).replace(/\d/g,c=>String.fromCharCode(c.charCodeAt(0)+65248)):q.answer;}
  const last=d.questions.at(-1),held=d.answers[last.id];delete d.answers[last.id];assert.throws(()=>M.grade(d),/整份/);d.answers[last.id]=held;
@@ -20,9 +20,9 @@ for(const p of papers){
  const low=d.questions[0],high=d.questions.find(q=>q.points!==low.points);d.answers[low.id]=wrong(low);d.answers[high.id]=wrong(high);
  const expectedScore=100-low.points-high.points;
  assert.equal(M.grade(d).score,expectedScore);assert.equal(M.grade(d).right,p.count-2);
- const restored=JSON.parse(JSON.stringify(d));assert.equal(M.compatible(restored,p,'測試學生'),true);assert.deepEqual(restored.questions.map(q=>q.options||null),JSON.parse(JSON.stringify(d.questions.map(q=>q.options||null))));assert.equal(M.grade(restored).score,expectedScore);
+ const restored=JSON.parse(JSON.stringify(d));assert.equal(M.compatible(restored,p,'測試'),true);assert.deepEqual(restored.questions.map(q=>q.options||null),JSON.parse(JSON.stringify(d.questions.map(q=>q.options||null))));assert.equal(M.grade(restored).score,expectedScore);
  d.result=M.grade(d);d.questions.forEach(q=>d.answers[q.id]=q.answer);assert.equal(M.grade(d).score,expectedScore);
- const zero=M.create(p,bank,'測試學生',()=>`session-zero-${++number}`);zero.questions.forEach(q=>zero.answers[q.id]=wrong(q));assert.equal(M.grade(zero).score,0);
+ const zero=M.create(p,bank,'測試',()=>`session-zero-${++number}`);zero.questions.forEach(q=>zero.answers[q.id]=wrong(q));assert.equal(M.grade(zero).score,0);
  const groups=E.readingGroups(d.questions);for(const g of groups){const indices=g.map(q=>d.questions.indexOf(q));assert.equal(Math.max(...indices)-Math.min(...indices)+1,g.length);}
  if(p.subject==='數學'){assert.ok(p.coverage.every(c=>c.count>0&&c.points>0));if(p.grade===3){assert.equal(p.coverage.length,4);assert.ok(d.questions.every(q=>q.unit!==21));}else assert.ok(p.coverage.every(c=>c.count===5&&c.points===20));assert.ok(d.questions.some(q=>q.type==='numeric'));assert.equal(new Set(d.questions.map(q=>q.family||q.id)).size,p.count);}
  else assert.ok(p.readingCount===20);
@@ -32,9 +32,9 @@ for(const p of papers){
 }
 // 測試真實 Learner 的批次暫存：只有交卷才呼叫，穩定 ID 重試不重複。
 const storage=new Map(),elements=new Map();for(const id of ['#change-learner','#sync-now','#learner-name','#sync-status'])elements.set(id,{});
-storage.set('little-study-active-v3',JSON.stringify('測試學生'));
-const c={window:{LEARNING_CONFIG:{}},localStorage:{getItem:k=>storage.get(k)??null,setItem:(k,v)=>storage.set(k,v)},crypto:{randomUUID:()=>`uuid-mock-${++number}`},navigator:{onLine:false},document:{querySelector:s=>elements.get(s)},setInterval(){},alert(){},console,Date,JSON,URL};c.window.addEventListener=()=>{};vm.createContext(c);vm.runInContext(fs.readFileSync('dist/learner.js','utf8'),c);
-const rows=Array.from({length:21},(_,i)=>({id:`mock-stable-${i}`,learner:'測試學生',kind:i===20?'session':'answer'}));
+storage.set('little-study-active-v3',JSON.stringify('測試'));
+const c={location:{href:'https://example.test/?test=1'},window:{LEARNING_CONFIG:{}},localStorage:{getItem:k=>storage.get(k)??null,setItem:(k,v)=>storage.set(k,v)},crypto:{randomUUID:()=>`uuid-mock-${++number}`},navigator:{onLine:false},document:{querySelector:s=>elements.get(s)},setInterval(){},alert(){},console,Date,JSON,URL};c.window.addEventListener=()=>{};vm.createContext(c);vm.runInContext(fs.readFileSync('dist/learner.js','utf8'),c);
+const rows=Array.from({length:21},(_,i)=>({id:`mock-stable-${i}`,learner:'測試',kind:i===20?'session':'answer'}));
 assert.equal(c.window.Learner.records().length,0);assert.equal(c.window.Learner.logBatch(rows),true);assert.equal(c.window.Learner.records().length,21);assert.equal(c.window.Learner.logBatch(rows),true);assert.equal(c.window.Learner.records().length,21);assert.equal(JSON.parse(storage.get('little-study-outbox-v3')).length,21);assert.equal(c.window.Learner.logBatch([{...rows[0],learner:'另一位'}]),false);
 // 模擬已收到回執，重載重試不得再次將已保存事件排入同步。
 storage.set('little-study-outbox-v3','[]');assert.equal(c.window.Learner.logBatch(rows),true);assert.equal(JSON.parse(storage.get('little-study-outbox-v3')).length,0);
