@@ -1,7 +1,7 @@
 'use strict';
 let activeGrade=5;
 function gradeLabel(grade){return Number(grade)===3?'三上':'五上';}
-function loadGrade(initial=false){try{const parameter=new URL(location.href).searchParams.get('grade'),stored=localStorage.getItem(Learner.key()+':grade');if(initial&&['3','5'].includes(parameter))activeGrade=Number(parameter);else if(['3','5'].includes(stored))activeGrade=Number(stored);}catch{}}
+function loadGrade(initial=false){if(typeof Learner.getGrade==='function'){activeGrade=Learner.getGrade();return;}try{const parameter=new URL(location.href).searchParams.get('grade'),stored=localStorage.getItem(Learner.key()+':grade');if(initial&&['3','5'].includes(parameter))activeGrade=Number(parameter);else if(['3','5'].includes(stored))activeGrade=Number(stored);}catch{}}
 function selectedUnits(){return units.filter(u=>u.grade===activeGrade&&u.active!==false);}
 function gradeMistakeCount(){const ids=new Set([...selectedUnits().flatMap(u=>u.questions.map(q=>q.id)),...(typeof window!=='undefined'?window.REVIEW_EXAM_ITEMS||[]:[]).filter(q=>units[q.unit].active!==false&&units[q.unit].grade===activeGrade).map(q=>q.id)]);return saved.mistakes.filter(id=>ids.has(id)).length;}
 function gradeOfRecord(e){return Number(e.grade)===3||String(e.unitName||'').startsWith('三上｜')?3:5;}
@@ -10,8 +10,8 @@ function renderGradePicker(){
  try{if(Learner.getName())localStorage.setItem(Learner.key()+':grade',String(activeGrade));}catch{}
  try{const url=new URL(location.href);url.searchParams.set('grade',String(activeGrade));history.replaceState(null,'',url);}catch{}
  const picker=document.querySelector('#grade-picker');
- picker.innerHTML='<span>選擇年級</span>'+[3,5].map(g=>`<button type="button" data-grade="${g}" aria-pressed="${g===activeGrade}" class="${g===activeGrade?'selected':''}">${g===3?'三':'五'}年級上學期</button>`).join('');
- picker.querySelectorAll('[data-grade]').forEach(b=>b.onclick=()=>{const next=Number(b.dataset.grade);if(next===activeGrade)return;if(window.studyInProgress&&!confirm('切換年級會離開目前未完成的練習。已送出的作答與紀錄會保留，確定切換嗎？'))return;activeGrade=next;try{localStorage.setItem(Learner.key()+':grade',String(next));}catch{}filter='全部';go('home');});
+ picker.innerHTML='<span>選擇年級</span>'+[3,5].map(g=>`<button type="button" data-grade="${g}" aria-pressed="${g===activeGrade}" class="${g===activeGrade?'selected':''}">${g===3?'三年級上學期・言旭':'五年級上學期・悠晴'}</button>`).join('');
+ picker.querySelectorAll('[data-grade]').forEach(b=>b.onclick=()=>{const next=Number(b.dataset.grade);if(next===activeGrade)return;if(window.studyInProgress&&!confirm('切換年級會離開目前未完成的練習。已送出的作答與紀錄會保留，確定切換嗎？'))return;activeGrade=next;if(typeof Learner.selectGrade==='function'){Learner.selectGrade(next);window.onLearnerChanged();return;}try{localStorage.setItem(Learner.key()+':grade',String(next));}catch{}filter='全部';go('home');});
  document.querySelector('.semester').innerHTML=(activeGrade===3?'三':'五')+'年級・上學期<span>依各科選用版本</span>';
  document.querySelector('.side-bottom').innerHTML='仁美國小・'+gradeLabel(activeGrade)+'複習<br><span>115 學年度</span>';
 }

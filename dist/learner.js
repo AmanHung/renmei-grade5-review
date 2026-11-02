@@ -7,7 +7,9 @@
  const normalize=name=>String(name||'').normalize('NFC').replace(/[\u0000-\u001f\u007f]/g,'').trim().slice(0,20);
 
  const canonical=value=>{const n=normalize(value);return ['悠晴','晴晴','洪悠晴'].includes(n)?'悠晴':n==='言旭'?'言旭':'測試';};
- const testMode=new URL(location.href).searchParams.get('test')==='1';
+ let testMode=new URL(location.href).searchParams.get('test')==='1';
+ const requestedGrade=new URL(location.href).searchParams.get('grade');
+ let learnerGrade=['3','5'].includes(requestedGrade)?Number(requestedGrade):Number(safeRead('little-study-active-grade-v1',5));if(![3,5].includes(learnerGrade))learnerGrade=5;
  const prefix=n=>'little-study-v3:'+encodeURIComponent(n);
  function migrate(){
   const oldNames=[...new Set([...safeRead(INDEX,[]),safeRead(ACTIVE,''),'晴晴','洪悠晴'].filter(n=>typeof n==='string'&&n))];
@@ -28,18 +30,18 @@
   store(INDEX,['悠晴','言旭','測試']);
  }
  migrate();
- const previous=normalize(safeRead(ACTIVE,''));
- let name=testMode?'測試':previous&&canonical(previous)!=='測試'?canonical(previous):'',sending=false,receiptNo=0;
+ let name=testMode?'測試':learnerGrade===3?'言旭':'悠晴',sending=false,receiptNo=0;
  store(ACTIVE,name);
 
  const listeners=[];
  function notify(){listeners.forEach(fn=>fn());renderBadge();}
  function key(){return 'little-study-v3:'+encodeURIComponent(name);}
  function names(){return testMode?['測試']:['悠晴','言旭'];}
- function setName(value){const next=normalize(value);if(!names().includes(next))return false;name=next;store(ACTIVE,name);store(INDEX,['悠晴','言旭','測試']);notify();return true;}
+ function selectGrade(value){if(![3,5].includes(Number(value)))return false;learnerGrade=Number(value);name=testMode?'測試':learnerGrade===3?'言旭':'悠晴';store(ACTIVE,name);store('little-study-active-grade-v1',learnerGrade);store(INDEX,['悠晴','言旭','測試']);notify();return true;}
+ function toggleTest(){if(window.studyInProgress&&!confirm('切換測試模式會離開目前練習，已作答紀錄會保留，確定切換嗎？'))return;testMode=!testMode;const url=new URL(location.href);if(testMode)url.searchParams.set('test','1');else url.searchParams.delete('test');history.replaceState(null,'',url);selectGrade(learnerGrade);if(window.onLearnerChanged)window.onLearnerChanged();flush();}
  function outbox(){return safeRead(QUEUE,[]).filter(e=>e&&typeof e.id==='string');}
  function status(){return {configured:/^https:\/\/script\.google\.com\/macros\/s\/[\w-]+\/exec$/.test(config.gasUrl||''),pending:outbox().filter(e=>e.learner===name).length,online:navigator.onLine};}
- function renderBadge(){const el=document.querySelector('#learner-name'),sync=document.querySelector('#sync-status');if(el)el.textContent=name||'選擇學習者';if(sync){const s=status();sync.textContent=!s.configured?'紀錄保存在這台裝置':!s.online?'離線保存，連線後補傳':s.pending?`待同步 ${s.pending} 筆`:'紀錄已同步';}}
+ function renderBadge(){const toggle=document.querySelector('#toggle-test');if(toggle){toggle.textContent=testMode?'退出測試模式':'切換成測試者';toggle.setAttribute?.('aria-pressed',String(testMode));}const el=document.querySelector('#learner-name'),sync=document.querySelector('#sync-status');if(el)el.textContent=name||'選擇學習者';if(sync){const s=status();sync.textContent=!s.configured?'紀錄保存在這台裝置':!s.online?'離線保存，連線後補傳':s.pending?`待同步 ${s.pending} 筆`:'紀錄已同步';}}
  function receipt(id){return new Promise((resolve,reject)=>{const cb='studyReceipt_'+Date.now()+'_'+(++receiptNo),script=document.createElement('script');const cleanup=()=>{clearTimeout(timer);delete window[cb];script.remove();};const timer=setTimeout(()=>{cleanup();reject(Error('回執逾時'));},15000);window[cb]=result=>{cleanup();resolve(result);};script.onerror=()=>{cleanup();reject(Error('無法讀取回執'));};const url=new URL(config.gasUrl);url.searchParams.set('action','receipt');url.searchParams.set('id',id);url.searchParams.set('callback',cb);script.src=url.href;document.head.appendChild(script);});}
  async function flush(){if(sending||!status().configured||!navigator.onLine)return;sending=true;try{while(true){const rows=outbox().slice(0,10);if(!rows.length)break;const requestId=uuid();await fetch(config.gasUrl,{method:'POST',mode:'no-cors',credentials:'omit',headers:{'Content-Type':'text/plain;charset=utf-8'},body:JSON.stringify({schemaVersion:1,requestId,events:rows})});let ack=null;for(let i=0;i<3;i++){ack=await receipt(requestId);if(ack.ok)break;await new Promise(r=>setTimeout(r,1000*(i+1)));}if(!ack?.ok)throw Error('尚未收到寫入回執');const accepted=new Set(ack.acceptedIds||[]);if(!rows.every(e=>accepted.has(e.id)))throw Error('部分紀錄尚未確認');store(QUEUE,outbox().filter(e=>!accepted.has(e.id)));notify();}}catch{renderBadge();}finally{sending=false;}}
  function log(event){if(!name)return;const record={...event,id:uuid(),learner:name,createdAt:new Date().toISOString(),appVersion:config.appVersion||'3.0.0'};const historyKey=key()+':records';const history=safeRead(historyKey,[]);if(!store(historyKey,[...history,record]))alert('裝置儲存空間不足，請請家長協助匯出紀錄。');const queue=outbox();if(!store(QUEUE,[...queue,record]))alert('這筆紀錄暫時無法排入同步，請保持頁面並請家長協助。');notify();flush();}
@@ -51,10 +53,9 @@
   if(!store(historyKey,[...history,...rows.filter(e=>!known.has(e.id))]))return false;
   notify();flush();return true;
  }
- function showName(){const dialog=document.querySelector('#name-dialog'),recent=document.querySelector('#recent-learners');document.querySelector('#name-help').textContent=testMode?'目前為測試模式，作答統一記為「測試」。':'選擇自己的名字，繼續複習。';recent.replaceChildren();names().forEach(n=>{const b=document.createElement('button');b.type='button';b.className='primary';b.textContent=n;b.onclick=()=>{if(!setName(n))return;dialog.close();if(window.onLearnerChanged)window.onLearnerChanged();flush();};recent.appendChild(b);});dialog.showModal();recent.querySelector('button')?.focus();dialog.oncancel=e=>{if(!name)e.preventDefault();};}
- document.querySelector('#change-learner').onclick=()=>{if(window.studyInProgress&&!confirm('這份練習還沒完成。已作答的紀錄會保留，要切換小朋友嗎？'))return;showName();};
+ document.querySelector('#toggle-test').onclick=toggleTest;
  document.querySelector('#sync-now').onclick=flush;
  window.addEventListener('online',flush);setInterval(flush,60000);
- window.Learner={getName:()=>name,key,names,showName,log,logBatch,status,flush,uuid,onChange:fn=>listeners.push(fn),records:()=>safeRead(key()+':records',[])};
- renderBadge();if(!name)showName();else flush();
+ window.Learner={getName:()=>name,key,names,selectGrade,getGrade:()=>learnerGrade,isTest:()=>testMode,log,logBatch,status,flush,uuid,onChange:fn=>listeners.push(fn),records:()=>safeRead(key()+':records',[])};
+ renderBadge();flush();
 })();

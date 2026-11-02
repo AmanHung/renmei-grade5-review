@@ -31,7 +31,7 @@ for(const p of papers){
  console.log(p.title+'：'+p.count+'題／100分；範圍、分大題、不同配分、完整送出、0分100分及名字隔離通過。');
 }
 // 測試真實 Learner 的批次暫存：只有交卷才呼叫，穩定 ID 重試不重複。
-const storage=new Map(),elements=new Map();for(const id of ['#change-learner','#sync-now','#learner-name','#sync-status'])elements.set(id,{});
+const storage=new Map(),elements=new Map();for(const id of ['#toggle-test','#sync-now','#learner-name','#sync-status'])elements.set(id,{});
 storage.set('little-study-active-v3',JSON.stringify('測試'));
 const c={location:{href:'https://example.test/?test=1'},window:{LEARNING_CONFIG:{}},localStorage:{getItem:k=>storage.get(k)??null,setItem:(k,v)=>storage.set(k,v)},crypto:{randomUUID:()=>`uuid-mock-${++number}`},navigator:{onLine:false},document:{querySelector:s=>elements.get(s)},setInterval(){},alert(){},console,Date,JSON,URL};c.window.addEventListener=()=>{};vm.createContext(c);vm.runInContext(fs.readFileSync('dist/learner.js','utf8'),c);
 const rows=Array.from({length:21},(_,i)=>({id:`mock-stable-${i}`,learner:'測試',kind:i===20?'session':'answer'}));
