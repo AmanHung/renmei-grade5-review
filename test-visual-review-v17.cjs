@@ -8,5 +8,6 @@ for(const q of target){assert.equal(q.visual.kind,'auditSyringes');assert.equal(
 for(const q of all.filter(q=>q.visual?.kind?.startsWith('audit'))){const h=W.LearningVisuals.markup(q);assert.ok(h.includes('<svg'),q.id);assert.ok(!/NaN|undefined|Infinity/.test(h),q.id);assert.ok(!h.includes('<image'),q.id);}
 for(const kind of ['auditCupAir','auditLeaves','auditSyringes','auditMirrorRay','auditDrinkOrders','auditFruitInventory','auditNoticeChange','auditLandform'])assert.ok(all.some(q=>q.visual?.kind===kind),kind);
 for(const q of all.filter(q=>q.visual?.kind==='overlapStrips'&&q.visualReview.version===17))assert.ok(q.visual.overlap<q.visual.a&&q.visual.overlap<q.visual.b);
+const cup=W.AuditDiagrams.draw({kind:'auditCupAir'}).body;assert.ok(cup.includes('y1="-35"'));assert.ok(cup.includes('fill="#a8d9e8"'));
 assert.throws(()=>W.AuditDiagrams.draw({kind:'auditUnsupported'}));
 console.log('PASS v17 visual review: '+all.length+' records; apparatus and subject-specific diagrams verified.');
