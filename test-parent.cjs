@@ -41,3 +41,9 @@ console.log('家長後台通過：CSV 引號換行、紀錄去重、錯題狀態
  node('#refresh').onclick();assert.equal(calls,3,'更新按鈕須重新讀取雲端');node('#disconnect').onclick();assert.equal(store.has('little-study-parent-connection-v1'),false);reply();await new Promise(r=>setImmediate(r));assert.ok(node('#status').textContent.includes('雲端 0 筆'),'中斷後不可被舊請求填回資料');timers[0]();assert.equal(calls,3);
  console.log('自動連線通過：開啟即讀取、定時更新、防重複連線、手動刷新及中斷後取消舊結果。');
 })().catch(e=>{console.error(e);process.exitCode=1;});
+
+// 單元錯題以題庫單元 ID 篩選；同一張跨單元模擬考也不得混入其他單元或已再答對的題目。
+const unitBank=new Map([['wrong-0',{unit:0}],['wrong-1',{unit:1}],['recovered-0',{unit:0}],['right-0',{unit:0}]]);
+const unitEvents=[['wrong-0',false],['wrong-1',false],['recovered-0',false],['right-0',true],['recovered-0',true],['wrong-0',false]].map(([questionId,correct],i)=>({...a,id:'unit-'+i,questionId,correct,unitName:'同一張跨單元模擬考',createdAt:'2026-11-02T00:00:0'+i+'Z'}));
+const wrongInZero=M.wrongForUnit(M.summary(unitEvents),0,unitBank);assert.deepEqual(wrongInZero.map(w=>w.latest.questionId),['wrong-0']);assert.equal(wrongInZero[0].count,2);assert.equal(wrongInZero[0].latest.correct,false);assert.deepEqual(M.wrongForUnit(M.summary(unitEvents),9,unitBank),[]);
+console.log('單元錯題通過：依單元 ID 過濾跨單元考卷，只顯示待複習錯題，排除答對與已再答對題目。');
