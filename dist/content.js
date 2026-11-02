@@ -144,7 +144,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u0-t51-a",
         "topic": 200,
@@ -160,7 +159,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "外形與周遭樹枝相似，能減少被天敵辨識的機會，屬於擬態。",
-        "libraryKey": "u0-t201-a"
+        "libraryKey": "u0-t201-a",
+        "visual": {
+          "kind": "auditCamouflage",
+          "caption": "枝條與竹節蟲外形比較",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "竹節蟲的外形像樹枝。這種外形主要如何幫助牠生存？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 0,
+          "conceptIndex": 0,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 0,
@@ -173,7 +188,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u0-t52-a",
         "topic": 201,
@@ -189,7 +203,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "假裝受傷吸引掠食者跟隨，可使牠遠離卵或雛鳥。",
-        "libraryKey": "u0-t202-a"
+        "libraryKey": "u0-t202-a",
+        "visual": {
+          "kind": "auditAnimalDefense",
+          "caption": "動物自保行為示意",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "小環頸鴴在巢附近假裝受傷，並往遠離巢的方向移動。這個行為的主要作用是什麼？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 0,
+          "conceptIndex": 1,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 0,
@@ -202,7 +232,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u0-t53-a",
         "topic": 202,
@@ -218,7 +247,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "不同食物需要不同處理方式；臼齒磨碎食物，尖銳犬齒有助撕裂肉類。",
-        "libraryKey": "u0-t203-a"
+        "libraryKey": "u0-t203-a",
+        "visual": {
+          "kind": "auditTeeth",
+          "caption": "門齒、犬齒與臼齒的形狀",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "比較馬與老虎的牙齒，哪個配對符合牠們處理食物的需要？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 0,
+          "conceptIndex": 2,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 0,
@@ -247,7 +292,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "貓與鯨都是哺乳類，以胎生方式繁殖；棲息在水中並不表示一定卵生。",
-        "libraryKey": "u0-t204-a"
+        "libraryKey": "u0-t204-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 0,
@@ -260,7 +310,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u0-t55-a",
         "topic": 204,
@@ -276,7 +325,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "判斷社會性分工要看是否共同生活並分擔工作，不能只數個體。",
-        "libraryKey": "u0-t205-a"
+        "libraryKey": "u0-t205-a",
+        "visual": {
+          "kind": "auditAntJobs",
+          "caption": "蟻群角色及工作",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "蜜蜂各自負責採集、照顧幼蟲或產卵。與一群鳥停在樹上相比，這項紀錄最能顯示什麼？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 0,
+          "conceptIndex": 4,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 0,
@@ -305,7 +370,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "子代會有來自親代的特徵，但同胎個體不必完全相同，也不能由一個特徵推論全部。",
-        "libraryKey": "u0-t206-a"
+        "libraryKey": "u0-t206-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 0,
@@ -318,7 +388,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u0-t57-a",
         "topic": 206,
@@ -334,7 +403,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "狗可藉喘氣幫助散熱；蜥蜴主要依靠外界熱源調節體溫。",
-        "libraryKey": "u0-t207-a"
+        "libraryKey": "u0-t207-a",
+        "visual": {
+          "kind": "auditThermoregulation",
+          "caption": "散熱與獲取外界熱量",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "狗在炎熱時吐舌喘氣；蜥蜴在清晨到有陽光的地方活動。兩者分別主要在做什麼？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 0,
+          "conceptIndex": 6,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 0,
@@ -363,7 +448,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "要研究溝通，應記錄可能的訊息方式與其他個體的反應，並避免把推測當成已證實原因。",
-        "libraryKey": "u0-t208-a"
+        "libraryKey": "u0-t208-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 0,
@@ -390,7 +480,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 1,
         "explanation": "是否分工要看共同生活與工作安排，聚集本身不足以判定。",
-        "libraryKey": "u0-t209-a"
+        "libraryKey": "u0-t209-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 0,
@@ -417,7 +512,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "親代與子代有遺傳關係，但子代彼此不必完全相同。",
-        "libraryKey": "u0-t210-a"
+        "libraryKey": "u0-t210-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 0,
@@ -430,7 +530,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u0-t61-a",
         "topic": 210,
@@ -453,7 +552,23 @@ window.REVIEW_UNITS=[
           ]
         ],
         "explanation": "門齒：切斷食物；犬齒：有助撕裂肉類；臼齒：磨碎食物。",
-        "libraryKey": "u0-t211-a"
+        "libraryKey": "u0-t211-a",
+        "visual": {
+          "kind": "auditTeeth",
+          "caption": "門齒、犬齒與臼齒的形狀",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "請把三個項目配上最合適的說明。",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 0,
+          "conceptIndex": 10,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 0,
@@ -485,7 +600,12 @@ window.REVIEW_UNITS=[
           1
         ],
         "explanation": "體色和活動時間可能與生存環境有關；工具品牌與檔名不是動物適應特徵。",
-        "libraryKey": "u0-t212-a"
+        "libraryKey": "u0-t212-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "id": "u0-t63-r1",
@@ -519,9 +639,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u0-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditAnimalDefense",
+          "caption": "三種自保方式",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -541,9 +661,20 @@ window.REVIEW_UNITS=[
                 "外形與枝條相似"
               ]
             ]
-          }
+          },
+          "sceneText": "〈溪邊的觀察紀錄〉哪種動物的外形與環境相似？",
+          "articleTitle": "溪邊的觀察紀錄",
+          "articleText": "",
+          "unitId": 0,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u0-t221-r1"
+        "libraryKey": "u0-t221-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "比較假傷引離巢區、斷尾與枝條擬態，不以表格代替動物外形。"
+        }
       },
       {
         "id": "u0-t63-r2",
@@ -577,9 +708,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u0-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditAnimalDefense",
+          "caption": "三種自保方式",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -599,9 +730,20 @@ window.REVIEW_UNITS=[
                 "外形與枝條相似"
               ]
             ]
-          }
+          },
+          "sceneText": "〈溪邊的觀察紀錄〉小環頸鴴往遠處移動，主要可能保護什麼？",
+          "articleTitle": "溪邊的觀察紀錄",
+          "articleText": "",
+          "unitId": 0,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u0-t221-r2"
+        "libraryKey": "u0-t221-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "比較假傷引離巢區、斷尾與枝條擬態，不以表格代替動物外形。"
+        }
       },
       {
         "id": "u0-t63-r3",
@@ -635,9 +777,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u0-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditAnimalDefense",
+          "caption": "三種自保方式",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -657,9 +799,20 @@ window.REVIEW_UNITS=[
                 "外形與枝條相似"
               ]
             ]
-          }
+          },
+          "sceneText": "〈溪邊的觀察紀錄〉「小環頸鴴一定受傷了」為什麼不能直接由紀錄確定？",
+          "articleTitle": "溪邊的觀察紀錄",
+          "articleText": "",
+          "unitId": 0,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u0-t221-r3"
+        "libraryKey": "u0-t221-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "比較假傷引離巢區、斷尾與枝條擬態，不以表格代替動物外形。"
+        }
       },
       {
         "id": "u0-t63-r4",
@@ -693,9 +846,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u0-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditAnimalDefense",
+          "caption": "三種自保方式",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -715,9 +868,20 @@ window.REVIEW_UNITS=[
                 "外形與枝條相似"
               ]
             ]
-          }
+          },
+          "sceneText": "〈溪邊的觀察紀錄〉壁虎斷尾後離開，主要利用哪個線索分散威脅者的注意？",
+          "articleTitle": "溪邊的觀察紀錄",
+          "articleText": "",
+          "unitId": 0,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u0-t221-r4"
+        "libraryKey": "u0-t221-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "比較假傷引離巢區、斷尾與枝條擬態，不以表格代替動物外形。"
+        }
       },
       {
         "id": "u0-t63-r5",
@@ -751,9 +915,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u0-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditAnimalDefense",
+          "caption": "三種自保方式",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -773,9 +937,20 @@ window.REVIEW_UNITS=[
                 "外形與枝條相似"
               ]
             ]
-          }
+          },
+          "sceneText": "〈溪邊的觀察紀錄〉哪個整理最符合三種觀察？",
+          "articleTitle": "溪邊的觀察紀錄",
+          "articleText": "",
+          "unitId": 0,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u0-t221-r5"
+        "libraryKey": "u0-t221-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "比較假傷引離巢區、斷尾與枝條擬態，不以表格代替動物外形。"
+        }
       },
       {
         "id": "u0-t64-r1",
@@ -809,9 +984,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u0-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditAntJobs",
+          "caption": "蟻群的工作與角色",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -835,9 +1010,20 @@ window.REVIEW_UNITS=[
                 "保護蟻巢"
               ]
             ]
-          }
+          },
+          "sceneText": "〈蟻巢的工作分配〉卡片中哪個角色負責尋找食物？",
+          "articleTitle": "蟻巢的工作分配",
+          "articleText": "",
+          "unitId": 0,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u0-t222-r1"
+        "libraryKey": "u0-t222-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現不同角色及相互配合的工作，並保留原分工表。"
+        }
       },
       {
         "id": "u0-t64-r2",
@@ -871,9 +1057,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u0-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditAntJobs",
+          "caption": "蟻群的工作與角色",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -897,9 +1083,20 @@ window.REVIEW_UNITS=[
                 "保護蟻巢"
               ]
             ]
-          }
+          },
+          "sceneText": "〈蟻巢的工作分配〉哪項是兵蟻與工蟻任務的差異？",
+          "articleTitle": "蟻巢的工作分配",
+          "articleText": "",
+          "unitId": 0,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u0-t222-r2"
+        "libraryKey": "u0-t222-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現不同角色及相互配合的工作，並保留原分工表。"
+        }
       },
       {
         "id": "u0-t64-r3",
@@ -933,9 +1130,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u0-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditAntJobs",
+          "caption": "蟻群的工作與角色",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -959,9 +1156,20 @@ window.REVIEW_UNITS=[
                 "保護蟻巢"
               ]
             ]
-          }
+          },
+          "sceneText": "〈蟻巢的工作分配〉五隻蝴蝶一起取食，是否足以證明有社會性分工？",
+          "articleTitle": "蟻巢的工作分配",
+          "articleText": "",
+          "unitId": 0,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u0-t222-r3"
+        "libraryKey": "u0-t222-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現不同角色及相互配合的工作，並保留原分工表。"
+        }
       },
       {
         "id": "u0-t64-r4",
@@ -995,9 +1203,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u0-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditAntJobs",
+          "caption": "蟻群的工作與角色",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -1021,9 +1229,20 @@ window.REVIEW_UNITS=[
                 "保護蟻巢"
               ]
             ]
-          }
+          },
+          "sceneText": "〈蟻巢的工作分配〉依本文，能否說所有蟻種一定有兵蟻？",
+          "articleTitle": "蟻巢的工作分配",
+          "articleText": "",
+          "unitId": 0,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u0-t222-r4"
+        "libraryKey": "u0-t222-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現不同角色及相互配合的工作，並保留原分工表。"
+        }
       },
       {
         "id": "u0-t64-r5",
@@ -1057,9 +1276,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u0-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditAntJobs",
+          "caption": "蟻群的工作與角色",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -1083,9 +1302,20 @@ window.REVIEW_UNITS=[
                 "保護蟻巢"
               ]
             ]
-          }
+          },
+          "sceneText": "〈蟻巢的工作分配〉哪種資料最能支持「蟻群有分工」？",
+          "articleTitle": "蟻巢的工作分配",
+          "articleText": "",
+          "unitId": 0,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u0-t222-r5"
+        "libraryKey": "u0-t222-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現不同角色及相互配合的工作，並保留原分工表。"
+        }
       }
     ],
     "grade": 5,
@@ -1985,7 +2215,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u1-t51-a",
         "topic": 200,
@@ -2001,7 +2230,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "正在發聲的音叉振動，接觸水面時帶動水產生水花。",
-        "libraryKey": "u1-t201-a"
+        "libraryKey": "u1-t201-a",
+        "visual": {
+          "kind": "auditTuningFork",
+          "caption": "音叉接觸水面的裝置",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "把正在發聲的音叉輕觸水面，水面出現水花。這項現象主要支持哪個說法？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 1,
+          "conceptIndex": 0,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 1,
@@ -2014,7 +2259,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u1-t52-a",
         "topic": 201,
@@ -2030,7 +2274,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "只改變撥動力道，其餘保持相同，可比較力道與音量的關係。",
-        "libraryKey": "u1-t202-a"
+        "libraryKey": "u1-t202-a",
+        "visual": {
+          "kind": "auditRubber",
+          "caption": "橡皮筋振動的比較配置",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "用同一條橡皮筋、固定相同長度，先輕撥再較用力撥。主要想比較哪項關係？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 1,
+          "conceptIndex": 1,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 1,
@@ -2043,7 +2303,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u1-t53-a",
         "topic": 202,
@@ -2059,7 +2318,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "在其他條件相近時，振動部分較短通常振動較快，音較高。",
-        "libraryKey": "u1-t203-a"
+        "libraryKey": "u1-t203-a",
+        "visual": {
+          "kind": "auditRubber",
+          "caption": "橡皮筋振動的比較配置",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "兩條橡皮筋材質與粗細相同，拉緊程度相近，振動部分分別長 8 公分與 16 公分。通常哪條發出的音較高？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 1,
+          "conceptIndex": 2,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 1,
@@ -2088,7 +2363,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "樂器的構造與材質影響聲音特色，稱為音色；不只由音高辨認。",
-        "libraryKey": "u1-t204-a"
+        "libraryKey": "u1-t204-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 1,
@@ -2101,7 +2381,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u1-t55-a",
         "topic": 204,
@@ -2117,7 +2396,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "光在不同介質交界處可能改變方向，產生折射，使水中部分看起來偏移。",
-        "libraryKey": "u1-t205-a"
+        "libraryKey": "u1-t205-a",
+        "visual": {
+          "kind": "referenceOptics",
+          "caption": "依題目條件繪製的示意圖",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "吸管斜放在水中，從杯子側面看像在水面處折斷。主要原因是什麼？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 1,
+          "conceptIndex": 4,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 1,
@@ -2130,7 +2425,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u1-t56-a",
         "topic": 205,
@@ -2146,7 +2440,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "反射方向與鏡面方向有關；轉動鏡面可改變反射光的方向。",
-        "libraryKey": "u1-t206-a"
+        "libraryKey": "u1-t206-a",
+        "visual": {
+          "kind": "auditMirrorRay",
+          "caption": "光源、鏡面與反射光",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "把平面鏡轉一個方向，手電筒照到鏡面的入射方向不變。反射光的位置可能如何？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 1,
+          "conceptIndex": 5,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 1,
@@ -2159,7 +2469,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u1-t57-a",
         "topic": 206,
@@ -2175,7 +2484,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "凸透鏡在不同距離可能形成不同影像；不可透過放大鏡直視太陽。",
-        "libraryKey": "u1-t207-a"
+        "libraryKey": "u1-t207-a",
+        "visual": {
+          "kind": "auditMagnifier",
+          "caption": "放大鏡與觀察物",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "用放大鏡觀察字時，怎麼做才安全又能看清楚？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 1,
+          "conceptIndex": 6,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 1,
@@ -2188,7 +2513,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u1-t58-a",
         "topic": 207,
@@ -2204,7 +2528,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "本次只比較有無音箱；同時改變其他條件，便難以判斷音量差異由何者造成。",
-        "libraryKey": "u1-t208-a"
+        "libraryKey": "u1-t208-a",
+        "visual": {
+          "kind": "auditSoundBox",
+          "caption": "有、無音箱的比較",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "要比較「有沒有音箱」對音量的影響，下列哪個實驗安排較合理？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 1,
+          "conceptIndex": 7,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 1,
@@ -2231,7 +2571,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "力道較大通常使振動幅度較大，不能直接等同音一定較高。",
-        "libraryKey": "u1-t209-a"
+        "libraryKey": "u1-t209-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 1,
@@ -2258,7 +2603,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 1,
         "explanation": "平面鏡倒影主要是反射；斜放水中的吸管偏移主要是折射。",
-        "libraryKey": "u1-t210-a"
+        "libraryKey": "u1-t210-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 1,
@@ -2294,7 +2644,12 @@ window.REVIEW_UNITS=[
           ]
         ],
         "explanation": "音量：聲音的大小；音高：聲音的高低；音色：辨別不同樂器的聲音特色。",
-        "libraryKey": "u1-t211-a"
+        "libraryKey": "u1-t211-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 1,
@@ -2326,7 +2681,12 @@ window.REVIEW_UNITS=[
           1
         ],
         "explanation": "本次改變粗細；長度、拉緊程度及撥動方式等應控制，避免其他因素混入。",
-        "libraryKey": "u1-t212-a"
+        "libraryKey": "u1-t212-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "id": "u1-t63-r1",
@@ -2360,9 +2720,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u1-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditRubber",
+          "caption": "橡皮筋的兩次實驗配置",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "比較",
@@ -2381,9 +2741,20 @@ window.REVIEW_UNITS=[
                 "8 公分時音較高"
               ]
             ]
-          }
+          },
+          "sceneText": "〈橡皮筋的兩次比較〉第一次主要改變什麼？",
+          "articleTitle": "橡皮筋的兩次比較",
+          "articleText": "",
+          "unitId": 1,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u1-t221-r1"
+        "libraryKey": "u1-t221-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "分開呈現同長度改力道、以及固定其他條件改振動長度。"
+        }
       },
       {
         "id": "u1-t63-r2",
@@ -2417,9 +2788,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u1-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditRubber",
+          "caption": "橡皮筋的兩次實驗配置",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "比較",
@@ -2438,9 +2809,20 @@ window.REVIEW_UNITS=[
                 "8 公分時音較高"
               ]
             ]
-          }
+          },
+          "sceneText": "〈橡皮筋的兩次比較〉第二次哪個條件發出較高音？",
+          "articleTitle": "橡皮筋的兩次比較",
+          "articleText": "",
+          "unitId": 1,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u1-t221-r2"
+        "libraryKey": "u1-t221-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "分開呈現同長度改力道、以及固定其他條件改振動長度。"
+        }
       },
       {
         "id": "u1-t63-r3",
@@ -2474,9 +2856,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u1-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditRubber",
+          "caption": "橡皮筋的兩次實驗配置",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "比較",
@@ -2495,9 +2877,20 @@ window.REVIEW_UNITS=[
                 "8 公分時音較高"
               ]
             ]
-          }
+          },
+          "sceneText": "〈橡皮筋的兩次比較〉第一次「較大聲」是在描述什麼？",
+          "articleTitle": "橡皮筋的兩次比較",
+          "articleText": "",
+          "unitId": 1,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u1-t221-r3"
+        "libraryKey": "u1-t221-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "分開呈現同長度改力道、以及固定其他條件改振動長度。"
+        }
       },
       {
         "id": "u1-t63-r4",
@@ -2531,9 +2924,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u1-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditRubber",
+          "caption": "橡皮筋的兩次實驗配置",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "比較",
@@ -2552,9 +2945,20 @@ window.REVIEW_UNITS=[
                 "8 公分時音較高"
               ]
             ]
-          }
+          },
+          "sceneText": "〈橡皮筋的兩次比較〉若第二次又同時換成較粗橡皮筋，主要有什麼問題？",
+          "articleTitle": "橡皮筋的兩次比較",
+          "articleText": "",
+          "unitId": 1,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u1-t221-r4"
+        "libraryKey": "u1-t221-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "分開呈現同長度改力道、以及固定其他條件改振動長度。"
+        }
       },
       {
         "id": "u1-t63-r5",
@@ -2588,9 +2992,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u1-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditRubber",
+          "caption": "橡皮筋的兩次實驗配置",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "比較",
@@ -2609,9 +3013,20 @@ window.REVIEW_UNITS=[
                 "8 公分時音較高"
               ]
             ]
-          }
+          },
+          "sceneText": "〈橡皮筋的兩次比較〉哪個結論符合兩次紀錄？",
+          "articleTitle": "橡皮筋的兩次比較",
+          "articleText": "",
+          "unitId": 1,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u1-t221-r5"
+        "libraryKey": "u1-t221-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "分開呈現同長度改力道、以及固定其他條件改振動長度。"
+        }
       },
       {
         "id": "u1-t64-r1",
@@ -2647,7 +3062,7 @@ window.REVIEW_UNITS=[
         "visual": {
           "kind": "referenceOptics",
           "caption": "光從空氣斜射入水",
-          "description": "圖與本文資料相互對照；示意圖未依比例。",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -2667,9 +3082,20 @@ window.REVIEW_UNITS=[
                 "光被反射到別處"
               ]
             ]
-          }
+          },
+          "sceneText": "〈光照進水裡〉光束在哪裡改變行進方向？",
+          "articleTitle": "光照進水裡",
+          "articleText": "",
+          "unitId": 1,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u1-t222-r1"
+        "libraryKey": "u1-t222-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "已具水面、介質與光路，保留既有方向圖。"
+        }
       },
       {
         "id": "u1-t64-r2",
@@ -2705,7 +3131,7 @@ window.REVIEW_UNITS=[
         "visual": {
           "kind": "referenceOptics",
           "caption": "光從空氣斜射入水",
-          "description": "圖與本文資料相互對照；示意圖未依比例。",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -2725,9 +3151,20 @@ window.REVIEW_UNITS=[
                 "光被反射到別處"
               ]
             ]
-          }
+          },
+          "sceneText": "〈光照進水裡〉吸管拿出後仍是直的，支持哪個判斷？",
+          "articleTitle": "光照進水裡",
+          "articleText": "",
+          "unitId": 1,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u1-t222-r2"
+        "libraryKey": "u1-t222-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "已具水面、介質與光路，保留既有方向圖。"
+        }
       },
       {
         "id": "u1-t64-r3",
@@ -2763,7 +3200,7 @@ window.REVIEW_UNITS=[
         "visual": {
           "kind": "referenceOptics",
           "caption": "光從空氣斜射入水",
-          "description": "圖與本文資料相互對照；示意圖未依比例。",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -2783,9 +3220,20 @@ window.REVIEW_UNITS=[
                 "光被反射到別處"
               ]
             ]
-          }
+          },
+          "sceneText": "〈光照進水裡〉平面鏡這一組主要觀察什麼？",
+          "articleTitle": "光照進水裡",
+          "articleText": "",
+          "unitId": 1,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u1-t222-r3"
+        "libraryKey": "u1-t222-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "已具水面、介質與光路，保留既有方向圖。"
+        }
       },
       {
         "id": "u1-t64-r4",
@@ -2821,7 +3269,7 @@ window.REVIEW_UNITS=[
         "visual": {
           "kind": "referenceOptics",
           "caption": "光從空氣斜射入水",
-          "description": "圖與本文資料相互對照；示意圖未依比例。",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -2841,9 +3289,20 @@ window.REVIEW_UNITS=[
                 "光被反射到別處"
               ]
             ]
-          }
+          },
+          "sceneText": "〈光照進水裡〉依第一段，光在同一種介質中如何前進？",
+          "articleTitle": "光照進水裡",
+          "articleText": "",
+          "unitId": 1,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u1-t222-r4"
+        "libraryKey": "u1-t222-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "已具水面、介質與光路，保留既有方向圖。"
+        }
       },
       {
         "id": "u1-t64-r5",
@@ -2879,7 +3338,7 @@ window.REVIEW_UNITS=[
         "visual": {
           "kind": "referenceOptics",
           "caption": "光從空氣斜射入水",
-          "description": "圖與本文資料相互對照；示意圖未依比例。",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -2899,9 +3358,20 @@ window.REVIEW_UNITS=[
                 "光被反射到別處"
               ]
             ]
-          }
+          },
+          "sceneText": "〈光照進水裡〉光路圖為什麼需要標示水面？",
+          "articleTitle": "光照進水裡",
+          "articleText": "",
+          "unitId": 1,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u1-t222-r5"
+        "libraryKey": "u1-t222-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "已具水面、介質與光路，保留既有方向圖。"
+        }
       }
     ],
     "grade": 5,
@@ -3751,7 +4221,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u2-t51-a",
         "topic": 200,
@@ -3767,7 +4236,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "讀臺灣位置圖可知，臺灣東側面向太平洋，西側隔臺灣海峽與中國大陸相望。",
-        "libraryKey": "u2-t201-a"
+        "libraryKey": "u2-t201-a",
+        "visual": {
+          "kind": "referenceMap",
+          "caption": "依題目條件繪製的示意圖",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "臺灣東側面向哪個海洋？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 2,
+          "conceptIndex": 0,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 2,
@@ -3780,7 +4265,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u2-t52-a",
         "topic": 201,
@@ -3796,7 +4280,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "澎湖位於臺灣本島西方的臺灣海峽中，需依位置判斷。",
-        "libraryKey": "u2-t202-a"
+        "libraryKey": "u2-t202-a",
+        "visual": {
+          "kind": "referenceMap",
+          "caption": "依題目條件繪製的示意圖",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "從臺灣本島前往西方的澎湖群島，主要經過哪片海域？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 2,
+          "conceptIndex": 1,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 2,
@@ -3809,7 +4309,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u2-t53-a",
         "topic": 202,
@@ -3825,7 +4324,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "海洋資源與海上交通有利於漁業、航運及沿海觀光等活動。",
-        "libraryKey": "u2-t203-a"
+        "libraryKey": "u2-t203-a",
+        "visual": {
+          "kind": "auditHarbor",
+          "caption": "依題目條件繪製的示意圖",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "臺灣四面環海，居民發展哪些活動最直接運用了這個地理條件？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 2,
+          "conceptIndex": 2,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 2,
@@ -3838,7 +4353,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u2-t54-a",
         "topic": 203,
@@ -3854,7 +4368,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "地圖方向應依指北或方向標示判斷，不能未看標示就認定上北下南。",
-        "libraryKey": "u2-t204-a"
+        "libraryKey": "u2-t204-a",
+        "visual": {
+          "kind": "auditCompass",
+          "caption": "方向標記與相對位置",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "閱讀地圖時，為什麼應先看指北標記？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 2,
+          "conceptIndex": 3,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 2,
@@ -3867,7 +4397,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u2-t55-a",
         "topic": 204,
@@ -3883,7 +4412,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "東亞地圖可同時看見臺灣、鄰近國家與海域；其他資料無法完整回答位置問題。",
-        "libraryKey": "u2-t205-a"
+        "libraryKey": "u2-t205-a",
+        "visual": {
+          "kind": "auditRegionalMap",
+          "caption": "臺灣與亞洲東部位置",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "想比較臺灣與鄰近國家的相對位置，哪種資料最合適？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 2,
+          "conceptIndex": 4,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 2,
@@ -3896,7 +4441,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u2-t56-a",
         "topic": 205,
@@ -3912,7 +4456,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "臺灣位於亞洲東部的西太平洋地區；判讀時要分清洲別與海洋位置。",
-        "libraryKey": "u2-t206-a"
+        "libraryKey": "u2-t206-a",
+        "visual": {
+          "kind": "auditRegionalMap",
+          "caption": "臺灣與亞洲東部位置",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "臺灣位在亞洲的哪個地帶？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 2,
+          "conceptIndex": 5,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 2,
@@ -3925,7 +4485,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u2-t57-a",
         "topic": 206,
@@ -3941,7 +4500,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "路線判讀需要明確起終點與方向，不能由不相關生活資料代替。",
-        "libraryKey": "u2-t207-a"
+        "libraryKey": "u2-t207-a",
+        "visual": {
+          "kind": "referenceMap",
+          "caption": "依題目條件繪製的示意圖",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "一家人從臺灣本島搭船前往離島。要判斷兩地的方向與海上路線，應優先核對什麼？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 2,
+          "conceptIndex": 6,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 2,
@@ -3970,7 +4545,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "各地自然環境及生活有差異，需用多種資料比較，避免以單一個案概括全部。",
-        "libraryKey": "u2-t208-a"
+        "libraryKey": "u2-t208-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 2,
@@ -3997,7 +4577,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "圖的上方不一定是北，應以方向標示為依據。",
-        "libraryKey": "u2-t209-a"
+        "libraryKey": "u2-t209-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 2,
@@ -4024,7 +4609,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 1,
         "explanation": "不同地區與家庭的環境、經驗和選擇可能不同。",
-        "libraryKey": "u2-t210-a"
+        "libraryKey": "u2-t210-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 2,
@@ -4060,7 +4650,12 @@ window.REVIEW_UNITS=[
           ]
         ],
         "explanation": "臺灣本島東側：太平洋；臺灣本島西側：臺灣海峽；臺灣所在的洲：亞洲。",
-        "libraryKey": "u2-t211-a"
+        "libraryKey": "u2-t211-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 2,
@@ -4092,7 +4687,12 @@ window.REVIEW_UNITS=[
           1
         ],
         "explanation": "地圖可提供位置與名稱；未提供的天氣和航班狀況不能由地圖推出。",
-        "libraryKey": "u2-t212-a"
+        "libraryKey": "u2-t212-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "id": "u2-t63-r1",
@@ -4128,7 +4728,7 @@ window.REVIEW_UNITS=[
         "visual": {
           "kind": "referenceMap",
           "caption": "臺灣與澎湖位置示意",
-          "description": "圖與本文資料相互對照；示意圖未依比例。",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -4148,9 +4748,20 @@ window.REVIEW_UNITS=[
                 "表示北方"
               ]
             ]
-          }
+          },
+          "sceneText": "〈旅行前先看位置圖〉從本島前往澎湖，大致朝哪個方向？",
+          "articleTitle": "旅行前先看位置圖",
+          "articleText": "",
+          "unitId": 2,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u2-t221-r1"
+        "libraryKey": "u2-t221-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "位置判讀須有指北、島嶼與海域，保留既有位置圖。"
+        }
       },
       {
         "id": "u2-t63-r2",
@@ -4186,7 +4797,7 @@ window.REVIEW_UNITS=[
         "visual": {
           "kind": "referenceMap",
           "caption": "臺灣與澎湖位置示意",
-          "description": "圖與本文資料相互對照；示意圖未依比例。",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -4206,9 +4817,20 @@ window.REVIEW_UNITS=[
                 "表示北方"
               ]
             ]
-          }
+          },
+          "sceneText": "〈旅行前先看位置圖〉本島東側是哪個海洋？",
+          "articleTitle": "旅行前先看位置圖",
+          "articleText": "",
+          "unitId": 2,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u2-t221-r2"
+        "libraryKey": "u2-t221-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "位置判讀須有指北、島嶼與海域，保留既有位置圖。"
+        }
       },
       {
         "id": "u2-t63-r3",
@@ -4244,7 +4866,7 @@ window.REVIEW_UNITS=[
         "visual": {
           "kind": "referenceMap",
           "caption": "臺灣與澎湖位置示意",
-          "description": "圖與本文資料相互對照；示意圖未依比例。",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -4264,9 +4886,20 @@ window.REVIEW_UNITS=[
                 "表示北方"
               ]
             ]
-          }
+          },
+          "sceneText": "〈旅行前先看位置圖〉哪項資訊不能單由本文的位置圖確定？",
+          "articleTitle": "旅行前先看位置圖",
+          "articleText": "",
+          "unitId": 2,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u2-t221-r3"
+        "libraryKey": "u2-t221-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "位置判讀須有指北、島嶼與海域，保留既有位置圖。"
+        }
       },
       {
         "id": "u2-t63-r4",
@@ -4302,7 +4935,7 @@ window.REVIEW_UNITS=[
         "visual": {
           "kind": "referenceMap",
           "caption": "臺灣與澎湖位置示意",
-          "description": "圖與本文資料相互對照；示意圖未依比例。",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -4322,9 +4955,20 @@ window.REVIEW_UNITS=[
                 "表示北方"
               ]
             ]
-          }
+          },
+          "sceneText": "〈旅行前先看位置圖〉出發前核對船班與海象的主要原因為何？",
+          "articleTitle": "旅行前先看位置圖",
+          "articleText": "",
+          "unitId": 2,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u2-t221-r4"
+        "libraryKey": "u2-t221-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "位置判讀須有指北、島嶼與海域，保留既有位置圖。"
+        }
       },
       {
         "id": "u2-t63-r5",
@@ -4360,7 +5004,7 @@ window.REVIEW_UNITS=[
         "visual": {
           "kind": "referenceMap",
           "caption": "臺灣與澎湖位置示意",
-          "description": "圖與本文資料相互對照；示意圖未依比例。",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -4380,9 +5024,20 @@ window.REVIEW_UNITS=[
                 "表示北方"
               ]
             ]
-          }
+          },
+          "sceneText": "〈旅行前先看位置圖〉哪種整理方式最適合這次準備？",
+          "articleTitle": "旅行前先看位置圖",
+          "articleText": "",
+          "unitId": 2,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u2-t221-r5"
+        "libraryKey": "u2-t221-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "位置判讀須有指北、島嶼與海域，保留既有位置圖。"
+        }
       },
       {
         "id": "u2-t64-r1",
@@ -4416,9 +5071,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u2-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditHarbor",
+          "caption": "同一港口的不同活動",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -4438,9 +5093,20 @@ window.REVIEW_UNITS=[
                 "海洋觀光"
               ]
             ]
-          }
+          },
+          "sceneText": "〈港邊的工作〉哪個活動最直接利用海洋生物資源？",
+          "articleTitle": "港邊的工作",
+          "articleText": "",
+          "unitId": 2,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u2-t222-r1"
+        "libraryKey": "u2-t222-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "區分漁船漁獲、貨輪貨物與觀光船旅客。"
+        }
       },
       {
         "id": "u2-t64-r2",
@@ -4474,9 +5140,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u2-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditHarbor",
+          "caption": "同一港口的不同活動",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -4496,9 +5162,20 @@ window.REVIEW_UNITS=[
                 "海洋觀光"
               ]
             ]
-          }
+          },
+          "sceneText": "〈港邊的工作〉貨船裝卸主要與哪個功能有關？",
+          "articleTitle": "港邊的工作",
+          "articleText": "",
+          "unitId": 2,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u2-t222-r2"
+        "libraryKey": "u2-t222-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "區分漁船漁獲、貨輪貨物與觀光船旅客。"
+        }
       },
       {
         "id": "u2-t64-r3",
@@ -4532,9 +5209,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u2-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditHarbor",
+          "caption": "同一港口的不同活動",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -4554,9 +5231,20 @@ window.REVIEW_UNITS=[
                 "海洋觀光"
               ]
             ]
-          }
+          },
+          "sceneText": "〈港邊的工作〉三種活動的共同點是什麼？",
+          "articleTitle": "港邊的工作",
+          "articleText": "",
+          "unitId": 2,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u2-t222-r3"
+        "libraryKey": "u2-t222-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "區分漁船漁獲、貨輪貨物與觀光船旅客。"
+        }
       },
       {
         "id": "u2-t64-r4",
@@ -4590,9 +5278,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u2-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditHarbor",
+          "caption": "同一港口的不同活動",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -4612,9 +5300,20 @@ window.REVIEW_UNITS=[
                 "海洋觀光"
               ]
             ]
-          }
+          },
+          "sceneText": "〈港邊的工作〉只因兩個地方都靠海，就說產業一定相同，忽略了什麼？",
+          "articleTitle": "港邊的工作",
+          "articleText": "",
+          "unitId": 2,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u2-t222-r4"
+        "libraryKey": "u2-t222-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "區分漁船漁獲、貨輪貨物與觀光船旅客。"
+        }
       },
       {
         "id": "u2-t64-r5",
@@ -4648,9 +5347,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u2-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditHarbor",
+          "caption": "同一港口的不同活動",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -4670,9 +5369,20 @@ window.REVIEW_UNITS=[
                 "海洋觀光"
               ]
             ]
-          }
+          },
+          "sceneText": "〈港邊的工作〉把紀錄分成資源、運輸、景觀三欄，有什麼幫助？",
+          "articleTitle": "港邊的工作",
+          "articleText": "",
+          "unitId": 2,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u2-t222-r5"
+        "libraryKey": "u2-t222-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "區分漁船漁獲、貨輪貨物與觀光船旅客。"
+        }
       }
     ],
     "grade": 5,
@@ -5512,7 +6222,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u3-t51-a",
         "topic": 200,
@@ -5528,7 +6237,24 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "臺地頂部較平坦，地勢比周圍高；盆地則是中間低、四周較高。",
-        "libraryKey": "u3-t201-a"
+        "libraryKey": "u3-t201-a",
+        "visual": {
+          "kind": "auditLandform",
+          "caption": "依地勢觀察形狀",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "一處地勢較高、頂部平坦，邊緣下降較明顯，較符合哪種地形？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 3,
+          "conceptIndex": 0,
+          "mode": "plateau",
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 3,
@@ -5541,7 +6267,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u3-t52-a",
         "topic": 201,
@@ -5557,7 +6282,24 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "盆地主要特徵是四周較高、中間較低；不能只看地名判斷。",
-        "libraryKey": "u3-t202-a"
+        "libraryKey": "u3-t202-a",
+        "visual": {
+          "kind": "auditLandform",
+          "caption": "依地勢觀察形狀",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "某地四周地勢較高，中間較低而平坦。最可能是哪種地形？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 3,
+          "conceptIndex": 1,
+          "mode": "basin",
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 3,
@@ -5570,7 +6312,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u3-t53-a",
         "topic": 202,
@@ -5586,7 +6327,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "河川多由較高的山地往低處流，常經丘陵，最後流經平原出海。",
-        "libraryKey": "u3-t203-a"
+        "libraryKey": "u3-t203-a",
+        "visual": {
+          "kind": "auditRiverTerrain",
+          "caption": "河流從高處流向低處",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "從臺灣多數河川的上游往下游走，常見的地形順序較接近哪一項？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 3,
+          "conceptIndex": 2,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 3,
@@ -5599,7 +6356,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u3-t54-a",
         "topic": 203,
@@ -5615,7 +6371,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "坡地種植需考量起伏與土地利用；地形會影響農業經營方式。",
-        "libraryKey": "u3-t204-a"
+        "libraryKey": "u3-t204-a",
+        "visual": {
+          "kind": "auditTeaTerrain",
+          "caption": "依題目條件繪製的示意圖",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "沿著山坡種植一層層茶園，主要是在因應什麼條件？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 3,
+          "conceptIndex": 3,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 3,
@@ -5628,7 +6400,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u3-t55-a",
         "topic": 204,
@@ -5644,7 +6415,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "山地與河谷增加交通建設難度，路線常需配合地勢。",
-        "libraryKey": "u3-t205-a"
+        "libraryKey": "u3-t205-a",
+        "visual": {
+          "kind": "auditMountainRoad",
+          "caption": "山地交通配置示意",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "臺灣東部多高山接近海岸。這會如何影響部分交通路線？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 3,
+          "conceptIndex": 4,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 3,
@@ -5657,7 +6444,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u3-t56-a",
         "topic": 205,
@@ -5673,7 +6459,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "東北季風吹來潮溼空氣，迎風面較容易降雨；背風面情況可能不同。",
-        "libraryKey": "u3-t206-a"
+        "libraryKey": "u3-t206-a",
+        "visual": {
+          "kind": "auditMonsoon",
+          "caption": "冬季東北季風示意",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "冬季東北季風吹來時，臺灣北部、東北部較容易降雨，主要與什麼有關？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 3,
+          "conceptIndex": 5,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 3,
@@ -5686,7 +6488,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u3-t57-a",
         "topic": 206,
@@ -5702,7 +6503,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "天氣是短時間的大氣狀況；氣候描述一地長期的天氣特徵。",
-        "libraryKey": "u3-t207-a"
+        "libraryKey": "u3-t207-a",
+        "visual": {
+          "kind": "auditTimeScales",
+          "caption": "依題目條件繪製的示意圖",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "紀錄「今天下午下大雨」，以及「某地多年夏季雨量較多」，分別是在描述什麼？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 3,
+          "conceptIndex": 6,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 3,
@@ -5715,7 +6532,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u3-t58-a",
         "topic": 207,
@@ -5731,7 +6547,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "植被有助保護土壤；不當開發與豪雨可能增加水土流失及坡地災害風險。",
-        "libraryKey": "u3-t208-a"
+        "libraryKey": "u3-t208-a",
+        "visual": {
+          "kind": "auditSlopeCover",
+          "caption": "坡地植被與雨水",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "山坡地大量移除植被後遇到豪雨，較需要注意哪個問題？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 3,
+          "conceptIndex": 7,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 3,
@@ -5758,7 +6590,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 1,
         "explanation": "單日天氣不能代表長期氣候，需參考多年資料。",
-        "libraryKey": "u3-t209-a"
+        "libraryKey": "u3-t209-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 3,
@@ -5785,7 +6622,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "生活方式會回應自然環境，也受技術與人文因素影響。",
-        "libraryKey": "u3-t210-a"
+        "libraryKey": "u3-t210-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 3,
@@ -5798,7 +6640,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u3-t61-a",
         "topic": 210,
@@ -5821,7 +6662,24 @@ window.REVIEW_UNITS=[
           ]
         ],
         "explanation": "盆地：中間低、四周較高；臺地：頂部較平坦、邊緣較陡；平原：廣大而低平的地勢。",
-        "libraryKey": "u3-t211-a"
+        "libraryKey": "u3-t211-a",
+        "visual": {
+          "kind": "auditLandform",
+          "caption": "依地勢觀察形狀",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "請把三個項目配上最合適的說明。",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 3,
+          "conceptIndex": 10,
+          "mode": "plateau",
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 3,
@@ -5834,7 +6692,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u3-t62-a",
         "topic": 211,
@@ -5853,7 +6710,23 @@ window.REVIEW_UNITS=[
           1
         ],
         "explanation": "遮雨與排水可回應多雨環境；封住排水或只依單日資料規劃都不適合。",
-        "libraryKey": "u3-t212-a"
+        "libraryKey": "u3-t212-a",
+        "visual": {
+          "kind": "auditRainShelter",
+          "caption": "多雨環境的設施",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "哪些是居民因應多雨環境的做法？請選兩項。",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 3,
+          "conceptIndex": 11,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "id": "u3-t63-r1",
@@ -5887,9 +6760,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u3-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditTeaTerrain",
+          "caption": "甲、乙茶園的地勢與用水",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "地點",
@@ -5908,9 +6781,20 @@ window.REVIEW_UNITS=[
                 "蓄水池"
               ]
             ]
-          }
+          },
+          "sceneText": "〈兩座茶園的用水〉甲地最符合哪種地形？",
+          "articleTitle": "兩座茶園的用水",
+          "articleText": "",
+          "unitId": 3,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u3-t221-r1"
+        "libraryKey": "u3-t221-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "甲為高起平坦臺地與埤塘，乙為起伏坡地與分層茶園、蓄水池。"
+        }
       },
       {
         "id": "u3-t63-r2",
@@ -5944,9 +6828,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u3-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditTeaTerrain",
+          "caption": "甲、乙茶園的地勢與用水",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "地點",
@@ -5965,9 +6849,20 @@ window.REVIEW_UNITS=[
                 "蓄水池"
               ]
             ]
-          }
+          },
+          "sceneText": "〈兩座茶園的用水〉乙地分層種植主要在配合什麼？",
+          "articleTitle": "兩座茶園的用水",
+          "articleText": "",
+          "unitId": 3,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u3-t221-r2"
+        "libraryKey": "u3-t221-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "甲為高起平坦臺地與埤塘，乙為起伏坡地與分層茶園、蓄水池。"
+        }
       },
       {
         "id": "u3-t63-r3",
@@ -6001,9 +6896,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u3-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditTeaTerrain",
+          "caption": "甲、乙茶園的地勢與用水",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "地點",
@@ -6022,9 +6917,20 @@ window.REVIEW_UNITS=[
                 "蓄水池"
               ]
             ]
-          }
+          },
+          "sceneText": "〈兩座茶園的用水〉哪項是兩地的共同點？",
+          "articleTitle": "兩座茶園的用水",
+          "articleText": "",
+          "unitId": 3,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u3-t221-r3"
+        "libraryKey": "u3-t221-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "甲為高起平坦臺地與埤塘，乙為起伏坡地與分層茶園、蓄水池。"
+        }
       },
       {
         "id": "u3-t63-r4",
@@ -6058,9 +6964,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u3-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditTeaTerrain",
+          "caption": "甲、乙茶園的地勢與用水",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "地點",
@@ -6079,9 +6985,20 @@ window.REVIEW_UNITS=[
                 "蓄水池"
               ]
             ]
-          }
+          },
+          "sceneText": "〈兩座茶園的用水〉為什麼不能直接把甲地方法搬到乙地？",
+          "articleTitle": "兩座茶園的用水",
+          "articleText": "",
+          "unitId": 3,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u3-t221-r4"
+        "libraryKey": "u3-t221-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "甲為高起平坦臺地與埤塘，乙為起伏坡地與分層茶園、蓄水池。"
+        }
       },
       {
         "id": "u3-t63-r5",
@@ -6115,9 +7032,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u3-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditTeaTerrain",
+          "caption": "甲、乙茶園的地勢與用水",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "地點",
@@ -6136,9 +7053,20 @@ window.REVIEW_UNITS=[
                 "蓄水池"
               ]
             ]
-          }
+          },
+          "sceneText": "〈兩座茶園的用水〉哪個結論最符合全文？",
+          "articleTitle": "兩座茶園的用水",
+          "articleText": "",
+          "unitId": 3,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u3-t221-r5"
+        "libraryKey": "u3-t221-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "甲為高起平坦臺地與埤塘，乙為起伏坡地與分層茶園、蓄水池。"
+        }
       },
       {
         "id": "u3-t64-r1",
@@ -6172,9 +7100,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u3-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditTimeScales",
+          "caption": "多年紀錄與單日新聞",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -6194,9 +7122,20 @@ window.REVIEW_UNITS=[
                 "乙地某年一月一天大雨"
               ]
             ]
-          }
+          },
+          "sceneText": "〈雨量紀錄怎麼看〉哪個地區冬季相對乾燥？",
+          "articleTitle": "雨量紀錄怎麼看",
+          "articleText": "",
+          "unitId": 3,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u3-t222-r1"
+        "libraryKey": "u3-t222-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "以不同時間跨度呈現資料，不憑文字捏造實測雨量。"
+        }
       },
       {
         "id": "u3-t64-r2",
@@ -6230,9 +7169,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u3-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditTimeScales",
+          "caption": "多年紀錄與單日新聞",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -6252,9 +7191,20 @@ window.REVIEW_UNITS=[
                 "乙地某年一月一天大雨"
               ]
             ]
-          }
+          },
+          "sceneText": "〈雨量紀錄怎麼看〉一天大雨的新聞主要描述什麼？",
+          "articleTitle": "雨量紀錄怎麼看",
+          "articleText": "",
+          "unitId": 3,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u3-t222-r2"
+        "libraryKey": "u3-t222-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "以不同時間跨度呈現資料，不憑文字捏造實測雨量。"
+        }
       },
       {
         "id": "u3-t64-r3",
@@ -6288,9 +7238,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u3-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditTimeScales",
+          "caption": "多年紀錄與單日新聞",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -6310,9 +7260,20 @@ window.REVIEW_UNITS=[
                 "乙地某年一月一天大雨"
               ]
             ]
-          }
+          },
+          "sceneText": "〈雨量紀錄怎麼看〉新聞能否單獨證明乙地沒有乾季？",
+          "articleTitle": "雨量紀錄怎麼看",
+          "articleText": "",
+          "unitId": 3,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u3-t222-r3"
+        "libraryKey": "u3-t222-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "以不同時間跨度呈現資料，不憑文字捏造實測雨量。"
+        }
       },
       {
         "id": "u3-t64-r4",
@@ -6346,9 +7307,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u3-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditTimeScales",
+          "caption": "多年紀錄與單日新聞",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -6368,9 +7329,20 @@ window.REVIEW_UNITS=[
                 "乙地某年一月一天大雨"
               ]
             ]
-          }
+          },
+          "sceneText": "〈雨量紀錄怎麼看〉若要決定明天是否帶雨具，應優先看什麼？",
+          "articleTitle": "雨量紀錄怎麼看",
+          "articleText": "",
+          "unitId": 3,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u3-t222-r4"
+        "libraryKey": "u3-t222-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "以不同時間跨度呈現資料，不憑文字捏造實測雨量。"
+        }
       },
       {
         "id": "u3-t64-r5",
@@ -6404,9 +7376,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u3-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditTimeScales",
+          "caption": "多年紀錄與單日新聞",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -6426,9 +7398,20 @@ window.REVIEW_UNITS=[
                 "乙地某年一月一天大雨"
               ]
             ]
-          }
+          },
+          "sceneText": "〈雨量紀錄怎麼看〉多年平均雨量最適合協助哪項安排？",
+          "articleTitle": "雨量紀錄怎麼看",
+          "articleText": "",
+          "unitId": 3,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u3-t222-r5"
+        "libraryKey": "u3-t222-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "以不同時間跨度呈現資料，不憑文字捏造實測雨量。"
+        }
       }
     ],
     "grade": 5,
@@ -7302,7 +8285,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t01-r2",
@@ -7328,7 +8316,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t01-r3",
@@ -7354,7 +8347,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t01-r4",
@@ -7380,7 +8378,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t01-r5",
@@ -7406,7 +8409,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t02-r1",
@@ -7432,7 +8440,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t02-r2",
@@ -7458,7 +8471,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t02-r3",
@@ -7484,7 +8502,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t02-r4",
@@ -7510,7 +8533,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t02-r5",
@@ -7536,7 +8564,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t03-r1",
@@ -7562,7 +8595,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t03-r2",
@@ -7588,7 +8626,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t03-r3",
@@ -7614,7 +8657,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t03-r4",
@@ -7640,7 +8688,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t03-r5",
@@ -7666,7 +8719,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t04-r1",
@@ -7692,7 +8750,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t04-r2",
@@ -7718,7 +8781,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t04-r3",
@@ -7744,7 +8812,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t04-r4",
@@ -7770,7 +8843,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t04-r5",
@@ -7796,7 +8874,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t05-r1",
@@ -7822,7 +8905,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t05-r2",
@@ -7848,7 +8936,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t05-r3",
@@ -7874,7 +8967,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t05-r4",
@@ -7900,7 +8998,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t05-r5",
@@ -7926,7 +9029,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t06-r1",
@@ -7952,7 +9060,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditRiverViews",
+          "caption": "近看河面與俯看河道",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈河流的兩種模樣〉空拍照片串起哪些景物？",
+          "articleTitle": "河流的兩種模樣",
+          "articleText": "",
+          "unitId": 4,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "以示意視角區分河面細節與河道、農田、聚落關係，非實拍照片。"
+        }
       },
       {
         "id": "u4-t06-r2",
@@ -7978,7 +9101,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditRiverViews",
+          "caption": "近看河面與俯看河道",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈河流的兩種模樣〉為什麼還需要實地調查？",
+          "articleTitle": "河流的兩種模樣",
+          "articleText": "",
+          "unitId": 4,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "以示意視角區分河面細節與河道、農田、聚落關係，非實拍照片。"
+        }
       },
       {
         "id": "u4-t06-r3",
@@ -8004,7 +9142,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditRiverViews",
+          "caption": "近看河面與俯看河道",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈河流的兩種模樣〉不同觀看位置會帶來什麼？",
+          "articleTitle": "河流的兩種模樣",
+          "articleText": "",
+          "unitId": 4,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "以示意視角區分河面細節與河道、農田、聚落關係，非實拍照片。"
+        }
       },
       {
         "id": "u4-t06-r4",
@@ -8030,7 +9183,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditRiverViews",
+          "caption": "近看河面與俯看河道",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈河流的兩種模樣〉「視角」指什麼？",
+          "articleTitle": "河流的兩種模樣",
+          "articleText": "",
+          "unitId": 4,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "以示意視角區分河面細節與河道、農田、聚落關係，非實拍照片。"
+        }
       },
       {
         "id": "u4-t06-r5",
@@ -8056,7 +9224,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditRiverViews",
+          "caption": "近看河面與俯看河道",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈河流的兩種模樣〉哪個主旨最能概括全文？",
+          "articleTitle": "河流的兩種模樣",
+          "articleText": "",
+          "unitId": 4,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "以示意視角區分河面細節與河道、農田、聚落關係，非實拍照片。"
+        }
       },
       {
         "id": "u4-t07-r1",
@@ -8082,7 +9265,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t07-r2",
@@ -8108,7 +9296,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t07-r3",
@@ -8134,7 +9327,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t07-r4",
@@ -8160,7 +9358,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t07-r5",
@@ -8186,7 +9389,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t08-r1",
@@ -8212,7 +9420,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditFields",
+          "caption": "田野的不同色塊",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈田野像拼布〉小潔向誰請教？",
+          "articleTitle": "田野像拼布",
+          "articleText": "",
+          "unitId": 4,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "保留深綠、淺綠、金黃色塊；不由顏色直接標定作物種類。"
+        }
       },
       {
         "id": "u4-t08-r2",
@@ -8238,7 +9461,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditFields",
+          "caption": "田野的不同色塊",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈田野像拼布〉為什麼不能只靠顏色判斷作物？",
+          "articleTitle": "田野像拼布",
+          "articleText": "",
+          "unitId": 4,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "保留深綠、淺綠、金黃色塊；不由顏色直接標定作物種類。"
+        }
       },
       {
         "id": "u4-t08-r3",
@@ -8264,7 +9502,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditFields",
+          "caption": "田野的不同色塊",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈田野像拼布〉小潔的做法顯示什麼？",
+          "articleTitle": "田野像拼布",
+          "articleText": "",
+          "unitId": 4,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "保留深綠、淺綠、金黃色塊；不由顏色直接標定作物種類。"
+        }
       },
       {
         "id": "u4-t08-r4",
@@ -8290,7 +9543,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditFields",
+          "caption": "田野的不同色塊",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈田野像拼布〉「圖例」的用途是什麼？",
+          "articleTitle": "田野像拼布",
+          "articleText": "",
+          "unitId": 4,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "保留深綠、淺綠、金黃色塊；不由顏色直接標定作物種類。"
+        }
       },
       {
         "id": "u4-t08-r5",
@@ -8316,7 +9584,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditFields",
+          "caption": "田野的不同色塊",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈田野像拼布〉哪個主旨最能概括全文？",
+          "articleTitle": "田野像拼布",
+          "articleText": "",
+          "unitId": 4,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "保留深綠、淺綠、金黃色塊；不由顏色直接標定作物種類。"
+        }
       },
       {
         "id": "u4-t09-r1",
@@ -8342,7 +9625,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t09-r2",
@@ -8368,7 +9656,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t09-r3",
@@ -8394,7 +9687,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t09-r4",
@@ -8420,7 +9718,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t09-r5",
@@ -8446,7 +9749,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t10-r1",
@@ -8472,7 +9780,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t10-r2",
@@ -8498,7 +9811,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t10-r3",
@@ -8524,7 +9842,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t10-r4",
@@ -8550,7 +9873,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t10-r5",
@@ -8576,7 +9904,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t11-r1",
@@ -8602,7 +9935,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t11-r2",
@@ -8628,7 +9966,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t11-r3",
@@ -8654,7 +9997,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t11-r4",
@@ -8680,7 +10028,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t11-r5",
@@ -8706,7 +10059,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t12-r1",
@@ -8732,7 +10090,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t12-r2",
@@ -8758,7 +10121,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t12-r3",
@@ -8784,7 +10152,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t12-r4",
@@ -8810,7 +10183,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t12-r5",
@@ -8836,7 +10214,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t13-r1",
@@ -8862,7 +10245,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t13-r2",
@@ -8888,7 +10276,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t13-r3",
@@ -8914,7 +10307,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t13-r4",
@@ -8940,7 +10338,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t13-r5",
@@ -8966,7 +10369,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t14-r1",
@@ -8992,7 +10400,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t14-r2",
@@ -9018,7 +10431,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t14-r3",
@@ -9044,7 +10462,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t14-r4",
@@ -9070,7 +10493,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t14-r5",
@@ -9096,7 +10524,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t15-r1",
@@ -9122,7 +10555,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t15-r2",
@@ -9148,7 +10586,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t15-r3",
@@ -9174,7 +10617,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t15-r4",
@@ -9200,7 +10648,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t15-r5",
@@ -9226,7 +10679,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t16-r1",
@@ -9252,7 +10710,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t16-r2",
@@ -9278,7 +10741,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t16-r3",
@@ -9304,7 +10772,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t16-r4",
@@ -9330,7 +10803,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t16-r5",
@@ -9356,7 +10834,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t17-r1",
@@ -9382,7 +10865,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t17-r2",
@@ -9408,7 +10896,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t17-r3",
@@ -9434,7 +10927,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t17-r4",
@@ -9460,7 +10958,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t17-r5",
@@ -9486,7 +10989,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t18-r1",
@@ -9512,7 +11020,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditRiverViews",
+          "caption": "河口俯視與葉片特寫",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈把鏡頭拉遠〉特寫能看清楚什麼？",
+          "articleTitle": "把鏡頭拉遠",
+          "articleText": "",
+          "unitId": 4,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "區分位置關係與細部觀察，示意圖不假稱原始空拍照片。"
+        }
       },
       {
         "id": "u4-t18-r2",
@@ -9538,7 +11061,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditRiverViews",
+          "caption": "河口俯視與葉片特寫",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈把鏡頭拉遠〉為什麼依問題選照片？",
+          "articleTitle": "把鏡頭拉遠",
+          "articleText": "",
+          "unitId": 4,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "區分位置關係與細部觀察，示意圖不假稱原始空拍照片。"
+        }
       },
       {
         "id": "u4-t18-r3",
@@ -9564,7 +11102,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditRiverViews",
+          "caption": "河口俯視與葉片特寫",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈把鏡頭拉遠〉可以推知小組重視什麼？",
+          "articleTitle": "把鏡頭拉遠",
+          "articleText": "",
+          "unitId": 4,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "區分位置關係與細部觀察，示意圖不假稱原始空拍照片。"
+        }
       },
       {
         "id": "u4-t18-r4",
@@ -9590,7 +11143,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditRiverViews",
+          "caption": "河口俯視與葉片特寫",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈把鏡頭拉遠〉「特寫」指什麼？",
+          "articleTitle": "把鏡頭拉遠",
+          "articleText": "",
+          "unitId": 4,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "區分位置關係與細部觀察，示意圖不假稱原始空拍照片。"
+        }
       },
       {
         "id": "u4-t18-r5",
@@ -9616,7 +11184,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditRiverViews",
+          "caption": "河口俯視與葉片特寫",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈把鏡頭拉遠〉哪個主旨最能概括全文？",
+          "articleTitle": "把鏡頭拉遠",
+          "articleText": "",
+          "unitId": 4,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "區分位置關係與細部觀察，示意圖不假稱原始空拍照片。"
+        }
       },
       {
         "id": "u4-t19-r1",
@@ -9642,7 +11225,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t19-r2",
@@ -9668,7 +11256,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t19-r3",
@@ -9694,7 +11287,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t19-r4",
@@ -9720,7 +11318,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t19-r5",
@@ -9746,7 +11349,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t20-r1",
@@ -9772,7 +11380,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t20-r2",
@@ -9798,7 +11411,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t20-r3",
@@ -9824,7 +11442,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t20-r4",
@@ -9850,7 +11473,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t20-r5",
@@ -9876,7 +11504,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t51-a",
@@ -9905,7 +11538,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u4-t201-a"
+        "libraryKey": "u4-t201-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t52-a",
@@ -9934,7 +11572,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u4-t202-a"
+        "libraryKey": "u4-t202-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t53-a",
@@ -9963,7 +11606,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u4-t203-a"
+        "libraryKey": "u4-t203-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t54-a",
@@ -9992,7 +11640,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u4-t204-a"
+        "libraryKey": "u4-t204-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t55-a",
@@ -10021,7 +11674,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u4-t205-a"
+        "libraryKey": "u4-t205-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t56-a",
@@ -10050,7 +11708,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u4-t206-a"
+        "libraryKey": "u4-t206-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t57-a",
@@ -10079,7 +11742,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u4-t207-a"
+        "libraryKey": "u4-t207-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t58-a",
@@ -10108,7 +11776,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u4-t208-a"
+        "libraryKey": "u4-t208-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t59-a",
@@ -10137,7 +11810,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u4-t209-a"
+        "libraryKey": "u4-t209-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t60-a",
@@ -10166,7 +11844,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u4-t210-a"
+        "libraryKey": "u4-t210-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t61-a",
@@ -10195,7 +11878,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u4-t211-a"
+        "libraryKey": "u4-t211-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u4-t62-a",
@@ -10224,7 +11912,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u4-t212-a"
+        "libraryKey": "u4-t212-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       }
     ],
     "lessonNames": "蚊帳大使／從空中看臺灣／攀岩高手",
@@ -10558,7 +12251,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditPainting",
+          "caption": "依文字描述重繪的畫面",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈畫裡的等待〉老人的目光望向哪裡？",
+          "articleTitle": "畫裡的等待",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現窗邊老人、放在膝上的雙手及門口，圖為依文字重繪的示意。"
+        }
       },
       {
         "id": "u5-t01-r2",
@@ -10584,7 +12292,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditPainting",
+          "caption": "依文字描述重繪的畫面",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈畫裡的等待〉為什麼先描述姿勢再說猜想？",
+          "articleTitle": "畫裡的等待",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現窗邊老人、放在膝上的雙手及門口，圖為依文字重繪的示意。"
+        }
       },
       {
         "id": "u5-t01-r3",
@@ -10610,7 +12333,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditPainting",
+          "caption": "依文字描述重繪的畫面",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈畫裡的等待〉哪個說法最合理？",
+          "articleTitle": "畫裡的等待",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現窗邊老人、放在膝上的雙手及門口，圖為依文字重繪的示意。"
+        }
       },
       {
         "id": "u5-t01-r4",
@@ -10636,7 +12374,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditPainting",
+          "caption": "依文字描述重繪的畫面",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈畫裡的等待〉「解讀」指什麼？",
+          "articleTitle": "畫裡的等待",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現窗邊老人、放在膝上的雙手及門口，圖為依文字重繪的示意。"
+        }
       },
       {
         "id": "u5-t01-r5",
@@ -10662,7 +12415,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditPainting",
+          "caption": "依文字描述重繪的畫面",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈畫裡的等待〉哪個主旨最能概括全文？",
+          "articleTitle": "畫裡的等待",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現窗邊老人、放在膝上的雙手及門口，圖為依文字重繪的示意。"
+        }
       },
       {
         "id": "u5-t02-r1",
@@ -10688,7 +12456,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditLandscapeLayers",
+          "caption": "前景、中景與遠景",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈從近處到遠方〉介紹中最後寫什麼？",
+          "articleTitle": "從近處到遠方",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依文中順序畫紅花、小橋、遠山，協助觀察描述順序。"
+        }
       },
       {
         "id": "u5-t02-r2",
@@ -10714,7 +12497,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditLandscapeLayers",
+          "caption": "前景、中景與遠景",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈從近處到遠方〉為什麼調整描述順序？",
+          "articleTitle": "從近處到遠方",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依文中順序畫紅花、小橋、遠山，協助觀察描述順序。"
+        }
       },
       {
         "id": "u5-t02-r3",
@@ -10740,7 +12538,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditLandscapeLayers",
+          "caption": "前景、中景與遠景",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈從近處到遠方〉哪種方法適合介紹這幅畫？",
+          "articleTitle": "從近處到遠方",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依文中順序畫紅花、小橋、遠山，協助觀察描述順序。"
+        }
       },
       {
         "id": "u5-t02-r4",
@@ -10766,7 +12579,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditLandscapeLayers",
+          "caption": "前景、中景與遠景",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈從近處到遠方〉「前景」指什麼？",
+          "articleTitle": "從近處到遠方",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依文中順序畫紅花、小橋、遠山，協助觀察描述順序。"
+        }
       },
       {
         "id": "u5-t02-r5",
@@ -10792,7 +12620,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditLandscapeLayers",
+          "caption": "前景、中景與遠景",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈從近處到遠方〉哪個主旨最能概括全文？",
+          "articleTitle": "從近處到遠方",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依文中順序畫紅花、小橋、遠山，協助觀察描述順序。"
+        }
       },
       {
         "id": "u5-t03-r1",
@@ -10818,7 +12661,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditSeaColors",
+          "caption": "同一海景的色彩表現",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈安靜的顏色〉畫家用橘紅描畫什麼時刻？",
+          "articleTitle": "安靜的顏色",
+          "articleText": "同一片海，畫家用灰藍表現清晨，用橘紅描畫夕陽。小柔原本認為海只能畫成藍色，看完兩幅作品，才注意到光線、時間與作者感受都會影響表現。她仍喜歡藍色的海，但不再用一種顏色判斷作品是否正確。\n\n導覽員請大家比較兩幅畫的天空、海面與岸邊影子，小柔才發現，差別不只有海水的顏色。清晨那幅留了大片淡色，夕陽那幅則把暖色集中在水面；這些安排讓人產生不同感受，不能只拿一個地方決定整幅畫是否合理。\n\n回家畫海時，小柔先觀察窗邊照片，再記下自己想表現的時間。她沒有為了求新，隨便換上任何顏色，而是試著讓色彩與光線互相呼應。她喜歡藍海的心情沒有消失，只是多了一個理解其他作品的方法。",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依本文灰藍清晨、橘紅夕陽，追加資料有紫色想像時才增加第三幅。"
+        }
       },
       {
         "id": "u5-t03-r2",
@@ -10844,7 +12702,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditSeaColors",
+          "caption": "同一海景的色彩表現",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈安靜的顏色〉為什麼海可以有不同顏色？",
+          "articleTitle": "安靜的顏色",
+          "articleText": "同一片海，畫家用灰藍表現清晨，用橘紅描畫夕陽。小柔原本認為海只能畫成藍色，看完兩幅作品，才注意到光線、時間與作者感受都會影響表現。她仍喜歡藍色的海，但不再用一種顏色判斷作品是否正確。\n\n導覽員請大家比較兩幅畫的天空、海面與岸邊影子，小柔才發現，差別不只有海水的顏色。清晨那幅留了大片淡色，夕陽那幅則把暖色集中在水面；這些安排讓人產生不同感受，不能只拿一個地方決定整幅畫是否合理。\n\n回家畫海時，小柔先觀察窗邊照片，再記下自己想表現的時間。她沒有為了求新，隨便換上任何顏色，而是試著讓色彩與光線互相呼應。她喜歡藍海的心情沒有消失，只是多了一個理解其他作品的方法。",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依本文灰藍清晨、橘紅夕陽，追加資料有紫色想像時才增加第三幅。"
+        }
       },
       {
         "id": "u5-t03-r3",
@@ -10870,7 +12743,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditSeaColors",
+          "caption": "同一海景的色彩表現",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈安靜的顏色〉小柔的觀點有何變化？",
+          "articleTitle": "安靜的顏色",
+          "articleText": "同一片海，畫家用灰藍表現清晨，用橘紅描畫夕陽。小柔原本認為海只能畫成藍色，看完兩幅作品，才注意到光線、時間與作者感受都會影響表現。她仍喜歡藍色的海，但不再用一種顏色判斷作品是否正確。\n\n導覽員請大家比較兩幅畫的天空、海面與岸邊影子，小柔才發現，差別不只有海水的顏色。清晨那幅留了大片淡色，夕陽那幅則把暖色集中在水面；這些安排讓人產生不同感受，不能只拿一個地方決定整幅畫是否合理。\n\n回家畫海時，小柔先觀察窗邊照片，再記下自己想表現的時間。她沒有為了求新，隨便換上任何顏色，而是試著讓色彩與光線互相呼應。她喜歡藍海的心情沒有消失，只是多了一個理解其他作品的方法。",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依本文灰藍清晨、橘紅夕陽，追加資料有紫色想像時才增加第三幅。"
+        }
       },
       {
         "id": "u5-t03-r4",
@@ -10896,7 +12784,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditSeaColors",
+          "caption": "同一海景的色彩表現",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈安靜的顏色〉「表現」在文中指什麼？",
+          "articleTitle": "安靜的顏色",
+          "articleText": "同一片海，畫家用灰藍表現清晨，用橘紅描畫夕陽。小柔原本認為海只能畫成藍色，看完兩幅作品，才注意到光線、時間與作者感受都會影響表現。她仍喜歡藍色的海，但不再用一種顏色判斷作品是否正確。\n\n導覽員請大家比較兩幅畫的天空、海面與岸邊影子，小柔才發現，差別不只有海水的顏色。清晨那幅留了大片淡色，夕陽那幅則把暖色集中在水面；這些安排讓人產生不同感受，不能只拿一個地方決定整幅畫是否合理。\n\n回家畫海時，小柔先觀察窗邊照片，再記下自己想表現的時間。她沒有為了求新，隨便換上任何顏色，而是試著讓色彩與光線互相呼應。她喜歡藍海的心情沒有消失，只是多了一個理解其他作品的方法。",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依本文灰藍清晨、橘紅夕陽，追加資料有紫色想像時才增加第三幅。"
+        }
       },
       {
         "id": "u5-t03-r5",
@@ -10922,7 +12825,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditSeaColors",
+          "caption": "同一海景的色彩表現",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈安靜的顏色〉哪個主旨最能概括全文？",
+          "articleTitle": "安靜的顏色",
+          "articleText": "同一片海，畫家用灰藍表現清晨，用橘紅描畫夕陽。小柔原本認為海只能畫成藍色，看完兩幅作品，才注意到光線、時間與作者感受都會影響表現。她仍喜歡藍色的海，但不再用一種顏色判斷作品是否正確。\n\n導覽員請大家比較兩幅畫的天空、海面與岸邊影子，小柔才發現，差別不只有海水的顏色。清晨那幅留了大片淡色，夕陽那幅則把暖色集中在水面；這些安排讓人產生不同感受，不能只拿一個地方決定整幅畫是否合理。\n\n回家畫海時，小柔先觀察窗邊照片，再記下自己想表現的時間。她沒有為了求新，隨便換上任何顏色，而是試著讓色彩與光線互相呼應。她喜歡藍海的心情沒有消失，只是多了一個理解其他作品的方法。",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依本文灰藍清晨、橘紅夕陽，追加資料有紫色想像時才增加第三幅。"
+        }
       },
       {
         "id": "u5-t04-r1",
@@ -10948,7 +12866,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t04-r2",
@@ -10974,7 +12897,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t04-r3",
@@ -11000,7 +12928,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t04-r4",
@@ -11026,7 +12959,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t04-r5",
@@ -11052,7 +12990,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t05-r1",
@@ -11078,7 +13021,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t05-r2",
@@ -11104,7 +13052,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t05-r3",
@@ -11130,7 +13083,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t05-r4",
@@ -11156,7 +13114,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t05-r5",
@@ -11182,7 +13145,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t06-r1",
@@ -11208,7 +13176,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t06-r2",
@@ -11234,7 +13207,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t06-r3",
@@ -11260,7 +13238,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t06-r4",
@@ -11286,7 +13269,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t06-r5",
@@ -11312,7 +13300,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t07-r1",
@@ -11338,7 +13331,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditLogoScale",
+          "caption": "標誌縮小前後",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈小店的新標誌〉店主用什麼作為主要圖案？",
+          "articleTitle": "小店的新標誌",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "比較複雜線條與簡化麵包標誌的辨識效果，無真實品牌。"
+        }
       },
       {
         "id": "u5-t07-r2",
@@ -11364,7 +13372,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditLogoScale",
+          "caption": "標誌縮小前後",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈小店的新標誌〉為什麼刪去裝飾？",
+          "articleTitle": "小店的新標誌",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "比較複雜線條與簡化麵包標誌的辨識效果，無真實品牌。"
+        }
       },
       {
         "id": "u5-t07-r3",
@@ -11390,7 +13413,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditLogoScale",
+          "caption": "標誌縮小前後",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈小店的新標誌〉可以推知設計時要考慮什麼？",
+          "articleTitle": "小店的新標誌",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "比較複雜線條與簡化麵包標誌的辨識效果，無真實品牌。"
+        }
       },
       {
         "id": "u5-t07-r4",
@@ -11416,7 +13454,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditLogoScale",
+          "caption": "標誌縮小前後",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈小店的新標誌〉「辨認」指什麼？",
+          "articleTitle": "小店的新標誌",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "比較複雜線條與簡化麵包標誌的辨識效果，無真實品牌。"
+        }
       },
       {
         "id": "u5-t07-r5",
@@ -11442,7 +13495,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditLogoScale",
+          "caption": "標誌縮小前後",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈小店的新標誌〉哪個主旨最能概括全文？",
+          "articleTitle": "小店的新標誌",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "比較複雜線條與簡化麵包標誌的辨識效果，無真實品牌。"
+        }
       },
       {
         "id": "u5-t08-r1",
@@ -11468,7 +13536,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditSigns",
+          "caption": "兩家綠色招牌的比較",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈色彩不能單獨作證〉姐姐比較了哪些資料？",
+          "articleTitle": "色彩不能單獨作證",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "同色招牌的圖形、字樣與排列不同；為虛構設計示意，非真實商標。"
+        }
       },
       {
         "id": "u5-t08-r2",
@@ -11494,7 +13577,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditSigns",
+          "caption": "兩家綠色招牌的比較",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈色彩不能單獨作證〉為什麼不能只看綠色？",
+          "articleTitle": "色彩不能單獨作證",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "同色招牌的圖形、字樣與排列不同；為虛構設計示意，非真實商標。"
+        }
       },
       {
         "id": "u5-t08-r3",
@@ -11520,7 +13618,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditSigns",
+          "caption": "兩家綠色招牌的比較",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈色彩不能單獨作證〉哪種方法比較可靠？",
+          "articleTitle": "色彩不能單獨作證",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "同色招牌的圖形、字樣與排列不同；為虛構設計示意，非真實商標。"
+        }
       },
       {
         "id": "u5-t08-r4",
@@ -11546,7 +13659,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditSigns",
+          "caption": "兩家綠色招牌的比較",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈色彩不能單獨作證〉「聯想」是什麼意思？",
+          "articleTitle": "色彩不能單獨作證",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "同色招牌的圖形、字樣與排列不同；為虛構設計示意，非真實商標。"
+        }
       },
       {
         "id": "u5-t08-r5",
@@ -11572,7 +13700,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditSigns",
+          "caption": "兩家綠色招牌的比較",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈色彩不能單獨作證〉哪個主旨最能概括全文？",
+          "articleTitle": "色彩不能單獨作證",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "同色招牌的圖形、字樣與排列不同；為虛構設計示意，非真實商標。"
+        }
       },
       {
         "id": "u5-t09-r1",
@@ -11598,7 +13741,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t09-r2",
@@ -11624,7 +13772,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t09-r3",
@@ -11650,7 +13803,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t09-r4",
@@ -11676,7 +13834,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t09-r5",
@@ -11702,7 +13865,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t10-r1",
@@ -11728,7 +13896,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditTeamLogo",
+          "caption": "兩版隊徽示意",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈一眼認出的秘密〉第二版保留哪些內容？",
+          "articleTitle": "一眼認出的秘密",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "第一版多元素、第二版山形隊名放大，與文中設計修改相符。"
+        }
       },
       {
         "id": "u5-t10-r2",
@@ -11754,7 +13937,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditTeamLogo",
+          "caption": "兩版隊徽示意",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈一眼認出的秘密〉為什麼多數人選第二版？",
+          "articleTitle": "一眼認出的秘密",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "第一版多元素、第二版山形隊名放大，與文中設計修改相符。"
+        }
       },
       {
         "id": "u5-t10-r3",
@@ -11780,7 +13978,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditTeamLogo",
+          "caption": "兩版隊徽示意",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈一眼認出的秘密〉可以推知第一版主要問題是什麼？",
+          "articleTitle": "一眼認出的秘密",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "第一版多元素、第二版山形隊名放大，與文中設計修改相符。"
+        }
       },
       {
         "id": "u5-t10-r4",
@@ -11806,7 +14019,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditTeamLogo",
+          "caption": "兩版隊徽示意",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈一眼認出的秘密〉「元素」在文中指什麼？",
+          "articleTitle": "一眼認出的秘密",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "第一版多元素、第二版山形隊名放大，與文中設計修改相符。"
+        }
       },
       {
         "id": "u5-t10-r5",
@@ -11832,7 +14060,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditTeamLogo",
+          "caption": "兩版隊徽示意",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈一眼認出的秘密〉哪個主旨最能概括全文？",
+          "articleTitle": "一眼認出的秘密",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "第一版多元素、第二版山形隊名放大，與文中設計修改相符。"
+        }
       },
       {
         "id": "u5-t11-r1",
@@ -11858,7 +14101,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t11-r2",
@@ -11884,7 +14132,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t11-r3",
@@ -11910,7 +14163,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t11-r4",
@@ -11936,7 +14194,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t11-r5",
@@ -11962,7 +14225,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t12-r1",
@@ -11988,7 +14256,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t12-r2",
@@ -12014,7 +14287,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t12-r3",
@@ -12040,7 +14318,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t12-r4",
@@ -12066,7 +14349,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t12-r5",
@@ -12092,7 +14380,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t13-r1",
@@ -12118,7 +14411,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditAnimation",
+          "caption": "連續畫面示意",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈翻頁的小鳥〉小琳在紙角畫什麼？",
+          "articleTitle": "翻頁的小鳥",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "展示動作前後的變化；非作者原畫或影片截圖。"
+        }
       },
       {
         "id": "u5-t13-r2",
@@ -12144,7 +14452,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditAnimation",
+          "caption": "連續畫面示意",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈翻頁的小鳥〉為什麼順序放錯會影響效果？",
+          "articleTitle": "翻頁的小鳥",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "展示動作前後的變化；非作者原畫或影片截圖。"
+        }
       },
       {
         "id": "u5-t13-r3",
@@ -12170,7 +14493,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditAnimation",
+          "caption": "連續畫面示意",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈翻頁的小鳥〉哪種做法能改善翻頁效果？",
+          "articleTitle": "翻頁的小鳥",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "展示動作前後的變化；非作者原畫或影片截圖。"
+        }
       },
       {
         "id": "u5-t13-r4",
@@ -12196,7 +14534,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditAnimation",
+          "caption": "連續畫面示意",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈翻頁的小鳥〉「連貫」是什麼意思？",
+          "articleTitle": "翻頁的小鳥",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "展示動作前後的變化；非作者原畫或影片截圖。"
+        }
       },
       {
         "id": "u5-t13-r5",
@@ -12222,7 +14575,22 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visual": {
+          "kind": "auditAnimation",
+          "caption": "連續畫面示意",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈翻頁的小鳥〉哪個主旨最能概括全文？",
+          "articleTitle": "翻頁的小鳥",
+          "articleText": "",
+          "unitId": 5,
+          "conceptIndex": null,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "展示動作前後的變化；非作者原畫或影片截圖。"
+        }
       },
       {
         "id": "u5-t14-r1",
@@ -12248,7 +14616,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t14-r2",
@@ -12274,7 +14647,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t14-r3",
@@ -12300,7 +14678,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t14-r4",
@@ -12326,7 +14709,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t14-r5",
@@ -12352,7 +14740,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t15-r1",
@@ -12378,7 +14771,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t15-r2",
@@ -12404,7 +14802,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t15-r3",
@@ -12430,7 +14833,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t15-r4",
@@ -12456,7 +14864,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t15-r5",
@@ -12482,7 +14895,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t16-r1",
@@ -12508,7 +14926,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t16-r2",
@@ -12534,7 +14957,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t16-r3",
@@ -12560,7 +14988,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t16-r4",
@@ -12586,7 +15019,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t16-r5",
@@ -12612,7 +15050,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t17-r1",
@@ -12638,7 +15081,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t17-r2",
@@ -12664,7 +15112,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t17-r3",
@@ -12690,7 +15143,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t17-r4",
@@ -12716,7 +15174,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t17-r5",
@@ -12742,7 +15205,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t18-r1",
@@ -12768,7 +15236,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t18-r2",
@@ -12794,7 +15267,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t18-r3",
@@ -12820,7 +15298,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t18-r4",
@@ -12846,7 +15329,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t18-r5",
@@ -12872,7 +15360,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t19-r1",
@@ -12898,7 +15391,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t19-r2",
@@ -12924,7 +15422,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t19-r3",
@@ -12950,7 +15453,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t19-r4",
@@ -12976,7 +15484,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t19-r5",
@@ -13002,7 +15515,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t20-r1",
@@ -13028,7 +15546,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t20-r2",
@@ -13054,7 +15577,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t20-r3",
@@ -13080,7 +15608,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t20-r4",
@@ -13106,7 +15639,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t20-r5",
@@ -13132,7 +15670,12 @@ window.REVIEW_UNITS=[
           "C5"
         ],
         "sourceType": "既有延伸題・依公開考點複核",
-        "visualPolicy": "none"
+        "visualPolicy": "none",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t51-a",
@@ -13161,7 +15704,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u5-t201-a"
+        "libraryKey": "u5-t201-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t52-a",
@@ -13190,7 +15738,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u5-t202-a"
+        "libraryKey": "u5-t202-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t53-a",
@@ -13219,7 +15772,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u5-t203-a"
+        "libraryKey": "u5-t203-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t54-a",
@@ -13248,7 +15806,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u5-t204-a"
+        "libraryKey": "u5-t204-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t55-a",
@@ -13277,7 +15840,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u5-t205-a"
+        "libraryKey": "u5-t205-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t56-a",
@@ -13306,7 +15874,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u5-t206-a"
+        "libraryKey": "u5-t206-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t57-a",
@@ -13335,7 +15908,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u5-t207-a"
+        "libraryKey": "u5-t207-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t58-a",
@@ -13364,7 +15942,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u5-t208-a"
+        "libraryKey": "u5-t208-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t59-a",
@@ -13393,7 +15976,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u5-t209-a"
+        "libraryKey": "u5-t209-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t60-a",
@@ -13422,7 +16010,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u5-t210-a"
+        "libraryKey": "u5-t210-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t61-a",
@@ -13451,7 +16044,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u5-t211-a"
+        "libraryKey": "u5-t211-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u5-t62-a",
@@ -13480,7 +16078,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u5-t212-a"
+        "libraryKey": "u5-t212-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       }
     ],
     "lessonNames": "恆久的美／它抓得住你——商標的故事／故事「動」起來",
@@ -13817,7 +16420,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "第三人稱單數 she 用 Does 詢問喜好。",
-        "libraryKey": "u6-t201-a"
+        "libraryKey": "u6-t201-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 6,
@@ -13846,7 +16454,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "he 搭配 likes。",
-        "libraryKey": "u6-t202-a"
+        "libraryKey": "u6-t202-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 6,
@@ -13875,7 +16488,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "Do you…? 的否定回答為 No, I don’t.。",
-        "libraryKey": "u6-t203-a"
+        "libraryKey": "u6-t203-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 6,
@@ -13904,7 +16522,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "Does 問句的簡答為 Yes, he does.。",
-        "libraryKey": "u6-t204-a"
+        "libraryKey": "u6-t204-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 6,
@@ -13933,7 +16556,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "they 是複數主詞，使用 like。",
-        "libraryKey": "u6-t205-a"
+        "libraryKey": "u6-t205-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 6,
@@ -13962,7 +16590,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "doesn’t 後使用原形動詞 like。",
-        "libraryKey": "u6-t206-a"
+        "libraryKey": "u6-t206-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 6,
@@ -13991,7 +16624,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "問題問喜好，應回應喜歡的飲料。",
-        "libraryKey": "u6-t207-a"
+        "libraryKey": "u6-t207-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 6,
@@ -14020,7 +16658,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "第一句直接指出 dad 喜歡 tea。",
-        "libraryKey": "u6-t208-a"
+        "libraryKey": "u6-t208-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 6,
@@ -14049,7 +16692,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "第三人稱單數 she 的肯定句用 likes。",
-        "libraryKey": "u6-t209-a"
+        "libraryKey": "u6-t209-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 6,
@@ -14078,7 +16726,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "Amy and Ben 是兩人，用 they do。",
-        "libraryKey": "u6-t210-a"
+        "libraryKey": "u6-t210-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 6,
@@ -14107,7 +16760,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "but 後為不喜歡茶；前面說喜歡果汁。",
-        "libraryKey": "u6-t211-a"
+        "libraryKey": "u6-t211-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 6,
@@ -14136,7 +16794,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "mom 對應 she，Does 問句否定簡答用 doesn’t。",
-        "libraryKey": "u6-t212-a"
+        "libraryKey": "u6-t212-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 6,
@@ -14149,7 +16812,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Check the drink order 1〉What does Ben like?",
@@ -14171,9 +16833,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "找資料",
         "family": "library-english-6-0",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditDrinkOrders",
+          "caption": "人物與飲料",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Person",
@@ -14197,9 +16859,20 @@ window.REVIEW_UNITS=[
                 "milk tea"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Check the drink order 1〉What does Ben like?",
+          "articleTitle": "Check the drink order 1",
+          "articleText": "",
+          "unitId": 6,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u6-t221-r1"
+        "libraryKey": "u6-t221-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+        }
       },
       {
         "unit": 6,
@@ -14212,7 +16885,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Check the drink order 1〉Who likes water?",
@@ -14234,9 +16906,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "配對資訊",
         "family": "library-english-6-0",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditDrinkOrders",
+          "caption": "人物與飲料",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Person",
@@ -14260,9 +16932,20 @@ window.REVIEW_UNITS=[
                 "milk tea"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Check the drink order 1〉Who likes water?",
+          "articleTitle": "Check the drink order 1",
+          "articleText": "",
+          "unitId": 6,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u6-t221-r2"
+        "libraryKey": "u6-t221-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+        }
       },
       {
         "unit": 6,
@@ -14275,7 +16958,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Check the drink order 1〉Does Cody’s mom like orange juice?",
@@ -14297,9 +16979,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "句型理解",
         "family": "library-english-6-0",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditDrinkOrders",
+          "caption": "人物與飲料",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Person",
@@ -14323,9 +17005,20 @@ window.REVIEW_UNITS=[
                 "milk tea"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Check the drink order 1〉Does Cody’s mom like orange juice?",
+          "articleTitle": "Check the drink order 1",
+          "articleText": "",
+          "unitId": 6,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u6-t221-r3"
+        "libraryKey": "u6-t221-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+        }
       },
       {
         "unit": 6,
@@ -14338,7 +17031,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Check the drink order 1〉Which order is for Amy?",
@@ -14360,9 +17052,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "整合對話",
         "family": "library-english-6-0",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditDrinkOrders",
+          "caption": "人物與飲料",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Person",
@@ -14386,9 +17078,20 @@ window.REVIEW_UNITS=[
                 "milk tea"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Check the drink order 1〉Which order is for Amy?",
+          "articleTitle": "Check the drink order 1",
+          "articleText": "",
+          "unitId": 6,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u6-t221-r4"
+        "libraryKey": "u6-t221-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+        }
       },
       {
         "unit": 6,
@@ -14401,7 +17104,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Check the drink order 1〉Why must they check the names in the order?",
@@ -14423,9 +17125,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "情境應用",
         "family": "library-english-6-0",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditDrinkOrders",
+          "caption": "人物與飲料",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Person",
@@ -14449,9 +17151,20 @@ window.REVIEW_UNITS=[
                 "milk tea"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Check the drink order 1〉Why must they check the names in the order?",
+          "articleTitle": "Check the drink order 1",
+          "articleText": "",
+          "unitId": 6,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u6-t221-r5"
+        "libraryKey": "u6-t221-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+        }
       },
       {
         "unit": 6,
@@ -14464,7 +17177,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Check the drink order 2〉What does Fred like?",
@@ -14486,9 +17198,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "找資料",
         "family": "library-english-6-1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditDrinkOrders",
+          "caption": "人物與飲料",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Person",
@@ -14512,9 +17224,20 @@ window.REVIEW_UNITS=[
                 "orange juice"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Check the drink order 2〉What does Fred like?",
+          "articleTitle": "Check the drink order 2",
+          "articleText": "",
+          "unitId": 6,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u6-t222-r1"
+        "libraryKey": "u6-t222-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+        }
       },
       {
         "unit": 6,
@@ -14527,7 +17250,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Check the drink order 2〉Who likes milk?",
@@ -14549,9 +17271,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "配對資訊",
         "family": "library-english-6-1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditDrinkOrders",
+          "caption": "人物與飲料",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Person",
@@ -14575,9 +17297,20 @@ window.REVIEW_UNITS=[
                 "orange juice"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Check the drink order 2〉Who likes milk?",
+          "articleTitle": "Check the drink order 2",
+          "articleText": "",
+          "unitId": 6,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u6-t222-r2"
+        "libraryKey": "u6-t222-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+        }
       },
       {
         "unit": 6,
@@ -14590,7 +17323,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Check the drink order 2〉Does Gina’s mom like water?",
@@ -14612,9 +17344,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "句型理解",
         "family": "library-english-6-1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditDrinkOrders",
+          "caption": "人物與飲料",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Person",
@@ -14638,9 +17370,20 @@ window.REVIEW_UNITS=[
                 "orange juice"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Check the drink order 2〉Does Gina’s mom like water?",
+          "articleTitle": "Check the drink order 2",
+          "articleText": "",
+          "unitId": 6,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u6-t222-r3"
+        "libraryKey": "u6-t222-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+        }
       },
       {
         "unit": 6,
@@ -14653,7 +17396,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Check the drink order 2〉Which order is for Emma?",
@@ -14675,9 +17417,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "整合對話",
         "family": "library-english-6-1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditDrinkOrders",
+          "caption": "人物與飲料",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Person",
@@ -14701,9 +17443,20 @@ window.REVIEW_UNITS=[
                 "orange juice"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Check the drink order 2〉Which order is for Emma?",
+          "articleTitle": "Check the drink order 2",
+          "articleText": "",
+          "unitId": 6,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u6-t222-r4"
+        "libraryKey": "u6-t222-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+        }
       },
       {
         "unit": 6,
@@ -14716,7 +17469,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Check the drink order 2〉Why must they check the names in the order?",
@@ -14738,9 +17490,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "情境應用",
         "family": "library-english-6-1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditDrinkOrders",
+          "caption": "人物與飲料",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Person",
@@ -14764,9 +17516,20 @@ window.REVIEW_UNITS=[
                 "orange juice"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Check the drink order 2〉Why must they check the names in the order?",
+          "articleTitle": "Check the drink order 2",
+          "articleText": "",
+          "unitId": 6,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u6-t222-r5"
+        "libraryKey": "u6-t222-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+        }
       },
       {
         "unit": 6,
@@ -14779,7 +17542,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Check the drink order 3〉What does May like?",
@@ -14801,9 +17563,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "找資料",
         "family": "library-english-6-2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditDrinkOrders",
+          "caption": "人物與飲料",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Person",
@@ -14827,9 +17589,20 @@ window.REVIEW_UNITS=[
                 "water"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Check the drink order 3〉What does May like?",
+          "articleTitle": "Check the drink order 3",
+          "articleText": "",
+          "unitId": 6,
+          "conceptIndex": 22,
+          "examLineArt": false
         },
-        "libraryKey": "u6-t223-r1"
+        "libraryKey": "u6-t223-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+        }
       },
       {
         "unit": 6,
@@ -14842,7 +17615,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Check the drink order 3〉Who likes milk tea?",
@@ -14864,9 +17636,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "配對資訊",
         "family": "library-english-6-2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditDrinkOrders",
+          "caption": "人物與飲料",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Person",
@@ -14890,9 +17662,20 @@ window.REVIEW_UNITS=[
                 "water"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Check the drink order 3〉Who likes milk tea?",
+          "articleTitle": "Check the drink order 3",
+          "articleText": "",
+          "unitId": 6,
+          "conceptIndex": 22,
+          "examLineArt": false
         },
-        "libraryKey": "u6-t223-r2"
+        "libraryKey": "u6-t223-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+        }
       },
       {
         "unit": 6,
@@ -14905,7 +17688,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Check the drink order 3〉Does Nick’s mom like milk?",
@@ -14927,9 +17709,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "句型理解",
         "family": "library-english-6-2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditDrinkOrders",
+          "caption": "人物與飲料",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Person",
@@ -14953,9 +17735,20 @@ window.REVIEW_UNITS=[
                 "water"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Check the drink order 3〉Does Nick’s mom like milk?",
+          "articleTitle": "Check the drink order 3",
+          "articleText": "",
+          "unitId": 6,
+          "conceptIndex": 22,
+          "examLineArt": false
         },
-        "libraryKey": "u6-t223-r3"
+        "libraryKey": "u6-t223-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+        }
       },
       {
         "unit": 6,
@@ -14968,7 +17761,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Check the drink order 3〉Which order is for Leo?",
@@ -14990,9 +17782,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "整合對話",
         "family": "library-english-6-2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditDrinkOrders",
+          "caption": "人物與飲料",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Person",
@@ -15016,9 +17808,20 @@ window.REVIEW_UNITS=[
                 "water"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Check the drink order 3〉Which order is for Leo?",
+          "articleTitle": "Check the drink order 3",
+          "articleText": "",
+          "unitId": 6,
+          "conceptIndex": 22,
+          "examLineArt": false
         },
-        "libraryKey": "u6-t223-r4"
+        "libraryKey": "u6-t223-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+        }
       },
       {
         "unit": 6,
@@ -15031,7 +17834,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Check the drink order 3〉Why must they check the names in the order?",
@@ -15053,9 +17855,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "情境應用",
         "family": "library-english-6-2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditDrinkOrders",
+          "caption": "人物與飲料",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Person",
@@ -15079,9 +17881,20 @@ window.REVIEW_UNITS=[
                 "water"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Check the drink order 3〉Why must they check the names in the order?",
+          "articleTitle": "Check the drink order 3",
+          "articleText": "",
+          "unitId": 6,
+          "conceptIndex": 22,
+          "examLineArt": false
         },
-        "libraryKey": "u6-t223-r5"
+        "libraryKey": "u6-t223-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+        }
       },
       {
         "unit": 6,
@@ -15094,7 +17907,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Check the drink order 4〉What does Tom like?",
@@ -15116,9 +17928,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "找資料",
         "family": "library-english-6-3",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditDrinkOrders",
+          "caption": "人物與飲料",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Person",
@@ -15142,9 +17954,20 @@ window.REVIEW_UNITS=[
                 "milk"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Check the drink order 4〉What does Tom like?",
+          "articleTitle": "Check the drink order 4",
+          "articleText": "",
+          "unitId": 6,
+          "conceptIndex": 23,
+          "examLineArt": false
         },
-        "libraryKey": "u6-t224-r1"
+        "libraryKey": "u6-t224-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+        }
       },
       {
         "unit": 6,
@@ -15157,7 +17980,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Check the drink order 4〉Who likes orange juice?",
@@ -15179,9 +18001,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "配對資訊",
         "family": "library-english-6-3",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditDrinkOrders",
+          "caption": "人物與飲料",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Person",
@@ -15205,9 +18027,20 @@ window.REVIEW_UNITS=[
                 "milk"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Check the drink order 4〉Who likes orange juice?",
+          "articleTitle": "Check the drink order 4",
+          "articleText": "",
+          "unitId": 6,
+          "conceptIndex": 23,
+          "examLineArt": false
         },
-        "libraryKey": "u6-t224-r2"
+        "libraryKey": "u6-t224-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+        }
       },
       {
         "unit": 6,
@@ -15220,7 +18053,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Check the drink order 4〉Does Mia’s mom like milk tea?",
@@ -15242,9 +18074,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "句型理解",
         "family": "library-english-6-3",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditDrinkOrders",
+          "caption": "人物與飲料",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Person",
@@ -15268,9 +18100,20 @@ window.REVIEW_UNITS=[
                 "milk"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Check the drink order 4〉Does Mia’s mom like milk tea?",
+          "articleTitle": "Check the drink order 4",
+          "articleText": "",
+          "unitId": 6,
+          "conceptIndex": 23,
+          "examLineArt": false
         },
-        "libraryKey": "u6-t224-r3"
+        "libraryKey": "u6-t224-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+        }
       },
       {
         "unit": 6,
@@ -15283,7 +18126,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Check the drink order 4〉Which order is for Tina?",
@@ -15305,9 +18147,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "整合對話",
         "family": "library-english-6-3",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditDrinkOrders",
+          "caption": "人物與飲料",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Person",
@@ -15331,9 +18173,20 @@ window.REVIEW_UNITS=[
                 "milk"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Check the drink order 4〉Which order is for Tina?",
+          "articleTitle": "Check the drink order 4",
+          "articleText": "",
+          "unitId": 6,
+          "conceptIndex": 23,
+          "examLineArt": false
         },
-        "libraryKey": "u6-t224-r4"
+        "libraryKey": "u6-t224-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+        }
       },
       {
         "unit": 6,
@@ -15346,7 +18199,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Check the drink order 4〉Why must they check the names in the order?",
@@ -15368,9 +18220,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "情境應用",
         "family": "library-english-6-3",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditDrinkOrders",
+          "caption": "人物與飲料",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Person",
@@ -15394,9 +18246,20 @@ window.REVIEW_UNITS=[
                 "milk"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Check the drink order 4〉Why must they check the names in the order?",
+          "articleTitle": "Check the drink order 4",
+          "articleText": "",
+          "unitId": 6,
+          "conceptIndex": 23,
+          "examLineArt": false
         },
-        "libraryKey": "u6-t224-r5"
+        "libraryKey": "u6-t224-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+        }
       },
       {
         "unit": 6,
@@ -15409,7 +18272,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Choose from the menu〉Which drink is NOT available?",
@@ -15431,9 +18293,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "找資料",
         "family": "library-english-6-4",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditDrinkOrders",
+          "caption": "人物與飲料",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Menu",
@@ -15453,9 +18315,20 @@ window.REVIEW_UNITS=[
                 "Yes"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Choose from the menu〉Which drink is NOT available?",
+          "articleTitle": "Choose from the menu",
+          "articleText": "",
+          "unitId": 6,
+          "conceptIndex": 24,
+          "examLineArt": false
         },
-        "libraryKey": "u6-t225-r1"
+        "libraryKey": "u6-t225-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+        }
       },
       {
         "unit": 6,
@@ -15468,7 +18341,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Choose from the menu〉What does Owen NOT like?",
@@ -15490,9 +18362,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "配對資訊",
         "family": "library-english-6-4",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditDrinkOrders",
+          "caption": "人物與飲料",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Menu",
@@ -15512,9 +18384,20 @@ window.REVIEW_UNITS=[
                 "Yes"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Choose from the menu〉What does Owen NOT like?",
+          "articleTitle": "Choose from the menu",
+          "articleText": "",
+          "unitId": 6,
+          "conceptIndex": 24,
+          "examLineArt": false
         },
-        "libraryKey": "u6-t225-r2"
+        "libraryKey": "u6-t225-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+        }
       },
       {
         "unit": 6,
@@ -15527,7 +18410,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Choose from the menu〉What does Nina choose at the end?",
@@ -15549,9 +18431,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "句型理解",
         "family": "library-english-6-4",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditDrinkOrders",
+          "caption": "人物與飲料",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Menu",
@@ -15571,9 +18453,20 @@ window.REVIEW_UNITS=[
                 "Yes"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Choose from the menu〉What does Nina choose at the end?",
+          "articleTitle": "Choose from the menu",
+          "articleText": "",
+          "unitId": 6,
+          "conceptIndex": 24,
+          "examLineArt": false
         },
-        "libraryKey": "u6-t225-r3"
+        "libraryKey": "u6-t225-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+        }
       },
       {
         "unit": 6,
@@ -15586,7 +18479,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Choose from the menu〉How many cups of water does Paul prepare?",
@@ -15608,9 +18500,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "整合對話",
         "family": "library-english-6-4",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditDrinkOrders",
+          "caption": "人物與飲料",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Menu",
@@ -15630,9 +18522,20 @@ window.REVIEW_UNITS=[
                 "Yes"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Choose from the menu〉How many cups of water does Paul prepare?",
+          "articleTitle": "Choose from the menu",
+          "articleText": "",
+          "unitId": 6,
+          "conceptIndex": 24,
+          "examLineArt": false
         },
-        "libraryKey": "u6-t225-r4"
+        "libraryKey": "u6-t225-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+        }
       },
       {
         "unit": 6,
@@ -15645,7 +18548,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Choose from the menu〉Why does Nina choose water instead of milk?",
@@ -15667,9 +18569,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "情境應用",
         "family": "library-english-6-4",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditDrinkOrders",
+          "caption": "人物與飲料",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Menu",
@@ -15689,9 +18591,20 @@ window.REVIEW_UNITS=[
                 "Yes"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Choose from the menu〉Why does Nina choose water instead of milk?",
+          "articleTitle": "Choose from the menu",
+          "articleText": "",
+          "unitId": 6,
+          "conceptIndex": 24,
+          "examLineArt": false
         },
-        "libraryKey": "u6-t225-r5"
+        "libraryKey": "u6-t225-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+        }
       }
     ],
     "readingSetSize": 5,
@@ -16154,7 +19067,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "How many 後接可數名詞複數 apples。",
-        "libraryKey": "u7-t201-a"
+        "libraryKey": "u7-t201-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 7,
@@ -16183,7 +19101,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "第三人稱單數 she 搭配 needs。",
-        "libraryKey": "u7-t202-a"
+        "libraryKey": "u7-t202-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 7,
@@ -16212,7 +19135,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "問數量需要回答所需水果及數量。",
-        "libraryKey": "u7-t203-a"
+        "libraryKey": "u7-t203-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 7,
@@ -16241,7 +19169,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "one 後接單數 apple。",
-        "libraryKey": "u7-t204-a"
+        "libraryKey": "u7-t204-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 7,
@@ -16270,7 +19203,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "複數主詞 they 搭配 need。",
-        "libraryKey": "u7-t205-a"
+        "libraryKey": "u7-t205-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 7,
@@ -16310,7 +19248,12 @@ window.REVIEW_UNITS=[
             }
           ]
         },
-        "libraryKey": "u7-t206-a"
+        "libraryKey": "u7-t206-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+        }
       },
       {
         "unit": 7,
@@ -16339,7 +19282,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "two 表示二，所以這句是需要兩個橘子。",
-        "libraryKey": "u7-t207-a"
+        "libraryKey": "u7-t207-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 7,
@@ -16368,7 +19316,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "Does 問句的肯定簡答用 Yes, he does.。",
-        "libraryKey": "u7-t208-a"
+        "libraryKey": "u7-t208-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 7,
@@ -16397,7 +19350,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "需要五根、已有三根，再需 5－3＝2 根。",
-        "libraryKey": "u7-t209-a"
+        "libraryKey": "u7-t209-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 7,
@@ -16426,7 +19384,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "回答為 she needs，需注意第三人稱單數。",
-        "libraryKey": "u7-t210-a"
+        "libraryKey": "u7-t210-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 7,
@@ -16470,7 +19433,12 @@ window.REVIEW_UNITS=[
             }
           ]
         },
-        "libraryKey": "u7-t211-a"
+        "libraryKey": "u7-t211-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+        }
       },
       {
         "unit": 7,
@@ -16499,7 +19467,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "we 搭配 need，two 後用複數 apples。",
-        "libraryKey": "u7-t212-a"
+        "libraryKey": "u7-t212-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 7,
@@ -16512,7 +19485,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Fruit for our salad 1〉How many apples do they need in all?",
@@ -16534,9 +19506,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "找資料",
         "family": "library-english-7-0",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditFruitInventory",
+          "caption": "需求與現有水果",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Fruit",
@@ -16555,9 +19527,20 @@ window.REVIEW_UNITS=[
                 2
               ]
             ]
-          }
+          },
+          "sceneText": "〈Fruit for our salad 1〉How many apples do they need in all?",
+          "articleTitle": "Fruit for our salad 1",
+          "articleText": "",
+          "unitId": 7,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u7-t221-r1"
+        "libraryKey": "u7-t221-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+        }
       },
       {
         "unit": 7,
@@ -16570,7 +19553,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Fruit for our salad 1〉How many more apples do they need at first?",
@@ -16592,9 +19574,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "配對資訊",
         "family": "library-english-7-0",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditFruitInventory",
+          "caption": "需求與現有水果",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Fruit",
@@ -16613,9 +19595,20 @@ window.REVIEW_UNITS=[
                 2
               ]
             ]
-          }
+          },
+          "sceneText": "〈Fruit for our salad 1〉How many more apples do they need at first?",
+          "articleTitle": "Fruit for our salad 1",
+          "articleText": "",
+          "unitId": 7,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u7-t221-r2"
+        "libraryKey": "u7-t221-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+        }
       },
       {
         "unit": 7,
@@ -16628,7 +19621,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Fruit for our salad 1〉Do they need more bananas?",
@@ -16650,9 +19642,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "句型理解",
         "family": "library-english-7-0",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditFruitInventory",
+          "caption": "需求與現有水果",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Fruit",
@@ -16671,9 +19663,20 @@ window.REVIEW_UNITS=[
                 2
               ]
             ]
-          }
+          },
+          "sceneText": "〈Fruit for our salad 1〉Do they need more bananas?",
+          "articleTitle": "Fruit for our salad 1",
+          "articleText": "",
+          "unitId": 7,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u7-t221-r3"
+        "libraryKey": "u7-t221-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+        }
       },
       {
         "unit": 7,
@@ -16686,7 +19689,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Fruit for our salad 1〉Who brings three apples?",
@@ -16708,9 +19710,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "整合對話",
         "family": "library-english-7-0",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditFruitInventory",
+          "caption": "需求與現有水果",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Fruit",
@@ -16729,9 +19731,20 @@ window.REVIEW_UNITS=[
                 2
               ]
             ]
-          }
+          },
+          "sceneText": "〈Fruit for our salad 1〉Who brings three apples?",
+          "articleTitle": "Fruit for our salad 1",
+          "articleText": "",
+          "unitId": 7,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u7-t221-r4"
+        "libraryKey": "u7-t221-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+        }
       },
       {
         "unit": 7,
@@ -16744,7 +19757,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Fruit for our salad 1〉What do they do before making the salad?",
@@ -16766,9 +19778,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "情境應用",
         "family": "library-english-7-0",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditFruitInventory",
+          "caption": "需求與現有水果",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Fruit",
@@ -16787,9 +19799,20 @@ window.REVIEW_UNITS=[
                 2
               ]
             ]
-          }
+          },
+          "sceneText": "〈Fruit for our salad 1〉What do they do before making the salad?",
+          "articleTitle": "Fruit for our salad 1",
+          "articleText": "",
+          "unitId": 7,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u7-t221-r5"
+        "libraryKey": "u7-t221-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+        }
       },
       {
         "unit": 7,
@@ -16802,7 +19825,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Fruit for our salad 2〉How many apples do they need in all?",
@@ -16824,9 +19846,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "找資料",
         "family": "library-english-7-1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditFruitInventory",
+          "caption": "需求與現有水果",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Fruit",
@@ -16845,9 +19867,20 @@ window.REVIEW_UNITS=[
                 3
               ]
             ]
-          }
+          },
+          "sceneText": "〈Fruit for our salad 2〉How many apples do they need in all?",
+          "articleTitle": "Fruit for our salad 2",
+          "articleText": "",
+          "unitId": 7,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u7-t222-r1"
+        "libraryKey": "u7-t222-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+        }
       },
       {
         "unit": 7,
@@ -16860,7 +19893,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Fruit for our salad 2〉How many more apples do they need at first?",
@@ -16882,9 +19914,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "配對資訊",
         "family": "library-english-7-1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditFruitInventory",
+          "caption": "需求與現有水果",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Fruit",
@@ -16903,9 +19935,20 @@ window.REVIEW_UNITS=[
                 3
               ]
             ]
-          }
+          },
+          "sceneText": "〈Fruit for our salad 2〉How many more apples do they need at first?",
+          "articleTitle": "Fruit for our salad 2",
+          "articleText": "",
+          "unitId": 7,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u7-t222-r2"
+        "libraryKey": "u7-t222-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+        }
       },
       {
         "unit": 7,
@@ -16918,7 +19961,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Fruit for our salad 2〉Do they need more bananas?",
@@ -16940,9 +19982,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "句型理解",
         "family": "library-english-7-1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditFruitInventory",
+          "caption": "需求與現有水果",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Fruit",
@@ -16961,9 +20003,20 @@ window.REVIEW_UNITS=[
                 3
               ]
             ]
-          }
+          },
+          "sceneText": "〈Fruit for our salad 2〉Do they need more bananas?",
+          "articleTitle": "Fruit for our salad 2",
+          "articleText": "",
+          "unitId": 7,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u7-t222-r3"
+        "libraryKey": "u7-t222-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+        }
       },
       {
         "unit": 7,
@@ -16976,7 +20029,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Fruit for our salad 2〉Who brings three apples?",
@@ -16998,9 +20050,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "整合對話",
         "family": "library-english-7-1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditFruitInventory",
+          "caption": "需求與現有水果",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Fruit",
@@ -17019,9 +20071,20 @@ window.REVIEW_UNITS=[
                 3
               ]
             ]
-          }
+          },
+          "sceneText": "〈Fruit for our salad 2〉Who brings three apples?",
+          "articleTitle": "Fruit for our salad 2",
+          "articleText": "",
+          "unitId": 7,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u7-t222-r4"
+        "libraryKey": "u7-t222-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+        }
       },
       {
         "unit": 7,
@@ -17034,7 +20097,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Fruit for our salad 2〉What do they do before making the salad?",
@@ -17056,9 +20118,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "情境應用",
         "family": "library-english-7-1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditFruitInventory",
+          "caption": "需求與現有水果",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Fruit",
@@ -17077,9 +20139,20 @@ window.REVIEW_UNITS=[
                 3
               ]
             ]
-          }
+          },
+          "sceneText": "〈Fruit for our salad 2〉What do they do before making the salad?",
+          "articleTitle": "Fruit for our salad 2",
+          "articleText": "",
+          "unitId": 7,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u7-t222-r5"
+        "libraryKey": "u7-t222-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+        }
       },
       {
         "unit": 7,
@@ -17092,7 +20165,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Fruit for our salad 3〉How many apples do they need in all?",
@@ -17114,9 +20186,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "找資料",
         "family": "library-english-7-2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditFruitInventory",
+          "caption": "需求與現有水果",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Fruit",
@@ -17135,9 +20207,20 @@ window.REVIEW_UNITS=[
                 2
               ]
             ]
-          }
+          },
+          "sceneText": "〈Fruit for our salad 3〉How many apples do they need in all?",
+          "articleTitle": "Fruit for our salad 3",
+          "articleText": "",
+          "unitId": 7,
+          "conceptIndex": 22,
+          "examLineArt": false
         },
-        "libraryKey": "u7-t223-r1"
+        "libraryKey": "u7-t223-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+        }
       },
       {
         "unit": 7,
@@ -17150,7 +20233,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Fruit for our salad 3〉How many more apples do they need at first?",
@@ -17172,9 +20254,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "配對資訊",
         "family": "library-english-7-2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditFruitInventory",
+          "caption": "需求與現有水果",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Fruit",
@@ -17193,9 +20275,20 @@ window.REVIEW_UNITS=[
                 2
               ]
             ]
-          }
+          },
+          "sceneText": "〈Fruit for our salad 3〉How many more apples do they need at first?",
+          "articleTitle": "Fruit for our salad 3",
+          "articleText": "",
+          "unitId": 7,
+          "conceptIndex": 22,
+          "examLineArt": false
         },
-        "libraryKey": "u7-t223-r2"
+        "libraryKey": "u7-t223-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+        }
       },
       {
         "unit": 7,
@@ -17208,7 +20301,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Fruit for our salad 3〉Do they need more bananas?",
@@ -17230,9 +20322,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "句型理解",
         "family": "library-english-7-2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditFruitInventory",
+          "caption": "需求與現有水果",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Fruit",
@@ -17251,9 +20343,20 @@ window.REVIEW_UNITS=[
                 2
               ]
             ]
-          }
+          },
+          "sceneText": "〈Fruit for our salad 3〉Do they need more bananas?",
+          "articleTitle": "Fruit for our salad 3",
+          "articleText": "",
+          "unitId": 7,
+          "conceptIndex": 22,
+          "examLineArt": false
         },
-        "libraryKey": "u7-t223-r3"
+        "libraryKey": "u7-t223-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+        }
       },
       {
         "unit": 7,
@@ -17266,7 +20369,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Fruit for our salad 3〉Who brings three apples?",
@@ -17288,9 +20390,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "整合對話",
         "family": "library-english-7-2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditFruitInventory",
+          "caption": "需求與現有水果",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Fruit",
@@ -17309,9 +20411,20 @@ window.REVIEW_UNITS=[
                 2
               ]
             ]
-          }
+          },
+          "sceneText": "〈Fruit for our salad 3〉Who brings three apples?",
+          "articleTitle": "Fruit for our salad 3",
+          "articleText": "",
+          "unitId": 7,
+          "conceptIndex": 22,
+          "examLineArt": false
         },
-        "libraryKey": "u7-t223-r4"
+        "libraryKey": "u7-t223-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+        }
       },
       {
         "unit": 7,
@@ -17324,7 +20437,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Fruit for our salad 3〉What do they do before making the salad?",
@@ -17346,9 +20458,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "情境應用",
         "family": "library-english-7-2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditFruitInventory",
+          "caption": "需求與現有水果",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Fruit",
@@ -17367,9 +20479,20 @@ window.REVIEW_UNITS=[
                 2
               ]
             ]
-          }
+          },
+          "sceneText": "〈Fruit for our salad 3〉What do they do before making the salad?",
+          "articleTitle": "Fruit for our salad 3",
+          "articleText": "",
+          "unitId": 7,
+          "conceptIndex": 22,
+          "examLineArt": false
         },
-        "libraryKey": "u7-t223-r5"
+        "libraryKey": "u7-t223-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+        }
       },
       {
         "unit": 7,
@@ -17382,7 +20505,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Fruit for our salad 4〉How many apples do they need in all?",
@@ -17404,9 +20526,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "找資料",
         "family": "library-english-7-3",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditFruitInventory",
+          "caption": "需求與現有水果",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Fruit",
@@ -17425,9 +20547,20 @@ window.REVIEW_UNITS=[
                 3
               ]
             ]
-          }
+          },
+          "sceneText": "〈Fruit for our salad 4〉How many apples do they need in all?",
+          "articleTitle": "Fruit for our salad 4",
+          "articleText": "",
+          "unitId": 7,
+          "conceptIndex": 23,
+          "examLineArt": false
         },
-        "libraryKey": "u7-t224-r1"
+        "libraryKey": "u7-t224-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+        }
       },
       {
         "unit": 7,
@@ -17440,7 +20573,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Fruit for our salad 4〉How many more apples do they need at first?",
@@ -17462,9 +20594,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "配對資訊",
         "family": "library-english-7-3",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditFruitInventory",
+          "caption": "需求與現有水果",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Fruit",
@@ -17483,9 +20615,20 @@ window.REVIEW_UNITS=[
                 3
               ]
             ]
-          }
+          },
+          "sceneText": "〈Fruit for our salad 4〉How many more apples do they need at first?",
+          "articleTitle": "Fruit for our salad 4",
+          "articleText": "",
+          "unitId": 7,
+          "conceptIndex": 23,
+          "examLineArt": false
         },
-        "libraryKey": "u7-t224-r2"
+        "libraryKey": "u7-t224-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+        }
       },
       {
         "unit": 7,
@@ -17498,7 +20641,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Fruit for our salad 4〉Do they need more bananas?",
@@ -17520,9 +20662,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "句型理解",
         "family": "library-english-7-3",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditFruitInventory",
+          "caption": "需求與現有水果",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Fruit",
@@ -17541,9 +20683,20 @@ window.REVIEW_UNITS=[
                 3
               ]
             ]
-          }
+          },
+          "sceneText": "〈Fruit for our salad 4〉Do they need more bananas?",
+          "articleTitle": "Fruit for our salad 4",
+          "articleText": "",
+          "unitId": 7,
+          "conceptIndex": 23,
+          "examLineArt": false
         },
-        "libraryKey": "u7-t224-r3"
+        "libraryKey": "u7-t224-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+        }
       },
       {
         "unit": 7,
@@ -17556,7 +20709,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Fruit for our salad 4〉Who brings three apples?",
@@ -17578,9 +20730,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "整合對話",
         "family": "library-english-7-3",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditFruitInventory",
+          "caption": "需求與現有水果",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Fruit",
@@ -17599,9 +20751,20 @@ window.REVIEW_UNITS=[
                 3
               ]
             ]
-          }
+          },
+          "sceneText": "〈Fruit for our salad 4〉Who brings three apples?",
+          "articleTitle": "Fruit for our salad 4",
+          "articleText": "",
+          "unitId": 7,
+          "conceptIndex": 23,
+          "examLineArt": false
         },
-        "libraryKey": "u7-t224-r4"
+        "libraryKey": "u7-t224-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+        }
       },
       {
         "unit": 7,
@@ -17614,7 +20777,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Fruit for our salad 4〉What do they do before making the salad?",
@@ -17636,9 +20798,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "情境應用",
         "family": "library-english-7-3",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇訂單資料",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditFruitInventory",
+          "caption": "需求與現有水果",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Fruit",
@@ -17657,9 +20819,20 @@ window.REVIEW_UNITS=[
                 3
               ]
             ]
-          }
+          },
+          "sceneText": "〈Fruit for our salad 4〉What do they do before making the salad?",
+          "articleTitle": "Fruit for our salad 4",
+          "articleText": "",
+          "unitId": 7,
+          "conceptIndex": 23,
+          "examLineArt": false
         },
-        "libraryKey": "u7-t224-r5"
+        "libraryKey": "u7-t224-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+        }
       }
     ],
     "readingSetSize": 5,
@@ -18417,7 +21590,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t01-n2",
@@ -18451,7 +21629,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t01-n3",
@@ -18485,7 +21668,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t01-n4",
@@ -18519,7 +21707,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t01-n5",
@@ -18553,7 +21746,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -18589,7 +21787,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -18636,7 +21839,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "single",
@@ -18677,7 +21885,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -18713,7 +21926,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "single",
@@ -18754,7 +21972,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -18790,7 +22013,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t02-n1",
@@ -18825,7 +22053,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t02-n2",
@@ -18860,7 +22093,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t02-n3",
@@ -18895,7 +22133,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t02-n4",
@@ -18930,7 +22173,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t02-n5",
@@ -18965,7 +22213,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t03-n1",
@@ -19000,7 +22253,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t03-n2",
@@ -19035,7 +22293,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t03-n3",
@@ -19070,7 +22333,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t03-n4",
@@ -19105,7 +22373,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t03-n5",
@@ -19140,7 +22413,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t04-n1",
@@ -19175,7 +22453,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t04-n2",
@@ -19210,7 +22493,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t04-n3",
@@ -19245,7 +22533,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t04-n4",
@@ -19280,7 +22573,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t04-n5",
@@ -19315,7 +22613,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t05-n1",
@@ -19350,7 +22653,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t05-n2",
@@ -19385,7 +22693,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t05-n3",
@@ -19420,7 +22733,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t05-n4",
@@ -19455,7 +22773,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t05-n5",
@@ -19490,7 +22813,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t06-n1",
@@ -19525,7 +22853,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t06-n2",
@@ -19560,7 +22893,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t06-n3",
@@ -19595,7 +22933,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t06-n4",
@@ -19630,7 +22973,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t06-n5",
@@ -19665,7 +23013,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t07-n1",
@@ -19700,7 +23053,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t07-n2",
@@ -19735,7 +23093,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t07-n3",
@@ -19770,7 +23133,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t07-n4",
@@ -19805,7 +23173,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t07-n5",
@@ -19840,7 +23213,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t08-n1",
@@ -19875,7 +23253,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t08-n2",
@@ -19910,7 +23293,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t08-n3",
@@ -19945,7 +23333,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t08-n4",
@@ -19980,7 +23373,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t08-n5",
@@ -20015,7 +23413,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t09-n1",
@@ -20050,7 +23453,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t09-n2",
@@ -20085,7 +23493,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t09-n3",
@@ -20120,7 +23533,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t09-n4",
@@ -20155,7 +23573,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t09-n5",
@@ -20190,7 +23613,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t10-n1",
@@ -20225,7 +23653,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t10-n2",
@@ -20260,7 +23693,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t10-n3",
@@ -20295,7 +23733,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t10-n4",
@@ -20330,7 +23773,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t10-n5",
@@ -20365,7 +23813,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t11-n1",
@@ -20400,7 +23853,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t11-n2",
@@ -20435,7 +23893,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t11-n3",
@@ -20470,7 +23933,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t11-n4",
@@ -20505,7 +23973,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t11-n5",
@@ -20540,7 +24013,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t12-n1",
@@ -20575,7 +24053,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t12-n2",
@@ -20610,7 +24093,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t12-n3",
@@ -20645,7 +24133,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t12-n4",
@@ -20680,7 +24173,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t12-n5",
@@ -20715,7 +24213,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t13-n1",
@@ -20750,7 +24253,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t13-n2",
@@ -20785,7 +24293,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t13-n3",
@@ -20820,7 +24333,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t13-n4",
@@ -20855,7 +24373,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t13-n5",
@@ -20890,7 +24413,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t14-n1",
@@ -20925,7 +24453,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t14-n2",
@@ -20960,7 +24493,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t14-n3",
@@ -20995,7 +24533,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t14-n4",
@@ -21030,7 +24573,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t14-n5",
@@ -21065,7 +24613,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t15-n1",
@@ -21100,7 +24653,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t15-n2",
@@ -21135,7 +24693,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t15-n3",
@@ -21170,7 +24733,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t15-n4",
@@ -21205,7 +24773,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t15-n5",
@@ -21240,7 +24813,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t16-n1",
@@ -21275,7 +24853,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t16-n2",
@@ -21310,7 +24893,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t16-n3",
@@ -21345,7 +24933,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t16-n4",
@@ -21380,7 +24973,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t16-n5",
@@ -21415,7 +25013,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t17-n1",
@@ -21450,7 +25053,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t17-n2",
@@ -21485,7 +25093,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t17-n3",
@@ -21520,7 +25133,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t17-n4",
@@ -21555,7 +25173,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t17-n5",
@@ -21590,7 +25213,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t18-n1",
@@ -21625,7 +25253,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t18-n2",
@@ -21660,7 +25293,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t18-n3",
@@ -21695,7 +25333,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t18-n4",
@@ -21730,7 +25373,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t18-n5",
@@ -21765,7 +25413,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t19-n1",
@@ -21800,7 +25453,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t19-n2",
@@ -21835,7 +25493,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t19-n3",
@@ -21870,7 +25533,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t19-n4",
@@ -21905,7 +25573,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t19-n5",
@@ -21940,7 +25613,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t20-n1",
@@ -21975,7 +25653,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t20-n2",
@@ -22010,7 +25693,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t20-n3",
@@ -22045,7 +25733,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t20-n4",
@@ -22080,7 +25773,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t20-n5",
@@ -22115,7 +25813,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t91-n1",
@@ -22154,7 +25857,12 @@ window.REVIEW_UNITS=[
             170
           ]
         },
-        "libraryKey": "u8-t201-n1"
+        "libraryKey": "u8-t201-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t92-n1",
@@ -22193,7 +25901,12 @@ window.REVIEW_UNITS=[
             170
           ]
         },
-        "libraryKey": "u8-t202-n1"
+        "libraryKey": "u8-t202-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t93-n1",
@@ -22232,7 +25945,12 @@ window.REVIEW_UNITS=[
             170
           ]
         },
-        "libraryKey": "u8-t203-n1"
+        "libraryKey": "u8-t203-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t94-n1",
@@ -22271,7 +25989,12 @@ window.REVIEW_UNITS=[
             170
           ]
         },
-        "libraryKey": "u8-t204-n1"
+        "libraryKey": "u8-t204-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u8-t95-n1",
@@ -22310,7 +26033,12 @@ window.REVIEW_UNITS=[
             170
           ]
         },
-        "libraryKey": "u8-t205-n1"
+        "libraryKey": "u8-t205-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       }
     ],
     "grade": 5,
@@ -22507,7 +26235,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t01-n2",
@@ -22532,7 +26265,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t01-n3",
@@ -22559,7 +26297,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t01-n4",
@@ -22586,7 +26329,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t01-n5",
@@ -22613,7 +26361,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -22639,7 +26392,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -22683,7 +26441,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "single",
@@ -22717,7 +26480,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -22743,7 +26511,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -22787,7 +26560,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -22826,7 +26604,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t02-n1",
@@ -22853,7 +26636,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t02-n2",
@@ -22879,7 +26667,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t02-n3",
@@ -22907,7 +26700,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t02-n4",
@@ -22935,7 +26733,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t02-n5",
@@ -22963,7 +26766,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t03-n1",
@@ -22990,7 +26798,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t03-n2",
@@ -23016,7 +26829,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t03-n3",
@@ -23044,7 +26862,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t03-n4",
@@ -23072,7 +26895,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t03-n5",
@@ -23100,7 +26928,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t04-n1",
@@ -23127,7 +26960,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t04-n2",
@@ -23153,7 +26991,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t04-n3",
@@ -23181,7 +27024,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t04-n4",
@@ -23209,7 +27057,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t04-n5",
@@ -23237,7 +27090,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t05-n1",
@@ -23264,7 +27122,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t05-n2",
@@ -23290,7 +27153,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t05-n3",
@@ -23318,7 +27186,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t05-n4",
@@ -23346,7 +27219,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t05-n5",
@@ -23374,7 +27252,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t06-n1",
@@ -23401,7 +27284,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t06-n2",
@@ -23427,7 +27315,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t06-n3",
@@ -23455,7 +27348,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t06-n4",
@@ -23483,7 +27381,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t06-n5",
@@ -23511,7 +27414,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t07-n1",
@@ -23538,7 +27446,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t07-n2",
@@ -23564,7 +27477,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t07-n3",
@@ -23592,7 +27510,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t07-n4",
@@ -23620,7 +27543,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t07-n5",
@@ -23648,7 +27576,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t08-n1",
@@ -23675,7 +27608,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t08-n2",
@@ -23701,7 +27639,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t08-n3",
@@ -23729,7 +27672,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t08-n4",
@@ -23757,7 +27705,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t08-n5",
@@ -23785,7 +27738,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t09-n1",
@@ -23812,7 +27770,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t09-n2",
@@ -23838,7 +27801,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t09-n3",
@@ -23866,7 +27834,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t09-n4",
@@ -23894,7 +27867,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t09-n5",
@@ -23922,7 +27900,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t10-n1",
@@ -23949,7 +27932,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t10-n2",
@@ -23975,7 +27963,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t10-n3",
@@ -24003,7 +27996,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t10-n4",
@@ -24031,7 +28029,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t10-n5",
@@ -24059,7 +28062,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t11-n1",
@@ -24086,7 +28094,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t11-n2",
@@ -24112,7 +28125,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t11-n3",
@@ -24140,7 +28158,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t11-n4",
@@ -24168,7 +28191,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t11-n5",
@@ -24196,7 +28224,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t12-n1",
@@ -24223,7 +28256,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t12-n2",
@@ -24249,7 +28287,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t12-n3",
@@ -24277,7 +28320,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t12-n4",
@@ -24305,7 +28353,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t12-n5",
@@ -24333,7 +28386,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t13-n1",
@@ -24360,7 +28418,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t13-n2",
@@ -24386,7 +28449,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t13-n3",
@@ -24414,7 +28482,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t13-n4",
@@ -24442,7 +28515,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t13-n5",
@@ -24470,7 +28548,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t14-n1",
@@ -24497,7 +28580,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t14-n2",
@@ -24523,7 +28611,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t14-n3",
@@ -24551,7 +28644,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t14-n4",
@@ -24579,7 +28677,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t14-n5",
@@ -24607,7 +28710,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t15-n1",
@@ -24634,7 +28742,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t15-n2",
@@ -24660,7 +28773,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t15-n3",
@@ -24688,7 +28806,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t15-n4",
@@ -24716,7 +28839,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t15-n5",
@@ -24744,7 +28872,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t16-n1",
@@ -24771,7 +28904,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t16-n2",
@@ -24797,7 +28935,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t16-n3",
@@ -24825,7 +28968,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t16-n4",
@@ -24853,7 +29001,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t16-n5",
@@ -24881,7 +29034,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t17-n1",
@@ -24908,7 +29066,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t17-n2",
@@ -24934,7 +29097,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t17-n3",
@@ -24962,7 +29130,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t17-n4",
@@ -24990,7 +29163,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t17-n5",
@@ -25018,7 +29196,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t18-n1",
@@ -25045,7 +29228,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t18-n2",
@@ -25071,7 +29259,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t18-n3",
@@ -25099,7 +29292,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t18-n4",
@@ -25127,7 +29325,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t18-n5",
@@ -25155,7 +29358,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t19-n1",
@@ -25182,7 +29390,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t19-n2",
@@ -25208,7 +29421,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t19-n3",
@@ -25236,7 +29454,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t19-n4",
@@ -25264,7 +29487,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t19-n5",
@@ -25292,7 +29520,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t20-n1",
@@ -25319,7 +29552,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t20-n2",
@@ -25345,7 +29583,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t20-n3",
@@ -25373,7 +29616,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t20-n4",
@@ -25401,7 +29649,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t20-n5",
@@ -25429,7 +29682,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u9-t91-n1",
@@ -25452,7 +29710,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u9-t201-n1"
+        "libraryKey": "u9-t201-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       },
       {
         "id": "u9-t92-n1",
@@ -25475,7 +29738,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u9-t202-n1"
+        "libraryKey": "u9-t202-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       },
       {
         "id": "u9-t93-n1",
@@ -25498,7 +29766,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u9-t203-n1"
+        "libraryKey": "u9-t203-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       },
       {
         "id": "u9-t94-n1",
@@ -25521,7 +29794,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u9-t204-n1"
+        "libraryKey": "u9-t204-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       },
       {
         "id": "u9-t95-n1",
@@ -25544,7 +29822,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u9-t205-n1"
+        "libraryKey": "u9-t205-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       }
     ],
     "grade": 5,
@@ -25744,7 +30027,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -25769,7 +30057,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "single",
@@ -25803,7 +30096,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -25832,7 +30130,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -25861,7 +30164,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "single",
@@ -25895,7 +30203,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -25931,7 +30244,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -25960,7 +30278,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -25989,7 +30312,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "single",
@@ -26024,7 +30352,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -26053,7 +30386,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "single",
@@ -26087,7 +30425,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -26112,7 +30455,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -26137,7 +30485,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "single",
@@ -26167,7 +30520,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -26197,7 +30555,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -26227,7 +30590,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "single",
@@ -26256,7 +30624,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -26282,7 +30655,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -26312,7 +30690,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t01-n1",
@@ -26341,7 +30724,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t01-n2",
@@ -26366,7 +30754,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t01-n3",
@@ -26395,7 +30788,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t01-n4",
@@ -26420,7 +30818,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t01-n5",
@@ -26450,7 +30853,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t02-n1",
@@ -26479,7 +30887,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t02-n2",
@@ -26504,7 +30917,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t02-n3",
@@ -26533,7 +30951,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t02-n4",
@@ -26558,7 +30981,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t02-n5",
@@ -26588,7 +31016,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t03-n1",
@@ -26617,7 +31050,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t03-n2",
@@ -26642,7 +31080,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t03-n3",
@@ -26671,7 +31114,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t03-n4",
@@ -26696,7 +31144,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t03-n5",
@@ -26726,7 +31179,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t04-n1",
@@ -26755,7 +31213,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t04-n2",
@@ -26780,7 +31243,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t04-n3",
@@ -26809,7 +31277,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t04-n4",
@@ -26834,7 +31307,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t04-n5",
@@ -26864,7 +31342,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t05-n1",
@@ -26893,7 +31376,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t05-n2",
@@ -26918,7 +31406,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t05-n3",
@@ -26947,7 +31440,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t05-n4",
@@ -26972,7 +31470,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t05-n5",
@@ -27002,7 +31505,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t06-n1",
@@ -27031,7 +31539,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t06-n2",
@@ -27056,7 +31569,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t06-n3",
@@ -27085,7 +31603,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t06-n4",
@@ -27110,7 +31633,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t06-n5",
@@ -27140,7 +31668,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t07-n1",
@@ -27169,7 +31702,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t07-n2",
@@ -27194,7 +31732,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t07-n3",
@@ -27223,7 +31766,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t07-n4",
@@ -27248,7 +31796,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t07-n5",
@@ -27278,7 +31831,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t08-n1",
@@ -27307,7 +31865,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t08-n2",
@@ -27332,7 +31895,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t08-n3",
@@ -27361,7 +31929,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t08-n4",
@@ -27386,7 +31959,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t08-n5",
@@ -27416,7 +31994,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t09-n1",
@@ -27445,7 +32028,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t09-n2",
@@ -27470,7 +32058,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t09-n3",
@@ -27499,7 +32092,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t09-n4",
@@ -27524,7 +32122,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t09-n5",
@@ -27554,7 +32157,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t10-n1",
@@ -27583,7 +32191,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t10-n2",
@@ -27608,7 +32221,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t10-n3",
@@ -27637,7 +32255,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t10-n4",
@@ -27662,7 +32285,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t10-n5",
@@ -27692,7 +32320,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t11-n1",
@@ -27721,7 +32354,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t11-n2",
@@ -27746,7 +32384,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t11-n3",
@@ -27775,7 +32418,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t11-n4",
@@ -27800,7 +32448,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t11-n5",
@@ -27830,7 +32483,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t12-n1",
@@ -27859,7 +32517,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t12-n2",
@@ -27884,7 +32547,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t12-n3",
@@ -27913,7 +32581,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t12-n4",
@@ -27938,7 +32611,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t12-n5",
@@ -27968,7 +32646,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t13-n1",
@@ -27997,7 +32680,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t13-n2",
@@ -28022,7 +32710,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t13-n3",
@@ -28051,7 +32744,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t13-n4",
@@ -28076,7 +32774,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t13-n5",
@@ -28106,7 +32809,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t14-n1",
@@ -28135,7 +32843,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t14-n2",
@@ -28160,7 +32873,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t14-n3",
@@ -28189,7 +32907,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t14-n4",
@@ -28214,7 +32937,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t14-n5",
@@ -28244,7 +32972,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t15-n1",
@@ -28273,7 +33006,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t15-n2",
@@ -28298,7 +33036,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t15-n3",
@@ -28327,7 +33070,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t15-n4",
@@ -28352,7 +33100,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t15-n5",
@@ -28382,7 +33135,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t16-n1",
@@ -28411,7 +33169,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t16-n2",
@@ -28436,7 +33199,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t16-n3",
@@ -28465,7 +33233,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t16-n4",
@@ -28490,7 +33263,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t16-n5",
@@ -28520,7 +33298,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t17-n1",
@@ -28549,7 +33332,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t17-n2",
@@ -28574,7 +33362,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t17-n3",
@@ -28603,7 +33396,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t17-n4",
@@ -28628,7 +33426,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t17-n5",
@@ -28658,7 +33461,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t18-n1",
@@ -28687,7 +33495,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t18-n2",
@@ -28712,7 +33525,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t18-n3",
@@ -28741,7 +33559,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t18-n4",
@@ -28766,7 +33589,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t18-n5",
@@ -28796,7 +33624,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t19-n1",
@@ -28825,7 +33658,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t19-n2",
@@ -28850,7 +33688,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t19-n3",
@@ -28879,7 +33722,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t19-n4",
@@ -28904,7 +33752,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t19-n5",
@@ -28934,7 +33787,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t20-n1",
@@ -28963,7 +33821,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t20-n2",
@@ -28988,7 +33851,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t20-n3",
@@ -29017,7 +33885,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t20-n4",
@@ -29042,7 +33915,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t20-n5",
@@ -29072,7 +33950,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t91-n1",
@@ -29094,8 +33977,24 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
-        "visualPolicy": "none",
-        "libraryKey": "u10-t201-n1"
+        "libraryKey": "u10-t201-n1",
+        "visual": {
+          "kind": "isosceles",
+          "caption": "已知條件的幾何圖",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "等腰三角形的頂角為 94 度，一個底角是幾度？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 10,
+          "conceptIndex": 0,
+          "vertex": 94,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "標出已知角或邊；不以文字省略幾何關係，也不標待求答案。"
+        }
       },
       {
         "id": "u10-t92-n1",
@@ -29117,8 +34016,29 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
-        "visualPolicy": "none",
-        "libraryKey": "u10-t202-n1"
+        "libraryKey": "u10-t202-n1",
+        "visual": {
+          "kind": "quadKnown",
+          "caption": "已知條件的幾何圖",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "四邊形有兩個直角，第三角為 72 度，第四角是幾度？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 10,
+          "conceptIndex": 1,
+          "angles": [
+            90,
+            90,
+            72,
+            null
+          ],
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "標出已知角或邊；不以文字省略幾何關係，也不標待求答案。"
+        }
       },
       {
         "id": "u10-t93-n1",
@@ -29140,8 +34060,27 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
-        "visualPolicy": "none",
-        "libraryKey": "u10-t203-n1"
+        "libraryKey": "u10-t203-n1",
+        "visual": {
+          "kind": "triangleSides",
+          "caption": "已知條件的幾何圖",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "三角形兩邊為 7、11 公分，第三邊是整公分且最長，最大可能幾公分？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 10,
+          "conceptIndex": 2,
+          "sides": [
+            7,
+            11
+          ],
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "標出已知角或邊；不以文字省略幾何關係，也不標待求答案。"
+        }
       },
       {
         "id": "u10-t94-n1",
@@ -29173,7 +34112,12 @@ window.REVIEW_UNITS=[
           ],
           "examLineArt": true
         },
-        "libraryKey": "u10-t204-n1"
+        "libraryKey": "u10-t204-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u10-t90-n1",
@@ -29195,8 +34139,24 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
-        "visualPolicy": "none",
-        "libraryKey": "u10-t205-n1"
+        "libraryKey": "u10-t205-n1",
+        "visual": {
+          "kind": "parallelogram",
+          "caption": "已知條件的幾何圖",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "平行四邊形一角為 70 度，相鄰的內角為幾度？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 10,
+          "conceptIndex": 4,
+          "known": 70,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "標出已知角或邊；不以文字省略幾何關係，也不標待求答案。"
+        }
       }
     ],
     "grade": 5,
@@ -29395,7 +34355,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t01-n2",
@@ -29423,7 +34388,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t01-n3",
@@ -29450,7 +34420,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t01-n4",
@@ -29478,7 +34453,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t01-n5",
@@ -29503,7 +34483,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -29536,7 +34521,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -29565,7 +34555,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -29598,7 +34593,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -29635,7 +34635,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "single",
@@ -29666,7 +34671,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -29710,7 +34720,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t02-n1",
@@ -29739,7 +34754,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t02-n2",
@@ -29768,7 +34788,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t02-n3",
@@ -29796,7 +34821,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t02-n4",
@@ -29825,7 +34855,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t02-n5",
@@ -29851,7 +34886,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t03-n1",
@@ -29880,7 +34920,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t03-n2",
@@ -29909,7 +34954,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t03-n3",
@@ -29937,7 +34987,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t03-n4",
@@ -29966,7 +35021,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t03-n5",
@@ -29992,7 +35052,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t04-n1",
@@ -30021,7 +35086,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t04-n2",
@@ -30050,7 +35120,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t04-n3",
@@ -30078,7 +35153,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t04-n4",
@@ -30107,7 +35187,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t04-n5",
@@ -30133,7 +35218,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t05-n1",
@@ -30162,7 +35252,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t05-n2",
@@ -30191,7 +35286,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t05-n3",
@@ -30219,7 +35319,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t05-n4",
@@ -30248,7 +35353,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t05-n5",
@@ -30274,7 +35384,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t06-n1",
@@ -30303,7 +35418,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t06-n2",
@@ -30332,7 +35452,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t06-n3",
@@ -30360,7 +35485,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t06-n4",
@@ -30389,7 +35519,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t06-n5",
@@ -30415,7 +35550,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t07-n1",
@@ -30444,7 +35584,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t07-n2",
@@ -30473,7 +35618,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t07-n3",
@@ -30501,7 +35651,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t07-n4",
@@ -30530,7 +35685,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t07-n5",
@@ -30556,7 +35716,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t08-n1",
@@ -30585,7 +35750,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t08-n2",
@@ -30614,7 +35784,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t08-n3",
@@ -30642,7 +35817,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t08-n4",
@@ -30671,7 +35851,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t08-n5",
@@ -30697,7 +35882,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t09-n1",
@@ -30726,7 +35916,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t09-n2",
@@ -30755,7 +35950,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t09-n3",
@@ -30783,7 +35983,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t09-n4",
@@ -30812,7 +36017,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t09-n5",
@@ -30838,7 +36048,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t10-n1",
@@ -30867,7 +36082,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t10-n2",
@@ -30896,7 +36116,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t10-n3",
@@ -30924,7 +36149,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t10-n4",
@@ -30953,7 +36183,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t10-n5",
@@ -30979,7 +36214,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t11-n1",
@@ -31008,7 +36248,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t11-n2",
@@ -31037,7 +36282,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t11-n3",
@@ -31065,7 +36315,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t11-n4",
@@ -31094,7 +36349,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t11-n5",
@@ -31120,7 +36380,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t12-n1",
@@ -31149,7 +36414,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t12-n2",
@@ -31178,7 +36448,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t12-n3",
@@ -31206,7 +36481,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t12-n4",
@@ -31235,7 +36515,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t12-n5",
@@ -31261,7 +36546,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t13-n1",
@@ -31290,7 +36580,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t13-n2",
@@ -31319,7 +36614,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t13-n3",
@@ -31347,7 +36647,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t13-n4",
@@ -31376,7 +36681,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t13-n5",
@@ -31402,7 +36712,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t14-n1",
@@ -31431,7 +36746,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t14-n2",
@@ -31460,7 +36780,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t14-n3",
@@ -31488,7 +36813,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t14-n4",
@@ -31517,7 +36847,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t14-n5",
@@ -31543,7 +36878,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t15-n1",
@@ -31572,7 +36912,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t15-n2",
@@ -31601,7 +36946,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t15-n3",
@@ -31629,7 +36979,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t15-n4",
@@ -31658,7 +37013,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t15-n5",
@@ -31684,7 +37044,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t16-n1",
@@ -31713,7 +37078,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t16-n2",
@@ -31742,7 +37112,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t16-n3",
@@ -31770,7 +37145,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t16-n4",
@@ -31799,7 +37179,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t16-n5",
@@ -31825,7 +37210,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t17-n1",
@@ -31854,7 +37244,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t17-n2",
@@ -31883,7 +37278,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t17-n3",
@@ -31911,7 +37311,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t17-n4",
@@ -31940,7 +37345,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t17-n5",
@@ -31966,7 +37376,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t18-n1",
@@ -31995,7 +37410,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t18-n2",
@@ -32024,7 +37444,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t18-n3",
@@ -32052,7 +37477,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t18-n4",
@@ -32081,7 +37511,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t18-n5",
@@ -32107,7 +37542,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t19-n1",
@@ -32136,7 +37576,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t19-n2",
@@ -32165,7 +37610,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t19-n3",
@@ -32193,7 +37643,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t19-n4",
@@ -32222,7 +37677,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t19-n5",
@@ -32248,7 +37708,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t20-n1",
@@ -32277,7 +37742,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t20-n2",
@@ -32306,7 +37776,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t20-n3",
@@ -32334,7 +37809,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t20-n4",
@@ -32363,7 +37843,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t20-n5",
@@ -32389,7 +37874,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u11-t91-n1",
@@ -32412,7 +37902,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u11-t201-n1"
+        "libraryKey": "u11-t201-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       },
       {
         "id": "u11-t92-n1",
@@ -32435,7 +37930,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u11-t202-n1"
+        "libraryKey": "u11-t202-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       },
       {
         "id": "u11-t93-n1",
@@ -32458,7 +37958,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u11-t203-n1"
+        "libraryKey": "u11-t203-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       },
       {
         "id": "u11-t94-n1",
@@ -32480,8 +37985,26 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
-        "visualPolicy": "none",
-        "libraryKey": "u11-t204-n1"
+        "libraryKey": "u11-t204-n1",
+        "visual": {
+          "kind": "auditStrips",
+          "caption": "紙條、繩段或裁切配置",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "長 52 公分、寬 39 公分的紙，剪成一樣大且邊長為整公分的正方形，全部用完。邊長最長幾公分？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 11,
+          "conceptIndex": 3,
+          "mode": "rectangleCut",
+          "width": 52,
+          "height": 39,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "將重疊或裁切位置畫出來，未知量留問號，不只用數字列表。"
+        }
       },
       {
         "id": "u11-t95-n1",
@@ -32504,7 +38027,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u11-t205-n1"
+        "libraryKey": "u11-t205-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       }
     ],
     "grade": 5,
@@ -32706,7 +38234,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t01-n2",
@@ -32737,7 +38270,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t01-n3",
@@ -32768,7 +38306,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t01-n4",
@@ -32799,7 +38342,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t01-n5",
@@ -32829,7 +38377,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -32861,7 +38414,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -32893,7 +38451,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -32929,7 +38492,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "single",
@@ -32964,7 +38532,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -33003,7 +38576,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "single",
@@ -33039,7 +38617,12 @@ window.REVIEW_UNITS=[
           "M5",
           "M5B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t02-n1",
@@ -33071,7 +38654,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t02-n2",
@@ -33103,7 +38691,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t02-n3",
@@ -33135,7 +38728,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t02-n4",
@@ -33167,7 +38765,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t02-n5",
@@ -33202,7 +38805,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t03-n1",
@@ -33234,7 +38842,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t03-n2",
@@ -33266,7 +38879,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t03-n3",
@@ -33298,7 +38916,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t03-n4",
@@ -33330,7 +38953,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t03-n5",
@@ -33365,7 +38993,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t04-n1",
@@ -33397,7 +39030,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t04-n2",
@@ -33429,7 +39067,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t04-n3",
@@ -33461,7 +39104,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t04-n4",
@@ -33493,7 +39141,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t04-n5",
@@ -33525,7 +39178,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t05-n1",
@@ -33557,7 +39215,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t05-n2",
@@ -33589,7 +39252,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t05-n3",
@@ -33621,7 +39289,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t05-n4",
@@ -33653,7 +39326,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t05-n5",
@@ -33684,7 +39362,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t06-n1",
@@ -33716,7 +39399,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t06-n2",
@@ -33748,7 +39436,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t06-n3",
@@ -33780,7 +39473,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t06-n4",
@@ -33812,7 +39510,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t06-n5",
@@ -33847,7 +39550,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t07-n1",
@@ -33879,7 +39587,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t07-n2",
@@ -33911,7 +39624,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t07-n3",
@@ -33943,7 +39661,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t07-n4",
@@ -33975,7 +39698,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t07-n5",
@@ -34010,7 +39738,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t08-n1",
@@ -34042,7 +39775,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t08-n2",
@@ -34074,7 +39812,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t08-n3",
@@ -34106,7 +39849,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t08-n4",
@@ -34138,7 +39886,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t08-n5",
@@ -34170,7 +39923,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t09-n1",
@@ -34202,7 +39960,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t09-n2",
@@ -34234,7 +39997,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t09-n3",
@@ -34266,7 +40034,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t09-n4",
@@ -34298,7 +40071,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t09-n5",
@@ -34329,7 +40107,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t10-n1",
@@ -34361,7 +40144,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t10-n2",
@@ -34393,7 +40181,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t10-n3",
@@ -34425,7 +40218,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t10-n4",
@@ -34457,7 +40255,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t10-n5",
@@ -34492,7 +40295,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t11-n1",
@@ -34524,7 +40332,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t11-n2",
@@ -34556,7 +40369,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t11-n3",
@@ -34588,7 +40406,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t11-n4",
@@ -34620,7 +40443,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t11-n5",
@@ -34655,7 +40483,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t12-n1",
@@ -34687,7 +40520,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t12-n2",
@@ -34719,7 +40557,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t12-n3",
@@ -34751,7 +40594,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t12-n4",
@@ -34783,7 +40631,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t12-n5",
@@ -34815,7 +40668,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t13-n1",
@@ -34847,7 +40705,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t13-n2",
@@ -34879,7 +40742,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t13-n3",
@@ -34911,7 +40779,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t13-n4",
@@ -34943,7 +40816,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t13-n5",
@@ -34974,7 +40852,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t14-n1",
@@ -35006,7 +40889,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t14-n2",
@@ -35038,7 +40926,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t14-n3",
@@ -35070,7 +40963,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t14-n4",
@@ -35102,7 +41000,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t14-n5",
@@ -35137,7 +41040,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t15-n1",
@@ -35169,7 +41077,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t15-n2",
@@ -35201,7 +41114,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t15-n3",
@@ -35233,7 +41151,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t15-n4",
@@ -35265,7 +41188,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t15-n5",
@@ -35300,7 +41228,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t16-n1",
@@ -35332,7 +41265,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t16-n2",
@@ -35364,7 +41302,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t16-n3",
@@ -35396,7 +41339,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t16-n4",
@@ -35428,7 +41376,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t16-n5",
@@ -35460,7 +41413,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t17-n1",
@@ -35492,7 +41450,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t17-n2",
@@ -35524,7 +41487,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t17-n3",
@@ -35556,7 +41524,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t17-n4",
@@ -35588,7 +41561,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t17-n5",
@@ -35619,7 +41597,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t18-n1",
@@ -35651,7 +41634,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t18-n2",
@@ -35683,7 +41671,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t18-n3",
@@ -35715,7 +41708,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t18-n4",
@@ -35747,7 +41745,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t18-n5",
@@ -35782,7 +41785,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t19-n1",
@@ -35814,7 +41822,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t19-n2",
@@ -35846,7 +41859,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t19-n3",
@@ -35878,7 +41896,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t19-n4",
@@ -35910,7 +41933,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t19-n5",
@@ -35945,7 +41973,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t20-n1",
@@ -35977,7 +42010,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t20-n2",
@@ -36009,7 +42047,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t20-n3",
@@ -36041,7 +42084,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t20-n4",
@@ -36073,7 +42121,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t20-n5",
@@ -36105,7 +42158,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M5",
           "M5B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u12-t91-n1",
@@ -36127,8 +42185,35 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
-        "visualPolicy": "none",
-        "libraryKey": "u12-t201-n1"
+        "libraryKey": "u12-t201-n1",
+        "visual": {
+          "kind": "solids",
+          "caption": "立體形體觀察",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "四角柱與四角錐的頂點數相加是多少？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 12,
+          "conceptIndex": 0,
+          "models": [
+            {
+              "shape": "prism",
+              "n": 4,
+              "count": 1
+            },
+            {
+              "shape": "pyramid",
+              "n": 4,
+              "count": 1
+            }
+          ],
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "角柱錐體與面邊頂點須有正確模型，未知數不標答案。"
+        }
       },
       {
         "id": "u12-t92-n1",
@@ -36150,8 +42235,30 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
-        "visualPolicy": "none",
-        "libraryKey": "u12-t202-n1"
+        "libraryKey": "u12-t202-n1",
+        "visual": {
+          "kind": "solids",
+          "caption": "立體形體觀察",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "三角柱有幾條邊？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 12,
+          "conceptIndex": 1,
+          "models": [
+            {
+              "shape": "prism",
+              "n": 3,
+              "count": 1
+            }
+          ],
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "角柱錐體與面邊頂點須有正確模型，未知數不標答案。"
+        }
       },
       {
         "id": "u12-t93-n1",
@@ -36173,8 +42280,30 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
-        "visualPolicy": "none",
-        "libraryKey": "u12-t203-n1"
+        "libraryKey": "u12-t203-n1",
+        "visual": {
+          "kind": "solids",
+          "caption": "立體形體觀察",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "五角錐有幾個面？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 12,
+          "conceptIndex": 2,
+          "models": [
+            {
+              "shape": "pyramid",
+              "n": 5,
+              "count": 1
+            }
+          ],
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "角柱錐體與面邊頂點須有正確模型，未知數不標答案。"
+        }
       },
       {
         "id": "u12-t94-n1",
@@ -36196,8 +42325,29 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
-        "visualPolicy": "none",
-        "libraryKey": "u12-t204-n1"
+        "libraryKey": "u12-t204-n1",
+        "visual": {
+          "kind": "solids",
+          "caption": "立體形體觀察",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "圓柱有幾個互相平行的平面底面？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 12,
+          "conceptIndex": 3,
+          "models": [
+            {
+              "shape": "cylinder",
+              "count": 1
+            }
+          ],
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "角柱錐體與面邊頂點須有正確模型，未知數不標答案。"
+        }
       },
       {
         "id": "u12-t95-n1",
@@ -36219,8 +42369,30 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
-        "visualPolicy": "none",
-        "libraryKey": "u12-t205-n1"
+        "libraryKey": "u12-t205-n1",
+        "visual": {
+          "kind": "solids",
+          "caption": "立體形體觀察",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "六角柱有幾個頂點？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 12,
+          "conceptIndex": 4,
+          "models": [
+            {
+              "shape": "prism",
+              "n": 6,
+              "count": 1
+            }
+          ],
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "角柱錐體與面邊頂點須有正確模型，未知數不標答案。"
+        }
       }
     ],
     "grade": 5,
@@ -36424,7 +42596,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u13-t201-a"
+        "libraryKey": "u13-t201-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u13-t52-a",
@@ -36453,7 +42630,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u13-t202-a"
+        "libraryKey": "u13-t202-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u13-t53-a",
@@ -36482,7 +42664,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u13-t203-a"
+        "libraryKey": "u13-t203-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u13-t54-a",
@@ -36511,7 +42698,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u13-t204-a"
+        "libraryKey": "u13-t204-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u13-t55-a",
@@ -36540,7 +42732,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u13-t205-a"
+        "libraryKey": "u13-t205-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u13-t56-a",
@@ -36569,7 +42766,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u13-t206-a"
+        "libraryKey": "u13-t206-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u13-t57-a",
@@ -36598,7 +42800,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u13-t207-a"
+        "libraryKey": "u13-t207-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u13-t58-a",
@@ -36627,7 +42834,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u13-t208-a"
+        "libraryKey": "u13-t208-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u13-t59-a",
@@ -36656,7 +42868,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u13-t209-a"
+        "libraryKey": "u13-t209-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u13-t60-a",
@@ -36685,7 +42902,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u13-t210-a"
+        "libraryKey": "u13-t210-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u13-t61-a",
@@ -36714,7 +42936,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u13-t211-a"
+        "libraryKey": "u13-t211-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u13-t62-a",
@@ -36743,7 +42970,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u13-t212-a"
+        "libraryKey": "u13-t212-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u13-t63-r1",
@@ -36765,7 +42997,6 @@ window.REVIEW_UNITS=[
         "passage": "七點十分，阿禾又在找水壺。他把書包翻了兩遍，最後才發現水壺留在昨天的餐袋裡。走到校門時，早自習已經開始。\n\n放學後，他在門旁貼一張便條，寫下「聯絡簿、水壺、餐袋」。睡前先照便條準備，準備好一項便在旁邊畫記號。隔天早晨，他只再檢查一次，就能準時出門。\n\n星期五，媽媽問他是不是跑得更快了。阿禾笑說：「我沒有跑快，是少找了一次東西。」他把便條留在原位，打算下星期繼續使用。",
         "readingOrder": 1,
         "readingSkill": "擷取細節",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "core",
         "family": "library-chinese-13-0",
@@ -36776,7 +43007,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t221-r1"
+        "libraryKey": "u13-t221-r1",
+        "visual": {
+          "kind": "auditReminder",
+          "caption": "門旁的用品提醒便條",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈早晨少了一場尋找〉第一天阿禾花時間找什麼？",
+          "articleTitle": "早晨少了一場尋找",
+          "articleText": "",
+          "unitId": 13,
+          "conceptIndex": 20,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "便條內容為聯絡簿、水壺、餐袋，搭配實際用品形狀。"
+        }
       },
       {
         "id": "u13-t63-r2",
@@ -36798,7 +43045,6 @@ window.REVIEW_UNITS=[
         "passage": "七點十分，阿禾又在找水壺。他把書包翻了兩遍，最後才發現水壺留在昨天的餐袋裡。走到校門時，早自習已經開始。\n\n放學後，他在門旁貼一張便條，寫下「聯絡簿、水壺、餐袋」。睡前先照便條準備，準備好一項便在旁邊畫記號。隔天早晨，他只再檢查一次，就能準時出門。\n\n星期五，媽媽問他是不是跑得更快了。阿禾笑說：「我沒有跑快，是少找了一次東西。」他把便條留在原位，打算下星期繼續使用。",
         "readingOrder": 2,
         "readingSkill": "理解詞句",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "core",
         "family": "library-chinese-13-0",
@@ -36809,7 +43055,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t221-r2"
+        "libraryKey": "u13-t221-r2",
+        "visual": {
+          "kind": "auditReminder",
+          "caption": "門旁的用品提醒便條",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈早晨少了一場尋找〉水壺原本在哪裡？",
+          "articleTitle": "早晨少了一場尋找",
+          "articleText": "",
+          "unitId": 13,
+          "conceptIndex": 20,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "便條內容為聯絡簿、水壺、餐袋，搭配實際用品形狀。"
+        }
       },
       {
         "id": "u13-t63-r3",
@@ -36831,7 +43093,6 @@ window.REVIEW_UNITS=[
         "passage": "七點十分，阿禾又在找水壺。他把書包翻了兩遍，最後才發現水壺留在昨天的餐袋裡。走到校門時，早自習已經開始。\n\n放學後，他在門旁貼一張便條，寫下「聯絡簿、水壺、餐袋」。睡前先照便條準備，準備好一項便在旁邊畫記號。隔天早晨，他只再檢查一次，就能準時出門。\n\n星期五，媽媽問他是不是跑得更快了。阿禾笑說：「我沒有跑快，是少找了一次東西。」他把便條留在原位，打算下星期繼續使用。",
         "readingOrder": 3,
         "readingSkill": "因果整合",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-13-0",
@@ -36842,7 +43103,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t221-r3"
+        "libraryKey": "u13-t221-r3",
+        "visual": {
+          "kind": "auditReminder",
+          "caption": "門旁的用品提醒便條",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈早晨少了一場尋找〉後來的便條主要有什麼作用？",
+          "articleTitle": "早晨少了一場尋找",
+          "articleText": "",
+          "unitId": 13,
+          "conceptIndex": 20,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "便條內容為聯絡簿、水壺、餐袋，搭配實際用品形狀。"
+        }
       },
       {
         "id": "u13-t63-r4",
@@ -36864,7 +43141,6 @@ window.REVIEW_UNITS=[
         "passage": "七點十分，阿禾又在找水壺。他把書包翻了兩遍，最後才發現水壺留在昨天的餐袋裡。走到校門時，早自習已經開始。\n\n放學後，他在門旁貼一張便條，寫下「聯絡簿、水壺、餐袋」。睡前先照便條準備，準備好一項便在旁邊畫記號。隔天早晨，他只再檢查一次，就能準時出門。\n\n星期五，媽媽問他是不是跑得更快了。阿禾笑說：「我沒有跑快，是少找了一次東西。」他把便條留在原位，打算下星期繼續使用。",
         "readingOrder": 4,
         "readingSkill": "事件順序與應用",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-13-0",
@@ -36875,7 +43151,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t221-r4"
+        "libraryKey": "u13-t221-r4",
+        "visual": {
+          "kind": "auditReminder",
+          "caption": "門旁的用品提醒便條",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈早晨少了一場尋找〉哪個順序符合故事？",
+          "articleTitle": "早晨少了一場尋找",
+          "articleText": "",
+          "unitId": 13,
+          "conceptIndex": 20,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "便條內容為聯絡簿、水壺、餐袋，搭配實際用品形狀。"
+        }
       },
       {
         "id": "u13-t63-r5",
@@ -36897,7 +43189,6 @@ window.REVIEW_UNITS=[
         "passage": "七點十分，阿禾又在找水壺。他把書包翻了兩遍，最後才發現水壺留在昨天的餐袋裡。走到校門時，早自習已經開始。\n\n放學後，他在門旁貼一張便條，寫下「聯絡簿、水壺、餐袋」。睡前先照便條準備，準備好一項便在旁邊畫記號。隔天早晨，他只再檢查一次，就能準時出門。\n\n星期五，媽媽問他是不是跑得更快了。阿禾笑說：「我沒有跑快，是少找了一次東西。」他把便條留在原位，打算下星期繼續使用。",
         "readingOrder": 5,
         "readingSkill": "主旨與推論",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-13-0",
@@ -36908,7 +43199,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t221-r5"
+        "libraryKey": "u13-t221-r5",
+        "visual": {
+          "kind": "auditReminder",
+          "caption": "門旁的用品提醒便條",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈早晨少了一場尋找〉「少找了一次東西」最能說明什麼？",
+          "articleTitle": "早晨少了一場尋找",
+          "articleText": "",
+          "unitId": 13,
+          "conceptIndex": 20,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "便條內容為聯絡簿、水壺、餐袋，搭配實際用品形狀。"
+        }
       },
       {
         "id": "u13-t64-r1",
@@ -36941,7 +43248,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t222-r1"
+        "libraryKey": "u13-t222-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u13-t64-r2",
@@ -36974,7 +43286,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t222-r2"
+        "libraryKey": "u13-t222-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u13-t64-r3",
@@ -37007,7 +43324,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t222-r3"
+        "libraryKey": "u13-t222-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u13-t64-r4",
@@ -37040,7 +43362,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t222-r4"
+        "libraryKey": "u13-t222-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u13-t64-r5",
@@ -37073,7 +43400,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t222-r5"
+        "libraryKey": "u13-t222-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u13-t65-r1",
@@ -37095,7 +43427,6 @@ window.REVIEW_UNITS=[
         "passage": "小宇把「星期四帶彩色筆」寫在便條上，貼在書桌底下。到了星期四，他仍空著手進教室，才想起自己根本沒看見那張便條。\n\n回家後，他沒有多寫十張，而是把原來的一張移到鉛筆盒旁。準備書包時，便條正好在視線裡；把彩色筆放進去後，他再取下便條。\n\n下次要帶剪刀時，小宇也用同一個位置。他發現，提醒不只要寫對內容，還要放在會看見、會用到的地方。",
         "readingOrder": 1,
         "readingSkill": "擷取細節",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "core",
         "family": "library-chinese-13-2",
@@ -37106,7 +43437,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t223-r1"
+        "libraryKey": "u13-t223-r1",
+        "visual": {
+          "kind": "auditReminderLocation",
+          "caption": "便條的前後位置",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈不會再掉下來的便條〉第一次便條貼在哪裡？",
+          "articleTitle": "不會再掉下來的便條",
+          "articleText": "",
+          "unitId": 13,
+          "conceptIndex": 22,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "比較書桌底下與鉛筆盒旁，箭頭表示移動而非新增物品。"
+        }
       },
       {
         "id": "u13-t65-r2",
@@ -37128,7 +43475,6 @@ window.REVIEW_UNITS=[
         "passage": "小宇把「星期四帶彩色筆」寫在便條上，貼在書桌底下。到了星期四，他仍空著手進教室，才想起自己根本沒看見那張便條。\n\n回家後，他沒有多寫十張，而是把原來的一張移到鉛筆盒旁。準備書包時，便條正好在視線裡；把彩色筆放進去後，他再取下便條。\n\n下次要帶剪刀時，小宇也用同一個位置。他發現，提醒不只要寫對內容，還要放在會看見、會用到的地方。",
         "readingOrder": 2,
         "readingSkill": "理解詞句",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "core",
         "family": "library-chinese-13-2",
@@ -37139,7 +43485,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t223-r2"
+        "libraryKey": "u13-t223-r2",
+        "visual": {
+          "kind": "auditReminderLocation",
+          "caption": "便條的前後位置",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈不會再掉下來的便條〉為什麼寫了便條仍忘記？",
+          "articleTitle": "不會再掉下來的便條",
+          "articleText": "",
+          "unitId": 13,
+          "conceptIndex": 22,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "比較書桌底下與鉛筆盒旁，箭頭表示移動而非新增物品。"
+        }
       },
       {
         "id": "u13-t65-r3",
@@ -37161,7 +43523,6 @@ window.REVIEW_UNITS=[
         "passage": "小宇把「星期四帶彩色筆」寫在便條上，貼在書桌底下。到了星期四，他仍空著手進教室，才想起自己根本沒看見那張便條。\n\n回家後，他沒有多寫十張，而是把原來的一張移到鉛筆盒旁。準備書包時，便條正好在視線裡；把彩色筆放進去後，他再取下便條。\n\n下次要帶剪刀時，小宇也用同一個位置。他發現，提醒不只要寫對內容，還要放在會看見、會用到的地方。",
         "readingOrder": 3,
         "readingSkill": "因果整合",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-13-2",
@@ -37172,7 +43533,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t223-r3"
+        "libraryKey": "u13-t223-r3",
+        "visual": {
+          "kind": "auditReminderLocation",
+          "caption": "便條的前後位置",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈不會再掉下來的便條〉後來他把便條移到哪裡？",
+          "articleTitle": "不會再掉下來的便條",
+          "articleText": "",
+          "unitId": 13,
+          "conceptIndex": 22,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "比較書桌底下與鉛筆盒旁，箭頭表示移動而非新增物品。"
+        }
       },
       {
         "id": "u13-t65-r4",
@@ -37194,7 +43571,6 @@ window.REVIEW_UNITS=[
         "passage": "小宇把「星期四帶彩色筆」寫在便條上，貼在書桌底下。到了星期四，他仍空著手進教室，才想起自己根本沒看見那張便條。\n\n回家後，他沒有多寫十張，而是把原來的一張移到鉛筆盒旁。準備書包時，便條正好在視線裡；把彩色筆放進去後，他再取下便條。\n\n下次要帶剪刀時，小宇也用同一個位置。他發現，提醒不只要寫對內容，還要放在會看見、會用到的地方。",
         "readingOrder": 4,
         "readingSkill": "事件順序與應用",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-13-2",
@@ -37205,7 +43581,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t223-r4"
+        "libraryKey": "u13-t223-r4",
+        "visual": {
+          "kind": "auditReminderLocation",
+          "caption": "便條的前後位置",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈不會再掉下來的便條〉哪個做法最符合後來的方法？",
+          "articleTitle": "不會再掉下來的便條",
+          "articleText": "",
+          "unitId": 13,
+          "conceptIndex": 22,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "比較書桌底下與鉛筆盒旁，箭頭表示移動而非新增物品。"
+        }
       },
       {
         "id": "u13-t65-r5",
@@ -37227,7 +43619,6 @@ window.REVIEW_UNITS=[
         "passage": "小宇把「星期四帶彩色筆」寫在便條上，貼在書桌底下。到了星期四，他仍空著手進教室，才想起自己根本沒看見那張便條。\n\n回家後，他沒有多寫十張，而是把原來的一張移到鉛筆盒旁。準備書包時，便條正好在視線裡；把彩色筆放進去後，他再取下便條。\n\n下次要帶剪刀時，小宇也用同一個位置。他發現，提醒不只要寫對內容，還要放在會看見、會用到的地方。",
         "readingOrder": 5,
         "readingSkill": "主旨與推論",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-13-2",
@@ -37238,7 +43629,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t223-r5"
+        "libraryKey": "u13-t223-r5",
+        "visual": {
+          "kind": "auditReminderLocation",
+          "caption": "便條的前後位置",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈不會再掉下來的便條〉這個故事最想說明什麼？",
+          "articleTitle": "不會再掉下來的便條",
+          "articleText": "",
+          "unitId": 13,
+          "conceptIndex": 22,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "比較書桌底下與鉛筆盒旁，箭頭表示移動而非新增物品。"
+        }
       },
       {
         "id": "u13-t66-r1",
@@ -37260,7 +43667,6 @@ window.REVIEW_UNITS=[
         "passage": "合唱練習九點開始，阿安總在九點才走進校門。等他放好水壺、找到座位，大家已經唱完第一遍。他原本覺得自己沒有遲到，卻常接不上老師的指示。\n\n老師請他把「到校」與「準備好開始」分開想。下次他提早十分鐘到，先整理物品，再看今天練習的段落。九點時，他已坐在位置上。\n\n那天結束後，阿安沒有請同學重說第一遍的內容。他在行事曆寫下：開始前的準備，也要算進需要的時間。",
         "readingOrder": 1,
         "readingSkill": "擷取細節",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "core",
         "family": "library-chinese-13-3",
@@ -37271,7 +43677,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t224-r1"
+        "libraryKey": "u13-t224-r1",
+        "visual": {
+          "kind": "auditPracticeTimeline",
+          "caption": "到校與準備好的時間",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈提早到的練習〉練習幾點開始？",
+          "articleTitle": "提早到的練習",
+          "articleText": "",
+          "unitId": 13,
+          "conceptIndex": 23,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "區分 8：50 到校、準備與 9：00 開始，不把兩種時刻混為一談。"
+        }
       },
       {
         "id": "u13-t66-r2",
@@ -37293,7 +43715,6 @@ window.REVIEW_UNITS=[
         "passage": "合唱練習九點開始，阿安總在九點才走進校門。等他放好水壺、找到座位，大家已經唱完第一遍。他原本覺得自己沒有遲到，卻常接不上老師的指示。\n\n老師請他把「到校」與「準備好開始」分開想。下次他提早十分鐘到，先整理物品，再看今天練習的段落。九點時，他已坐在位置上。\n\n那天結束後，阿安沒有請同學重說第一遍的內容。他在行事曆寫下：開始前的準備，也要算進需要的時間。",
         "readingOrder": 2,
         "readingSkill": "理解詞句",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "core",
         "family": "library-chinese-13-3",
@@ -37304,7 +43725,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t224-r2"
+        "libraryKey": "u13-t224-r2",
+        "visual": {
+          "kind": "auditPracticeTimeline",
+          "caption": "到校與準備好的時間",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈提早到的練習〉原先阿安九點時在哪個階段？",
+          "articleTitle": "提早到的練習",
+          "articleText": "",
+          "unitId": 13,
+          "conceptIndex": 23,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "區分 8：50 到校、準備與 9：00 開始，不把兩種時刻混為一談。"
+        }
       },
       {
         "id": "u13-t66-r3",
@@ -37326,7 +43763,6 @@ window.REVIEW_UNITS=[
         "passage": "合唱練習九點開始，阿安總在九點才走進校門。等他放好水壺、找到座位，大家已經唱完第一遍。他原本覺得自己沒有遲到，卻常接不上老師的指示。\n\n老師請他把「到校」與「準備好開始」分開想。下次他提早十分鐘到，先整理物品，再看今天練習的段落。九點時，他已坐在位置上。\n\n那天結束後，阿安沒有請同學重說第一遍的內容。他在行事曆寫下：開始前的準備，也要算進需要的時間。",
         "readingOrder": 3,
         "readingSkill": "因果整合",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-13-3",
@@ -37337,7 +43773,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t224-r3"
+        "libraryKey": "u13-t224-r3",
+        "visual": {
+          "kind": "auditPracticeTimeline",
+          "caption": "到校與準備好的時間",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈提早到的練習〉老師請他分清楚哪兩件事？",
+          "articleTitle": "提早到的練習",
+          "articleText": "",
+          "unitId": 13,
+          "conceptIndex": 23,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "區分 8：50 到校、準備與 9：00 開始，不把兩種時刻混為一談。"
+        }
       },
       {
         "id": "u13-t66-r4",
@@ -37359,7 +43811,6 @@ window.REVIEW_UNITS=[
         "passage": "合唱練習九點開始，阿安總在九點才走進校門。等他放好水壺、找到座位，大家已經唱完第一遍。他原本覺得自己沒有遲到，卻常接不上老師的指示。\n\n老師請他把「到校」與「準備好開始」分開想。下次他提早十分鐘到，先整理物品，再看今天練習的段落。九點時，他已坐在位置上。\n\n那天結束後，阿安沒有請同學重說第一遍的內容。他在行事曆寫下：開始前的準備，也要算進需要的時間。",
         "readingOrder": 4,
         "readingSkill": "事件順序與應用",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-13-3",
@@ -37370,7 +43821,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t224-r4"
+        "libraryKey": "u13-t224-r4",
+        "visual": {
+          "kind": "auditPracticeTimeline",
+          "caption": "到校與準備好的時間",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈提早到的練習〉後來有什麼改變？",
+          "articleTitle": "提早到的練習",
+          "articleText": "",
+          "unitId": 13,
+          "conceptIndex": 23,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "區分 8：50 到校、準備與 9：00 開始，不把兩種時刻混為一談。"
+        }
       },
       {
         "id": "u13-t66-r5",
@@ -37392,7 +43859,6 @@ window.REVIEW_UNITS=[
         "passage": "合唱練習九點開始，阿安總在九點才走進校門。等他放好水壺、找到座位，大家已經唱完第一遍。他原本覺得自己沒有遲到，卻常接不上老師的指示。\n\n老師請他把「到校」與「準備好開始」分開想。下次他提早十分鐘到，先整理物品，再看今天練習的段落。九點時，他已坐在位置上。\n\n那天結束後，阿安沒有請同學重說第一遍的內容。他在行事曆寫下：開始前的準備，也要算進需要的時間。",
         "readingOrder": 5,
         "readingSkill": "主旨與推論",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-13-3",
@@ -37403,7 +43869,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t224-r5"
+        "libraryKey": "u13-t224-r5",
+        "visual": {
+          "kind": "auditPracticeTimeline",
+          "caption": "到校與準備好的時間",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈提早到的練習〉行事曆上的話表示他學到什麼？",
+          "articleTitle": "提早到的練習",
+          "articleText": "",
+          "unitId": 13,
+          "conceptIndex": 23,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "區分 8：50 到校、準備與 9：00 開始，不把兩種時刻混為一談。"
+        }
       },
       {
         "id": "u13-t67-r1",
@@ -37425,7 +43907,6 @@ window.REVIEW_UNITS=[
         "passage": "班上明天要戶外教學，小蓉寫了兩張表。第一張是要帶的物品，第二張是集合到出發的時間。她原本把所有內容混在一張紙上，查水壺時卻一直看到公車發車時間。\n\n分開後，她先依物品表收拾書包，再依時間表設定鬧鐘。爸爸問她為什麼不只留一張，她說：「我要找什麼，就看哪一張。」\n\n隔天她順利到達集合地點，也把兩張表帶在身邊。老師臨時調整出發時間時，她只修改時間表，不必重寫整份物品清單。",
         "readingOrder": 1,
         "readingSkill": "擷取細節",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "core",
         "family": "library-chinese-13-4",
@@ -37436,7 +43917,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t225-r1"
+        "libraryKey": "u13-t225-r1",
+        "visual": {
+          "kind": "auditTwoLists",
+          "caption": "物品清單與時間安排",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈兩張不一樣的表〉兩張表分別記什麼？",
+          "articleTitle": "兩張不一樣的表",
+          "articleText": "",
+          "unitId": 13,
+          "conceptIndex": 24,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "以兩張用途不同的紙本清單呈現資訊分類，不虛構班車時刻。"
+        }
       },
       {
         "id": "u13-t67-r2",
@@ -37458,7 +43955,6 @@ window.REVIEW_UNITS=[
         "passage": "班上明天要戶外教學，小蓉寫了兩張表。第一張是要帶的物品，第二張是集合到出發的時間。她原本把所有內容混在一張紙上，查水壺時卻一直看到公車發車時間。\n\n分開後，她先依物品表收拾書包，再依時間表設定鬧鐘。爸爸問她為什麼不只留一張，她說：「我要找什麼，就看哪一張。」\n\n隔天她順利到達集合地點，也把兩張表帶在身邊。老師臨時調整出發時間時，她只修改時間表，不必重寫整份物品清單。",
         "readingOrder": 2,
         "readingSkill": "理解詞句",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "core",
         "family": "library-chinese-13-4",
@@ -37469,7 +43965,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t225-r2"
+        "libraryKey": "u13-t225-r2",
+        "visual": {
+          "kind": "auditTwoLists",
+          "caption": "物品清單與時間安排",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈兩張不一樣的表〉原先混在一起有什麼困難？",
+          "articleTitle": "兩張不一樣的表",
+          "articleText": "",
+          "unitId": 13,
+          "conceptIndex": 24,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "以兩張用途不同的紙本清單呈現資訊分類，不虛構班車時刻。"
+        }
       },
       {
         "id": "u13-t67-r3",
@@ -37491,7 +44003,6 @@ window.REVIEW_UNITS=[
         "passage": "班上明天要戶外教學，小蓉寫了兩張表。第一張是要帶的物品，第二張是集合到出發的時間。她原本把所有內容混在一張紙上，查水壺時卻一直看到公車發車時間。\n\n分開後，她先依物品表收拾書包，再依時間表設定鬧鐘。爸爸問她為什麼不只留一張，她說：「我要找什麼，就看哪一張。」\n\n隔天她順利到達集合地點，也把兩張表帶在身邊。老師臨時調整出發時間時，她只修改時間表，不必重寫整份物品清單。",
         "readingOrder": 3,
         "readingSkill": "因果整合",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-13-4",
@@ -37502,7 +44013,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t225-r3"
+        "libraryKey": "u13-t225-r3",
+        "visual": {
+          "kind": "auditTwoLists",
+          "caption": "物品清單與時間安排",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈兩張不一樣的表〉她先做哪件事？",
+          "articleTitle": "兩張不一樣的表",
+          "articleText": "",
+          "unitId": 13,
+          "conceptIndex": 24,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "以兩張用途不同的紙本清單呈現資訊分類，不虛構班車時刻。"
+        }
       },
       {
         "id": "u13-t67-r4",
@@ -37524,7 +44051,6 @@ window.REVIEW_UNITS=[
         "passage": "班上明天要戶外教學，小蓉寫了兩張表。第一張是要帶的物品，第二張是集合到出發的時間。她原本把所有內容混在一張紙上，查水壺時卻一直看到公車發車時間。\n\n分開後，她先依物品表收拾書包，再依時間表設定鬧鐘。爸爸問她為什麼不只留一張，她說：「我要找什麼，就看哪一張。」\n\n隔天她順利到達集合地點，也把兩張表帶在身邊。老師臨時調整出發時間時，她只修改時間表，不必重寫整份物品清單。",
         "readingOrder": 4,
         "readingSkill": "事件順序與應用",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-13-4",
@@ -37535,7 +44061,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t225-r4"
+        "libraryKey": "u13-t225-r4",
+        "visual": {
+          "kind": "auditTwoLists",
+          "caption": "物品清單與時間安排",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈兩張不一樣的表〉出發時間改變時，需修改哪張？",
+          "articleTitle": "兩張不一樣的表",
+          "articleText": "",
+          "unitId": 13,
+          "conceptIndex": 24,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "以兩張用途不同的紙本清單呈現資訊分類，不虛構班車時刻。"
+        }
       },
       {
         "id": "u13-t67-r5",
@@ -37557,7 +44099,6 @@ window.REVIEW_UNITS=[
         "passage": "班上明天要戶外教學，小蓉寫了兩張表。第一張是要帶的物品，第二張是集合到出發的時間。她原本把所有內容混在一張紙上，查水壺時卻一直看到公車發車時間。\n\n分開後，她先依物品表收拾書包，再依時間表設定鬧鐘。爸爸問她為什麼不只留一張，她說：「我要找什麼，就看哪一張。」\n\n隔天她順利到達集合地點，也把兩張表帶在身邊。老師臨時調整出發時間時，她只修改時間表，不必重寫整份物品清單。",
         "readingOrder": 5,
         "readingSkill": "主旨與推論",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-13-4",
@@ -37568,7 +44109,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t225-r5"
+        "libraryKey": "u13-t225-r5",
+        "visual": {
+          "kind": "auditTwoLists",
+          "caption": "物品清單與時間安排",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈兩張不一樣的表〉「我要找什麼，就看哪一張」表示什麼？",
+          "articleTitle": "兩張不一樣的表",
+          "articleText": "",
+          "unitId": 13,
+          "conceptIndex": 24,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "以兩張用途不同的紙本清單呈現資訊分類，不虛構班車時刻。"
+        }
       },
       {
         "id": "u13-t68-r1",
@@ -37601,7 +44158,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t226-r1"
+        "libraryKey": "u13-t226-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u13-t68-r2",
@@ -37634,7 +44196,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t226-r2"
+        "libraryKey": "u13-t226-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u13-t68-r3",
@@ -37667,7 +44234,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t226-r3"
+        "libraryKey": "u13-t226-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u13-t68-r4",
@@ -37700,7 +44272,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t226-r4"
+        "libraryKey": "u13-t226-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u13-t68-r5",
@@ -37733,7 +44310,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u13-t226-r5"
+        "libraryKey": "u13-t226-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       }
     ],
     "articleVisuals": {
@@ -38064,7 +44646,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u14-t201-a"
+        "libraryKey": "u14-t201-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u14-t52-a",
@@ -38093,7 +44680,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u14-t202-a"
+        "libraryKey": "u14-t202-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u14-t53-a",
@@ -38122,7 +44714,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u14-t203-a"
+        "libraryKey": "u14-t203-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u14-t54-a",
@@ -38151,7 +44748,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u14-t204-a"
+        "libraryKey": "u14-t204-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u14-t55-a",
@@ -38180,7 +44782,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u14-t205-a"
+        "libraryKey": "u14-t205-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u14-t56-a",
@@ -38209,7 +44816,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u14-t206-a"
+        "libraryKey": "u14-t206-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u14-t57-a",
@@ -38238,7 +44850,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u14-t207-a"
+        "libraryKey": "u14-t207-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u14-t58-a",
@@ -38267,7 +44884,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u14-t208-a"
+        "libraryKey": "u14-t208-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u14-t59-a",
@@ -38296,7 +44918,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u14-t209-a"
+        "libraryKey": "u14-t209-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u14-t60-a",
@@ -38325,7 +44952,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u14-t210-a"
+        "libraryKey": "u14-t210-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u14-t61-a",
@@ -38354,7 +44986,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u14-t211-a"
+        "libraryKey": "u14-t211-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u14-t62-a",
@@ -38383,7 +45020,12 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "參考公開國語卷題型重新編寫；非課文原文",
-        "libraryKey": "u14-t212-a"
+        "libraryKey": "u14-t212-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+        }
       },
       {
         "id": "u14-t63-r1",
@@ -38405,7 +45047,6 @@ window.REVIEW_UNITS=[
         "passage": "小安把一張平紙搭在兩本書之間，放上一枚硬幣，紙橋就彎了。他正想再加一張紙，同學卻指著紙扇問：「摺過的紙會不會不一樣？」\n\n小安用相同大小的另一張紙摺出連續折痕，書本距離不變，再放同樣硬幣。這次紙橋沒有立刻彎下。他把兩次的紙張形狀和結果畫在紀錄上。\n\n他沒有說所有紙橋都一定承受得住，而是先寫下這次比較的條件。下次，他想再試試書本距離改變後會怎樣。",
         "readingOrder": 1,
         "readingSkill": "擷取細節",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "core",
         "family": "library-chinese-14-0",
@@ -38416,7 +45057,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t221-r1"
+        "libraryKey": "u14-t221-r1",
+        "visual": {
+          "kind": "auditPaperBridge",
+          "caption": "平紙橋與摺紙橋",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈紙橋第二次站起來〉第一次紙橋發生什麼事？",
+          "articleTitle": "紙橋第二次站起來",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 20,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "兩側支撐與間距相同、同一枚硬幣，只改變紙形；無承重測量數值。"
+        }
       },
       {
         "id": "u14-t63-r2",
@@ -38438,7 +45095,6 @@ window.REVIEW_UNITS=[
         "passage": "小安把一張平紙搭在兩本書之間，放上一枚硬幣，紙橋就彎了。他正想再加一張紙，同學卻指著紙扇問：「摺過的紙會不會不一樣？」\n\n小安用相同大小的另一張紙摺出連續折痕，書本距離不變，再放同樣硬幣。這次紙橋沒有立刻彎下。他把兩次的紙張形狀和結果畫在紀錄上。\n\n他沒有說所有紙橋都一定承受得住，而是先寫下這次比較的條件。下次，他想再試試書本距離改變後會怎樣。",
         "readingOrder": 2,
         "readingSkill": "理解詞句",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "core",
         "family": "library-chinese-14-0",
@@ -38449,7 +45105,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t221-r2"
+        "libraryKey": "u14-t221-r2",
+        "visual": {
+          "kind": "auditPaperBridge",
+          "caption": "平紙橋與摺紙橋",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈紙橋第二次站起來〉同學用什麼提醒他想新方法？",
+          "articleTitle": "紙橋第二次站起來",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 20,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "兩側支撐與間距相同、同一枚硬幣，只改變紙形；無承重測量數值。"
+        }
       },
       {
         "id": "u14-t63-r3",
@@ -38471,7 +45143,6 @@ window.REVIEW_UNITS=[
         "passage": "小安把一張平紙搭在兩本書之間，放上一枚硬幣，紙橋就彎了。他正想再加一張紙，同學卻指著紙扇問：「摺過的紙會不會不一樣？」\n\n小安用相同大小的另一張紙摺出連續折痕，書本距離不變，再放同樣硬幣。這次紙橋沒有立刻彎下。他把兩次的紙張形狀和結果畫在紀錄上。\n\n他沒有說所有紙橋都一定承受得住，而是先寫下這次比較的條件。下次，他想再試試書本距離改變後會怎樣。",
         "readingOrder": 3,
         "readingSkill": "因果整合",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-14-0",
@@ -38482,7 +45153,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t221-r3"
+        "libraryKey": "u14-t221-r3",
+        "visual": {
+          "kind": "auditPaperBridge",
+          "caption": "平紙橋與摺紙橋",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈紙橋第二次站起來〉第二次主要改變什麼？",
+          "articleTitle": "紙橋第二次站起來",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 20,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "兩側支撐與間距相同、同一枚硬幣，只改變紙形；無承重測量數值。"
+        }
       },
       {
         "id": "u14-t63-r4",
@@ -38504,7 +45191,6 @@ window.REVIEW_UNITS=[
         "passage": "小安把一張平紙搭在兩本書之間，放上一枚硬幣，紙橋就彎了。他正想再加一張紙，同學卻指著紙扇問：「摺過的紙會不會不一樣？」\n\n小安用相同大小的另一張紙摺出連續折痕，書本距離不變，再放同樣硬幣。這次紙橋沒有立刻彎下。他把兩次的紙張形狀和結果畫在紀錄上。\n\n他沒有說所有紙橋都一定承受得住，而是先寫下這次比較的條件。下次，他想再試試書本距離改變後會怎樣。",
         "readingOrder": 4,
         "readingSkill": "事件順序與應用",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-14-0",
@@ -38515,7 +45201,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t221-r4"
+        "libraryKey": "u14-t221-r4",
+        "visual": {
+          "kind": "auditPaperBridge",
+          "caption": "平紙橋與摺紙橋",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈紙橋第二次站起來〉他為什麼畫下兩次結果？",
+          "articleTitle": "紙橋第二次站起來",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 20,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "兩側支撐與間距相同、同一枚硬幣，只改變紙形；無承重測量數值。"
+        }
       },
       {
         "id": "u14-t63-r5",
@@ -38537,7 +45239,6 @@ window.REVIEW_UNITS=[
         "passage": "小安把一張平紙搭在兩本書之間，放上一枚硬幣，紙橋就彎了。他正想再加一張紙，同學卻指著紙扇問：「摺過的紙會不會不一樣？」\n\n小安用相同大小的另一張紙摺出連續折痕，書本距離不變，再放同樣硬幣。這次紙橋沒有立刻彎下。他把兩次的紙張形狀和結果畫在紀錄上。\n\n他沒有說所有紙橋都一定承受得住，而是先寫下這次比較的條件。下次，他想再試試書本距離改變後會怎樣。",
         "readingOrder": 5,
         "readingSkill": "主旨與推論",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-14-0",
@@ -38548,7 +45249,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t221-r5"
+        "libraryKey": "u14-t221-r5",
+        "visual": {
+          "kind": "auditPaperBridge",
+          "caption": "平紙橋與摺紙橋",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈紙橋第二次站起來〉哪個順序符合故事？",
+          "articleTitle": "紙橋第二次站起來",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 20,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "兩側支撐與間距相同、同一枚硬幣，只改變紙形；無承重測量數值。"
+        }
       },
       {
         "id": "u14-t64-r1",
@@ -38570,7 +45287,6 @@ window.REVIEW_UNITS=[
         "passage": "小涵的圓鉛筆常從微斜的桌面滾下。她先用橡皮擦擋住，拿橡皮擦寫別題時，鉛筆又掉了。\n\n她找一張厚紙摺成淺淺的長槽，把鉛筆放在裡面。下課推椅子時，鉛筆仍留在槽裡。小涵把紙槽貼在桌面不妨礙寫字的一側，也留出拿筆空間。\n\n同學問她為什麼不一直用手扶著，她笑說：「寫字時可以拿筆，休息時也該有個放筆的位置。」她的做法解決了鉛筆滾動，也沒有占去整張桌子。",
         "readingOrder": 1,
         "readingSkill": "擷取細節",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "core",
         "family": "library-chinese-14-1",
@@ -38581,7 +45297,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t222-r1"
+        "libraryKey": "u14-t222-r1",
+        "visual": {
+          "kind": "auditPencilTray",
+          "caption": "擋住鉛筆與紙槽放筆",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈鉛筆不再滾下桌〉鉛筆為什麼容易掉下？",
+          "articleTitle": "鉛筆不再滾下桌",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 21,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現傾斜桌面、圓鉛筆、可移開的橡皮擦及有邊緣的紙槽。"
+        }
       },
       {
         "id": "u14-t64-r2",
@@ -38603,7 +45335,6 @@ window.REVIEW_UNITS=[
         "passage": "小涵的圓鉛筆常從微斜的桌面滾下。她先用橡皮擦擋住，拿橡皮擦寫別題時，鉛筆又掉了。\n\n她找一張厚紙摺成淺淺的長槽，把鉛筆放在裡面。下課推椅子時，鉛筆仍留在槽裡。小涵把紙槽貼在桌面不妨礙寫字的一側，也留出拿筆空間。\n\n同學問她為什麼不一直用手扶著，她笑說：「寫字時可以拿筆，休息時也該有個放筆的位置。」她的做法解決了鉛筆滾動，也沒有占去整張桌子。",
         "readingOrder": 2,
         "readingSkill": "理解詞句",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "core",
         "family": "library-chinese-14-1",
@@ -38614,7 +45345,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t222-r2"
+        "libraryKey": "u14-t222-r2",
+        "visual": {
+          "kind": "auditPencilTray",
+          "caption": "擋住鉛筆與紙槽放筆",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈鉛筆不再滾下桌〉最初用什麼擋住鉛筆？",
+          "articleTitle": "鉛筆不再滾下桌",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 21,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現傾斜桌面、圓鉛筆、可移開的橡皮擦及有邊緣的紙槽。"
+        }
       },
       {
         "id": "u14-t64-r3",
@@ -38636,7 +45383,6 @@ window.REVIEW_UNITS=[
         "passage": "小涵的圓鉛筆常從微斜的桌面滾下。她先用橡皮擦擋住，拿橡皮擦寫別題時，鉛筆又掉了。\n\n她找一張厚紙摺成淺淺的長槽，把鉛筆放在裡面。下課推椅子時，鉛筆仍留在槽裡。小涵把紙槽貼在桌面不妨礙寫字的一側，也留出拿筆空間。\n\n同學問她為什麼不一直用手扶著，她笑說：「寫字時可以拿筆，休息時也該有個放筆的位置。」她的做法解決了鉛筆滾動，也沒有占去整張桌子。",
         "readingOrder": 3,
         "readingSkill": "因果整合",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-14-1",
@@ -38647,7 +45393,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t222-r3"
+        "libraryKey": "u14-t222-r3",
+        "visual": {
+          "kind": "auditPencilTray",
+          "caption": "擋住鉛筆與紙槽放筆",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈鉛筆不再滾下桌〉原先的方法有何困難？",
+          "articleTitle": "鉛筆不再滾下桌",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 21,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現傾斜桌面、圓鉛筆、可移開的橡皮擦及有邊緣的紙槽。"
+        }
       },
       {
         "id": "u14-t64-r4",
@@ -38669,7 +45431,6 @@ window.REVIEW_UNITS=[
         "passage": "小涵的圓鉛筆常從微斜的桌面滾下。她先用橡皮擦擋住，拿橡皮擦寫別題時，鉛筆又掉了。\n\n她找一張厚紙摺成淺淺的長槽，把鉛筆放在裡面。下課推椅子時，鉛筆仍留在槽裡。小涵把紙槽貼在桌面不妨礙寫字的一側，也留出拿筆空間。\n\n同學問她為什麼不一直用手扶著，她笑說：「寫字時可以拿筆，休息時也該有個放筆的位置。」她的做法解決了鉛筆滾動，也沒有占去整張桌子。",
         "readingOrder": 4,
         "readingSkill": "事件順序與應用",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-14-1",
@@ -38680,7 +45441,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t222-r4"
+        "libraryKey": "u14-t222-r4",
+        "visual": {
+          "kind": "auditPencilTray",
+          "caption": "擋住鉛筆與紙槽放筆",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈鉛筆不再滾下桌〉紙槽放在哪裡？",
+          "articleTitle": "鉛筆不再滾下桌",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 21,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現傾斜桌面、圓鉛筆、可移開的橡皮擦及有邊緣的紙槽。"
+        }
       },
       {
         "id": "u14-t64-r5",
@@ -38702,7 +45479,6 @@ window.REVIEW_UNITS=[
         "passage": "小涵的圓鉛筆常從微斜的桌面滾下。她先用橡皮擦擋住，拿橡皮擦寫別題時，鉛筆又掉了。\n\n她找一張厚紙摺成淺淺的長槽，把鉛筆放在裡面。下課推椅子時，鉛筆仍留在槽裡。小涵把紙槽貼在桌面不妨礙寫字的一側，也留出拿筆空間。\n\n同學問她為什麼不一直用手扶著，她笑說：「寫字時可以拿筆，休息時也該有個放筆的位置。」她的做法解決了鉛筆滾動，也沒有占去整張桌子。",
         "readingOrder": 5,
         "readingSkill": "主旨與推論",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-14-1",
@@ -38713,7 +45489,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t222-r5"
+        "libraryKey": "u14-t222-r5",
+        "visual": {
+          "kind": "auditPencilTray",
+          "caption": "擋住鉛筆與紙槽放筆",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈鉛筆不再滾下桌〉這個故事最能說明哪種解決問題的方法？",
+          "articleTitle": "鉛筆不再滾下桌",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 21,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現傾斜桌面、圓鉛筆、可移開的橡皮擦及有邊緣的紙槽。"
+        }
       },
       {
         "id": "u14-t65-r1",
@@ -38735,7 +45527,6 @@ window.REVIEW_UNITS=[
         "passage": "校慶海報完成後，小琳把它貼在教室後方。站近時看得清楚，站到門口的同學卻只看見彩色圖案，不知道集合時間。\n\n小琳沒有只把花邊畫得更粗。她把集合時間和地點改成較大的字，減少不必要的裝飾，再請同學站到門口讀一次。這回，同學順利說出兩項資訊。\n\n她把修改前後的海報放在一起，發現美觀之外，公告更要讓需要的人看清楚。下一次，她打算先從遠處檢查，再正式張貼。",
         "readingOrder": 1,
         "readingSkill": "擷取細節",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "core",
         "family": "library-chinese-14-2",
@@ -38746,7 +45537,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t223-r1"
+        "libraryKey": "u14-t223-r1",
+        "visual": {
+          "kind": "auditNoticeSize",
+          "caption": "公告的閱讀距離與字級",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈公告上的小字〉從門口原先看不清什麼？",
+          "articleTitle": "公告上的小字",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 22,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "將時間地點視為重要資訊，比較小字與放大後的公告；不填入未給的時刻。"
+        }
       },
       {
         "id": "u14-t65-r2",
@@ -38768,7 +45575,6 @@ window.REVIEW_UNITS=[
         "passage": "校慶海報完成後，小琳把它貼在教室後方。站近時看得清楚，站到門口的同學卻只看見彩色圖案，不知道集合時間。\n\n小琳沒有只把花邊畫得更粗。她把集合時間和地點改成較大的字，減少不必要的裝飾，再請同學站到門口讀一次。這回，同學順利說出兩項資訊。\n\n她把修改前後的海報放在一起，發現美觀之外，公告更要讓需要的人看清楚。下一次，她打算先從遠處檢查，再正式張貼。",
         "readingOrder": 2,
         "readingSkill": "理解詞句",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "core",
         "family": "library-chinese-14-2",
@@ -38779,7 +45585,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t223-r2"
+        "libraryKey": "u14-t223-r2",
+        "visual": {
+          "kind": "auditNoticeSize",
+          "caption": "公告的閱讀距離與字級",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈公告上的小字〉小琳主要做了什麼修改？",
+          "articleTitle": "公告上的小字",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 22,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "將時間地點視為重要資訊，比較小字與放大後的公告；不填入未給的時刻。"
+        }
       },
       {
         "id": "u14-t65-r3",
@@ -38801,7 +45623,6 @@ window.REVIEW_UNITS=[
         "passage": "校慶海報完成後，小琳把它貼在教室後方。站近時看得清楚，站到門口的同學卻只看見彩色圖案，不知道集合時間。\n\n小琳沒有只把花邊畫得更粗。她把集合時間和地點改成較大的字，減少不必要的裝飾，再請同學站到門口讀一次。這回，同學順利說出兩項資訊。\n\n她把修改前後的海報放在一起，發現美觀之外，公告更要讓需要的人看清楚。下一次，她打算先從遠處檢查，再正式張貼。",
         "readingOrder": 3,
         "readingSkill": "因果整合",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-14-2",
@@ -38812,7 +45633,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t223-r3"
+        "libraryKey": "u14-t223-r3",
+        "visual": {
+          "kind": "auditNoticeSize",
+          "caption": "公告的閱讀距離與字級",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈公告上的小字〉如何確認修改有效？",
+          "articleTitle": "公告上的小字",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 22,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "將時間地點視為重要資訊，比較小字與放大後的公告；不填入未給的時刻。"
+        }
       },
       {
         "id": "u14-t65-r4",
@@ -38834,7 +45671,6 @@ window.REVIEW_UNITS=[
         "passage": "校慶海報完成後，小琳把它貼在教室後方。站近時看得清楚，站到門口的同學卻只看見彩色圖案，不知道集合時間。\n\n小琳沒有只把花邊畫得更粗。她把集合時間和地點改成較大的字，減少不必要的裝飾，再請同學站到門口讀一次。這回，同學順利說出兩項資訊。\n\n她把修改前後的海報放在一起，發現美觀之外，公告更要讓需要的人看清楚。下一次，她打算先從遠處檢查，再正式張貼。",
         "readingOrder": 4,
         "readingSkill": "事件順序與應用",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-14-2",
@@ -38845,7 +45681,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t223-r4"
+        "libraryKey": "u14-t223-r4",
+        "visual": {
+          "kind": "auditNoticeSize",
+          "caption": "公告的閱讀距離與字級",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈公告上的小字〉「美觀之外」在文中提醒什麼？",
+          "articleTitle": "公告上的小字",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 22,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "將時間地點視為重要資訊，比較小字與放大後的公告；不填入未給的時刻。"
+        }
       },
       {
         "id": "u14-t65-r5",
@@ -38867,7 +45719,6 @@ window.REVIEW_UNITS=[
         "passage": "校慶海報完成後，小琳把它貼在教室後方。站近時看得清楚，站到門口的同學卻只看見彩色圖案，不知道集合時間。\n\n小琳沒有只把花邊畫得更粗。她把集合時間和地點改成較大的字，減少不必要的裝飾，再請同學站到門口讀一次。這回，同學順利說出兩項資訊。\n\n她把修改前後的海報放在一起，發現美觀之外，公告更要讓需要的人看清楚。下一次，她打算先從遠處檢查，再正式張貼。",
         "readingOrder": 5,
         "readingSkill": "主旨與推論",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-14-2",
@@ -38878,7 +45729,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t223-r5"
+        "libraryKey": "u14-t223-r5",
+        "visual": {
+          "kind": "auditNoticeSize",
+          "caption": "公告的閱讀距離與字級",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈公告上的小字〉哪個順序較符合她下次的打算？",
+          "articleTitle": "公告上的小字",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 22,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "將時間地點視為重要資訊，比較小字與放大後的公告；不填入未給的時刻。"
+        }
       },
       {
         "id": "u14-t66-r1",
@@ -38900,7 +45767,6 @@ window.REVIEW_UNITS=[
         "passage": "戶外教學後，桌上擺著四個一樣的藍水壺。小禾伸手拿了一個，卻發現吸管不是自己習慣的款式。他停下來，先看水壺底部。\n\n其中一個底部貼有自己的姓名，另一個卻只有圖案。小禾拿回有姓名的水壺，並提醒同學先辨認標記，不要只看外表顏色。回家後，他又把快脫落的姓名貼換好。\n\n媽媽問他為什麼不只貼最喜歡的圖案。他說：「圖案可能一樣，姓名比較能讓大家知道是誰的。」標記不必很華麗，清楚而牢固才有用。",
         "readingOrder": 1,
         "readingSkill": "擷取細節",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "core",
         "family": "library-chinese-14-3",
@@ -38911,7 +45777,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t224-r1"
+        "libraryKey": "u14-t224-r1",
+        "visual": {
+          "kind": "auditBottleLabels",
+          "caption": "相同外形水壺的標記",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈認得自己的水壺〉桌上水壺有什麼相同處？",
+          "articleTitle": "認得自己的水壺",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 23,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "四個相同藍水壺，其中一個有小禾姓名；靠標記而非外形辨識。"
+        }
       },
       {
         "id": "u14-t66-r2",
@@ -38933,7 +45815,6 @@ window.REVIEW_UNITS=[
         "passage": "戶外教學後，桌上擺著四個一樣的藍水壺。小禾伸手拿了一個，卻發現吸管不是自己習慣的款式。他停下來，先看水壺底部。\n\n其中一個底部貼有自己的姓名，另一個卻只有圖案。小禾拿回有姓名的水壺，並提醒同學先辨認標記，不要只看外表顏色。回家後，他又把快脫落的姓名貼換好。\n\n媽媽問他為什麼不只貼最喜歡的圖案。他說：「圖案可能一樣，姓名比較能讓大家知道是誰的。」標記不必很華麗，清楚而牢固才有用。",
         "readingOrder": 2,
         "readingSkill": "理解詞句",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "core",
         "family": "library-chinese-14-3",
@@ -38944,7 +45825,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t224-r2"
+        "libraryKey": "u14-t224-r2",
+        "visual": {
+          "kind": "auditBottleLabels",
+          "caption": "相同外形水壺的標記",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈認得自己的水壺〉什麼讓小禾停下來確認？",
+          "articleTitle": "認得自己的水壺",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 23,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "四個相同藍水壺，其中一個有小禾姓名；靠標記而非外形辨識。"
+        }
       },
       {
         "id": "u14-t66-r3",
@@ -38966,7 +45863,6 @@ window.REVIEW_UNITS=[
         "passage": "戶外教學後，桌上擺著四個一樣的藍水壺。小禾伸手拿了一個，卻發現吸管不是自己習慣的款式。他停下來，先看水壺底部。\n\n其中一個底部貼有自己的姓名，另一個卻只有圖案。小禾拿回有姓名的水壺，並提醒同學先辨認標記，不要只看外表顏色。回家後，他又把快脫落的姓名貼換好。\n\n媽媽問他為什麼不只貼最喜歡的圖案。他說：「圖案可能一樣，姓名比較能讓大家知道是誰的。」標記不必很華麗，清楚而牢固才有用。",
         "readingOrder": 3,
         "readingSkill": "因果整合",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-14-3",
@@ -38977,7 +45873,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t224-r3"
+        "libraryKey": "u14-t224-r3",
+        "visual": {
+          "kind": "auditBottleLabels",
+          "caption": "相同外形水壺的標記",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈認得自己的水壺〉最後依什麼拿回水壺？",
+          "articleTitle": "認得自己的水壺",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 23,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "四個相同藍水壺，其中一個有小禾姓名；靠標記而非外形辨識。"
+        }
       },
       {
         "id": "u14-t66-r4",
@@ -38999,7 +45911,6 @@ window.REVIEW_UNITS=[
         "passage": "戶外教學後，桌上擺著四個一樣的藍水壺。小禾伸手拿了一個，卻發現吸管不是自己習慣的款式。他停下來，先看水壺底部。\n\n其中一個底部貼有自己的姓名，另一個卻只有圖案。小禾拿回有姓名的水壺，並提醒同學先辨認標記，不要只看外表顏色。回家後，他又把快脫落的姓名貼換好。\n\n媽媽問他為什麼不只貼最喜歡的圖案。他說：「圖案可能一樣，姓名比較能讓大家知道是誰的。」標記不必很華麗，清楚而牢固才有用。",
         "readingOrder": 4,
         "readingSkill": "事件順序與應用",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-14-3",
@@ -39010,7 +45921,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t224-r4"
+        "libraryKey": "u14-t224-r4",
+        "visual": {
+          "kind": "auditBottleLabels",
+          "caption": "相同外形水壺的標記",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈認得自己的水壺〉回家後他做什麼？",
+          "articleTitle": "認得自己的水壺",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 23,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "四個相同藍水壺，其中一個有小禾姓名；靠標記而非外形辨識。"
+        }
       },
       {
         "id": "u14-t66-r5",
@@ -39032,7 +45959,6 @@ window.REVIEW_UNITS=[
         "passage": "戶外教學後，桌上擺著四個一樣的藍水壺。小禾伸手拿了一個，卻發現吸管不是自己習慣的款式。他停下來，先看水壺底部。\n\n其中一個底部貼有自己的姓名，另一個卻只有圖案。小禾拿回有姓名的水壺，並提醒同學先辨認標記，不要只看外表顏色。回家後，他又把快脫落的姓名貼換好。\n\n媽媽問他為什麼不只貼最喜歡的圖案。他說：「圖案可能一樣，姓名比較能讓大家知道是誰的。」標記不必很華麗，清楚而牢固才有用。",
         "readingOrder": 5,
         "readingSkill": "主旨與推論",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-14-3",
@@ -39043,7 +45969,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t224-r5"
+        "libraryKey": "u14-t224-r5",
+        "visual": {
+          "kind": "auditBottleLabels",
+          "caption": "相同外形水壺的標記",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈認得自己的水壺〉「清楚而牢固才有用」強調什麼？",
+          "articleTitle": "認得自己的水壺",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 23,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "四個相同藍水壺，其中一個有小禾姓名；靠標記而非外形辨識。"
+        }
       },
       {
         "id": "u14-t67-r1",
@@ -39065,7 +46007,6 @@ window.REVIEW_UNITS=[
         "passage": "紙工課上，四人小組只有一把剪刀，大家都伸手想拿。紙張推來推去，十分鐘過去，沒有一件作品完成。\n\n小德提議先把紙上輪廓畫好，再輪流剪；等待的人負責摺紙或整理材料。他們把剪刀放在桌上指定位置，交接時先握好安全的一端，不互相拉扯。\n\n下課前，四件作品終於排成一列。大家發現，工具數量沒有增加，但工作順序改了，等待的人也能做別的步驟，整體反而更順利。",
         "readingOrder": 1,
         "readingSkill": "擷取細節",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "core",
         "family": "library-chinese-14-4",
@@ -39076,7 +46017,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t225-r1"
+        "libraryKey": "u14-t225-r1",
+        "visual": {
+          "kind": "auditPaperWorkflow",
+          "caption": "四人的紙工步驟",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈只有一把剪刀〉小組原先有什麼困難？",
+          "articleTitle": "只有一把剪刀",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 24,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "畫輪廓、輪流剪、等待時摺紙整理，呈現一把剪刀的分配。"
+        }
       },
       {
         "id": "u14-t67-r2",
@@ -39098,7 +46055,6 @@ window.REVIEW_UNITS=[
         "passage": "紙工課上，四人小組只有一把剪刀，大家都伸手想拿。紙張推來推去，十分鐘過去，沒有一件作品完成。\n\n小德提議先把紙上輪廓畫好，再輪流剪；等待的人負責摺紙或整理材料。他們把剪刀放在桌上指定位置，交接時先握好安全的一端，不互相拉扯。\n\n下課前，四件作品終於排成一列。大家發現，工具數量沒有增加，但工作順序改了，等待的人也能做別的步驟，整體反而更順利。",
         "readingOrder": 2,
         "readingSkill": "理解詞句",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "core",
         "family": "library-chinese-14-4",
@@ -39109,7 +46065,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t225-r2"
+        "libraryKey": "u14-t225-r2",
+        "visual": {
+          "kind": "auditPaperWorkflow",
+          "caption": "四人的紙工步驟",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈只有一把剪刀〉小德先建議什麼？",
+          "articleTitle": "只有一把剪刀",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 24,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "畫輪廓、輪流剪、等待時摺紙整理，呈現一把剪刀的分配。"
+        }
       },
       {
         "id": "u14-t67-r3",
@@ -39131,7 +46103,6 @@ window.REVIEW_UNITS=[
         "passage": "紙工課上，四人小組只有一把剪刀，大家都伸手想拿。紙張推來推去，十分鐘過去，沒有一件作品完成。\n\n小德提議先把紙上輪廓畫好，再輪流剪；等待的人負責摺紙或整理材料。他們把剪刀放在桌上指定位置，交接時先握好安全的一端，不互相拉扯。\n\n下課前，四件作品終於排成一列。大家發現，工具數量沒有增加，但工作順序改了，等待的人也能做別的步驟，整體反而更順利。",
         "readingOrder": 3,
         "readingSkill": "因果整合",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-14-4",
@@ -39142,7 +46113,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t225-r3"
+        "libraryKey": "u14-t225-r3",
+        "visual": {
+          "kind": "auditPaperWorkflow",
+          "caption": "四人的紙工步驟",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈只有一把剪刀〉等待的人做什麼？",
+          "articleTitle": "只有一把剪刀",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 24,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "畫輪廓、輪流剪、等待時摺紙整理，呈現一把剪刀的分配。"
+        }
       },
       {
         "id": "u14-t67-r4",
@@ -39164,7 +46151,6 @@ window.REVIEW_UNITS=[
         "passage": "紙工課上，四人小組只有一把剪刀，大家都伸手想拿。紙張推來推去，十分鐘過去，沒有一件作品完成。\n\n小德提議先把紙上輪廓畫好，再輪流剪；等待的人負責摺紙或整理材料。他們把剪刀放在桌上指定位置，交接時先握好安全的一端，不互相拉扯。\n\n下課前，四件作品終於排成一列。大家發現，工具數量沒有增加，但工作順序改了，等待的人也能做別的步驟，整體反而更順利。",
         "readingOrder": 4,
         "readingSkill": "事件順序與應用",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-14-4",
@@ -39175,7 +46161,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t225-r4"
+        "libraryKey": "u14-t225-r4",
+        "visual": {
+          "kind": "auditPaperWorkflow",
+          "caption": "四人的紙工步驟",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈只有一把剪刀〉工具數量有增加嗎？",
+          "articleTitle": "只有一把剪刀",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 24,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "畫輪廓、輪流剪、等待時摺紙整理，呈現一把剪刀的分配。"
+        }
       },
       {
         "id": "u14-t67-r5",
@@ -39197,7 +46199,6 @@ window.REVIEW_UNITS=[
         "passage": "紙工課上，四人小組只有一把剪刀，大家都伸手想拿。紙張推來推去，十分鐘過去，沒有一件作品完成。\n\n小德提議先把紙上輪廓畫好，再輪流剪；等待的人負責摺紙或整理材料。他們把剪刀放在桌上指定位置，交接時先握好安全的一端，不互相拉扯。\n\n下課前，四件作品終於排成一列。大家發現，工具數量沒有增加，但工作順序改了，等待的人也能做別的步驟，整體反而更順利。",
         "readingOrder": 5,
         "readingSkill": "主旨與推論",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-14-4",
@@ -39208,7 +46209,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t225-r5"
+        "libraryKey": "u14-t225-r5",
+        "visual": {
+          "kind": "auditPaperWorkflow",
+          "caption": "四人的紙工步驟",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈只有一把剪刀〉哪項最能說明成功原因？",
+          "articleTitle": "只有一把剪刀",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 24,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "畫輪廓、輪流剪、等待時摺紙整理，呈現一把剪刀的分配。"
+        }
       },
       {
         "id": "u14-t68-r1",
@@ -39230,7 +46247,6 @@ window.REVIEW_UNITS=[
         "passage": "校外導覽原訂在操場集合。早上突然下大雨，老師改到穿堂，並請班長通知大家。小瑜原本想只傳一句「地點改了」，同學看完卻還是不知道要往哪走。\n\n她重新寫下「今天八點二十分，在一樓穿堂集合，原操場集合取消」，再請收到的人回覆。同時，老師在操場入口放了指示牌，提醒尚未看到訊息的人。\n\n到集合時間，全班依新地點點名。小瑜把通知留下來，發現一則有用的訊息不只說有改變，還要讓人知道改成什麼、何時生效。",
         "readingOrder": 1,
         "readingSkill": "擷取細節",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "core",
         "family": "library-chinese-14-5",
@@ -39241,7 +46257,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t226-r1"
+        "libraryKey": "u14-t226-r1",
+        "visual": {
+          "kind": "auditNoticeChange",
+          "caption": "集合通知的前後內容",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈下雨後的新集合點〉原訂集合地點在哪裡？",
+          "articleTitle": "下雨後的新集合點",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 25,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "新通知依文中 8：20、一樓穿堂與操場取消呈現，不杜撰校園方位。"
+        }
       },
       {
         "id": "u14-t68-r2",
@@ -39263,7 +46295,6 @@ window.REVIEW_UNITS=[
         "passage": "校外導覽原訂在操場集合。早上突然下大雨，老師改到穿堂，並請班長通知大家。小瑜原本想只傳一句「地點改了」，同學看完卻還是不知道要往哪走。\n\n她重新寫下「今天八點二十分，在一樓穿堂集合，原操場集合取消」，再請收到的人回覆。同時，老師在操場入口放了指示牌，提醒尚未看到訊息的人。\n\n到集合時間，全班依新地點點名。小瑜把通知留下來，發現一則有用的訊息不只說有改變，還要讓人知道改成什麼、何時生效。",
         "readingOrder": 2,
         "readingSkill": "理解詞句",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "core",
         "family": "library-chinese-14-5",
@@ -39274,7 +46305,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t226-r2"
+        "libraryKey": "u14-t226-r2",
+        "visual": {
+          "kind": "auditNoticeChange",
+          "caption": "集合通知的前後內容",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈下雨後的新集合點〉為什麼改地點？",
+          "articleTitle": "下雨後的新集合點",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 25,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "新通知依文中 8：20、一樓穿堂與操場取消呈現，不杜撰校園方位。"
+        }
       },
       {
         "id": "u14-t68-r3",
@@ -39296,7 +46343,6 @@ window.REVIEW_UNITS=[
         "passage": "校外導覽原訂在操場集合。早上突然下大雨，老師改到穿堂，並請班長通知大家。小瑜原本想只傳一句「地點改了」，同學看完卻還是不知道要往哪走。\n\n她重新寫下「今天八點二十分，在一樓穿堂集合，原操場集合取消」，再請收到的人回覆。同時，老師在操場入口放了指示牌，提醒尚未看到訊息的人。\n\n到集合時間，全班依新地點點名。小瑜把通知留下來，發現一則有用的訊息不只說有改變，還要讓人知道改成什麼、何時生效。",
         "readingOrder": 3,
         "readingSkill": "因果整合",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-14-5",
@@ -39307,7 +46353,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t226-r3"
+        "libraryKey": "u14-t226-r3",
+        "visual": {
+          "kind": "auditNoticeChange",
+          "caption": "集合通知的前後內容",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈下雨後的新集合點〉「地點改了」為什麼不夠清楚？",
+          "articleTitle": "下雨後的新集合點",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 25,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "新通知依文中 8：20、一樓穿堂與操場取消呈現，不杜撰校園方位。"
+        }
       },
       {
         "id": "u14-t68-r4",
@@ -39329,7 +46391,6 @@ window.REVIEW_UNITS=[
         "passage": "校外導覽原訂在操場集合。早上突然下大雨，老師改到穿堂，並請班長通知大家。小瑜原本想只傳一句「地點改了」，同學看完卻還是不知道要往哪走。\n\n她重新寫下「今天八點二十分，在一樓穿堂集合，原操場集合取消」，再請收到的人回覆。同時，老師在操場入口放了指示牌，提醒尚未看到訊息的人。\n\n到集合時間，全班依新地點點名。小瑜把通知留下來，發現一則有用的訊息不只說有改變，還要讓人知道改成什麼、何時生效。",
         "readingOrder": 4,
         "readingSkill": "事件順序與應用",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-14-5",
@@ -39340,7 +46401,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t226-r4"
+        "libraryKey": "u14-t226-r4",
+        "visual": {
+          "kind": "auditNoticeChange",
+          "caption": "集合通知的前後內容",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈下雨後的新集合點〉哪項補充幫助沒看訊息的人？",
+          "articleTitle": "下雨後的新集合點",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 25,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "新通知依文中 8：20、一樓穿堂與操場取消呈現，不杜撰校園方位。"
+        }
       },
       {
         "id": "u14-t68-r5",
@@ -39362,7 +46439,6 @@ window.REVIEW_UNITS=[
         "passage": "校外導覽原訂在操場集合。早上突然下大雨，老師改到穿堂，並請班長通知大家。小瑜原本想只傳一句「地點改了」，同學看完卻還是不知道要往哪走。\n\n她重新寫下「今天八點二十分，在一樓穿堂集合，原操場集合取消」，再請收到的人回覆。同時，老師在操場入口放了指示牌，提醒尚未看到訊息的人。\n\n到集合時間，全班依新地點點名。小瑜把通知留下來，發現一則有用的訊息不只說有改變，還要讓人知道改成什麼、何時生效。",
         "readingOrder": 5,
         "readingSkill": "主旨與推論",
-        "visualPolicy": "none",
         "revision": 16,
         "difficulty": "challenge",
         "family": "library-chinese-14-5",
@@ -39373,7 +46449,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開卷閱讀、語詞與順序題型原創編寫",
-        "libraryKey": "u14-t226-r5"
+        "libraryKey": "u14-t226-r5",
+        "visual": {
+          "kind": "auditNoticeChange",
+          "caption": "集合通知的前後內容",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "〈下雨後的新集合點〉完整通知應包含什麼？",
+          "articleTitle": "下雨後的新集合點",
+          "articleText": "",
+          "unitId": 14,
+          "conceptIndex": 25,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "新通知依文中 8：20、一樓穿堂與操場取消呈現，不杜撰校園方位。"
+        }
       }
     ],
     "articleVisuals": {
@@ -39703,7 +46795,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "詢問姓名時，以 My name is… 或 I’m… 加姓名回答。",
-        "libraryKey": "u15-t201-a"
+        "libraryKey": "u15-t201-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 15,
@@ -39732,7 +46829,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "初次見面的招呼可回應 Nice to meet you, too.。",
-        "libraryKey": "u15-t202-a"
+        "libraryKey": "u15-t202-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 15,
@@ -39761,7 +46863,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "My name is 後面的 Amy 是姓名。",
-        "libraryKey": "u15-t203-a"
+        "libraryKey": "u15-t203-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 15,
@@ -39790,7 +46897,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "I’m Cody. 介紹自己的名字；其他句子是在對 Cody 打招呼。",
-        "libraryKey": "u15-t204-a"
+        "libraryKey": "u15-t204-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 15,
@@ -39819,7 +46931,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "冒號前是 Tom 在說話，Hello 後的 Tina 是被稱呼的人。",
-        "libraryKey": "u15-t205-a"
+        "libraryKey": "u15-t205-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 15,
@@ -39848,7 +46965,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "A 的小寫是 a，留意 b 與 d 的方向。",
-        "libraryKey": "u15-t206-a"
+        "libraryKey": "u15-t206-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 15,
@@ -39877,7 +46999,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "m 的大寫是 M，不能與 N 混淆。",
-        "libraryKey": "u15-t207-a"
+        "libraryKey": "u15-t207-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 15,
@@ -39906,7 +47033,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "英文字母依序是 A、B、C、D。",
-        "libraryKey": "u15-t208-a"
+        "libraryKey": "u15-t208-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 15,
@@ -39935,7 +47067,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "兩個名字都以 A 開頭，需繼續核對後面的字母。",
-        "libraryKey": "u15-t209-a"
+        "libraryKey": "u15-t209-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 15,
@@ -39964,7 +47101,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "早晨可用 Good morning! 互相問候。",
-        "libraryKey": "u15-t210-a"
+        "libraryKey": "u15-t210-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 15,
@@ -39993,7 +47135,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "兩種句型都可用於介紹自己的姓名。",
-        "libraryKey": "u15-t211-a"
+        "libraryKey": "u15-t211-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 15,
@@ -40022,7 +47169,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "g、h 之後是 i。",
-        "libraryKey": "u15-t212-a"
+        "libraryKey": "u15-t212-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 15,
@@ -40035,7 +47187,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Meet our friends 1〉第一個介紹自己的人是誰？",
@@ -40057,9 +47208,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "找資料",
         "family": "library-english-15-0",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name"
@@ -40075,9 +47226,21 @@ window.REVIEW_UNITS=[
                 "Cody"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Meet our friends 1〉第一個介紹自己的人是誰？",
+          "articleTitle": "Meet our friends 1",
+          "articleText": "",
+          "unitId": 15,
+          "conceptIndex": 20,
+          "showAges": false,
+          "examLineArt": false
         },
-        "libraryKey": "u15-t221-r1"
+        "libraryKey": "u15-t221-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 15,
@@ -40090,7 +47253,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Meet our friends 1〉誰回答 Amy 的姓名問題？",
@@ -40112,9 +47274,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "配對資訊",
         "family": "library-english-15-0",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name"
@@ -40130,9 +47292,21 @@ window.REVIEW_UNITS=[
                 "Cody"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Meet our friends 1〉誰回答 Amy 的姓名問題？",
+          "articleTitle": "Meet our friends 1",
+          "articleText": "",
+          "unitId": 15,
+          "conceptIndex": 20,
+          "showAges": false,
+          "examLineArt": false
         },
-        "libraryKey": "u15-t221-r2"
+        "libraryKey": "u15-t221-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 15,
@@ -40145,7 +47319,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Meet our friends 1〉Hi, Ben! My name is Cody. 是誰說的？",
@@ -40167,9 +47340,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "句型理解",
         "family": "library-english-15-0",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name"
@@ -40185,9 +47358,21 @@ window.REVIEW_UNITS=[
                 "Cody"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Meet our friends 1〉Hi, Ben! My name is Cody. 是誰說的？",
+          "articleTitle": "Meet our friends 1",
+          "articleText": "",
+          "unitId": 15,
+          "conceptIndex": 20,
+          "showAges": false,
+          "examLineArt": false
         },
-        "libraryKey": "u15-t221-r3"
+        "libraryKey": "u15-t221-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 15,
@@ -40200,7 +47385,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Meet our friends 1〉哪組名單與三人介紹一致？",
@@ -40222,9 +47406,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "整合對話",
         "family": "library-english-15-0",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name"
@@ -40240,9 +47424,21 @@ window.REVIEW_UNITS=[
                 "Cody"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Meet our friends 1〉哪組名單與三人介紹一致？",
+          "articleTitle": "Meet our friends 1",
+          "articleText": "",
+          "unitId": 15,
+          "conceptIndex": 20,
+          "showAges": false,
+          "examLineArt": false
         },
-        "libraryKey": "u15-t221-r4"
+        "libraryKey": "u15-t221-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 15,
@@ -40255,7 +47451,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Meet our friends 1〉哪句適合回應 Nice to meet you.?",
@@ -40277,9 +47472,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "情境應用",
         "family": "library-english-15-0",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name"
@@ -40295,9 +47490,21 @@ window.REVIEW_UNITS=[
                 "Cody"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Meet our friends 1〉哪句適合回應 Nice to meet you.?",
+          "articleTitle": "Meet our friends 1",
+          "articleText": "",
+          "unitId": 15,
+          "conceptIndex": 20,
+          "showAges": false,
+          "examLineArt": false
         },
-        "libraryKey": "u15-t221-r5"
+        "libraryKey": "u15-t221-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 15,
@@ -40310,7 +47517,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Meet our friends 2〉第一個介紹自己的人是誰？",
@@ -40332,9 +47538,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "找資料",
         "family": "library-english-15-1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name"
@@ -40350,9 +47556,21 @@ window.REVIEW_UNITS=[
                 "Gina"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Meet our friends 2〉第一個介紹自己的人是誰？",
+          "articleTitle": "Meet our friends 2",
+          "articleText": "",
+          "unitId": 15,
+          "conceptIndex": 21,
+          "showAges": false,
+          "examLineArt": false
         },
-        "libraryKey": "u15-t222-r1"
+        "libraryKey": "u15-t222-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 15,
@@ -40365,7 +47583,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Meet our friends 2〉誰回答 Emma 的姓名問題？",
@@ -40387,9 +47604,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "配對資訊",
         "family": "library-english-15-1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name"
@@ -40405,9 +47622,21 @@ window.REVIEW_UNITS=[
                 "Gina"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Meet our friends 2〉誰回答 Emma 的姓名問題？",
+          "articleTitle": "Meet our friends 2",
+          "articleText": "",
+          "unitId": 15,
+          "conceptIndex": 21,
+          "showAges": false,
+          "examLineArt": false
         },
-        "libraryKey": "u15-t222-r2"
+        "libraryKey": "u15-t222-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 15,
@@ -40420,7 +47649,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Meet our friends 2〉Hi, Fred! My name is Gina. 是誰說的？",
@@ -40442,9 +47670,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "句型理解",
         "family": "library-english-15-1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name"
@@ -40460,9 +47688,21 @@ window.REVIEW_UNITS=[
                 "Gina"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Meet our friends 2〉Hi, Fred! My name is Gina. 是誰說的？",
+          "articleTitle": "Meet our friends 2",
+          "articleText": "",
+          "unitId": 15,
+          "conceptIndex": 21,
+          "showAges": false,
+          "examLineArt": false
         },
-        "libraryKey": "u15-t222-r3"
+        "libraryKey": "u15-t222-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 15,
@@ -40475,7 +47715,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Meet our friends 2〉哪組名單與三人介紹一致？",
@@ -40497,9 +47736,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "整合對話",
         "family": "library-english-15-1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name"
@@ -40515,9 +47754,21 @@ window.REVIEW_UNITS=[
                 "Gina"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Meet our friends 2〉哪組名單與三人介紹一致？",
+          "articleTitle": "Meet our friends 2",
+          "articleText": "",
+          "unitId": 15,
+          "conceptIndex": 21,
+          "showAges": false,
+          "examLineArt": false
         },
-        "libraryKey": "u15-t222-r4"
+        "libraryKey": "u15-t222-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 15,
@@ -40530,7 +47781,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Meet our friends 2〉哪句適合回應 Nice to meet you.?",
@@ -40552,9 +47802,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "情境應用",
         "family": "library-english-15-1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name"
@@ -40570,9 +47820,21 @@ window.REVIEW_UNITS=[
                 "Gina"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Meet our friends 2〉哪句適合回應 Nice to meet you.?",
+          "articleTitle": "Meet our friends 2",
+          "articleText": "",
+          "unitId": 15,
+          "conceptIndex": 21,
+          "showAges": false,
+          "examLineArt": false
         },
-        "libraryKey": "u15-t222-r5"
+        "libraryKey": "u15-t222-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 15,
@@ -40585,7 +47847,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Meet our friends 3〉第一個介紹自己的人是誰？",
@@ -40607,9 +47868,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "找資料",
         "family": "library-english-15-2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name"
@@ -40625,9 +47886,21 @@ window.REVIEW_UNITS=[
                 "Nick"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Meet our friends 3〉第一個介紹自己的人是誰？",
+          "articleTitle": "Meet our friends 3",
+          "articleText": "",
+          "unitId": 15,
+          "conceptIndex": 22,
+          "showAges": false,
+          "examLineArt": false
         },
-        "libraryKey": "u15-t223-r1"
+        "libraryKey": "u15-t223-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 15,
@@ -40640,7 +47913,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Meet our friends 3〉誰回答 Leo 的姓名問題？",
@@ -40662,9 +47934,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "配對資訊",
         "family": "library-english-15-2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name"
@@ -40680,9 +47952,21 @@ window.REVIEW_UNITS=[
                 "Nick"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Meet our friends 3〉誰回答 Leo 的姓名問題？",
+          "articleTitle": "Meet our friends 3",
+          "articleText": "",
+          "unitId": 15,
+          "conceptIndex": 22,
+          "showAges": false,
+          "examLineArt": false
         },
-        "libraryKey": "u15-t223-r2"
+        "libraryKey": "u15-t223-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 15,
@@ -40695,7 +47979,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Meet our friends 3〉Hi, May! My name is Nick. 是誰說的？",
@@ -40717,9 +48000,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "句型理解",
         "family": "library-english-15-2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name"
@@ -40735,9 +48018,21 @@ window.REVIEW_UNITS=[
                 "Nick"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Meet our friends 3〉Hi, May! My name is Nick. 是誰說的？",
+          "articleTitle": "Meet our friends 3",
+          "articleText": "",
+          "unitId": 15,
+          "conceptIndex": 22,
+          "showAges": false,
+          "examLineArt": false
         },
-        "libraryKey": "u15-t223-r3"
+        "libraryKey": "u15-t223-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 15,
@@ -40750,7 +48045,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Meet our friends 3〉哪組名單與三人介紹一致？",
@@ -40772,9 +48066,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "整合對話",
         "family": "library-english-15-2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name"
@@ -40790,9 +48084,21 @@ window.REVIEW_UNITS=[
                 "Nick"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Meet our friends 3〉哪組名單與三人介紹一致？",
+          "articleTitle": "Meet our friends 3",
+          "articleText": "",
+          "unitId": 15,
+          "conceptIndex": 22,
+          "showAges": false,
+          "examLineArt": false
         },
-        "libraryKey": "u15-t223-r4"
+        "libraryKey": "u15-t223-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 15,
@@ -40805,7 +48111,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Meet our friends 3〉哪句適合回應 Nice to meet you.?",
@@ -40827,9 +48132,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "情境應用",
         "family": "library-english-15-2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name"
@@ -40845,9 +48150,21 @@ window.REVIEW_UNITS=[
                 "Nick"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Meet our friends 3〉哪句適合回應 Nice to meet you.?",
+          "articleTitle": "Meet our friends 3",
+          "articleText": "",
+          "unitId": 15,
+          "conceptIndex": 22,
+          "showAges": false,
+          "examLineArt": false
         },
-        "libraryKey": "u15-t223-r5"
+        "libraryKey": "u15-t223-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 15,
@@ -40860,7 +48177,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Meet our friends 4〉第一個介紹自己的人是誰？",
@@ -40882,9 +48198,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "找資料",
         "family": "library-english-15-3",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name"
@@ -40900,9 +48216,21 @@ window.REVIEW_UNITS=[
                 "Mia"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Meet our friends 4〉第一個介紹自己的人是誰？",
+          "articleTitle": "Meet our friends 4",
+          "articleText": "",
+          "unitId": 15,
+          "conceptIndex": 23,
+          "showAges": false,
+          "examLineArt": false
         },
-        "libraryKey": "u15-t224-r1"
+        "libraryKey": "u15-t224-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 15,
@@ -40915,7 +48243,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Meet our friends 4〉誰回答 Tina 的姓名問題？",
@@ -40937,9 +48264,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "配對資訊",
         "family": "library-english-15-3",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name"
@@ -40955,9 +48282,21 @@ window.REVIEW_UNITS=[
                 "Mia"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Meet our friends 4〉誰回答 Tina 的姓名問題？",
+          "articleTitle": "Meet our friends 4",
+          "articleText": "",
+          "unitId": 15,
+          "conceptIndex": 23,
+          "showAges": false,
+          "examLineArt": false
         },
-        "libraryKey": "u15-t224-r2"
+        "libraryKey": "u15-t224-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 15,
@@ -40970,7 +48309,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Meet our friends 4〉Hi, Tom! My name is Mia. 是誰說的？",
@@ -40992,9 +48330,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "句型理解",
         "family": "library-english-15-3",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name"
@@ -41010,9 +48348,21 @@ window.REVIEW_UNITS=[
                 "Mia"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Meet our friends 4〉Hi, Tom! My name is Mia. 是誰說的？",
+          "articleTitle": "Meet our friends 4",
+          "articleText": "",
+          "unitId": 15,
+          "conceptIndex": 23,
+          "showAges": false,
+          "examLineArt": false
         },
-        "libraryKey": "u15-t224-r3"
+        "libraryKey": "u15-t224-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 15,
@@ -41025,7 +48375,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Meet our friends 4〉哪組名單與三人介紹一致？",
@@ -41047,9 +48396,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "整合對話",
         "family": "library-english-15-3",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name"
@@ -41065,9 +48414,21 @@ window.REVIEW_UNITS=[
                 "Mia"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Meet our friends 4〉哪組名單與三人介紹一致？",
+          "articleTitle": "Meet our friends 4",
+          "articleText": "",
+          "unitId": 15,
+          "conceptIndex": 23,
+          "showAges": false,
+          "examLineArt": false
         },
-        "libraryKey": "u15-t224-r4"
+        "libraryKey": "u15-t224-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 15,
@@ -41080,7 +48441,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Meet our friends 4〉哪句適合回應 Nice to meet you.?",
@@ -41102,9 +48462,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "情境應用",
         "family": "library-english-15-3",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name"
@@ -41120,9 +48480,21 @@ window.REVIEW_UNITS=[
                 "Mia"
               ]
             ]
-          }
+          },
+          "sceneText": "〈Meet our friends 4〉哪句適合回應 Nice to meet you.?",
+          "articleTitle": "Meet our friends 4",
+          "articleText": "",
+          "unitId": 15,
+          "conceptIndex": 23,
+          "showAges": false,
+          "examLineArt": false
         },
-        "libraryKey": "u15-t224-r5"
+        "libraryKey": "u15-t224-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       }
     ],
     "articleVisuals": {
@@ -41796,7 +49168,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "How old are you? 詢問年齡，應以年歲回答。",
-        "libraryKey": "u16-t201-a"
+        "libraryKey": "u16-t201-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 16,
@@ -41825,7 +49202,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "ten 是十，不是 one。",
-        "libraryKey": "u16-t202-a"
+        "libraryKey": "u16-t202-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 16,
@@ -41860,7 +49242,12 @@ window.REVIEW_UNITS=[
           "description": "依數字卡選出對應的英文句子。",
           "value": 7
         },
-        "libraryKey": "u16-t203-a"
+        "libraryKey": "u16-t203-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+        }
       },
       {
         "unit": 16,
@@ -41889,7 +49276,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "How old 用來問年齡；What’s your name? 問姓名。",
-        "libraryKey": "u16-t204-a"
+        "libraryKey": "u16-t204-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 16,
@@ -41918,7 +49310,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "too 在這裡表示也，兩人都九歲。",
-        "libraryKey": "u16-t205-a"
+        "libraryKey": "u16-t205-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 16,
@@ -41947,7 +49344,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "表達年齡常用數字加 years old。",
-        "libraryKey": "u16-t206-a"
+        "libraryKey": "u16-t206-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 16,
@@ -41976,7 +49378,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "三個英文數字依序是十、八、六。",
-        "libraryKey": "u16-t207-a"
+        "libraryKey": "u16-t207-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 16,
@@ -42005,7 +49412,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "My name is Ben. 介紹姓名，I’m eight. 介紹年齡。",
-        "libraryKey": "u16-t208-a"
+        "libraryKey": "u16-t208-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 16,
@@ -42034,7 +49446,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "nine 是九，與 six 的六不同。",
-        "libraryKey": "u16-t209-a"
+        "libraryKey": "u16-t209-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 16,
@@ -42063,7 +49480,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "five 是五；fine 不是年齡數字。",
-        "libraryKey": "u16-t210-a"
+        "libraryKey": "u16-t210-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 16,
@@ -42092,7 +49514,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "十歲比七歲大，因此是 B。",
-        "libraryKey": "u16-t211-a"
+        "libraryKey": "u16-t211-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 16,
@@ -42121,7 +49548,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "eight 表示八。",
-        "libraryKey": "u16-t212-a"
+        "libraryKey": "u16-t212-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+        }
       },
       {
         "unit": 16,
@@ -42134,7 +49566,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Names and ages 1〉Amy 幾歲？",
@@ -42156,9 +49587,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "找資料",
         "family": "library-english-16-0",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name",
@@ -42178,9 +49609,21 @@ window.REVIEW_UNITS=[
                 8
               ]
             ]
-          }
+          },
+          "sceneText": "〈Names and ages 1〉Amy 幾歲？",
+          "articleTitle": "Names and ages 1",
+          "articleText": "",
+          "unitId": 16,
+          "conceptIndex": 20,
+          "showAges": true,
+          "examLineArt": false
         },
-        "libraryKey": "u16-t221-r1"
+        "libraryKey": "u16-t221-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 16,
@@ -42193,7 +49636,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Names and ages 1〉誰說 I’m nine years old.?",
@@ -42215,9 +49657,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "配對資訊",
         "family": "library-english-16-0",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name",
@@ -42237,9 +49679,21 @@ window.REVIEW_UNITS=[
                 8
               ]
             ]
-          }
+          },
+          "sceneText": "〈Names and ages 1〉誰說 I’m nine years old.?",
+          "articleTitle": "Names and ages 1",
+          "articleText": "",
+          "unitId": 16,
+          "conceptIndex": 20,
+          "showAges": true,
+          "examLineArt": false
         },
-        "libraryKey": "u16-t221-r2"
+        "libraryKey": "u16-t221-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 16,
@@ -42252,7 +49706,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Names and ages 1〉誰向 Cody 說 Nice to meet you?",
@@ -42274,9 +49727,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "句型理解",
         "family": "library-english-16-0",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name",
@@ -42296,9 +49749,21 @@ window.REVIEW_UNITS=[
                 8
               ]
             ]
-          }
+          },
+          "sceneText": "〈Names and ages 1〉誰向 Cody 說 Nice to meet you?",
+          "articleTitle": "Names and ages 1",
+          "articleText": "",
+          "unitId": 16,
+          "conceptIndex": 20,
+          "showAges": true,
+          "examLineArt": false
         },
-        "libraryKey": "u16-t221-r3"
+        "libraryKey": "u16-t221-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 16,
@@ -42311,7 +49776,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Names and ages 1〉哪筆姓名年齡資料正確？",
@@ -42333,9 +49797,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "整合對話",
         "family": "library-english-16-0",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name",
@@ -42355,9 +49819,21 @@ window.REVIEW_UNITS=[
                 8
               ]
             ]
-          }
+          },
+          "sceneText": "〈Names and ages 1〉哪筆姓名年齡資料正確？",
+          "articleTitle": "Names and ages 1",
+          "articleText": "",
+          "unitId": 16,
+          "conceptIndex": 20,
+          "showAges": true,
+          "examLineArt": false
         },
-        "libraryKey": "u16-t221-r4"
+        "libraryKey": "u16-t221-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 16,
@@ -42370,7 +49846,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Names and ages 1〉How old are you? 是要確認哪項資料？",
@@ -42392,9 +49867,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "情境應用",
         "family": "library-english-16-0",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name",
@@ -42414,9 +49889,21 @@ window.REVIEW_UNITS=[
                 8
               ]
             ]
-          }
+          },
+          "sceneText": "〈Names and ages 1〉How old are you? 是要確認哪項資料？",
+          "articleTitle": "Names and ages 1",
+          "articleText": "",
+          "unitId": 16,
+          "conceptIndex": 20,
+          "showAges": true,
+          "examLineArt": false
         },
-        "libraryKey": "u16-t221-r5"
+        "libraryKey": "u16-t221-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 16,
@@ -42429,7 +49916,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Names and ages 2〉Emma 幾歲？",
@@ -42451,9 +49937,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "找資料",
         "family": "library-english-16-1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name",
@@ -42473,9 +49959,21 @@ window.REVIEW_UNITS=[
                 8
               ]
             ]
-          }
+          },
+          "sceneText": "〈Names and ages 2〉Emma 幾歲？",
+          "articleTitle": "Names and ages 2",
+          "articleText": "",
+          "unitId": 16,
+          "conceptIndex": 21,
+          "showAges": true,
+          "examLineArt": false
         },
-        "libraryKey": "u16-t222-r1"
+        "libraryKey": "u16-t222-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 16,
@@ -42488,7 +49986,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Names and ages 2〉誰說 I’m nine years old.?",
@@ -42510,9 +50007,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "配對資訊",
         "family": "library-english-16-1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name",
@@ -42532,9 +50029,21 @@ window.REVIEW_UNITS=[
                 8
               ]
             ]
-          }
+          },
+          "sceneText": "〈Names and ages 2〉誰說 I’m nine years old.?",
+          "articleTitle": "Names and ages 2",
+          "articleText": "",
+          "unitId": 16,
+          "conceptIndex": 21,
+          "showAges": true,
+          "examLineArt": false
         },
-        "libraryKey": "u16-t222-r2"
+        "libraryKey": "u16-t222-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 16,
@@ -42547,7 +50056,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Names and ages 2〉誰向 Gina 說 Nice to meet you?",
@@ -42569,9 +50077,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "句型理解",
         "family": "library-english-16-1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name",
@@ -42591,9 +50099,21 @@ window.REVIEW_UNITS=[
                 8
               ]
             ]
-          }
+          },
+          "sceneText": "〈Names and ages 2〉誰向 Gina 說 Nice to meet you?",
+          "articleTitle": "Names and ages 2",
+          "articleText": "",
+          "unitId": 16,
+          "conceptIndex": 21,
+          "showAges": true,
+          "examLineArt": false
         },
-        "libraryKey": "u16-t222-r3"
+        "libraryKey": "u16-t222-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 16,
@@ -42606,7 +50126,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Names and ages 2〉哪筆姓名年齡資料正確？",
@@ -42628,9 +50147,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "整合對話",
         "family": "library-english-16-1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name",
@@ -42650,9 +50169,21 @@ window.REVIEW_UNITS=[
                 8
               ]
             ]
-          }
+          },
+          "sceneText": "〈Names and ages 2〉哪筆姓名年齡資料正確？",
+          "articleTitle": "Names and ages 2",
+          "articleText": "",
+          "unitId": 16,
+          "conceptIndex": 21,
+          "showAges": true,
+          "examLineArt": false
         },
-        "libraryKey": "u16-t222-r4"
+        "libraryKey": "u16-t222-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 16,
@@ -42665,7 +50196,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Names and ages 2〉How old are you? 是要確認哪項資料？",
@@ -42687,9 +50217,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "情境應用",
         "family": "library-english-16-1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name",
@@ -42709,9 +50239,21 @@ window.REVIEW_UNITS=[
                 8
               ]
             ]
-          }
+          },
+          "sceneText": "〈Names and ages 2〉How old are you? 是要確認哪項資料？",
+          "articleTitle": "Names and ages 2",
+          "articleText": "",
+          "unitId": 16,
+          "conceptIndex": 21,
+          "showAges": true,
+          "examLineArt": false
         },
-        "libraryKey": "u16-t222-r5"
+        "libraryKey": "u16-t222-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 16,
@@ -42724,7 +50266,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Names and ages 3〉Leo 幾歲？",
@@ -42746,9 +50287,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "找資料",
         "family": "library-english-16-2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name",
@@ -42768,9 +50309,21 @@ window.REVIEW_UNITS=[
                 8
               ]
             ]
-          }
+          },
+          "sceneText": "〈Names and ages 3〉Leo 幾歲？",
+          "articleTitle": "Names and ages 3",
+          "articleText": "",
+          "unitId": 16,
+          "conceptIndex": 22,
+          "showAges": true,
+          "examLineArt": false
         },
-        "libraryKey": "u16-t223-r1"
+        "libraryKey": "u16-t223-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 16,
@@ -42783,7 +50336,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Names and ages 3〉誰說 I’m nine years old.?",
@@ -42805,9 +50357,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "配對資訊",
         "family": "library-english-16-2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name",
@@ -42827,9 +50379,21 @@ window.REVIEW_UNITS=[
                 8
               ]
             ]
-          }
+          },
+          "sceneText": "〈Names and ages 3〉誰說 I’m nine years old.?",
+          "articleTitle": "Names and ages 3",
+          "articleText": "",
+          "unitId": 16,
+          "conceptIndex": 22,
+          "showAges": true,
+          "examLineArt": false
         },
-        "libraryKey": "u16-t223-r2"
+        "libraryKey": "u16-t223-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 16,
@@ -42842,7 +50406,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Names and ages 3〉誰向 Nick 說 Nice to meet you?",
@@ -42864,9 +50427,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "句型理解",
         "family": "library-english-16-2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name",
@@ -42886,9 +50449,21 @@ window.REVIEW_UNITS=[
                 8
               ]
             ]
-          }
+          },
+          "sceneText": "〈Names and ages 3〉誰向 Nick 說 Nice to meet you?",
+          "articleTitle": "Names and ages 3",
+          "articleText": "",
+          "unitId": 16,
+          "conceptIndex": 22,
+          "showAges": true,
+          "examLineArt": false
         },
-        "libraryKey": "u16-t223-r3"
+        "libraryKey": "u16-t223-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 16,
@@ -42901,7 +50476,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Names and ages 3〉哪筆姓名年齡資料正確？",
@@ -42923,9 +50497,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "整合對話",
         "family": "library-english-16-2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name",
@@ -42945,9 +50519,21 @@ window.REVIEW_UNITS=[
                 8
               ]
             ]
-          }
+          },
+          "sceneText": "〈Names and ages 3〉哪筆姓名年齡資料正確？",
+          "articleTitle": "Names and ages 3",
+          "articleText": "",
+          "unitId": 16,
+          "conceptIndex": 22,
+          "showAges": true,
+          "examLineArt": false
         },
-        "libraryKey": "u16-t223-r4"
+        "libraryKey": "u16-t223-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 16,
@@ -42960,7 +50546,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Names and ages 3〉How old are you? 是要確認哪項資料？",
@@ -42982,9 +50567,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "情境應用",
         "family": "library-english-16-2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name",
@@ -43004,9 +50589,21 @@ window.REVIEW_UNITS=[
                 8
               ]
             ]
-          }
+          },
+          "sceneText": "〈Names and ages 3〉How old are you? 是要確認哪項資料？",
+          "articleTitle": "Names and ages 3",
+          "articleText": "",
+          "unitId": 16,
+          "conceptIndex": 22,
+          "showAges": true,
+          "examLineArt": false
         },
-        "libraryKey": "u16-t223-r5"
+        "libraryKey": "u16-t223-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 16,
@@ -43019,7 +50616,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Names and ages 4〉Tina 幾歲？",
@@ -43041,9 +50637,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "找資料",
         "family": "library-english-16-3",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name",
@@ -43063,9 +50659,21 @@ window.REVIEW_UNITS=[
                 8
               ]
             ]
-          }
+          },
+          "sceneText": "〈Names and ages 4〉Tina 幾歲？",
+          "articleTitle": "Names and ages 4",
+          "articleText": "",
+          "unitId": 16,
+          "conceptIndex": 23,
+          "showAges": true,
+          "examLineArt": false
         },
-        "libraryKey": "u16-t224-r1"
+        "libraryKey": "u16-t224-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 16,
@@ -43078,7 +50686,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Names and ages 4〉誰說 I’m nine years old.?",
@@ -43100,9 +50707,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "配對資訊",
         "family": "library-english-16-3",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name",
@@ -43122,9 +50729,21 @@ window.REVIEW_UNITS=[
                 8
               ]
             ]
-          }
+          },
+          "sceneText": "〈Names and ages 4〉誰說 I’m nine years old.?",
+          "articleTitle": "Names and ages 4",
+          "articleText": "",
+          "unitId": 16,
+          "conceptIndex": 23,
+          "showAges": true,
+          "examLineArt": false
         },
-        "libraryKey": "u16-t224-r2"
+        "libraryKey": "u16-t224-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 16,
@@ -43137,7 +50756,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Names and ages 4〉誰向 Mia 說 Nice to meet you?",
@@ -43159,9 +50777,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "句型理解",
         "family": "library-english-16-3",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name",
@@ -43181,9 +50799,21 @@ window.REVIEW_UNITS=[
                 8
               ]
             ]
-          }
+          },
+          "sceneText": "〈Names and ages 4〉誰向 Mia 說 Nice to meet you?",
+          "articleTitle": "Names and ages 4",
+          "articleText": "",
+          "unitId": 16,
+          "conceptIndex": 23,
+          "showAges": true,
+          "examLineArt": false
         },
-        "libraryKey": "u16-t224-r3"
+        "libraryKey": "u16-t224-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 16,
@@ -43196,7 +50826,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Names and ages 4〉哪筆姓名年齡資料正確？",
@@ -43218,9 +50847,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "整合對話",
         "family": "library-english-16-3",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name",
@@ -43240,9 +50869,21 @@ window.REVIEW_UNITS=[
                 8
               ]
             ]
-          }
+          },
+          "sceneText": "〈Names and ages 4〉哪筆姓名年齡資料正確？",
+          "articleTitle": "Names and ages 4",
+          "articleText": "",
+          "unitId": 16,
+          "conceptIndex": 23,
+          "showAges": true,
+          "examLineArt": false
         },
-        "libraryKey": "u16-t224-r4"
+        "libraryKey": "u16-t224-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       },
       {
         "unit": 16,
@@ -43255,7 +50896,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "type": "single",
         "text": "〈Names and ages 4〉How old are you? 是要確認哪項資料？",
@@ -43277,9 +50917,9 @@ window.REVIEW_UNITS=[
         "readingSkill": "情境應用",
         "family": "library-english-16-3",
         "visual": {
-          "kind": "referenceData",
-          "caption": "對話資料卡",
-          "description": "搭配完整對話核對人物及資訊。",
+          "kind": "auditPeopleCards",
+          "caption": "人物、姓名與年齡",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "Name",
@@ -43299,9 +50939,21 @@ window.REVIEW_UNITS=[
                 8
               ]
             ]
-          }
+          },
+          "sceneText": "〈Names and ages 4〉How old are you? 是要確認哪項資料？",
+          "articleTitle": "Names and ages 4",
+          "articleText": "",
+          "unitId": 16,
+          "conceptIndex": 23,
+          "showAges": true,
+          "examLineArt": false
         },
-        "libraryKey": "u16-t224-r5"
+        "libraryKey": "u16-t224-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+        }
       }
     ],
     "articleVisuals": {
@@ -44066,7 +51718,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t01-n2",
@@ -44095,7 +51752,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t01-n3",
@@ -44124,7 +51786,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t01-n4",
@@ -44150,7 +51817,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t01-n5",
@@ -44177,7 +51849,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -44207,7 +51884,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -44237,7 +51919,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -44267,7 +51954,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -44297,7 +51989,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -44324,7 +52021,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "single",
@@ -44357,7 +52059,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t02-n1",
@@ -44387,7 +52094,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t02-n2",
@@ -44417,7 +52129,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t02-n3",
@@ -44447,7 +52164,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t02-n4",
@@ -44474,7 +52196,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t02-n5",
@@ -44502,7 +52229,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t03-n1",
@@ -44532,7 +52264,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t03-n2",
@@ -44562,7 +52299,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t03-n3",
@@ -44592,7 +52334,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t03-n4",
@@ -44619,7 +52366,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t03-n5",
@@ -44647,7 +52399,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t04-n1",
@@ -44677,7 +52434,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t04-n2",
@@ -44707,7 +52469,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t04-n3",
@@ -44737,7 +52504,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t04-n4",
@@ -44764,7 +52536,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t04-n5",
@@ -44792,7 +52569,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t05-n1",
@@ -44822,7 +52604,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t05-n2",
@@ -44852,7 +52639,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t05-n3",
@@ -44882,7 +52674,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t05-n4",
@@ -44909,7 +52706,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t05-n5",
@@ -44937,7 +52739,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t06-n1",
@@ -44967,7 +52774,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t06-n2",
@@ -44997,7 +52809,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t06-n3",
@@ -45027,7 +52844,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t06-n4",
@@ -45054,7 +52876,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t06-n5",
@@ -45082,7 +52909,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t07-n1",
@@ -45112,7 +52944,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t07-n2",
@@ -45142,7 +52979,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t07-n3",
@@ -45172,7 +53014,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t07-n4",
@@ -45199,7 +53046,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t07-n5",
@@ -45227,7 +53079,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t08-n1",
@@ -45257,7 +53114,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t08-n2",
@@ -45287,7 +53149,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t08-n3",
@@ -45317,7 +53184,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t08-n4",
@@ -45344,7 +53216,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t08-n5",
@@ -45372,7 +53249,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t09-n1",
@@ -45402,7 +53284,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t09-n2",
@@ -45432,7 +53319,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t09-n3",
@@ -45462,7 +53354,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t09-n4",
@@ -45489,7 +53386,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t09-n5",
@@ -45517,7 +53419,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t10-n1",
@@ -45547,7 +53454,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t10-n2",
@@ -45577,7 +53489,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t10-n3",
@@ -45607,7 +53524,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t10-n4",
@@ -45634,7 +53556,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t10-n5",
@@ -45662,7 +53589,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t11-n1",
@@ -45692,7 +53624,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t11-n2",
@@ -45722,7 +53659,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t11-n3",
@@ -45752,7 +53694,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t11-n4",
@@ -45779,7 +53726,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t11-n5",
@@ -45807,7 +53759,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t12-n1",
@@ -45837,7 +53794,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t12-n2",
@@ -45867,7 +53829,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t12-n3",
@@ -45897,7 +53864,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t12-n4",
@@ -45924,7 +53896,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t12-n5",
@@ -45952,7 +53929,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t13-n1",
@@ -45982,7 +53964,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t13-n2",
@@ -46012,7 +53999,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t13-n3",
@@ -46042,7 +54034,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t13-n4",
@@ -46069,7 +54066,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t13-n5",
@@ -46097,7 +54099,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t14-n1",
@@ -46127,7 +54134,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t14-n2",
@@ -46157,7 +54169,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t14-n3",
@@ -46187,7 +54204,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t14-n4",
@@ -46214,7 +54236,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t14-n5",
@@ -46242,7 +54269,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t15-n1",
@@ -46272,7 +54304,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t15-n2",
@@ -46302,7 +54339,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t15-n3",
@@ -46332,7 +54374,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t15-n4",
@@ -46359,7 +54406,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t15-n5",
@@ -46387,7 +54439,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t16-n1",
@@ -46417,7 +54474,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t16-n2",
@@ -46447,7 +54509,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t16-n3",
@@ -46477,7 +54544,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t16-n4",
@@ -46504,7 +54576,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t16-n5",
@@ -46532,7 +54609,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t17-n1",
@@ -46562,7 +54644,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t17-n2",
@@ -46592,7 +54679,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t17-n3",
@@ -46622,7 +54714,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t17-n4",
@@ -46649,7 +54746,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t17-n5",
@@ -46677,7 +54779,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t18-n1",
@@ -46707,7 +54814,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t18-n2",
@@ -46737,7 +54849,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t18-n3",
@@ -46767,7 +54884,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t18-n4",
@@ -46794,7 +54916,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t18-n5",
@@ -46822,7 +54949,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t19-n1",
@@ -46852,7 +54984,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t19-n2",
@@ -46882,7 +55019,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t19-n3",
@@ -46912,7 +55054,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t19-n4",
@@ -46939,7 +55086,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t19-n5",
@@ -46967,7 +55119,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t20-n1",
@@ -46997,7 +55154,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t20-n2",
@@ -47027,7 +55189,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t20-n3",
@@ -47057,7 +55224,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t20-n4",
@@ -47084,7 +55256,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t20-n5",
@@ -47112,7 +55289,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u17-t91-n1",
@@ -47135,7 +55317,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u17-t201-n1"
+        "libraryKey": "u17-t201-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       },
       {
         "id": "u17-t92-n1",
@@ -47158,7 +55345,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u17-t202-n1"
+        "libraryKey": "u17-t202-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       },
       {
         "id": "u17-t93-n1",
@@ -47181,7 +55373,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u17-t203-n1"
+        "libraryKey": "u17-t203-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       },
       {
         "id": "u17-t94-n1",
@@ -47203,8 +55400,23 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
-        "visualPolicy": "none",
-        "libraryKey": "u17-t204-n1"
+        "libraryKey": "u17-t204-n1",
+        "visual": {
+          "kind": "auditNumberLine",
+          "caption": "數線上的起點與移動",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "數線上的數每格增加 100，從 4750 向右移 3 格，到哪個數？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 17,
+          "conceptIndex": 3,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "依已知數與移動格數繪製，待求位置不直接寫答案。"
+        }
       },
       {
         "id": "u17-t95-n1",
@@ -47227,7 +55439,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u17-t205-n1"
+        "libraryKey": "u17-t205-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       }
     ],
     "qualityRevision": 16,
@@ -47424,7 +55641,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t01-n2",
@@ -47450,7 +55672,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t01-n3",
@@ -47476,7 +55703,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t01-n4",
@@ -47501,7 +55733,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t01-n5",
@@ -47527,7 +55764,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -47557,7 +55799,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -47596,7 +55843,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -47630,7 +55882,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -47659,7 +55916,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -47693,7 +55955,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "single",
@@ -47725,7 +55992,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t02-n1",
@@ -47752,7 +56024,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t02-n2",
@@ -47779,7 +56056,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t02-n3",
@@ -47806,7 +56088,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t02-n4",
@@ -47832,7 +56119,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t02-n5",
@@ -47859,7 +56151,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t03-n1",
@@ -47886,7 +56183,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t03-n2",
@@ -47913,7 +56215,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t03-n3",
@@ -47940,7 +56247,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t03-n4",
@@ -47966,7 +56278,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t03-n5",
@@ -47993,7 +56310,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t04-n1",
@@ -48020,7 +56342,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t04-n2",
@@ -48047,7 +56374,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t04-n3",
@@ -48074,7 +56406,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t04-n4",
@@ -48100,7 +56437,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t04-n5",
@@ -48127,7 +56469,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t05-n1",
@@ -48154,7 +56501,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t05-n2",
@@ -48181,7 +56533,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t05-n3",
@@ -48208,7 +56565,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t05-n4",
@@ -48234,7 +56596,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t05-n5",
@@ -48261,7 +56628,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t06-n1",
@@ -48288,7 +56660,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t06-n2",
@@ -48315,7 +56692,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t06-n3",
@@ -48342,7 +56724,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t06-n4",
@@ -48368,7 +56755,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t06-n5",
@@ -48395,7 +56787,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t07-n1",
@@ -48422,7 +56819,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t07-n2",
@@ -48449,7 +56851,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t07-n3",
@@ -48476,7 +56883,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t07-n4",
@@ -48502,7 +56914,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t07-n5",
@@ -48529,7 +56946,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t08-n1",
@@ -48556,7 +56978,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t08-n2",
@@ -48583,7 +57010,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t08-n3",
@@ -48610,7 +57042,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t08-n4",
@@ -48636,7 +57073,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t08-n5",
@@ -48663,7 +57105,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t09-n1",
@@ -48690,7 +57137,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t09-n2",
@@ -48717,7 +57169,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t09-n3",
@@ -48744,7 +57201,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t09-n4",
@@ -48770,7 +57232,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t09-n5",
@@ -48797,7 +57264,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t10-n1",
@@ -48824,7 +57296,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t10-n2",
@@ -48851,7 +57328,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t10-n3",
@@ -48878,7 +57360,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t10-n4",
@@ -48904,7 +57391,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t10-n5",
@@ -48931,7 +57423,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t11-n1",
@@ -48958,7 +57455,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t11-n2",
@@ -48985,7 +57487,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t11-n3",
@@ -49012,7 +57519,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t11-n4",
@@ -49038,7 +57550,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t11-n5",
@@ -49065,7 +57582,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t12-n1",
@@ -49092,7 +57614,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t12-n2",
@@ -49119,7 +57646,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t12-n3",
@@ -49146,7 +57678,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t12-n4",
@@ -49172,7 +57709,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t12-n5",
@@ -49199,7 +57741,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t13-n1",
@@ -49226,7 +57773,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t13-n2",
@@ -49253,7 +57805,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t13-n3",
@@ -49280,7 +57837,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t13-n4",
@@ -49306,7 +57868,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t13-n5",
@@ -49333,7 +57900,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t14-n1",
@@ -49360,7 +57932,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t14-n2",
@@ -49387,7 +57964,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t14-n3",
@@ -49414,7 +57996,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t14-n4",
@@ -49440,7 +58027,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t14-n5",
@@ -49467,7 +58059,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t15-n1",
@@ -49494,7 +58091,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t15-n2",
@@ -49521,7 +58123,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t15-n3",
@@ -49548,7 +58155,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t15-n4",
@@ -49574,7 +58186,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t15-n5",
@@ -49601,7 +58218,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t16-n1",
@@ -49628,7 +58250,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t16-n2",
@@ -49655,7 +58282,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t16-n3",
@@ -49682,7 +58314,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t16-n4",
@@ -49708,7 +58345,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t16-n5",
@@ -49735,7 +58377,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t17-n1",
@@ -49762,7 +58409,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t17-n2",
@@ -49789,7 +58441,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t17-n3",
@@ -49816,7 +58473,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t17-n4",
@@ -49842,7 +58504,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t17-n5",
@@ -49869,7 +58536,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t18-n1",
@@ -49896,7 +58568,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t18-n2",
@@ -49923,7 +58600,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t18-n3",
@@ -49950,7 +58632,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t18-n4",
@@ -49976,7 +58663,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t18-n5",
@@ -50003,7 +58695,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t19-n1",
@@ -50030,7 +58727,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t19-n2",
@@ -50057,7 +58759,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t19-n3",
@@ -50084,7 +58791,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t19-n4",
@@ -50110,7 +58822,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t19-n5",
@@ -50137,7 +58854,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t20-n1",
@@ -50164,7 +58886,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t20-n2",
@@ -50191,7 +58918,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t20-n3",
@@ -50218,7 +58950,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t20-n4",
@@ -50244,7 +58981,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t20-n5",
@@ -50271,7 +59013,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u18-t91-n1",
@@ -50294,7 +59041,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u18-t201-n1"
+        "libraryKey": "u18-t201-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       },
       {
         "id": "u18-t92-n1",
@@ -50317,7 +59069,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u18-t202-n1"
+        "libraryKey": "u18-t202-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       },
       {
         "id": "u18-t93-n1",
@@ -50340,7 +59097,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u18-t203-n1"
+        "libraryKey": "u18-t203-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       },
       {
         "id": "u18-t94-n1",
@@ -50363,7 +59125,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u18-t204-n1"
+        "libraryKey": "u18-t204-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       },
       {
         "id": "u18-t95-n1",
@@ -50386,7 +59153,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u18-t205-n1"
+        "libraryKey": "u18-t205-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       }
     ],
     "qualityRevision": 16,
@@ -50587,7 +59359,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t01-n2",
@@ -50621,7 +59398,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t01-n3",
@@ -50654,7 +59436,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t01-n4",
@@ -50687,7 +59474,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -50721,7 +59513,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -50746,7 +59543,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -50771,7 +59573,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -50796,7 +59603,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "single",
@@ -50835,7 +59647,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -50861,7 +59678,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t01-n5",
@@ -50885,7 +59707,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t02-n1",
@@ -50916,7 +59743,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t02-n2",
@@ -50951,7 +59783,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t02-n3",
@@ -50985,7 +59822,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t02-n4",
@@ -51019,7 +59861,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t02-n5",
@@ -51043,7 +59890,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t03-n1",
@@ -51074,7 +59926,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t03-n2",
@@ -51109,7 +59966,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t03-n3",
@@ -51143,7 +60005,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t03-n4",
@@ -51177,7 +60044,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t03-n5",
@@ -51201,7 +60073,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t04-n1",
@@ -51232,7 +60109,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t04-n2",
@@ -51267,7 +60149,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t04-n3",
@@ -51301,7 +60188,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t04-n4",
@@ -51335,7 +60227,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t04-n5",
@@ -51359,7 +60256,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t05-n1",
@@ -51390,7 +60292,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t05-n2",
@@ -51425,7 +60332,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t05-n3",
@@ -51459,7 +60371,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t05-n4",
@@ -51493,7 +60410,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t05-n5",
@@ -51517,7 +60439,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t06-n1",
@@ -51548,7 +60475,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t06-n2",
@@ -51583,7 +60515,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t06-n3",
@@ -51617,7 +60554,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t06-n4",
@@ -51651,7 +60593,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t06-n5",
@@ -51675,7 +60622,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t07-n1",
@@ -51706,7 +60658,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t07-n2",
@@ -51741,7 +60698,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t07-n3",
@@ -51775,7 +60737,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t07-n4",
@@ -51809,7 +60776,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t07-n5",
@@ -51833,7 +60805,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t08-n1",
@@ -51864,7 +60841,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t08-n2",
@@ -51899,7 +60881,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t08-n3",
@@ -51933,7 +60920,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t08-n4",
@@ -51967,7 +60959,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t08-n5",
@@ -51991,7 +60988,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t09-n2",
@@ -52026,7 +61028,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t09-n3",
@@ -52060,7 +61067,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t09-n4",
@@ -52094,7 +61106,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t09-n5",
@@ -52118,7 +61135,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t10-n2",
@@ -52153,7 +61175,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t10-n3",
@@ -52187,7 +61214,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t10-n4",
@@ -52221,7 +61253,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t10-n5",
@@ -52245,7 +61282,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t11-n2",
@@ -52280,7 +61322,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t11-n3",
@@ -52314,7 +61361,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t11-n4",
@@ -52348,7 +61400,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t11-n5",
@@ -52372,7 +61429,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t12-n2",
@@ -52407,7 +61469,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t12-n3",
@@ -52441,7 +61508,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t12-n4",
@@ -52475,7 +61547,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t12-n5",
@@ -52499,7 +61576,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t13-n2",
@@ -52534,7 +61616,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t13-n3",
@@ -52568,7 +61655,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t13-n4",
@@ -52602,7 +61694,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t13-n5",
@@ -52626,7 +61723,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t14-n2",
@@ -52661,7 +61763,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t14-n3",
@@ -52695,7 +61802,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t14-n4",
@@ -52729,7 +61841,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t14-n5",
@@ -52753,7 +61870,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t15-n2",
@@ -52788,7 +61910,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t15-n3",
@@ -52822,7 +61949,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t15-n4",
@@ -52856,7 +61988,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t15-n5",
@@ -52880,7 +62017,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t16-n2",
@@ -52915,7 +62057,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t16-n3",
@@ -52949,7 +62096,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t16-n4",
@@ -52983,7 +62135,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t16-n5",
@@ -53007,7 +62164,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t17-n2",
@@ -53042,7 +62204,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t17-n3",
@@ -53076,7 +62243,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t17-n4",
@@ -53110,7 +62282,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t17-n5",
@@ -53134,7 +62311,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t18-n2",
@@ -53169,7 +62351,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t18-n3",
@@ -53203,7 +62390,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t18-n4",
@@ -53237,7 +62429,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t18-n5",
@@ -53261,7 +62458,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t19-n2",
@@ -53296,7 +62498,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t19-n3",
@@ -53330,7 +62537,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t19-n4",
@@ -53364,7 +62576,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t19-n5",
@@ -53388,7 +62605,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t20-n2",
@@ -53423,7 +62645,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t20-n3",
@@ -53457,7 +62684,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t20-n4",
@@ -53491,7 +62723,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t20-n5",
@@ -53515,7 +62752,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t61-n1",
@@ -53543,7 +62785,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t91-n1",
@@ -53574,7 +62821,12 @@ window.REVIEW_UNITS=[
           "max": 60,
           "examLineArt": true
         },
-        "libraryKey": "u19-t201-n1"
+        "libraryKey": "u19-t201-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u19-t92-n1",
@@ -53597,7 +62849,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u19-t202-n1"
+        "libraryKey": "u19-t202-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       },
       {
         "id": "u19-t93-n1",
@@ -53620,7 +62877,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u19-t203-n1"
+        "libraryKey": "u19-t203-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       },
       {
         "id": "u19-t94-n1",
@@ -53643,7 +62905,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u19-t204-n1"
+        "libraryKey": "u19-t204-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       },
       {
         "id": "u19-t95-n1",
@@ -53665,8 +62932,26 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
-        "visualPolicy": "none",
-        "libraryKey": "u19-t205-n1"
+        "libraryKey": "u19-t205-n1",
+        "visual": {
+          "kind": "overlapStrips",
+          "caption": "紙條、繩段或裁切配置",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "兩段紙條長 47 毫米與 36 毫米，重疊 8 毫米黏起來，總長多少毫米？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 19,
+          "conceptIndex": 4,
+          "a": 47,
+          "b": 36,
+          "overlap": 8,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "將重疊或裁切位置畫出來，未知量留問號，不只用數字列表。"
+        }
       }
     ],
     "qualityRevision": 16,
@@ -53863,7 +63148,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t01-n2",
@@ -53889,7 +63179,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t01-n3",
@@ -53915,7 +63210,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t01-n4",
@@ -53941,7 +63241,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t01-n5",
@@ -53967,7 +63272,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "既有延伸題・依公開考點複核"
+        "sourceType": "既有延伸題・依公開考點複核",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -53994,7 +63304,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -54033,7 +63348,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -54060,7 +63380,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -54096,7 +63421,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -54132,7 +63462,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "single",
@@ -54164,7 +63499,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "type": "numeric",
@@ -54194,7 +63534,12 @@ window.REVIEW_UNITS=[
           "M3",
           "M3B"
         ],
-        "sourceType": "參考題型改編"
+        "sourceType": "參考題型改編",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t02-n1",
@@ -54221,7 +63566,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t02-n2",
@@ -54248,7 +63598,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t02-n3",
@@ -54275,7 +63630,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t02-n4",
@@ -54302,7 +63662,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t02-n5",
@@ -54329,7 +63694,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t03-n1",
@@ -54356,7 +63726,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t03-n2",
@@ -54383,7 +63758,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t03-n3",
@@ -54410,7 +63790,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t03-n4",
@@ -54437,7 +63822,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t03-n5",
@@ -54464,7 +63854,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t04-n1",
@@ -54491,7 +63886,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t04-n2",
@@ -54518,7 +63918,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t04-n3",
@@ -54545,7 +63950,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t04-n4",
@@ -54572,7 +63982,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t04-n5",
@@ -54599,7 +64014,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t05-n1",
@@ -54626,7 +64046,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t05-n2",
@@ -54653,7 +64078,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t05-n3",
@@ -54680,7 +64110,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t05-n4",
@@ -54707,7 +64142,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t05-n5",
@@ -54734,7 +64174,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t06-n1",
@@ -54761,7 +64206,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t06-n2",
@@ -54788,7 +64238,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t06-n3",
@@ -54815,7 +64270,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t06-n4",
@@ -54842,7 +64302,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t06-n5",
@@ -54869,7 +64334,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t07-n1",
@@ -54896,7 +64366,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t07-n2",
@@ -54923,7 +64398,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t07-n3",
@@ -54950,7 +64430,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t07-n4",
@@ -54977,7 +64462,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t07-n5",
@@ -55004,7 +64494,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t08-n1",
@@ -55031,7 +64526,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t08-n2",
@@ -55058,7 +64558,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t08-n3",
@@ -55085,7 +64590,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t08-n4",
@@ -55112,7 +64622,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t08-n5",
@@ -55139,7 +64654,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t09-n1",
@@ -55166,7 +64686,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t09-n2",
@@ -55193,7 +64718,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t09-n3",
@@ -55220,7 +64750,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t09-n4",
@@ -55247,7 +64782,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t09-n5",
@@ -55274,7 +64814,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t10-n1",
@@ -55301,7 +64846,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t10-n2",
@@ -55328,7 +64878,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t10-n3",
@@ -55355,7 +64910,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t10-n4",
@@ -55382,7 +64942,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t10-n5",
@@ -55409,7 +64974,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t11-n1",
@@ -55436,7 +65006,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t11-n2",
@@ -55463,7 +65038,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t11-n3",
@@ -55490,7 +65070,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t11-n4",
@@ -55517,7 +65102,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t11-n5",
@@ -55544,7 +65134,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t12-n1",
@@ -55571,7 +65166,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t12-n2",
@@ -55598,7 +65198,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t12-n3",
@@ -55625,7 +65230,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t12-n4",
@@ -55652,7 +65262,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t12-n5",
@@ -55679,7 +65294,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t13-n1",
@@ -55706,7 +65326,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t13-n2",
@@ -55733,7 +65358,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t13-n3",
@@ -55760,7 +65390,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t13-n4",
@@ -55787,7 +65422,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t13-n5",
@@ -55814,7 +65454,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t14-n1",
@@ -55841,7 +65486,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t14-n2",
@@ -55868,7 +65518,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t14-n3",
@@ -55895,7 +65550,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t14-n4",
@@ -55922,7 +65582,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t14-n5",
@@ -55949,7 +65614,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t15-n1",
@@ -55976,7 +65646,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t15-n2",
@@ -56003,7 +65678,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t15-n3",
@@ -56030,7 +65710,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t15-n4",
@@ -56057,7 +65742,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t15-n5",
@@ -56084,7 +65774,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t16-n1",
@@ -56111,7 +65806,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t16-n2",
@@ -56138,7 +65838,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t16-n3",
@@ -56165,7 +65870,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t16-n4",
@@ -56192,7 +65902,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t16-n5",
@@ -56219,7 +65934,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t17-n1",
@@ -56246,7 +65966,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t17-n2",
@@ -56273,7 +65998,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t17-n3",
@@ -56300,7 +66030,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t17-n4",
@@ -56327,7 +66062,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t17-n5",
@@ -56354,7 +66094,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t18-n1",
@@ -56381,7 +66126,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t18-n2",
@@ -56408,7 +66158,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t18-n3",
@@ -56435,7 +66190,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t18-n4",
@@ -56462,7 +66222,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t18-n5",
@@ -56489,7 +66254,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t19-n1",
@@ -56516,7 +66286,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t19-n2",
@@ -56543,7 +66318,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t19-n3",
@@ -56570,7 +66350,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t19-n4",
@@ -56597,7 +66382,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t19-n5",
@@ -56624,7 +66414,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t20-n1",
@@ -56651,7 +66446,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t20-n2",
@@ -56678,7 +66478,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t20-n3",
@@ -56705,7 +66510,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t20-n4",
@@ -56732,7 +66542,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t20-n5",
@@ -56759,7 +66574,12 @@ window.REVIEW_UNITS=[
         "sourceIds": [
           "M3",
           "M3B"
-        ]
+        ],
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+        }
       },
       {
         "id": "u20-t91-n1",
@@ -56782,7 +66602,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u20-t201-n1"
+        "libraryKey": "u20-t201-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       },
       {
         "id": "u20-t92-n1",
@@ -56805,7 +66630,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u20-t202-n1"
+        "libraryKey": "u20-t202-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       },
       {
         "id": "u20-t93-n1",
@@ -56828,7 +66658,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u20-t203-n1"
+        "libraryKey": "u20-t203-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       },
       {
         "id": "u20-t94-n1",
@@ -56851,7 +66686,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u20-t204-n1"
+        "libraryKey": "u20-t204-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       },
       {
         "id": "u20-t95-n1",
@@ -56874,7 +66714,12 @@ window.REVIEW_UNITS=[
         ],
         "sourceType": "依公開數學卷考點重新編寫與核算",
         "visualPolicy": "none",
-        "libraryKey": "u20-t205-n1"
+        "libraryKey": "u20-t205-n1",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+        }
       }
     ],
     "qualityRevision": 16,
@@ -57634,7 +67479,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u22-t51-a",
         "topic": 200,
@@ -57650,7 +67494,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "葉緣是葉片邊緣；葉脈是葉上的紋路，葉序則是葉在莖上的排列。",
-        "libraryKey": "u22-t201-a"
+        "libraryKey": "u22-t201-a",
+        "visual": {
+          "kind": "auditLeaves",
+          "caption": "葉片與莖節的觀察",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "觀察兩片葉子時，一片邊緣有鋸齒，另一片邊緣平滑。正在比較哪個特徵？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 22,
+          "conceptIndex": 0,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 22,
@@ -57663,7 +67523,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u22-t52-a",
         "topic": 201,
@@ -57679,7 +67538,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "對生是同一節上兩片相對；互生通常每節一片，輪生通常同節三片以上。",
-        "libraryKey": "u22-t202-a"
+        "libraryKey": "u22-t202-a",
+        "visual": {
+          "kind": "auditLeaves",
+          "caption": "葉片與莖節的觀察",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "每一個節上有兩片相對生長的葉子，這種排列稱為什麼？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 22,
+          "conceptIndex": 1,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 22,
@@ -57692,7 +67567,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u22-t53-a",
         "topic": 202,
@@ -57708,7 +67582,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "根能固定植物並從土壤中吸收水分；不同構造各有功能。",
-        "libraryKey": "u22-t203-a"
+        "libraryKey": "u22-t203-a",
+        "visual": {
+          "kind": "referenceRoots",
+          "caption": "依題目條件繪製的示意圖",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "植物的根主要有哪個功能？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 22,
+          "conceptIndex": 2,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 22,
@@ -57721,7 +67611,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u22-t54-a",
         "topic": 203,
@@ -57739,10 +67628,21 @@ window.REVIEW_UNITS=[
         "explanation": "軸根有較明顯主根；鬚根通常由許多粗細相近的根組成。",
         "visual": {
           "kind": "referenceRoots",
-          "caption": "兩種根系的構造比較",
-          "description": "圖與本文資料相互對照；示意圖未依比例。"
+          "caption": "依題目條件繪製的示意圖",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "觀察水稻和菠菜的根，應優先看哪個特徵來比較鬚根與軸根？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 22,
+          "conceptIndex": 3,
+          "examLineArt": false
         },
-        "libraryKey": "u22-t204-a"
+        "libraryKey": "u22-t204-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "保留並核對",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 22,
@@ -57755,7 +67655,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u22-t55-a",
         "topic": 204,
@@ -57771,7 +67670,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "高麗菜主要吃葉，紅豆是種子，木瓜主要吃果實部分。",
-        "libraryKey": "u22-t205-a"
+        "libraryKey": "u22-t205-a",
+        "visual": {
+          "kind": "auditFoodParts",
+          "caption": "依題目條件繪製的示意圖",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "媽媽準備炒高麗菜、煮紅豆湯和切木瓜。主要吃到的部位依序是什麼？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 22,
+          "conceptIndex": 4,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 22,
@@ -57784,7 +67699,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u22-t56-a",
         "topic": 205,
@@ -57800,7 +67714,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "用手輕搧可在適當距離觀察氣味，不必靠近吸入花粉，更不可任意品嘗。",
-        "libraryKey": "u22-t206-a"
+        "libraryKey": "u22-t206-a",
+        "visual": {
+          "kind": "auditFlower",
+          "caption": "花朵的構造與觀察",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "比較花朵氣味時，哪種方法較適合？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 22,
+          "conceptIndex": 5,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 22,
@@ -57813,7 +67743,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u22-t57-a",
         "topic": 206,
@@ -57829,7 +67758,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "種子數量需依實物觀察，不可把單一果實推廣到所有植物。",
-        "libraryKey": "u22-t207-a"
+        "libraryKey": "u22-t207-a",
+        "visual": {
+          "kind": "auditFruitSeeds",
+          "caption": "果實內的種子",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "果實剖開後發現有許多種子。這項觀察可以說明什麼？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 22,
+          "conceptIndex": 6,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 22,
@@ -57842,7 +67787,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u22-t58-a",
         "topic": 207,
@@ -57858,7 +67802,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "用可觀察的構造與生長方式記錄，才能比較植物差異。",
-        "libraryKey": "u22-t208-a"
+        "libraryKey": "u22-t208-a",
+        "visual": {
+          "kind": "auditStems",
+          "caption": "直立與攀附的莖",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "兩株植物的莖，一株粗硬直立，一株柔軟並攀附支架。記錄時哪個做法較恰當？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 22,
+          "conceptIndex": 7,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 22,
@@ -57871,7 +67831,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u22-t59-a",
         "topic": 208,
@@ -57885,7 +67844,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 1,
         "explanation": "還可比較葉形、葉緣、葉脈等特徵。",
-        "libraryKey": "u22-t209-a"
+        "libraryKey": "u22-t209-a",
+        "visual": {
+          "kind": "auditLeaves",
+          "caption": "葉片與莖節的觀察",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "只靠葉片顏色，就能完整描述葉子的所有特徵。",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 22,
+          "conceptIndex": 8,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 22,
@@ -57912,7 +67887,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "種子數量需依實物觀察，不能一概而論。",
-        "libraryKey": "u22-t210-a"
+        "libraryKey": "u22-t210-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 22,
@@ -57925,7 +67905,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u22-t61-a",
         "topic": 210,
@@ -57948,7 +67927,23 @@ window.REVIEW_UNITS=[
           ]
         ],
         "explanation": "葉緣：葉片的邊緣；葉脈：葉片上的脈絡紋路；葉序：葉在莖上的排列方式。",
-        "libraryKey": "u22-t211-a"
+        "libraryKey": "u22-t211-a",
+        "visual": {
+          "kind": "auditLeaves",
+          "caption": "葉片與莖節的觀察",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "請把三個項目配上最合適的說明。",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 22,
+          "conceptIndex": 10,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 22,
@@ -57961,7 +67956,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u22-t62-a",
         "topic": 211,
@@ -57980,7 +67974,23 @@ window.REVIEW_UNITS=[
           1
         ],
         "explanation": "植物觀察應記錄花本身可觀察的特徵，並區分構造位置。",
-        "libraryKey": "u22-t212-a"
+        "libraryKey": "u22-t212-a",
+        "visual": {
+          "kind": "auditFlower",
+          "caption": "花朵的構造與觀察",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "觀察花朵時，哪些項目適合記錄？請選兩項。",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 22,
+          "conceptIndex": 11,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "id": "u22-t63-r1",
@@ -58014,9 +68024,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u22-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditFoodParts",
+          "caption": "食物與植物部位",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -58040,9 +68050,20 @@ window.REVIEW_UNITS=[
                 "果實"
               ]
             ]
-          }
+          },
+          "sceneText": "〈餐桌上的植物〉哪一項主要吃根？",
+          "articleTitle": "餐桌上的植物",
+          "articleText": "",
+          "unitId": 22,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u22-t221-r1"
+        "libraryKey": "u22-t221-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "畫出高麗菜葉球、胡蘿蔔根、紅豆種子與木瓜果實。"
+        }
       },
       {
         "id": "u22-t63-r2",
@@ -58076,9 +68097,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u22-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditFoodParts",
+          "caption": "食物與植物部位",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -58102,9 +68123,20 @@ window.REVIEW_UNITS=[
                 "果實"
               ]
             ]
-          }
+          },
+          "sceneText": "〈餐桌上的植物〉紅豆與木瓜主要食用部位的差異為何？",
+          "articleTitle": "餐桌上的植物",
+          "articleText": "",
+          "unitId": 22,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u22-t221-r2"
+        "libraryKey": "u22-t221-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "畫出高麗菜葉球、胡蘿蔔根、紅豆種子與木瓜果實。"
+        }
       },
       {
         "id": "u22-t63-r3",
@@ -58138,9 +68170,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u22-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditFoodParts",
+          "caption": "食物與植物部位",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -58164,9 +68196,20 @@ window.REVIEW_UNITS=[
                 "果實"
               ]
             ]
-          }
+          },
+          "sceneText": "〈餐桌上的植物〉阿哲原先哪個想法需要修正？",
+          "articleTitle": "餐桌上的植物",
+          "articleText": "",
+          "unitId": 22,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u22-t221-r3"
+        "libraryKey": "u22-t221-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "畫出高麗菜葉球、胡蘿蔔根、紅豆種子與木瓜果實。"
+        }
       },
       {
         "id": "u22-t63-r4",
@@ -58200,9 +68243,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u22-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditFoodParts",
+          "caption": "食物與植物部位",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -58226,9 +68269,20 @@ window.REVIEW_UNITS=[
                 "果實"
               ]
             ]
-          }
+          },
+          "sceneText": "〈餐桌上的植物〉若午餐再加入花椰菜，想知道食用部位，應怎麼做？",
+          "articleTitle": "餐桌上的植物",
+          "articleText": "",
+          "unitId": 22,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u22-t221-r4"
+        "libraryKey": "u22-t221-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "畫出高麗菜葉球、胡蘿蔔根、紅豆種子與木瓜果實。"
+        }
       },
       {
         "id": "u22-t63-r5",
@@ -58262,9 +68316,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u22-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditFoodParts",
+          "caption": "食物與植物部位",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -58288,9 +68342,20 @@ window.REVIEW_UNITS=[
                 "果實"
               ]
             ]
-          }
+          },
+          "sceneText": "〈餐桌上的植物〉這份卡片能支持哪個結論？",
+          "articleTitle": "餐桌上的植物",
+          "articleText": "",
+          "unitId": 22,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u22-t221-r5"
+        "libraryKey": "u22-t221-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "畫出高麗菜葉球、胡蘿蔔根、紅豆種子與木瓜果實。"
+        }
       },
       {
         "id": "u22-t64-r1",
@@ -58324,9 +68389,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u22-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditLeaves",
+          "caption": "甲、乙的葉緣、葉脈與葉序",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "植物",
@@ -58348,9 +68413,20 @@ window.REVIEW_UNITS=[
                 "對生"
               ]
             ]
-          }
+          },
+          "sceneText": "〈葉子的三種特徵〉甲的葉緣有什麼特徵？",
+          "articleTitle": "葉子的三種特徵",
+          "articleText": "",
+          "unitId": 22,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u22-t222-r1"
+        "libraryKey": "u22-t222-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "甲鋸齒網狀互生，乙平滑平行對生；同時顯示莖節與局部葉片。"
+        }
       },
       {
         "id": "u22-t64-r2",
@@ -58384,9 +68460,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u22-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditLeaves",
+          "caption": "甲、乙的葉緣、葉脈與葉序",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "植物",
@@ -58408,9 +68484,20 @@ window.REVIEW_UNITS=[
                 "對生"
               ]
             ]
-          }
+          },
+          "sceneText": "〈葉子的三種特徵〉乙的「兩片相對」應放哪一欄？",
+          "articleTitle": "葉子的三種特徵",
+          "articleText": "",
+          "unitId": 22,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u22-t222-r2"
+        "libraryKey": "u22-t222-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "甲鋸齒網狀互生，乙平滑平行對生；同時顯示莖節與局部葉片。"
+        }
       },
       {
         "id": "u22-t64-r3",
@@ -58444,9 +68531,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u22-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditLeaves",
+          "caption": "甲、乙的葉緣、葉脈與葉序",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "植物",
@@ -58468,9 +68555,20 @@ window.REVIEW_UNITS=[
                 "對生"
               ]
             ]
-          }
+          },
+          "sceneText": "〈葉子的三種特徵〉甲的網狀脈要看哪個部位？",
+          "articleTitle": "葉子的三種特徵",
+          "articleText": "",
+          "unitId": 22,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u22-t222-r3"
+        "libraryKey": "u22-t222-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "甲鋸齒網狀互生，乙平滑平行對生；同時顯示莖節與局部葉片。"
+        }
       },
       {
         "id": "u22-t64-r4",
@@ -58504,9 +68602,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u22-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditLeaves",
+          "caption": "甲、乙的葉緣、葉脈與葉序",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "植物",
@@ -58528,9 +68626,20 @@ window.REVIEW_UNITS=[
                 "對生"
               ]
             ]
-          }
+          },
+          "sceneText": "〈葉子的三種特徵〉只拿一片脫落葉子，為什麼難判斷葉序？",
+          "articleTitle": "葉子的三種特徵",
+          "articleText": "",
+          "unitId": 22,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u22-t222-r4"
+        "libraryKey": "u22-t222-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "甲鋸齒網狀互生，乙平滑平行對生；同時顯示莖節與局部葉片。"
+        }
       },
       {
         "id": "u22-t64-r5",
@@ -58564,9 +68673,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u22-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditLeaves",
+          "caption": "甲、乙的葉緣、葉脈與葉序",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "植物",
@@ -58588,9 +68697,20 @@ window.REVIEW_UNITS=[
                 "對生"
               ]
             ]
-          }
+          },
+          "sceneText": "〈葉子的三種特徵〉哪個比較方式最完整？",
+          "articleTitle": "葉子的三種特徵",
+          "articleText": "",
+          "unitId": 22,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u22-t222-r5"
+        "libraryKey": "u22-t222-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "甲鋸齒網狀互生，乙平滑平行對生；同時顯示莖節與局部葉片。"
+        }
       }
     ],
     "literacyAvailable": true,
@@ -59471,7 +69591,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u23-t51-a",
         "topic": 200,
@@ -59487,7 +69606,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "杯內原有空氣；垂直壓入時，空氣不易逸出，水不能完全進入。",
-        "libraryKey": "u23-t201-a"
+        "libraryKey": "u23-t201-a",
+        "visual": {
+          "kind": "auditCupAir",
+          "caption": "依題目條件繪製的示意圖",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "把空杯口朝下，垂直壓入水中，杯內的紙團沒有溼。主要是因為什麼？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 23,
+          "conceptIndex": 0,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 23,
@@ -59500,7 +69635,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u23-t52-a",
         "topic": 201,
@@ -59516,7 +69650,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "水沒有固定形狀，會配合容器；倒換容器不代表水量增加。",
-        "libraryKey": "u23-t202-a"
+        "libraryKey": "u23-t202-a",
+        "visual": {
+          "kind": "auditWaterContainers",
+          "caption": "不同容器中的水",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "將同一杯的水先倒進方形盒，再倒進圓形杯，沒有溢出。主要能觀察到什麼？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 23,
+          "conceptIndex": 1,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 23,
@@ -59529,7 +69679,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u23-t53-a",
         "topic": 202,
@@ -59545,7 +69694,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "水進入海綿孔隙時，擠出原有空氣，形成氣泡。",
-        "libraryKey": "u23-t203-a"
+        "libraryKey": "u23-t203-a",
+        "visual": {
+          "kind": "auditSpongeAir",
+          "caption": "海綿入水後排出空氣",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "把乾海綿壓入水中，看到許多氣泡。這些氣泡主要來自哪裡？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 23,
+          "conceptIndex": 2,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 23,
@@ -59558,7 +69723,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u23-t54-a",
         "topic": 203,
@@ -59574,7 +69738,24 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "空氣比水容易壓縮；比較時須確認密合、沒有漏氣或漏水。",
-        "libraryKey": "u23-t204-a"
+        "libraryKey": "u23-t204-a",
+        "visual": {
+          "kind": "auditSyringes",
+          "caption": "依題目條件繪製的示意圖",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "兩支同型注射筒封住出口，一支裝空氣、一支裝滿水。在相近推力下，哪個較容易壓縮？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 23,
+          "conceptIndex": 3,
+          "mode": "sealed",
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 23,
@@ -59587,7 +69768,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u23-t55-a",
         "topic": 204,
@@ -59603,7 +69783,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "氣球內增加的空氣占有空間，把氣球撐開；球形來自容器，不是空氣固定形狀。",
-        "libraryKey": "u23-t205-a"
+        "libraryKey": "u23-t205-a",
+        "visual": {
+          "kind": "auditBalloon",
+          "caption": "充氣前後的氣球",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "氣球充氣後鼓起來，最直接顯示空氣具有哪個特性？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 23,
+          "conceptIndex": 4,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 23,
@@ -59616,7 +69812,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u23-t56-a",
         "topic": 205,
@@ -59632,7 +69827,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "風是流動的空氣；空氣流動可推動風車，也有助晾乾。",
-        "libraryKey": "u23-t206-a"
+        "libraryKey": "u23-t206-a",
+        "visual": {
+          "kind": "auditWind",
+          "caption": "空氣流動與風車",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "風車轉動和衣服在通風處較容易晾乾，都與什麼現象有關？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 23,
+          "conceptIndex": 5,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 23,
@@ -59645,7 +69856,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u23-t57-a",
         "topic": 206,
@@ -59661,7 +69871,24 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "水不易壓縮，但能在密合連通裝置中傳送動力，推動另一端。",
-        "libraryKey": "u23-t207-a"
+        "libraryKey": "u23-t207-a",
+        "visual": {
+          "kind": "auditSyringes",
+          "caption": "依題目條件繪製的示意圖",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "兩支無針注射筒以管子密合連通，內部裝水。推一端時另一端活塞移動，說明什麼？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 23,
+          "conceptIndex": 6,
+          "mode": "sealed",
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 23,
@@ -59674,7 +69901,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u23-t58-a",
         "topic": 207,
@@ -59690,7 +69916,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "要公平比較，距離、器材、時間和擺放方式等應盡量一致。",
-        "libraryKey": "u23-t208-a"
+        "libraryKey": "u23-t208-a",
+        "visual": {
+          "kind": "auditFanTest",
+          "caption": "同距離、同紙風車的比較",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "想比較兩台風扇在同一距離的風力，用相同紙風車測試。還應保持哪個條件相同？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 23,
+          "conceptIndex": 7,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 23,
@@ -59703,7 +69945,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u23-t59-a",
         "topic": 208,
@@ -59717,7 +69958,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "兩者可配合容器改變形狀，但都占有空間。",
-        "libraryKey": "u23-t209-a"
+        "libraryKey": "u23-t209-a",
+        "visual": {
+          "kind": "auditWaterContainers",
+          "caption": "不同容器中的水",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "空氣和水都沒有固定形狀，也都占有空間。",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 23,
+          "conceptIndex": 8,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 23,
@@ -59730,7 +69987,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u23-t60-a",
         "topic": 209,
@@ -59744,7 +70000,24 @@ window.REVIEW_UNITS=[
         ],
         "answer": 1,
         "explanation": "水可在密合連通的裝置中傳送動力；傳動與容易壓縮不同。",
-        "libraryKey": "u23-t210-a"
+        "libraryKey": "u23-t210-a",
+        "visual": {
+          "kind": "auditSyringes",
+          "caption": "依題目條件繪製的示意圖",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "水不容易被壓縮，因此不能傳送動力。",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 23,
+          "conceptIndex": 9,
+          "mode": "hydraulic",
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 23,
@@ -59757,7 +70030,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u23-t61-a",
         "topic": 210,
@@ -59780,7 +70052,23 @@ window.REVIEW_UNITS=[
           ]
         ],
         "explanation": "氣球充氣鼓起：空氣占有空間；水倒入不同容器改變外形：水沒有固定形狀；風車受到風吹而轉動：空氣流動可推動物體。",
-        "libraryKey": "u23-t211-a"
+        "libraryKey": "u23-t211-a",
+        "visual": {
+          "kind": "auditAirExamples",
+          "caption": "空氣占有空間的生活例子",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "請把三個項目配上最合適的說明。",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 23,
+          "conceptIndex": 10,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 23,
@@ -59793,7 +70081,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u23-t62-a",
         "topic": 211,
@@ -59812,7 +70099,23 @@ window.REVIEW_UNITS=[
           1
         ],
         "explanation": "前兩項的外形變化與空氣量有關；漂浮及磁力不是空氣占空間的直接證據。",
-        "libraryKey": "u23-t212-a"
+        "libraryKey": "u23-t212-a",
+        "visual": {
+          "kind": "auditAirExamples",
+          "caption": "空氣占有空間的生活例子",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "哪些現象可作為空氣占有空間的例子？請選兩項。",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 23,
+          "conceptIndex": 11,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "id": "u23-t63-r1",
@@ -59846,9 +70149,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u23-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditCupAir",
+          "caption": "倒扣杯：垂直與傾斜比較",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "操作",
@@ -59867,9 +70170,20 @@ window.REVIEW_UNITS=[
                 "氣泡冒出，紙團變溼"
               ]
             ]
-          }
+          },
+          "sceneText": "〈紙團為什麼沒有溼〉第一次杯子如何進入水中？",
+          "articleTitle": "紙團為什麼沒有溼",
+          "articleText": "",
+          "unitId": 23,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u23-t221-r1"
+        "libraryKey": "u23-t221-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現水盆、杯口、紙團、留在杯內的空氣及傾斜後逸出的氣泡。"
+        }
       },
       {
         "id": "u23-t63-r2",
@@ -59903,9 +70217,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u23-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditCupAir",
+          "caption": "倒扣杯：垂直與傾斜比較",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "操作",
@@ -59924,9 +70238,20 @@ window.REVIEW_UNITS=[
                 "氣泡冒出，紙團變溼"
               ]
             ]
-          }
+          },
+          "sceneText": "〈紙團為什麼沒有溼〉第二次冒出的氣泡主要是什麼？",
+          "articleTitle": "紙團為什麼沒有溼",
+          "articleText": "",
+          "unitId": 23,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u23-t221-r2"
+        "libraryKey": "u23-t221-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現水盆、杯口、紙團、留在杯內的空氣及傾斜後逸出的氣泡。"
+        }
       },
       {
         "id": "u23-t63-r3",
@@ -59960,9 +70285,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u23-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditCupAir",
+          "caption": "倒扣杯：垂直與傾斜比較",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "操作",
@@ -59981,9 +70306,20 @@ window.REVIEW_UNITS=[
                 "氣泡冒出，紙團變溼"
               ]
             ]
-          }
+          },
+          "sceneText": "〈紙團為什麼沒有溼〉兩次主要改變哪個條件？",
+          "articleTitle": "紙團為什麼沒有溼",
+          "articleText": "",
+          "unitId": 23,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u23-t221-r3"
+        "libraryKey": "u23-t221-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現水盆、杯口、紙團、留在杯內的空氣及傾斜後逸出的氣泡。"
+        }
       },
       {
         "id": "u23-t63-r4",
@@ -60017,9 +70353,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u23-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditCupAir",
+          "caption": "倒扣杯：垂直與傾斜比較",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "操作",
@@ -60038,9 +70374,20 @@ window.REVIEW_UNITS=[
                 "氣泡冒出，紙團變溼"
               ]
             ]
-          }
+          },
+          "sceneText": "〈紙團為什麼沒有溼〉第一次紙團沒有溼，主要支持什麼？",
+          "articleTitle": "紙團為什麼沒有溼",
+          "articleText": "",
+          "unitId": 23,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u23-t221-r4"
+        "libraryKey": "u23-t221-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現水盆、杯口、紙團、留在杯內的空氣及傾斜後逸出的氣泡。"
+        }
       },
       {
         "id": "u23-t63-r5",
@@ -60074,9 +70421,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u23-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditCupAir",
+          "caption": "倒扣杯：垂直與傾斜比較",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "操作",
@@ -60095,9 +70442,20 @@ window.REVIEW_UNITS=[
                 "氣泡冒出，紙團變溼"
               ]
             ]
-          }
+          },
+          "sceneText": "〈紙團為什麼沒有溼〉第二次紙團變溼，與哪個過程最有關？",
+          "articleTitle": "紙團為什麼沒有溼",
+          "articleText": "",
+          "unitId": 23,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u23-t221-r5"
+        "libraryKey": "u23-t221-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現水盆、杯口、紙團、留在杯內的空氣及傾斜後逸出的氣泡。"
+        }
       },
       {
         "id": "u23-t64-r1",
@@ -60131,9 +70489,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u23-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditSyringes",
+          "caption": "無針注射筒：壓縮與傳動",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "操作",
@@ -60153,9 +70511,21 @@ window.REVIEW_UNITS=[
                 "推一端，另一端移動"
               ]
             ]
-          }
+          },
+          "sceneText": "〈注射筒的比較紀錄〉封住出口時，哪支較容易推入？",
+          "articleTitle": "注射筒的比較紀錄",
+          "articleText": "",
+          "unitId": 23,
+          "conceptIndex": 21,
+          "mode": "both",
+          "examLineArt": false
         },
-        "libraryKey": "u23-t222-r1"
+        "libraryKey": "u23-t222-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現相同筒身、封口、活塞、空氣與水，以及第二項密合連通裝置。"
+        }
       },
       {
         "id": "u23-t64-r2",
@@ -60189,9 +70559,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u23-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditSyringes",
+          "caption": "無針注射筒：壓縮與傳動",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "操作",
@@ -60211,9 +70581,21 @@ window.REVIEW_UNITS=[
                 "推一端，另一端移動"
               ]
             ]
-          }
+          },
+          "sceneText": "〈注射筒的比較紀錄〉第一項操作為什麼要確認沒有漏？",
+          "articleTitle": "注射筒的比較紀錄",
+          "articleText": "",
+          "unitId": 23,
+          "conceptIndex": 21,
+          "mode": "both",
+          "examLineArt": false
         },
-        "libraryKey": "u23-t222-r2"
+        "libraryKey": "u23-t222-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現相同筒身、封口、活塞、空氣與水，以及第二項密合連通裝置。"
+        }
       },
       {
         "id": "u23-t64-r3",
@@ -60247,9 +70629,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u23-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditSyringes",
+          "caption": "無針注射筒：壓縮與傳動",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "操作",
@@ -60269,9 +70651,21 @@ window.REVIEW_UNITS=[
                 "推一端，另一端移動"
               ]
             ]
-          }
+          },
+          "sceneText": "〈注射筒的比較紀錄〉第二項操作中，右端移動顯示什麼？",
+          "articleTitle": "注射筒的比較紀錄",
+          "articleText": "",
+          "unitId": 23,
+          "conceptIndex": 21,
+          "mode": "both",
+          "examLineArt": false
         },
-        "libraryKey": "u23-t222-r3"
+        "libraryKey": "u23-t222-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現相同筒身、封口、活塞、空氣與水，以及第二項密合連通裝置。"
+        }
       },
       {
         "id": "u23-t64-r4",
@@ -60305,9 +70699,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u23-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditSyringes",
+          "caption": "無針注射筒：壓縮與傳動",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "操作",
@@ -60327,9 +70721,21 @@ window.REVIEW_UNITS=[
                 "推一端，另一端移動"
               ]
             ]
-          }
+          },
+          "sceneText": "〈注射筒的比較紀錄〉阿文哪個部分需要修正？",
+          "articleTitle": "注射筒的比較紀錄",
+          "articleText": "",
+          "unitId": 23,
+          "conceptIndex": 21,
+          "mode": "both",
+          "examLineArt": false
         },
-        "libraryKey": "u23-t222-r4"
+        "libraryKey": "u23-t222-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現相同筒身、封口、活塞、空氣與水，以及第二項密合連通裝置。"
+        }
       },
       {
         "id": "u23-t64-r5",
@@ -60363,9 +70769,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u23-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditSyringes",
+          "caption": "無針注射筒：壓縮與傳動",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "操作",
@@ -60385,9 +70791,21 @@ window.REVIEW_UNITS=[
                 "推一端，另一端移動"
               ]
             ]
-          }
+          },
+          "sceneText": "〈注射筒的比較紀錄〉哪個總結符合全部紀錄？",
+          "articleTitle": "注射筒的比較紀錄",
+          "articleText": "",
+          "unitId": 23,
+          "conceptIndex": 21,
+          "mode": "both",
+          "examLineArt": false
         },
-        "libraryKey": "u23-t222-r5"
+        "libraryKey": "u23-t222-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現相同筒身、封口、活塞、空氣與水，以及第二項密合連通裝置。"
+        }
       }
     ],
     "literacyAvailable": true,
@@ -61208,7 +71626,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u24-t51-a",
         "topic": 200,
@@ -61224,7 +71641,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "依能力與意願討論分工，並互相協助，能讓每個人參與。",
-        "libraryKey": "u24-t201-a"
+        "libraryKey": "u24-t201-a",
+        "visual": {
+          "kind": "auditTeamJobs",
+          "caption": "依題目條件繪製的示意圖",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "新學期分組製作海報，四位同學各有不同專長。怎麼分工較合適？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 24,
+          "conceptIndex": 0,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 24,
@@ -61253,7 +71686,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "具體指出問題與已嘗試的理解，較容易得到合適協助。",
-        "libraryKey": "u24-t202-a"
+        "libraryKey": "u24-t202-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 24,
@@ -61266,7 +71704,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u24-t53-a",
         "topic": 202,
@@ -61282,7 +71719,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "筆記應協助理解和回想；關鍵詞與自己的補充可形成有意義的整理。",
-        "libraryKey": "u24-t203-a"
+        "libraryKey": "u24-t203-a",
+        "visual": {
+          "kind": "auditStudySteps",
+          "caption": "找錯因與重新嘗試",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "老師講解時，小芸先記關鍵詞，下課再補上說明。這種做法的主要目的為何？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 24,
+          "conceptIndex": 2,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 24,
@@ -61295,7 +71748,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u24-t54-a",
         "topic": 203,
@@ -61311,7 +71763,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "觀察與可靠資料互相核對，可以減少把外形相似植物認錯的機會。",
-        "libraryKey": "u24-t204-a"
+        "libraryKey": "u24-t204-a",
+        "visual": {
+          "kind": "auditResources",
+          "caption": "觀察、查圖鑑與核對來源",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "要完成介紹校園植物的報告，哪組資料來源最適合互相核對？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 24,
+          "conceptIndex": 3,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 24,
@@ -61324,7 +71792,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u24-t55-a",
         "topic": 204,
@@ -61340,7 +71807,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "訂正不只是抄答案；說明錯因並獨立完成，才能檢查理解。",
-        "libraryKey": "u24-t205-a"
+        "libraryKey": "u24-t205-a",
+        "visual": {
+          "kind": "auditStudySteps",
+          "caption": "找錯因與重新嘗試",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "小美把數學錯題的答案抄對了。要確認自己是否理解，接著應怎麼做？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 24,
+          "conceptIndex": 4,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 24,
@@ -61353,7 +71836,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u24-t56-a",
         "topic": 205,
@@ -61369,7 +71851,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "規劃需符合自己的任務與所需時間，並保留運動、休息和調整空間。",
-        "libraryKey": "u24-t206-a"
+        "libraryKey": "u24-t206-a",
+        "visual": {
+          "kind": "auditPlanSteps",
+          "caption": "安排任務與保留休息",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "放學後有作業、運動與休息。規劃時間時，哪個原則較合適？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 24,
+          "conceptIndex": 5,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 24,
@@ -61398,7 +71896,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "傾聽並記錄問題，再於適當時機提出具體問題，可幫助雙方溝通。",
-        "libraryKey": "u24-t207-a"
+        "libraryKey": "u24-t207-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 24,
@@ -61411,7 +71914,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u24-t58-a",
         "topic": 207,
@@ -61427,7 +71929,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "分工查找並保存來源，最後共同核對整理，可提高效率與資料可信度。",
-        "libraryKey": "u24-t208-a"
+        "libraryKey": "u24-t208-a",
+        "visual": {
+          "kind": "auditResources",
+          "caption": "觀察、查圖鑑與核對來源",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "同一組要在圖書館完成查資料任務。哪個分工較有助合作？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 24,
+          "conceptIndex": 7,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 24,
@@ -61454,7 +71972,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 1,
         "explanation": "還需找出錯因並獨立重做，才能檢查理解。",
-        "libraryKey": "u24-t209-a"
+        "libraryKey": "u24-t209-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 24,
@@ -61481,7 +72004,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "學習資源不只限於課本，也包括人與場所。",
-        "libraryKey": "u24-t210-a"
+        "libraryKey": "u24-t210-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 24,
@@ -61494,7 +72022,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u24-t61-a",
         "topic": 210,
@@ -61517,7 +72044,23 @@ window.REVIEW_UNITS=[
           ]
         ],
         "explanation": "預習：課前先閱讀即將學習的內容；複習：課後整理與回想學過的內容；訂正：找出錯誤並重新檢查做法。",
-        "libraryKey": "u24-t211-a"
+        "libraryKey": "u24-t211-a",
+        "visual": {
+          "kind": "auditStudySteps",
+          "caption": "找錯因與重新嘗試",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "請把三個項目配上最合適的說明。",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 24,
+          "conceptIndex": 10,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 24,
@@ -61530,7 +72073,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u24-t62-a",
         "topic": 211,
@@ -61549,7 +72091,23 @@ window.REVIEW_UNITS=[
           1
         ],
         "explanation": "保留來源與交叉核對可供查驗；不可把未讀內容當成已確認的資料。",
-        "libraryKey": "u24-t212-a"
+        "libraryKey": "u24-t212-a",
+        "visual": {
+          "kind": "auditResources",
+          "caption": "觀察、查圖鑑與核對來源",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "準備一份報告時，哪些做法有助確認資料？請選兩項。",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 24,
+          "conceptIndex": 11,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "id": "u24-t63-r1",
@@ -61583,9 +72141,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u24-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditTeamJobs",
+          "caption": "海報製作的三項工作",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -61605,9 +72163,20 @@ window.REVIEW_UNITS=[
                 "整理文字與來源"
               ]
             ]
-          }
+          },
+          "sceneText": "〈海報分工表〉誰主要負責查資料？",
+          "articleTitle": "海報分工表",
+          "articleText": "",
+          "unitId": 24,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u24-t221-r1"
+        "libraryKey": "u24-t221-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物搭配畫圖、查資料、整理文字的具體工具及工作成果。"
+        }
       },
       {
         "id": "u24-t63-r2",
@@ -61641,9 +72210,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u24-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditTeamJobs",
+          "caption": "海報製作的三項工作",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -61663,9 +72232,20 @@ window.REVIEW_UNITS=[
                 "整理文字與來源"
               ]
             ]
-          }
+          },
+          "sceneText": "〈海報分工表〉遇到名稱不一致，大家怎麼處理？",
+          "articleTitle": "海報分工表",
+          "articleText": "",
+          "unitId": 24,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u24-t221-r2"
+        "libraryKey": "u24-t221-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物搭配畫圖、查資料、整理文字的具體工具及工作成果。"
+        }
       },
       {
         "id": "u24-t63-r3",
@@ -61699,9 +72279,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u24-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditTeamJobs",
+          "caption": "海報製作的三項工作",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -61721,9 +72301,20 @@ window.REVIEW_UNITS=[
                 "整理文字與來源"
               ]
             ]
-          }
+          },
+          "sceneText": "〈海報分工表〉小涵修正葉緣，表示她做了什麼？",
+          "articleTitle": "海報分工表",
+          "articleText": "",
+          "unitId": 24,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u24-t221-r3"
+        "libraryKey": "u24-t221-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物搭配畫圖、查資料、整理文字的具體工具及工作成果。"
+        }
       },
       {
         "id": "u24-t63-r4",
@@ -61757,9 +72348,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u24-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditTeamJobs",
+          "caption": "海報製作的三項工作",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -61779,9 +72370,20 @@ window.REVIEW_UNITS=[
                 "整理文字與來源"
               ]
             ]
-          }
+          },
+          "sceneText": "〈海報分工表〉為什麼小安保留資料來源？",
+          "articleTitle": "海報分工表",
+          "articleText": "",
+          "unitId": 24,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u24-t221-r4"
+        "libraryKey": "u24-t221-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物搭配畫圖、查資料、整理文字的具體工具及工作成果。"
+        }
       },
       {
         "id": "u24-t63-r5",
@@ -61815,9 +72417,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u24-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditTeamJobs",
+          "caption": "海報製作的三項工作",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -61837,9 +72439,20 @@ window.REVIEW_UNITS=[
                 "整理文字與來源"
               ]
             ]
-          }
+          },
+          "sceneText": "〈海報分工表〉哪個結論最符合合作過程？",
+          "articleTitle": "海報分工表",
+          "articleText": "",
+          "unitId": 24,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u24-t221-r5"
+        "libraryKey": "u24-t221-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "人物搭配畫圖、查資料、整理文字的具體工具及工作成果。"
+        }
       },
       {
         "id": "u24-t64-r1",
@@ -61873,9 +72486,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u24-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditSchedule",
+          "caption": "星期三下午的時間安排",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -61895,9 +72508,20 @@ window.REVIEW_UNITS=[
                 "17：40～18：00"
               ]
             ]
-          }
+          },
+          "sceneText": "〈把星期三下午排好〉作業安排了多久？",
+          "articleTitle": "把星期三下午排好",
+          "articleText": "",
+          "unitId": 24,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u24-t222-r1"
+        "libraryKey": "u24-t222-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "用可對照時刻的時間軸呈現作業、運動與閱讀，不加未提供活動。"
+        }
       },
       {
         "id": "u24-t64-r2",
@@ -61931,9 +72555,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u24-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditSchedule",
+          "caption": "星期三下午的時間安排",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -61953,9 +72577,20 @@ window.REVIEW_UNITS=[
                 "17：40～18：00"
               ]
             ]
-          }
+          },
+          "sceneText": "〈把星期三下午排好〉哪兩項活動沒有重疊？",
+          "articleTitle": "把星期三下午排好",
+          "articleText": "",
+          "unitId": 24,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u24-t222-r2"
+        "libraryKey": "u24-t222-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "用可對照時刻的時間軸呈現作業、運動與閱讀，不加未提供活動。"
+        }
       },
       {
         "id": "u24-t64-r3",
@@ -61989,9 +72624,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u24-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditSchedule",
+          "caption": "星期三下午的時間安排",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -62011,9 +72646,20 @@ window.REVIEW_UNITS=[
                 "17：40～18：00"
               ]
             ]
-          }
+          },
+          "sceneText": "〈把星期三下午排好〉遇到不懂的一題，她先記錄什麼？",
+          "articleTitle": "把星期三下午排好",
+          "articleText": "",
+          "unitId": 24,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u24-t222-r3"
+        "libraryKey": "u24-t222-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "用可對照時刻的時間軸呈現作業、運動與閱讀，不加未提供活動。"
+        }
       },
       {
         "id": "u24-t64-r4",
@@ -62047,9 +72693,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u24-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditSchedule",
+          "caption": "星期三下午的時間安排",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -62069,9 +72715,20 @@ window.REVIEW_UNITS=[
                 "17：40～18：00"
               ]
             ]
-          }
+          },
+          "sceneText": "〈把星期三下午排好〉若作業比預期多花十分鐘，合理的做法是什麼？",
+          "articleTitle": "把星期三下午排好",
+          "articleText": "",
+          "unitId": 24,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u24-t222-r4"
+        "libraryKey": "u24-t222-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "用可對照時刻的時間軸呈現作業、運動與閱讀，不加未提供活動。"
+        }
       },
       {
         "id": "u24-t64-r5",
@@ -62105,9 +72762,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u24-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditSchedule",
+          "caption": "星期三下午的時間安排",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -62127,9 +72784,20 @@ window.REVIEW_UNITS=[
                 "17：40～18：00"
               ]
             ]
-          }
+          },
+          "sceneText": "〈把星期三下午排好〉時間表的主要用途是什麼？",
+          "articleTitle": "把星期三下午排好",
+          "articleText": "",
+          "unitId": 24,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u24-t222-r5"
+        "libraryKey": "u24-t222-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "用可對照時刻的時間軸呈現作業、運動與閱讀，不加未提供活動。"
+        }
       }
     ],
     "literacyAvailable": true,
@@ -62941,7 +73609,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "討論要讓不同意見有表達機會；表決前應理解提案及理由。",
-        "libraryKey": "u25-t201-a"
+        "libraryKey": "u25-t201-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 25,
@@ -62954,7 +73627,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u25-t52-a",
         "topic": 201,
@@ -62970,7 +73642,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "共同生活的規則應清楚、合理，並透過適當程序討論與公告。",
-        "libraryKey": "u25-t202-a"
+        "libraryKey": "u25-t202-a",
+        "visual": {
+          "kind": "auditMeetingNote",
+          "caption": "依題目條件繪製的示意圖",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "班級想修改圖書角借閱規則，較適合的做法是哪一項？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 25,
+          "conceptIndex": 1,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 25,
@@ -62999,7 +73687,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "幹部需要責任感、服務意願與處理事務的能力，不只依成績或物品多寡。",
-        "libraryKey": "u25-t203-a"
+        "libraryKey": "u25-t203-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 25,
@@ -63012,7 +73705,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u25-t54-a",
         "topic": 203,
@@ -63028,7 +73720,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "決議需要具體執行與追蹤；紀錄負責人和時間可讓分工落實。",
-        "libraryKey": "u25-t204-a"
+        "libraryKey": "u25-t204-a",
+        "visual": {
+          "kind": "auditMeetingNote",
+          "caption": "依題目條件繪製的示意圖",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "班會通過運動會分工後，還需要做什麼？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 25,
+          "conceptIndex": 3,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 25,
@@ -63041,7 +73749,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u25-t55-a",
         "topic": 204,
@@ -63057,7 +73764,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "規範應對應安全或共同需要，而不是以處罰本身為目的。",
-        "libraryKey": "u25-t205-a"
+        "libraryKey": "u25-t205-a",
+        "visual": {
+          "kind": "auditCorridor",
+          "caption": "走廊的安全通行",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "對於「走廊不奔跑」的規範，下列哪個理由最合理？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 25,
+          "conceptIndex": 4,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 25,
@@ -63086,7 +73809,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "尊重共同決議不代表不能提出意見，但應以適當程序表達並履行責任。",
-        "libraryKey": "u25-t206-a"
+        "libraryKey": "u25-t206-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 25,
@@ -63099,7 +73827,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u25-t57-a",
         "topic": 206,
@@ -63115,7 +73842,23 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "資源有限時，公開且一致的排隊、輪流規則有助公平使用。",
-        "libraryKey": "u25-t207-a"
+        "libraryKey": "u25-t207-a",
+        "visual": {
+          "kind": "auditBallTurns",
+          "caption": "依題目條件繪製的示意圖",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "兩位同學都想同時借用一顆球。哪種安排較能公平處理？",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 25,
+          "conceptIndex": 6,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 25,
@@ -63144,7 +73887,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "具體事例與建議能幫助討論問題及改善方式，而不是只責備個人。",
-        "libraryKey": "u25-t208-a"
+        "libraryKey": "u25-t208-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 25,
@@ -63171,7 +73919,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 0,
         "explanation": "決議不會自動完成，應記錄並追蹤執行。",
-        "libraryKey": "u25-t209-a"
+        "libraryKey": "u25-t209-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 25,
@@ -63198,7 +73951,12 @@ window.REVIEW_UNITS=[
         ],
         "answer": 1,
         "explanation": "共同規範應公平適用，擔任幹部仍需負責遵守。",
-        "libraryKey": "u25-t210-a"
+        "libraryKey": "u25-t210-a",
+        "visualReview": {
+          "version": 17,
+          "decision": "文字作答適當",
+          "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+        }
       },
       {
         "unit": 25,
@@ -63211,7 +73969,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u25-t61-a",
         "topic": 210,
@@ -63234,7 +73991,23 @@ window.REVIEW_UNITS=[
           ]
         ],
         "explanation": "主席：主持班會並維持討論秩序；記錄：記下討論內容與決議；提案：提出要討論的具體事項。",
-        "libraryKey": "u25-t211-a"
+        "libraryKey": "u25-t211-a",
+        "visual": {
+          "kind": "auditMeetingRoles",
+          "caption": "班會角色與討論順序",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "請把三個項目配上最合適的說明。",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 25,
+          "conceptIndex": 10,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "unit": 25,
@@ -63247,7 +74020,6 @@ window.REVIEW_UNITS=[
           2
         ],
         "sourceType": "依公開考卷共同考點重新編寫",
-        "visualPolicy": "none",
         "difficulty": "core",
         "id": "u25-t62-a",
         "topic": 211,
@@ -63266,7 +74038,23 @@ window.REVIEW_UNITS=[
           1
         ],
         "explanation": "公平討論需要表達機會與理解提案；不能排除不同立場或先定結果。",
-        "libraryKey": "u25-t212-a"
+        "libraryKey": "u25-t212-a",
+        "visual": {
+          "kind": "auditMeetingRoles",
+          "caption": "班會角色與討論順序",
+          "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+          "sceneText": "討論班級新規範時，哪些做法有助公平參與？請選兩項。",
+          "articleTitle": "",
+          "articleText": "",
+          "unitId": 25,
+          "conceptIndex": 11,
+          "examLineArt": false
+        },
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "本題涉及器材、構造或位置，需有對應實物或操作圖。"
+        }
       },
       {
         "id": "u25-t63-r1",
@@ -63300,9 +74088,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u25-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditBallTurns",
+          "caption": "一顆球與兩組使用者",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -63326,9 +74114,20 @@ window.REVIEW_UNITS=[
                 "兩週後討論執行情形"
               ]
             ]
-          }
+          },
+          "sceneText": "〈一顆球的借用規則〉原先需要解決什麼問題？",
+          "articleTitle": "一顆球的借用規則",
+          "articleText": "",
+          "unitId": 25,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u25-t221-r1"
+        "libraryKey": "u25-t221-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現有限器材與兩組輪替方向；不虛構日期或次數。"
+        }
       },
       {
         "id": "u25-t63-r2",
@@ -63362,9 +74161,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u25-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditBallTurns",
+          "caption": "一顆球與兩組使用者",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -63388,9 +74187,20 @@ window.REVIEW_UNITS=[
                 "兩週後討論執行情形"
               ]
             ]
-          }
+          },
+          "sceneText": "〈一顆球的借用規則〉乙組擔心先到先借的哪項問題？",
+          "articleTitle": "一顆球的借用規則",
+          "articleText": "",
+          "unitId": 25,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u25-t221-r2"
+        "libraryKey": "u25-t221-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現有限器材與兩組輪替方向；不虛構日期或次數。"
+        }
       },
       {
         "id": "u25-t63-r3",
@@ -63424,9 +74234,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u25-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditBallTurns",
+          "caption": "一顆球與兩組使用者",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -63450,9 +74260,20 @@ window.REVIEW_UNITS=[
                 "兩週後討論執行情形"
               ]
             ]
-          }
+          },
+          "sceneText": "〈一顆球的借用規則〉主席讓兩組說明理由，主要有助於什麼？",
+          "articleTitle": "一顆球的借用規則",
+          "articleText": "",
+          "unitId": 25,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u25-t221-r3"
+        "libraryKey": "u25-t221-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現有限器材與兩組輪替方向；不虛構日期或次數。"
+        }
       },
       {
         "id": "u25-t63-r4",
@@ -63486,9 +74307,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u25-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditBallTurns",
+          "caption": "一顆球與兩組使用者",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -63512,9 +74333,20 @@ window.REVIEW_UNITS=[
                 "兩週後討論執行情形"
               ]
             ]
-          }
+          },
+          "sceneText": "〈一顆球的借用規則〉下雨造成無法使用，接下來怎麼做？",
+          "articleTitle": "一顆球的借用規則",
+          "articleText": "",
+          "unitId": 25,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u25-t221-r4"
+        "libraryKey": "u25-t221-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現有限器材與兩組輪替方向；不虛構日期或次數。"
+        }
       },
       {
         "id": "u25-t63-r5",
@@ -63548,9 +74380,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u25-case1",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditBallTurns",
+          "caption": "一顆球與兩組使用者",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -63574,9 +74406,20 @@ window.REVIEW_UNITS=[
                 "兩週後討論執行情形"
               ]
             ]
-          }
+          },
+          "sceneText": "〈一顆球的借用規則〉為什麼要約定兩週後檢查？",
+          "articleTitle": "一顆球的借用規則",
+          "articleText": "",
+          "unitId": 25,
+          "conceptIndex": 20,
+          "examLineArt": false
         },
-        "libraryKey": "u25-t221-r5"
+        "libraryKey": "u25-t221-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "呈現有限器材與兩組輪替方向；不虛構日期或次數。"
+        }
       },
       {
         "id": "u25-t64-r1",
@@ -63610,9 +74453,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u25-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditMeetingNote",
+          "caption": "原紀錄與補完整的紀錄",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -63636,9 +74479,20 @@ window.REVIEW_UNITS=[
                 "確認借閱卡"
               ]
             ]
-          }
+          },
+          "sceneText": "〈班會紀錄漏了什麼〉第二組負責什麼？",
+          "articleTitle": "班會紀錄漏了什麼",
+          "articleText": "",
+          "unitId": 25,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u25-t222-r1"
+        "libraryKey": "u25-t222-r1",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "以實際紀錄單呈現原缺漏及文中已通過的時間分工。"
+        }
       },
       {
         "id": "u25-t64-r2",
@@ -63672,9 +74526,9 @@ window.REVIEW_UNITS=[
         "difficulty": "core",
         "family": "library-u25-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditMeetingNote",
+          "caption": "原紀錄與補完整的紀錄",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -63698,9 +74552,20 @@ window.REVIEW_UNITS=[
                 "確認借閱卡"
               ]
             ]
-          }
+          },
+          "sceneText": "〈班會紀錄漏了什麼〉原先紀錄最主要少了什麼？",
+          "articleTitle": "班會紀錄漏了什麼",
+          "articleText": "",
+          "unitId": 25,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u25-t222-r2"
+        "libraryKey": "u25-t222-r2",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "以實際紀錄單呈現原缺漏及文中已通過的時間分工。"
+        }
       },
       {
         "id": "u25-t64-r3",
@@ -63734,9 +74599,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u25-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditMeetingNote",
+          "caption": "原紀錄與補完整的紀錄",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -63760,9 +74625,20 @@ window.REVIEW_UNITS=[
                 "確認借閱卡"
               ]
             ]
-          }
+          },
+          "sceneText": "〈班會紀錄漏了什麼〉小文補紀錄前，應根據什麼？",
+          "articleTitle": "班會紀錄漏了什麼",
+          "articleText": "",
+          "unitId": 25,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u25-t222-r3"
+        "libraryKey": "u25-t222-r3",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "以實際紀錄單呈現原缺漏及文中已通過的時間分工。"
+        }
       },
       {
         "id": "u25-t64-r4",
@@ -63796,9 +74672,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u25-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditMeetingNote",
+          "caption": "原紀錄與補完整的紀錄",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -63822,9 +74698,20 @@ window.REVIEW_UNITS=[
                 "確認借閱卡"
               ]
             ]
-          }
+          },
+          "sceneText": "〈班會紀錄漏了什麼〉補完整紀錄對請假同學有何幫助？",
+          "articleTitle": "班會紀錄漏了什麼",
+          "articleText": "",
+          "unitId": 25,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u25-t222-r4"
+        "libraryKey": "u25-t222-r4",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "以實際紀錄單呈現原缺漏及文中已通過的時間分工。"
+        }
       },
       {
         "id": "u25-t64-r5",
@@ -63858,9 +74745,9 @@ window.REVIEW_UNITS=[
         "difficulty": "challenge",
         "family": "library-u25-case2",
         "visual": {
-          "kind": "referenceData",
-          "caption": "本篇觀察與資料",
-          "description": "根據本文與表格核對資訊。",
+          "kind": "auditMeetingNote",
+          "caption": "原紀錄與補完整的紀錄",
+          "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
           "table": {
             "headers": [
               "項目",
@@ -63884,9 +74771,20 @@ window.REVIEW_UNITS=[
                 "確認借閱卡"
               ]
             ]
-          }
+          },
+          "sceneText": "〈班會紀錄漏了什麼〉整理後一起檢查，主要是為了什麼？",
+          "articleTitle": "班會紀錄漏了什麼",
+          "articleText": "",
+          "unitId": 25,
+          "conceptIndex": 21,
+          "examLineArt": false
         },
-        "libraryKey": "u25-t222-r5"
+        "libraryKey": "u25-t222-r5",
+        "visualReview": {
+          "version": 17,
+          "decision": "補足具體圖示",
+          "reason": "以實際紀錄單呈現原缺漏及文中已通過的時間分工。"
+        }
       }
     ],
     "literacyAvailable": true,

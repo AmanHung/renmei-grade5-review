@@ -10,3 +10,6 @@
 .exam-line-art>svg,.reading-passage .exam-line-art>svg{max-height:none}
 
 .exam-line-art table,.exam-line-art th,.exam-line-art td{background:white;border-color:#444;color:#111}.exam-line-art table{font-size:18px}.exam-line-art th,.exam-line-art td{min-width:90px;overflow-wrap:anywhere}.exam-line-art th{font-weight:700}
+
+/* Apparatus and multi-panel diagrams retain their natural aspect ratio. */
+.learning-visual.audit-diagram>svg,.reading-passage .learning-visual.audit-diagram>svg{max-height:none}.learning-visual.audit-diagram table{margin-top:8px}

@@ -7,7 +7,7 @@ window.REVIEW_EXAMS=[
     "publisher": "翰林",
     "scope": "第 1 課～統整活動二（第 1～6 課）",
     "minutes": 45,
-    "signature": "d086ccecd321ad2d650d",
+    "signature": "075816e5dbe611ae9408",
     "total": 100,
     "entries": [
       {
@@ -371,7 +371,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒",
     "scope": "第 1～6 課、學習地圖一、二",
     "minutes": 45,
-    "signature": "bf358871b2c5a6675791",
+    "signature": "aff35ad9e10180317e07",
     "total": 100,
     "entries": [
       {
@@ -734,7 +734,7 @@ window.REVIEW_EXAMS=[
     "publisher": "翰林 Here We Go 1",
     "scope": "Unit 1、Unit 2、Review 1",
     "minutes": 40,
-    "signature": "daba6f9d076a13b533d9",
+    "signature": "2fd17893b9299e59b970",
     "total": 100,
     "entries": [
       {
@@ -1098,7 +1098,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒 Wonder World 5",
     "scope": "Get Ready、Unit 1、Unit 2、Review 1",
     "minutes": 40,
-    "signature": "d2db3bc5c5214a317688",
+    "signature": "ab10862637f35c2c8219",
     "total": 100,
     "entries": [
       {
@@ -1462,7 +1462,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒",
     "scope": "第 1～2 單元",
     "minutes": 40,
-    "signature": "b415b956d6007c266669",
+    "signature": "fd04ddf79b0c2e37eb9b",
     "total": 100,
     "entries": [
       {
@@ -1925,7 +1925,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒",
     "scope": "第 1～2 單元",
     "minutes": 40,
-    "signature": "65f3b9cae45bfe1f0588",
+    "signature": "7ca408f4dbffa8e78bab",
     "total": 100,
     "entries": [
       {
@@ -2388,7 +2388,7 @@ window.REVIEW_EXAMS=[
     "publisher": "南一",
     "scope": "第 1～2 單元",
     "minutes": 40,
-    "signature": "868fdd4a3ff25630fb96",
+    "signature": "4413b3c24f81429a6825",
     "total": 100,
     "entries": [
       {
@@ -2851,7 +2851,7 @@ window.REVIEW_EXAMS=[
     "publisher": "翰林",
     "scope": "第 1～2 單元",
     "minutes": 40,
-    "signature": "b37ff8143df9bf67127c",
+    "signature": "75e15dd39aeb099680c2",
     "total": 100,
     "entries": [
       {
@@ -3314,7 +3314,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒",
     "scope": "第 1～4 單元（10000 以內的數、四位數的加減、毫米、乘法）",
     "minutes": 50,
-    "signature": "ffbd2e23be9bfdbb9967",
+    "signature": "9921f54c2ba324cd80b7",
     "total": 100,
     "entries": [
       {
@@ -3639,7 +3639,7 @@ window.REVIEW_EXAMS=[
     "publisher": "翰林",
     "scope": "第 1～5 單元、學習加油讚（一）",
     "minutes": 50,
-    "signature": "734725a308c0c1d7c754",
+    "signature": "7d5a0a2ea2574392f5da",
     "total": 100,
     "entries": [
       {
@@ -3970,7 +3970,7 @@ window.REVIEW_EXAMS=[
     "publisher": "翰林",
     "scope": "第 1 課～統整活動二（第 1～6 課）",
     "minutes": 55,
-    "signature": "dbf0bea777e7b5605c0b",
+    "signature": "5047f7b56c4c2e57b264",
     "total": 100,
     "entries": [
       {
@@ -4334,7 +4334,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒",
     "scope": "第 1～6 課、學習地圖一、二",
     "minutes": 55,
-    "signature": "30957c0e6d4b52c964fd",
+    "signature": "7e62e15fc31af4178a56",
     "total": 100,
     "entries": [
       {
@@ -4698,7 +4698,7 @@ window.REVIEW_EXAMS=[
     "publisher": "翰林 Here We Go 1",
     "scope": "Unit 1、Unit 2、Review 1",
     "minutes": 50,
-    "signature": "1f80ccbd1f4e6aad7920",
+    "signature": "da5bc946a63c4bbbf4c6",
     "total": 100,
     "entries": [
       {
@@ -5062,7 +5062,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒 Wonder World 5",
     "scope": "Get Ready、Unit 1、Unit 2、Review 1",
     "minutes": 50,
-    "signature": "cb8b4d88e1a1bc988e31",
+    "signature": "96fa37536b0c417f4334",
     "total": 100,
     "entries": [
       {
@@ -5426,7 +5426,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒",
     "scope": "第 1～2 單元",
     "minutes": 55,
-    "signature": "86f242c1eccf5594598c",
+    "signature": "a2970b36965f2545b5ee",
     "total": 100,
     "entries": [
       {
@@ -5890,7 +5890,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒",
     "scope": "第 1～2 單元",
     "minutes": 55,
-    "signature": "6b7630b6bbc5237f65e0",
+    "signature": "c3034886fb2483a447e0",
     "total": 100,
     "entries": [
       {
@@ -6354,7 +6354,7 @@ window.REVIEW_EXAMS=[
     "publisher": "南一",
     "scope": "第 1～2 單元",
     "minutes": 55,
-    "signature": "c12cd10f88e0a47477b5",
+    "signature": "95b1bd5a612ad87f0c6a",
     "total": 100,
     "entries": [
       {
@@ -6818,7 +6818,7 @@ window.REVIEW_EXAMS=[
     "publisher": "翰林",
     "scope": "第 1～2 單元",
     "minutes": 55,
-    "signature": "017fb9060f14c1fcbac1",
+    "signature": "5786b6da655c85da6de5",
     "total": 100,
     "entries": [
       {
@@ -7282,7 +7282,7 @@ window.REVIEW_EXAMS=[
     "publisher": "康軒",
     "scope": "第 1～4 單元（10000 以內的數、四位數的加減、毫米、乘法）",
     "minutes": 60,
-    "signature": "7db9e1c2ecc9414bec53",
+    "signature": "c160b921f215f0639c84",
     "total": 100,
     "entries": [
       {
@@ -7608,7 +7608,7 @@ window.REVIEW_EXAMS=[
     "publisher": "翰林",
     "scope": "第 1～5 單元、學習加油讚（一）",
     "minutes": 60,
-    "signature": "f4f4a3fc7513f5cb7801",
+    "signature": "49d117dff2234a7b2323",
     "total": 100,
     "entries": [
       {
@@ -7953,7 +7953,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u0-t81-tf",
@@ -7974,7 +7979,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u0-t82-tf",
@@ -7995,7 +8005,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u0-t83-tf",
@@ -8016,7 +8031,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u0-t84-tf",
@@ -8037,7 +8057,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u1-t80-tf",
@@ -8058,7 +8083,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u1-t81-tf",
@@ -8079,7 +8109,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u1-t82-tf",
@@ -8100,7 +8135,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u1-t83-tf",
@@ -8121,7 +8161,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u1-t84-tf",
@@ -8142,7 +8187,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u2-t80-tf",
@@ -8163,7 +8213,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u2-t81-tf",
@@ -8184,7 +8239,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u2-t82-tf",
@@ -8205,7 +8265,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u2-t83-tf",
@@ -8226,7 +8291,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u2-t84-tf",
@@ -8247,7 +8317,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u3-t80-tf",
@@ -8268,7 +8343,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u3-t81-tf",
@@ -8289,7 +8369,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u3-t82-tf",
@@ -8310,7 +8395,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u3-t83-tf",
@@ -8331,7 +8421,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u3-t84-tf",
@@ -8352,7 +8447,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u22-t80-tf",
@@ -8374,7 +8474,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u22-t81-tf",
@@ -8396,7 +8501,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u22-t82-tf",
@@ -8418,7 +8528,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u22-t83-tf",
@@ -8440,7 +8555,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u22-t84-tf",
@@ -8462,7 +8582,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u23-t80-tf",
@@ -8484,7 +8609,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u23-t81-tf",
@@ -8506,7 +8636,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u23-t82-tf",
@@ -8528,7 +8663,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u23-t83-tf",
@@ -8550,7 +8690,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u23-t84-tf",
@@ -8572,7 +8717,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u24-t80-tf",
@@ -8593,7 +8743,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u24-t81-tf",
@@ -8614,7 +8769,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u24-t82-tf",
@@ -8635,7 +8795,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u24-t83-tf",
@@ -8656,7 +8821,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u24-t84-tf",
@@ -8677,7 +8847,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u25-t80-tf",
@@ -8698,7 +8873,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u25-t81-tf",
@@ -8719,7 +8899,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u25-t82-tf",
@@ -8740,7 +8925,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u25-t83-tf",
@@ -8761,7 +8951,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u25-t84-tf",
@@ -8782,7 +8977,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "difficulty": "core",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u4-t85-a",
@@ -8797,7 +8997,12 @@ window.REVIEW_EXAM_ITEMS=[
       "C5"
     ],
     "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u4-t86-a",
@@ -8812,7 +9017,12 @@ window.REVIEW_EXAM_ITEMS=[
       "C5"
     ],
     "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u4-t87-a",
@@ -8827,7 +9037,12 @@ window.REVIEW_EXAM_ITEMS=[
       "C5"
     ],
     "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u5-t88-a",
@@ -8842,7 +9057,12 @@ window.REVIEW_EXAM_ITEMS=[
       "C5"
     ],
     "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u5-t89-a",
@@ -8857,7 +9077,12 @@ window.REVIEW_EXAM_ITEMS=[
       "C5"
     ],
     "sourceType": "參考公開卷題型；內容依仁美115學年度版本與考試範圍改編",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u4-t90-a",
@@ -8879,7 +9104,12 @@ window.REVIEW_EXAM_ITEMS=[
       "於是"
     ],
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u4-t91-a",
@@ -8901,7 +9131,12 @@ window.REVIEW_EXAM_ITEMS=[
       "照片拍下田野、道路和河岸之間的位置。"
     ],
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u5-t92-a",
@@ -8923,7 +9158,12 @@ window.REVIEW_EXAM_ITEMS=[
       "引用研究者的觀察數據"
     ],
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u5-t93-a",
@@ -8945,7 +9185,12 @@ window.REVIEW_EXAM_ITEMS=[
       "先選播放速度，再用沒有順序的圖安排結局。"
     ],
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u5-t94-a",
@@ -8967,7 +9212,12 @@ window.REVIEW_EXAM_ITEMS=[
       "我感到寂寞，所以畫中老人也正在感到寂寞。"
     ],
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u10-t95-a",
@@ -9015,7 +9265,12 @@ window.REVIEW_EXAM_ITEMS=[
       "M5",
       "M5B"
     ],
-    "sourceType": "參考公開原卷的線圖、角度記號及圖形比較形式；依仁美五上平面圖形範圍改編"
+    "sourceType": "參考公開原卷的線圖、角度記號及圖形比較形式；依仁美五上平面圖形範圍改編",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "id": "u10-t96-n1",
@@ -9039,7 +9294,12 @@ window.REVIEW_EXAM_ITEMS=[
       "M5",
       "M5B"
     ],
-    "sourceType": "參考公開原卷的線圖、角度記號及圖形比較形式；依仁美五上平面圖形範圍改編"
+    "sourceType": "參考公開原卷的線圖、角度記號及圖形比較形式；依仁美五上平面圖形範圍改編",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "id": "u10-t97-n1",
@@ -9062,7 +9322,12 @@ window.REVIEW_EXAM_ITEMS=[
       "M5",
       "M5B"
     ],
-    "sourceType": "參考公開原卷的線圖、角度記號及圖形比較形式；依仁美五上平面圖形範圍改編"
+    "sourceType": "參考公開原卷的線圖、角度記號及圖形比較形式；依仁美五上平面圖形範圍改編",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "concept": "牙齒也是線索",
@@ -9086,7 +9351,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "concept": "逃避與防禦",
@@ -9110,7 +9380,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "concept": "聲音傳遞訊息",
@@ -9134,7 +9409,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "concept": "親代與子代",
@@ -9158,7 +9438,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "concept": "觀察與推論",
@@ -9182,7 +9467,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "concept": "停止振動與聲音",
@@ -9206,7 +9496,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "concept": "傳聲筒的線",
@@ -9230,7 +9525,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "concept": "管樂器與空氣柱",
@@ -9254,7 +9554,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "concept": "光沿直線傳播",
@@ -9278,7 +9583,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "concept": "實驗紀錄與光聲安全",
@@ -9302,7 +9612,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u0-t70-r1",
@@ -9359,7 +9674,12 @@ window.REVIEW_EXAM_ITEMS=[
       },
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u0-t70-r2",
@@ -9416,7 +9736,12 @@ window.REVIEW_EXAM_ITEMS=[
       },
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u0-t70-r3",
@@ -9473,7 +9798,12 @@ window.REVIEW_EXAM_ITEMS=[
       },
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u0-t70-r4",
@@ -9530,7 +9860,12 @@ window.REVIEW_EXAM_ITEMS=[
       },
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u0-t70-r5",
@@ -9587,7 +9922,12 @@ window.REVIEW_EXAM_ITEMS=[
       },
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u0-t71-r1",
@@ -9616,9 +9956,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "referenceData",
-      "caption": "觀察簿摘錄",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditAnimalFamily",
+      "caption": "動物的出生與照顧紀錄",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "動物",
@@ -9642,9 +9982,20 @@ window.REVIEW_EXAM_ITEMS=[
             "影片只拍到產卵"
           ]
         ]
-      }
+      },
+      "sceneText": "如果依幼體出現方式分組，表中哪兩種應放在同一組？",
+      "articleTitle": "生命觀察簿：出生與照顧分開記",
+      "articleText": "",
+      "unitId": 0,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "雞、兔與蝴蝶形態及對應觀察，保留原資料表。"
+    }
   },
   {
     "id": "u0-t71-r2",
@@ -9673,9 +10024,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "referenceData",
-      "caption": "觀察簿摘錄",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditAnimalFamily",
+      "caption": "動物的出生與照顧紀錄",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "動物",
@@ -9699,9 +10050,20 @@ window.REVIEW_EXAM_ITEMS=[
             "影片只拍到產卵"
           ]
         ]
-      }
+      },
+      "sceneText": "小安原來的分類框，主要被哪份紀錄指出問題？",
+      "articleTitle": "生命觀察簿：出生與照顧分開記",
+      "articleText": "",
+      "unitId": 0,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "雞、兔與蝴蝶形態及對應觀察，保留原資料表。"
+    }
   },
   {
     "id": "u0-t71-r3",
@@ -9730,9 +10092,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "referenceData",
-      "caption": "觀察簿摘錄",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditAnimalFamily",
+      "caption": "動物的出生與照顧紀錄",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "動物",
@@ -9756,9 +10118,20 @@ window.REVIEW_EXAM_ITEMS=[
             "影片只拍到產卵"
           ]
         ]
-      }
+      },
+      "sceneText": "蝴蝶的照顧欄應如何填寫，才與本次資料相符？",
+      "articleTitle": "生命觀察簿：出生與照顧分開記",
+      "articleText": "",
+      "unitId": 0,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "雞、兔與蝴蝶形態及對應觀察，保留原資料表。"
+    }
   },
   {
     "id": "u0-t71-r4",
@@ -9787,9 +10160,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "referenceData",
-      "caption": "觀察簿摘錄",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditAnimalFamily",
+      "caption": "動物的出生與照顧紀錄",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "動物",
@@ -9813,9 +10186,20 @@ window.REVIEW_EXAM_ITEMS=[
             "影片只拍到產卵"
           ]
         ]
-      }
+      },
+      "sceneText": "若鯨的資料寫「幼體在母體內發育後出生」，新增分類時應採哪項依據？",
+      "articleTitle": "生命觀察簿：出生與照顧分開記",
+      "articleText": "",
+      "unitId": 0,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "雞、兔與蝴蝶形態及對應觀察，保留原資料表。"
+    }
   },
   {
     "id": "u0-t71-r5",
@@ -9844,9 +10228,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "referenceData",
-      "caption": "觀察簿摘錄",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditAnimalFamily",
+      "caption": "動物的出生與照顧紀錄",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "動物",
@@ -9870,9 +10254,20 @@ window.REVIEW_EXAM_ITEMS=[
             "影片只拍到產卵"
           ]
         ]
-      }
+      },
+      "sceneText": "展覽要呈現「親代與子代可能相似，也可能不同」，哪項補充最直接？",
+      "articleTitle": "生命觀察簿：出生與照顧分開記",
+      "articleText": "",
+      "unitId": 0,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "雞、兔與蝴蝶形態及對應觀察，保留原資料表。"
+    }
   },
   {
     "id": "u1-t70-r1",
@@ -9938,7 +10333,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "使用同一條橡皮筋，張緊程度與聆聽位置盡量相同；支點間是可振動部分。",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u1-t70-r2",
@@ -10004,7 +10404,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "使用同一條橡皮筋，張緊程度與聆聽位置盡量相同；支點間是可振動部分。",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u1-t70-r3",
@@ -10070,7 +10475,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "使用同一條橡皮筋，張緊程度與聆聽位置盡量相同；支點間是可振動部分。",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u1-t70-r4",
@@ -10136,7 +10546,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "使用同一條橡皮筋，張緊程度與聆聽位置盡量相同；支點間是可振動部分。",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u1-t70-r5",
@@ -10202,7 +10617,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "使用同一條橡皮筋，張緊程度與聆聽位置盡量相同；支點間是可振動部分。",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u1-t71-r1",
@@ -10236,7 +10656,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "①空杯；②半杯水、由側面看；③取出檢查。圖示記錄看到的外觀，不表示吸管真的折斷。",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u1-t71-r2",
@@ -10270,7 +10695,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "①空杯；②半杯水、由側面看；③取出檢查。圖示記錄看到的外觀，不表示吸管真的折斷。",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u1-t71-r3",
@@ -10304,7 +10734,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "①空杯；②半杯水、由側面看；③取出檢查。圖示記錄看到的外觀，不表示吸管真的折斷。",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u1-t71-r4",
@@ -10338,7 +10773,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "①空杯；②半杯水、由側面看；③取出檢查。圖示記錄看到的外觀，不表示吸管真的折斷。",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u1-t71-r5",
@@ -10372,7 +10812,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "①空杯；②半杯水、由側面看；③取出檢查。圖示記錄看到的外觀，不表示吸管真的折斷。",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "concept": "海洋與交流",
@@ -10396,7 +10841,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "concept": "習俗與節慶",
@@ -10420,7 +10870,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "concept": "規範的共同目的",
@@ -10444,7 +10899,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "concept": "平等與公平",
@@ -10468,7 +10928,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "concept": "隱私與數位生活",
@@ -10492,7 +10957,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "concept": "盆地",
@@ -10516,7 +10986,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "concept": "海岸與利用",
@@ -10540,7 +11015,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "concept": "地形與交通",
@@ -10564,7 +11044,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "concept": "地形與土地利用",
@@ -10588,7 +11073,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "concept": "地震與坡地風險",
@@ -10612,7 +11102,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u2-t70-r1",
@@ -10671,7 +11166,12 @@ window.REVIEW_EXAM_ITEMS=[
       "examLineArt": true,
       "hideTable": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u2-t70-r2",
@@ -10730,7 +11230,12 @@ window.REVIEW_EXAM_ITEMS=[
       "examLineArt": true,
       "hideTable": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u2-t70-r3",
@@ -10789,7 +11294,12 @@ window.REVIEW_EXAM_ITEMS=[
       "examLineArt": true,
       "hideTable": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u2-t70-r4",
@@ -10848,7 +11358,12 @@ window.REVIEW_EXAM_ITEMS=[
       "examLineArt": true,
       "hideTable": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u2-t70-r5",
@@ -10907,7 +11422,12 @@ window.REVIEW_EXAM_ITEMS=[
       "examLineArt": true,
       "hideTable": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u2-t71-r1",
@@ -10964,7 +11484,12 @@ window.REVIEW_EXAM_ITEMS=[
         ]
       }
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "此處資料為訪談、文字摘要或紀錄，本題不要求辨識器材、外形或位置；表格保留為文字證據。"
+    }
   },
   {
     "id": "u2-t71-r2",
@@ -11021,7 +11546,12 @@ window.REVIEW_EXAM_ITEMS=[
         ]
       }
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "此處資料為訪談、文字摘要或紀錄，本題不要求辨識器材、外形或位置；表格保留為文字證據。"
+    }
   },
   {
     "id": "u2-t71-r3",
@@ -11078,7 +11608,12 @@ window.REVIEW_EXAM_ITEMS=[
         ]
       }
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "此處資料為訪談、文字摘要或紀錄，本題不要求辨識器材、外形或位置；表格保留為文字證據。"
+    }
   },
   {
     "id": "u2-t71-r4",
@@ -11135,7 +11670,12 @@ window.REVIEW_EXAM_ITEMS=[
         ]
       }
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "此處資料為訪談、文字摘要或紀錄，本題不要求辨識器材、外形或位置；表格保留為文字證據。"
+    }
   },
   {
     "id": "u2-t71-r5",
@@ -11192,7 +11732,12 @@ window.REVIEW_EXAM_ITEMS=[
         ]
       }
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "此處資料為訪談、文字摘要或紀錄，本題不要求辨識器材、外形或位置；表格保留為文字證據。"
+    }
   },
   {
     "id": "u3-t70-r1",
@@ -11251,7 +11796,12 @@ window.REVIEW_EXAM_ITEMS=[
       "examLineArt": true,
       "hideTable": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u3-t70-r2",
@@ -11310,7 +11860,12 @@ window.REVIEW_EXAM_ITEMS=[
       "examLineArt": true,
       "hideTable": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u3-t70-r3",
@@ -11369,7 +11924,12 @@ window.REVIEW_EXAM_ITEMS=[
       "examLineArt": true,
       "hideTable": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u3-t70-r4",
@@ -11428,7 +11988,12 @@ window.REVIEW_EXAM_ITEMS=[
       "examLineArt": true,
       "hideTable": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u3-t70-r5",
@@ -11487,7 +12052,12 @@ window.REVIEW_EXAM_ITEMS=[
       "examLineArt": true,
       "hideTable": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u3-t71-r1",
@@ -11543,7 +12113,12 @@ window.REVIEW_EXAM_ITEMS=[
       "note": "虛構教學資料；三站使用相同觀測時段",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u3-t71-r2",
@@ -11599,7 +12174,12 @@ window.REVIEW_EXAM_ITEMS=[
       "note": "虛構教學資料；三站使用相同觀測時段",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u3-t71-r3",
@@ -11655,7 +12235,12 @@ window.REVIEW_EXAM_ITEMS=[
       "note": "虛構教學資料；三站使用相同觀測時段",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u3-t71-r4",
@@ -11711,7 +12296,12 @@ window.REVIEW_EXAM_ITEMS=[
       "note": "虛構教學資料；三站使用相同觀測時段",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u3-t71-r5",
@@ -11767,7 +12357,12 @@ window.REVIEW_EXAM_ITEMS=[
       "note": "虛構教學資料；三站使用相同觀測時段",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "unit": 22,
@@ -11792,7 +12387,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "unit": 22,
@@ -11817,7 +12417,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "unit": 22,
@@ -11842,7 +12447,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "unit": 22,
@@ -11867,7 +12477,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "unit": 22,
@@ -11892,7 +12507,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "unit": 23,
@@ -11917,7 +12537,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "unit": 23,
@@ -11942,7 +12567,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "unit": 23,
@@ -11967,7 +12597,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "unit": 23,
@@ -11992,7 +12627,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "unit": 23,
@@ -12017,7 +12657,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u22-t70-r1",
@@ -12077,7 +12722,12 @@ window.REVIEW_EXAM_ITEMS=[
       "examLineArt": true,
       "hideTable": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u22-t70-r2",
@@ -12137,7 +12787,12 @@ window.REVIEW_EXAM_ITEMS=[
       "examLineArt": true,
       "hideTable": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u22-t70-r3",
@@ -12197,7 +12852,12 @@ window.REVIEW_EXAM_ITEMS=[
       "examLineArt": true,
       "hideTable": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u22-t70-r4",
@@ -12257,7 +12917,12 @@ window.REVIEW_EXAM_ITEMS=[
       "examLineArt": true,
       "hideTable": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u22-t70-r5",
@@ -12317,7 +12982,12 @@ window.REVIEW_EXAM_ITEMS=[
       "examLineArt": true,
       "hideTable": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u22-t71-r1",
@@ -12382,7 +13052,12 @@ window.REVIEW_EXAM_ITEMS=[
       "examLineArt": true,
       "hideTable": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u22-t71-r2",
@@ -12447,7 +13122,12 @@ window.REVIEW_EXAM_ITEMS=[
       "examLineArt": true,
       "hideTable": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u22-t71-r3",
@@ -12512,7 +13192,12 @@ window.REVIEW_EXAM_ITEMS=[
       "examLineArt": true,
       "hideTable": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u22-t71-r4",
@@ -12577,7 +13262,12 @@ window.REVIEW_EXAM_ITEMS=[
       "examLineArt": true,
       "hideTable": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u22-t71-r5",
@@ -12642,7 +13332,12 @@ window.REVIEW_EXAM_ITEMS=[
       "examLineArt": true,
       "hideTable": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u23-t70-r1",
@@ -12698,7 +13393,12 @@ window.REVIEW_EXAM_ITEMS=[
       "examLineArt": true,
       "hideTable": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u23-t70-r2",
@@ -12754,7 +13454,12 @@ window.REVIEW_EXAM_ITEMS=[
       "examLineArt": true,
       "hideTable": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u23-t70-r3",
@@ -12810,7 +13515,12 @@ window.REVIEW_EXAM_ITEMS=[
       "examLineArt": true,
       "hideTable": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u23-t70-r4",
@@ -12866,7 +13576,12 @@ window.REVIEW_EXAM_ITEMS=[
       "examLineArt": true,
       "hideTable": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u23-t70-r5",
@@ -12922,7 +13637,12 @@ window.REVIEW_EXAM_ITEMS=[
       "examLineArt": true,
       "hideTable": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u23-t71-r1",
@@ -12979,7 +13699,12 @@ window.REVIEW_EXAM_ITEMS=[
       "note": "同一風車、同一風扇，距離保持相同；教學模擬資料",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u23-t71-r2",
@@ -13036,7 +13761,12 @@ window.REVIEW_EXAM_ITEMS=[
       "note": "同一風車、同一風扇，距離保持相同；教學模擬資料",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u23-t71-r3",
@@ -13093,7 +13823,12 @@ window.REVIEW_EXAM_ITEMS=[
       "note": "同一風車、同一風扇，距離保持相同；教學模擬資料",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u23-t71-r4",
@@ -13150,7 +13885,12 @@ window.REVIEW_EXAM_ITEMS=[
       "note": "同一風車、同一風扇，距離保持相同；教學模擬資料",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u23-t71-r5",
@@ -13207,7 +13947,12 @@ window.REVIEW_EXAM_ITEMS=[
       "note": "同一風車、同一風扇，距離保持相同；教學模擬資料",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "unit": 24,
@@ -13231,7 +13976,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "unit": 24,
@@ -13255,7 +14005,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "unit": 24,
@@ -13279,7 +14034,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "unit": 24,
@@ -13303,7 +14063,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "unit": 24,
@@ -13327,7 +14092,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "unit": 25,
@@ -13351,7 +14121,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "unit": 25,
@@ -13375,7 +14150,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "unit": 25,
@@ -13399,7 +14179,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "unit": 25,
@@ -13423,7 +14208,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "unit": 25,
@@ -13447,7 +14237,12 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美單元範圍改編；參考公開原卷的情境判斷與同領域干擾選項",
     "reviewVersion": 10,
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u24-t70-r1",
@@ -13501,7 +14296,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "17：00 與家人一起吃晚餐；表中的時段為今天的安排。",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u24-t70-r2",
@@ -13555,7 +14355,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "17：00 與家人一起吃晚餐；表中的時段為今天的安排。",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u24-t70-r3",
@@ -13609,7 +14414,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "17：00 與家人一起吃晚餐；表中的時段為今天的安排。",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u24-t70-r4",
@@ -13663,7 +14473,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "17：00 與家人一起吃晚餐；表中的時段為今天的安排。",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u24-t70-r5",
@@ -13717,7 +14532,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "17：00 與家人一起吃晚餐；表中的時段為今天的安排。",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u24-t71-r1",
@@ -13746,9 +14566,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "referenceData",
-      "caption": "三種資源與目前找到的線索",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditResources",
+      "caption": "葉片觀察與圖鑑查找",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "資源",
@@ -13772,9 +14592,20 @@ window.REVIEW_EXAM_ITEMS=[
             "仍須自己觀察與記錄"
           ]
         ]
-      }
+      },
+      "sceneText": "小組看不清葉子連接在哪一節，哪組行動最直接？",
+      "articleTitle": "報告資料室：先分清楚問題",
+      "articleText": "",
+      "unitId": 24,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "補上觀察葉序與查圖鑑的資料來源關係。"
+    }
   },
   {
     "id": "u24-t71-r2",
@@ -13803,9 +14634,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "referenceData",
-      "caption": "三種資源與目前找到的線索",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditResources",
+      "caption": "葉片觀察與圖鑑查找",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "資源",
@@ -13829,9 +14660,20 @@ window.REVIEW_EXAM_ITEMS=[
             "仍須自己觀察與記錄"
           ]
         ]
-      }
+      },
+      "sceneText": "兩本書的葉形說明不同，文章提供哪項線索，表示它們可能並未互相矛盾？",
+      "articleTitle": "報告資料室：先分清楚問題",
+      "articleText": "",
+      "unitId": 24,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "補上觀察葉序與查圖鑑的資料來源關係。"
+    }
   },
   {
     "id": "u24-t71-r3",
@@ -13860,9 +14702,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "referenceData",
-      "caption": "三種資源與目前找到的線索",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditResources",
+      "caption": "葉片觀察與圖鑑查找",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "資源",
@@ -13886,9 +14728,20 @@ window.REVIEW_EXAM_ITEMS=[
             "仍須自己觀察與記錄"
           ]
         ]
-      }
+      },
+      "sceneText": "記下作者、書名與頁碼，對報告最主要的幫助是什麼？",
+      "articleTitle": "報告資料室：先分清楚問題",
+      "articleText": "",
+      "unitId": 24,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "補上觀察葉序與查圖鑑的資料來源關係。"
+    }
   },
   {
     "id": "u24-t71-r4",
@@ -13917,9 +14770,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "referenceData",
-      "caption": "三種資源與目前找到的線索",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditResources",
+      "caption": "葉片觀察與圖鑑查找",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "資源",
@@ -13943,9 +14796,20 @@ window.REVIEW_EXAM_ITEMS=[
             "仍須自己觀察與記錄"
           ]
         ]
-      }
+      },
+      "sceneText": "有一個特徵仍查不清楚，最適合放入哪一欄？",
+      "articleTitle": "報告資料室：先分清楚問題",
+      "articleText": "",
+      "unitId": 24,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "補上觀察葉序與查圖鑑的資料來源關係。"
+    }
   },
   {
     "id": "u24-t71-r5",
@@ -13974,9 +14838,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "依仁美範圍原創延伸題組；參考公開卷的圖文整合、觀察比較與情境判斷，不是原卷或課文原文",
     "visual": {
-      "kind": "referenceData",
-      "caption": "三種資源與目前找到的線索",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditResources",
+      "caption": "葉片觀察與圖鑑查找",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "資源",
@@ -14000,9 +14864,20 @@ window.REVIEW_EXAM_ITEMS=[
             "仍須自己觀察與記錄"
           ]
         ]
-      }
+      },
+      "sceneText": "哪個成果最能顯示小組確實學會，而不只是取得答案？",
+      "articleTitle": "報告資料室：先分清楚問題",
+      "articleText": "",
+      "unitId": 24,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "補上觀察葉序與查圖鑑的資料來源關係。"
+    }
   },
   {
     "id": "u25-t70-r1",
@@ -14058,7 +14933,12 @@ window.REVIEW_EXAM_ITEMS=[
       "note": "到會 26 人；約定一人一票，以得票最多的方案優先規畫",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u25-t70-r2",
@@ -14114,7 +14994,12 @@ window.REVIEW_EXAM_ITEMS=[
       "note": "到會 26 人；約定一人一票，以得票最多的方案優先規畫",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u25-t70-r3",
@@ -14170,7 +15055,12 @@ window.REVIEW_EXAM_ITEMS=[
       "note": "到會 26 人；約定一人一票，以得票最多的方案優先規畫",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u25-t70-r4",
@@ -14226,7 +15116,12 @@ window.REVIEW_EXAM_ITEMS=[
       "note": "到會 26 人；約定一人一票，以得票最多的方案優先規畫",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u25-t70-r5",
@@ -14282,7 +15177,12 @@ window.REVIEW_EXAM_ITEMS=[
       "note": "到會 26 人；約定一人一票，以得票最多的方案優先規畫",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u25-t71-r1",
@@ -14338,7 +15238,12 @@ window.REVIEW_EXAM_ITEMS=[
       "note": "同一段走廊、相近下課時段；紀錄是次數，不是不同學生人數",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u25-t71-r2",
@@ -14394,7 +15299,12 @@ window.REVIEW_EXAM_ITEMS=[
       "note": "同一段走廊、相近下課時段；紀錄是次數，不是不同學生人數",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u25-t71-r3",
@@ -14450,7 +15360,12 @@ window.REVIEW_EXAM_ITEMS=[
       "note": "同一段走廊、相近下課時段；紀錄是次數，不是不同學生人數",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u25-t71-r4",
@@ -14506,7 +15421,12 @@ window.REVIEW_EXAM_ITEMS=[
       "note": "同一段走廊、相近下課時段；紀錄是次數，不是不同學生人數",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u25-t71-r5",
@@ -14562,7 +15482,12 @@ window.REVIEW_EXAM_ITEMS=[
       "note": "同一段走廊、相近下課時段；紀錄是次數，不是不同學生人數",
       "examLineArt": true
     },
-    "reviewVersion": 10
+    "reviewVersion": 10,
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "type": "text",
@@ -14580,7 +15505,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u4-t99-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "type": "text",
@@ -14598,7 +15528,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u4-t98-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "type": "text",
@@ -14616,7 +15551,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u4-t97-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "type": "text",
@@ -14634,7 +15574,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u5-t99-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "type": "text",
@@ -14652,7 +15597,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u5-t98-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "type": "single",
@@ -14676,7 +15626,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u4-t96-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "type": "single",
@@ -14700,7 +15655,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u4-t95-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "type": "single",
@@ -14724,7 +15684,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u5-t97-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "type": "single",
@@ -14748,7 +15713,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u5-t96-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "type": "single",
@@ -14772,7 +15742,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u5-t95-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u4-t99-r1",
@@ -14824,7 +15799,12 @@ window.REVIEW_EXAM_ITEMS=[
     },
     "difficulty": "core",
     "variant": "B",
-    "family": "b-u4-t99-r1"
+    "family": "b-u4-t99-r1",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "此處資料為訪談、文字摘要或紀錄，本題不要求辨識器材、外形或位置；表格保留為文字證據。"
+    }
   },
   {
     "id": "u4-t99-r2",
@@ -14876,7 +15856,12 @@ window.REVIEW_EXAM_ITEMS=[
     },
     "difficulty": "core",
     "variant": "B",
-    "family": "b-u4-t99-r2"
+    "family": "b-u4-t99-r2",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "此處資料為訪談、文字摘要或紀錄，本題不要求辨識器材、外形或位置；表格保留為文字證據。"
+    }
   },
   {
     "id": "u4-t99-r3",
@@ -14928,7 +15913,12 @@ window.REVIEW_EXAM_ITEMS=[
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u4-t99-r3"
+    "family": "b-u4-t99-r3",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "此處資料為訪談、文字摘要或紀錄，本題不要求辨識器材、外形或位置；表格保留為文字證據。"
+    }
   },
   {
     "id": "u4-t99-r4",
@@ -14980,7 +15970,12 @@ window.REVIEW_EXAM_ITEMS=[
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u4-t99-r4"
+    "family": "b-u4-t99-r4",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "此處資料為訪談、文字摘要或紀錄，本題不要求辨識器材、外形或位置；表格保留為文字證據。"
+    }
   },
   {
     "id": "u4-t99-r5",
@@ -15032,7 +16027,12 @@ window.REVIEW_EXAM_ITEMS=[
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u4-t99-r5"
+    "family": "b-u4-t99-r5",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "此處資料為訪談、文字摘要或紀錄，本題不要求辨識器材、外形或位置；表格保留為文字證據。"
+    }
   },
   {
     "id": "u4-t98-r1",
@@ -15085,7 +16085,12 @@ window.REVIEW_EXAM_ITEMS=[
     },
     "difficulty": "core",
     "variant": "B",
-    "family": "b-u4-t98-r1"
+    "family": "b-u4-t98-r1",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "此處資料為訪談、文字摘要或紀錄，本題不要求辨識器材、外形或位置；表格保留為文字證據。"
+    }
   },
   {
     "id": "u4-t98-r2",
@@ -15138,7 +16143,12 @@ window.REVIEW_EXAM_ITEMS=[
     },
     "difficulty": "core",
     "variant": "B",
-    "family": "b-u4-t98-r2"
+    "family": "b-u4-t98-r2",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "此處資料為訪談、文字摘要或紀錄，本題不要求辨識器材、外形或位置；表格保留為文字證據。"
+    }
   },
   {
     "id": "u4-t98-r3",
@@ -15191,7 +16201,12 @@ window.REVIEW_EXAM_ITEMS=[
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u4-t98-r3"
+    "family": "b-u4-t98-r3",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "此處資料為訪談、文字摘要或紀錄，本題不要求辨識器材、外形或位置；表格保留為文字證據。"
+    }
   },
   {
     "id": "u4-t98-r4",
@@ -15244,7 +16259,12 @@ window.REVIEW_EXAM_ITEMS=[
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u4-t98-r4"
+    "family": "b-u4-t98-r4",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "此處資料為訪談、文字摘要或紀錄，本題不要求辨識器材、外形或位置；表格保留為文字證據。"
+    }
   },
   {
     "id": "u4-t98-r5",
@@ -15297,7 +16317,12 @@ window.REVIEW_EXAM_ITEMS=[
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u4-t98-r5"
+    "family": "b-u4-t98-r5",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "此處資料為訪談、文字摘要或紀錄，本題不要求辨識器材、外形或位置；表格保留為文字證據。"
+    }
   },
   {
     "id": "u5-t99-r1",
@@ -15324,9 +16349,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "referenceData",
-      "caption": "小柔的兩種紀錄",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditSeaColors",
+      "caption": "同一海景的色彩表現",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "個人偏好",
@@ -15342,11 +16367,22 @@ window.REVIEW_EXAM_ITEMS=[
             "先指出支持感受的畫面細節"
           ]
         ]
-      }
+      },
+      "sceneText": "〈安靜的顏色：追加資料〉依原始紀錄：畫家用橘紅描畫什麼時刻？",
+      "articleTitle": "安靜的顏色：追加資料",
+      "articleText": "【原始紀錄】同一片海，畫家用灰藍表現清晨，用橘紅描畫夕陽。小柔原本認為海只能畫成藍色，看完兩幅作品，才注意到光線、時間與作者感受都會影響表現。她仍喜歡藍色的海，但不再用一種顏色判斷作品是否正確。\n\n導覽員請大家比較兩幅畫的天空、海面與岸邊影子，小柔才發現，差別不只有海水的顏色。清晨那幅留了大片淡色，夕陽那幅則把暖色集中在水面；這些安排讓人產生不同感受，不能只拿一個地方決定整幅畫是否合理。\n\n回家畫海時，小柔先觀察窗邊照片，再記下自己想表現的時間。她沒有為了求新，隨便換上任何顏色，而是試著讓色彩與光線互相呼應。她喜歡藍海的心情沒有消失，只是多了一個理解其他作品的方法。\n\n【追加情境】展覽又掛上一幅想像中的海，畫面以紫色為主。導覽員沒有要求觀眾立刻說對或錯，而請大家指出色彩、光線與構圖如何配合。小柔記下：「我仍偏愛藍色，但能先理解這幅畫想表現什麼。」她的喜好沒有消失，評價作品的方法卻變得不同。",
+      "unitId": 5,
+      "conceptIndex": null,
+      "examLineArt": false
     },
     "difficulty": "core",
     "variant": "B",
-    "family": "b-u5-t99-r1"
+    "family": "b-u5-t99-r1",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依本文灰藍清晨、橘紅夕陽，追加資料有紫色想像時才增加第三幅。"
+    }
   },
   {
     "id": "u5-t99-r2",
@@ -15373,9 +16409,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "referenceData",
-      "caption": "小柔的兩種紀錄",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditSeaColors",
+      "caption": "同一海景的色彩表現",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "個人偏好",
@@ -15391,11 +16427,22 @@ window.REVIEW_EXAM_ITEMS=[
             "先指出支持感受的畫面細節"
           ]
         ]
-      }
+      },
+      "sceneText": "〈安靜的顏色：追加資料〉依原始紀錄：為什麼海可以有不同顏色？",
+      "articleTitle": "安靜的顏色：追加資料",
+      "articleText": "【原始紀錄】同一片海，畫家用灰藍表現清晨，用橘紅描畫夕陽。小柔原本認為海只能畫成藍色，看完兩幅作品，才注意到光線、時間與作者感受都會影響表現。她仍喜歡藍色的海，但不再用一種顏色判斷作品是否正確。\n\n導覽員請大家比較兩幅畫的天空、海面與岸邊影子，小柔才發現，差別不只有海水的顏色。清晨那幅留了大片淡色，夕陽那幅則把暖色集中在水面；這些安排讓人產生不同感受，不能只拿一個地方決定整幅畫是否合理。\n\n回家畫海時，小柔先觀察窗邊照片，再記下自己想表現的時間。她沒有為了求新，隨便換上任何顏色，而是試著讓色彩與光線互相呼應。她喜歡藍海的心情沒有消失，只是多了一個理解其他作品的方法。\n\n【追加情境】展覽又掛上一幅想像中的海，畫面以紫色為主。導覽員沒有要求觀眾立刻說對或錯，而請大家指出色彩、光線與構圖如何配合。小柔記下：「我仍偏愛藍色，但能先理解這幅畫想表現什麼。」她的喜好沒有消失，評價作品的方法卻變得不同。",
+      "unitId": 5,
+      "conceptIndex": null,
+      "examLineArt": false
     },
     "difficulty": "core",
     "variant": "B",
-    "family": "b-u5-t99-r2"
+    "family": "b-u5-t99-r2",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依本文灰藍清晨、橘紅夕陽，追加資料有紫色想像時才增加第三幅。"
+    }
   },
   {
     "id": "u5-t99-r3",
@@ -15422,9 +16469,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "referenceData",
-      "caption": "小柔的兩種紀錄",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditSeaColors",
+      "caption": "同一海景的色彩表現",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "個人偏好",
@@ -15440,11 +16487,22 @@ window.REVIEW_EXAM_ITEMS=[
             "先指出支持感受的畫面細節"
           ]
         ]
-      }
+      },
+      "sceneText": "〈安靜的顏色：追加資料〉「喜好沒有消失，評價方法變得不同」最接近哪個意思？",
+      "articleTitle": "安靜的顏色：追加資料",
+      "articleText": "【原始紀錄】同一片海，畫家用灰藍表現清晨，用橘紅描畫夕陽。小柔原本認為海只能畫成藍色，看完兩幅作品，才注意到光線、時間與作者感受都會影響表現。她仍喜歡藍色的海，但不再用一種顏色判斷作品是否正確。\n\n導覽員請大家比較兩幅畫的天空、海面與岸邊影子，小柔才發現，差別不只有海水的顏色。清晨那幅留了大片淡色，夕陽那幅則把暖色集中在水面；這些安排讓人產生不同感受，不能只拿一個地方決定整幅畫是否合理。\n\n回家畫海時，小柔先觀察窗邊照片，再記下自己想表現的時間。她沒有為了求新，隨便換上任何顏色，而是試著讓色彩與光線互相呼應。她喜歡藍海的心情沒有消失，只是多了一個理解其他作品的方法。\n\n【追加情境】展覽又掛上一幅想像中的海，畫面以紫色為主。導覽員沒有要求觀眾立刻說對或錯，而請大家指出色彩、光線與構圖如何配合。小柔記下：「我仍偏愛藍色，但能先理解這幅畫想表現什麼。」她的喜好沒有消失，評價作品的方法卻變得不同。",
+      "unitId": 5,
+      "conceptIndex": null,
+      "examLineArt": false
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u5-t99-r3"
+    "family": "b-u5-t99-r3",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依本文灰藍清晨、橘紅夕陽，追加資料有紫色想像時才增加第三幅。"
+    }
   },
   {
     "id": "u5-t99-r4",
@@ -15471,9 +16529,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "referenceData",
-      "caption": "小柔的兩種紀錄",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditSeaColors",
+      "caption": "同一海景的色彩表現",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "個人偏好",
@@ -15489,11 +16547,22 @@ window.REVIEW_EXAM_ITEMS=[
             "先指出支持感受的畫面細節"
           ]
         ]
-      }
+      },
+      "sceneText": "〈安靜的顏色：追加資料〉要評論紫色的海，哪句最符合導覽員的提問方式？",
+      "articleTitle": "安靜的顏色：追加資料",
+      "articleText": "【原始紀錄】同一片海，畫家用灰藍表現清晨，用橘紅描畫夕陽。小柔原本認為海只能畫成藍色，看完兩幅作品，才注意到光線、時間與作者感受都會影響表現。她仍喜歡藍色的海，但不再用一種顏色判斷作品是否正確。\n\n導覽員請大家比較兩幅畫的天空、海面與岸邊影子，小柔才發現，差別不只有海水的顏色。清晨那幅留了大片淡色，夕陽那幅則把暖色集中在水面；這些安排讓人產生不同感受，不能只拿一個地方決定整幅畫是否合理。\n\n回家畫海時，小柔先觀察窗邊照片，再記下自己想表現的時間。她沒有為了求新，隨便換上任何顏色，而是試著讓色彩與光線互相呼應。她喜歡藍海的心情沒有消失，只是多了一個理解其他作品的方法。\n\n【追加情境】展覽又掛上一幅想像中的海，畫面以紫色為主。導覽員沒有要求觀眾立刻說對或錯，而請大家指出色彩、光線與構圖如何配合。小柔記下：「我仍偏愛藍色，但能先理解這幅畫想表現什麼。」她的喜好沒有消失，評價作品的方法卻變得不同。",
+      "unitId": 5,
+      "conceptIndex": null,
+      "examLineArt": false
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u5-t99-r4"
+    "family": "b-u5-t99-r4",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依本文灰藍清晨、橘紅夕陽，追加資料有紫色想像時才增加第三幅。"
+    }
   },
   {
     "id": "u5-t99-r5",
@@ -15520,9 +16589,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "referenceData",
-      "caption": "小柔的兩種紀錄",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditSeaColors",
+      "caption": "同一海景的色彩表現",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "個人偏好",
@@ -15538,11 +16607,22 @@ window.REVIEW_EXAM_ITEMS=[
             "先指出支持感受的畫面細節"
           ]
         ]
-      }
+      },
+      "sceneText": "〈安靜的顏色：追加資料〉作者安排清晨、夕陽與新作品的比較，最主要如何推動主題？",
+      "articleTitle": "安靜的顏色：追加資料",
+      "articleText": "【原始紀錄】同一片海，畫家用灰藍表現清晨，用橘紅描畫夕陽。小柔原本認為海只能畫成藍色，看完兩幅作品，才注意到光線、時間與作者感受都會影響表現。她仍喜歡藍色的海，但不再用一種顏色判斷作品是否正確。\n\n導覽員請大家比較兩幅畫的天空、海面與岸邊影子，小柔才發現，差別不只有海水的顏色。清晨那幅留了大片淡色，夕陽那幅則把暖色集中在水面；這些安排讓人產生不同感受，不能只拿一個地方決定整幅畫是否合理。\n\n回家畫海時，小柔先觀察窗邊照片，再記下自己想表現的時間。她沒有為了求新，隨便換上任何顏色，而是試著讓色彩與光線互相呼應。她喜歡藍海的心情沒有消失，只是多了一個理解其他作品的方法。\n\n【追加情境】展覽又掛上一幅想像中的海，畫面以紫色為主。導覽員沒有要求觀眾立刻說對或錯，而請大家指出色彩、光線與構圖如何配合。小柔記下：「我仍偏愛藍色，但能先理解這幅畫想表現什麼。」她的喜好沒有消失，評價作品的方法卻變得不同。",
+      "unitId": 5,
+      "conceptIndex": null,
+      "examLineArt": false
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u5-t99-r5"
+    "family": "b-u5-t99-r5",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依本文灰藍清晨、橘紅夕陽，追加資料有紫色想像時才增加第三幅。"
+    }
   },
   {
     "id": "u5-t98-r1",
@@ -15595,7 +16675,12 @@ window.REVIEW_EXAM_ITEMS=[
     },
     "difficulty": "core",
     "variant": "B",
-    "family": "b-u5-t98-r1"
+    "family": "b-u5-t98-r1",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "此處資料為訪談、文字摘要或紀錄，本題不要求辨識器材、外形或位置；表格保留為文字證據。"
+    }
   },
   {
     "id": "u5-t98-r2",
@@ -15648,7 +16733,12 @@ window.REVIEW_EXAM_ITEMS=[
     },
     "difficulty": "core",
     "variant": "B",
-    "family": "b-u5-t98-r2"
+    "family": "b-u5-t98-r2",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "此處資料為訪談、文字摘要或紀錄，本題不要求辨識器材、外形或位置；表格保留為文字證據。"
+    }
   },
   {
     "id": "u5-t98-r3",
@@ -15701,7 +16791,12 @@ window.REVIEW_EXAM_ITEMS=[
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u5-t98-r3"
+    "family": "b-u5-t98-r3",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "此處資料為訪談、文字摘要或紀錄，本題不要求辨識器材、外形或位置；表格保留為文字證據。"
+    }
   },
   {
     "id": "u5-t98-r4",
@@ -15754,7 +16849,12 @@ window.REVIEW_EXAM_ITEMS=[
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u5-t98-r4"
+    "family": "b-u5-t98-r4",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "此處資料為訪談、文字摘要或紀錄，本題不要求辨識器材、外形或位置；表格保留為文字證據。"
+    }
   },
   {
     "id": "u5-t98-r5",
@@ -15807,7 +16907,12 @@ window.REVIEW_EXAM_ITEMS=[
     },
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u5-t98-r5"
+    "family": "b-u5-t98-r5",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "此處資料為訪談、文字摘要或紀錄，本題不要求辨識器材、外形或位置；表格保留為文字證據。"
+    }
   },
   {
     "type": "boolean",
@@ -15829,7 +16934,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u0-t99-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -15851,7 +16961,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u0-t98-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -15873,7 +16988,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u0-t97-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -15895,7 +17015,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u0-t96-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -15917,7 +17042,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u0-t95-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -15939,7 +17069,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u1-t99-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -15961,7 +17096,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u1-t98-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -15983,7 +17123,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u1-t97-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -16005,7 +17150,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u1-t96-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -16027,7 +17177,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u1-t95-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -16051,7 +17206,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u0-t99-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -16075,7 +17235,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u0-t98-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -16099,7 +17264,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u0-t97-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -16123,7 +17293,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u0-t96-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -16147,7 +17322,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u0-t95-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -16171,7 +17351,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u1-t99-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -16195,7 +17380,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u1-t98-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -16219,7 +17409,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u1-t97-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -16243,7 +17438,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u1-t96-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -16267,7 +17467,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u1-t95-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u0-t99-r1",
@@ -16326,7 +17531,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u0-t99-r2",
@@ -16385,7 +17595,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u0-t99-r3",
@@ -16444,7 +17659,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u0-t99-r4",
@@ -16503,7 +17723,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u0-t99-r5",
@@ -16562,7 +17787,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u0-t98-r1",
@@ -16620,7 +17850,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u0-t98-r2",
@@ -16678,7 +17913,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u0-t98-r3",
@@ -16736,7 +17976,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u0-t98-r4",
@@ -16794,7 +18039,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u0-t98-r5",
@@ -16852,7 +18102,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u1-t99-r1",
@@ -16910,7 +18165,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u1-t99-r2",
@@ -16968,7 +18228,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u1-t99-r3",
@@ -17026,7 +18291,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u1-t99-r4",
@@ -17084,7 +18354,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u1-t99-r5",
@@ -17142,7 +18417,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u1-t98-r1",
@@ -17200,7 +18480,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u1-t98-r2",
@@ -17258,7 +18543,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u1-t98-r3",
@@ -17316,7 +18606,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u1-t98-r4",
@@ -17374,7 +18669,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u1-t98-r5",
@@ -17432,7 +18732,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "type": "boolean",
@@ -17454,7 +18759,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u2-t99-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -17476,7 +18786,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u2-t98-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -17498,7 +18813,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u2-t97-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -17520,7 +18840,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u2-t96-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -17542,7 +18867,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u2-t95-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -17564,7 +18894,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u3-t99-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -17586,7 +18921,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u3-t98-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -17608,7 +18948,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u3-t97-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -17630,7 +18975,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u3-t96-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -17652,7 +19002,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u3-t95-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -17676,7 +19031,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u2-t99-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -17700,7 +19060,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u2-t98-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -17724,7 +19089,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u2-t97-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -17748,7 +19118,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u2-t96-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -17772,7 +19147,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u2-t95-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -17796,7 +19176,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u3-t99-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -17820,7 +19205,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u3-t98-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -17844,7 +19234,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u3-t97-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -17868,7 +19263,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u3-t96-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -17892,7 +19292,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u3-t95-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u2-t99-r1",
@@ -17950,7 +19355,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u2-t99-r2",
@@ -18008,7 +19418,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u2-t99-r3",
@@ -18066,7 +19481,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u2-t99-r4",
@@ -18124,7 +19544,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u2-t99-r5",
@@ -18182,7 +19607,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u3-t99-r1",
@@ -18211,9 +19641,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "referenceData",
-      "caption": "環境線索與規劃重點",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditRiverTerrain",
+      "caption": "地勢與生活配置",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "地點",
@@ -18237,9 +19667,20 @@ window.REVIEW_EXAM_ITEMS=[
             "水位與活動位置"
           ]
         ]
-      }
+      },
+      "sceneText": "〈小晴的地勢與生活安排：追加資料〉依原始紀錄：哪處特別提到道路坡度？",
+      "articleTitle": "小晴的地勢與生活安排：追加資料",
+      "articleText": "",
+      "unitId": 3,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依表中甲乙丙線索繪製平坦、坡地與河邊，不改代號。"
+    }
   },
   {
     "id": "u3-t99-r2",
@@ -18268,9 +19709,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "referenceData",
-      "caption": "環境線索與規劃重點",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditRiverTerrain",
+      "caption": "地勢與生活配置",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "地點",
@@ -18294,9 +19735,20 @@ window.REVIEW_EXAM_ITEMS=[
             "水位與活動位置"
           ]
         ]
-      }
+      },
+      "sceneText": "〈小晴的地勢與生活安排：追加資料〉依原始紀錄：甲與丙的線索依序是什麼？",
+      "articleTitle": "小晴的地勢與生活安排：追加資料",
+      "articleText": "",
+      "unitId": 3,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依表中甲乙丙線索繪製平坦、坡地與河邊，不改代號。"
+    }
   },
   {
     "id": "u3-t99-r3",
@@ -18325,9 +19777,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "referenceData",
-      "caption": "環境線索與規劃重點",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditRiverTerrain",
+      "caption": "地勢與生活配置",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "地點",
@@ -18351,9 +19803,20 @@ window.REVIEW_EXAM_ITEMS=[
             "水位與活動位置"
           ]
         ]
-      }
+      },
+      "sceneText": "〈小晴的地勢與生活安排：追加資料〉丙地本地沒有下雨，但上游有強降雨訊息，還須優先查什麼？",
+      "articleTitle": "小晴的地勢與生活安排：追加資料",
+      "articleText": "",
+      "unitId": 3,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依表中甲乙丙線索繪製平坦、坡地與河邊，不改代號。"
+    }
   },
   {
     "id": "u3-t99-r4",
@@ -18382,9 +19845,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "referenceData",
-      "caption": "環境線索與規劃重點",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditRiverTerrain",
+      "caption": "地勢與生活配置",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "地點",
@@ -18408,9 +19871,20 @@ window.REVIEW_EXAM_ITEMS=[
             "水位與活動位置"
           ]
         ]
-      }
+      },
+      "sceneText": "〈小晴的地勢與生活安排：追加資料〉若有人主張「乙空間大，直接選乙」，哪項補充最能指出尚缺的評估？",
+      "articleTitle": "小晴的地勢與生活安排：追加資料",
+      "articleText": "",
+      "unitId": 3,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依表中甲乙丙線索繪製平坦、坡地與河邊，不改代號。"
+    }
   },
   {
     "id": "u3-t99-r5",
@@ -18439,9 +19913,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "referenceData",
-      "caption": "環境線索與規劃重點",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditRiverTerrain",
+      "caption": "地勢與生活配置",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "地點",
@@ -18465,9 +19939,20 @@ window.REVIEW_EXAM_ITEMS=[
             "水位與活動位置"
           ]
         ]
-      }
+      },
+      "sceneText": "〈小晴的地勢與生活安排：追加資料〉對於甲地，哪個後續調查能最直接回答空間是否足夠？",
+      "articleTitle": "小晴的地勢與生活安排：追加資料",
+      "articleText": "",
+      "unitId": 3,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依表中甲乙丙線索繪製平坦、坡地與河邊，不改代號。"
+    }
   },
   {
     "type": "boolean",
@@ -18490,7 +19975,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u22-t99-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -18513,7 +20003,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u22-t98-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -18536,7 +20031,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u22-t97-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -18559,7 +20059,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u22-t96-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -18582,7 +20087,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u22-t95-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -18605,7 +20115,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u23-t99-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -18628,7 +20143,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u23-t98-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -18651,7 +20171,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u23-t97-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -18674,7 +20199,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u23-t96-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -18697,7 +20227,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u23-t95-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -18722,7 +20257,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u22-t99-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -18747,7 +20287,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u22-t98-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -18772,7 +20317,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u22-t97-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -18797,7 +20347,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u22-t96-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -18822,7 +20377,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u22-t95-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -18847,7 +20407,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u23-t99-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -18872,7 +20437,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u23-t98-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -18897,7 +20467,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u23-t97-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -18922,7 +20497,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u23-t96-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -18947,7 +20527,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u23-t95-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u22-t99-r1",
@@ -19004,7 +20589,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u22-t99-r2",
@@ -19061,7 +20651,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u22-t99-r3",
@@ -19118,7 +20713,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u22-t99-r4",
@@ -19175,7 +20775,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u22-t99-r5",
@@ -19232,7 +20837,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u22-t98-r1",
@@ -19287,7 +20897,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u22-t98-r2",
@@ -19342,7 +20957,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u22-t98-r3",
@@ -19397,7 +21017,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u22-t98-r4",
@@ -19452,7 +21077,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u22-t98-r5",
@@ -19507,7 +21137,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u23-t99-r1",
@@ -19558,7 +21193,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u23-t99-r2",
@@ -19609,7 +21249,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u23-t99-r3",
@@ -19660,7 +21305,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u23-t99-r4",
@@ -19711,7 +21361,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "id": "u23-t99-r5",
@@ -19762,7 +21417,12 @@ window.REVIEW_EXAM_ITEMS=[
       "description": "原創教學情境圖；資料請與文章一起閱讀。",
       "examLineArt": true
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "type": "boolean",
@@ -19784,7 +21444,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u24-t99-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -19806,7 +21471,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u24-t98-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -19828,7 +21498,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u24-t97-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -19850,7 +21525,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u24-t96-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -19872,7 +21552,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u24-t95-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -19894,7 +21579,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u25-t99-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -19916,7 +21606,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u25-t98-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -19938,7 +21633,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u25-t97-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -19960,7 +21660,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u25-t96-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "boolean",
@@ -19982,7 +21687,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u25-t95-tf",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -20006,7 +21716,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u24-t99-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -20030,7 +21745,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u24-t98-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -20054,7 +21774,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u24-t97-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -20078,7 +21803,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u24-t96-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -20102,7 +21832,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u24-t95-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -20126,7 +21861,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u25-t99-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -20150,7 +21890,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u25-t98-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -20174,7 +21919,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u25-t97-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -20198,7 +21948,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u25-t96-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "type": "single",
@@ -20222,7 +21977,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u25-t95-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "本題測量概念或程序判斷，沒有需要辨識的外形、器材配置或圖上位置。"
+    }
   },
   {
     "id": "u24-t99-r1",
@@ -20251,9 +22011,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "referenceData",
-      "caption": "這次海報的分工",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditTeamJobs",
+      "caption": "工作分工的具體情境",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "同學",
@@ -20273,9 +22033,20 @@ window.REVIEW_EXAM_ITEMS=[
             "口頭介紹"
           ]
         ]
-      }
+      },
+      "sceneText": "〈小安的小組各有專長：追加資料〉依原始紀錄：圖卡中誰負責整理文字？",
+      "articleTitle": "小安的小組各有專長：追加資料",
+      "articleText": "",
+      "unitId": 24,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "按原表的人物和工作作圖，不使用無關的三人通用插畫。"
+    }
   },
   {
     "id": "u24-t99-r2",
@@ -20304,9 +22075,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "referenceData",
-      "caption": "這次海報的分工",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditTeamJobs",
+      "caption": "工作分工的具體情境",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "同學",
@@ -20326,9 +22097,20 @@ window.REVIEW_EXAM_ITEMS=[
             "口頭介紹"
           ]
         ]
-      }
+      },
+      "sceneText": "〈小安的小組各有專長：追加資料〉依原始紀錄：哪兩項工作需要配合做出海報內容？",
+      "articleTitle": "小安的小組各有專長：追加資料",
+      "articleText": "",
+      "unitId": 24,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "按原表的人物和工作作圖，不使用無關的三人通用插畫。"
+    }
   },
   {
     "id": "u24-t99-r3",
@@ -20357,9 +22139,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "referenceData",
-      "caption": "這次海報的分工",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditTeamJobs",
+      "caption": "工作分工的具體情境",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "同學",
@@ -20379,9 +22161,20 @@ window.REVIEW_EXAM_ITEMS=[
             "口頭介紹"
           ]
         ]
-      }
+      },
+      "sceneText": "〈小安的小組各有專長：追加資料〉乙沒有訪問資料，丙也難以練習，這反映什麼？",
+      "articleTitle": "小安的小組各有專長：追加資料",
+      "articleText": "",
+      "unitId": 24,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "按原表的人物和工作作圖，不使用無關的三人通用插畫。"
+    }
   },
   {
     "id": "u24-t99-r4",
@@ -20410,9 +22203,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "referenceData",
-      "caption": "這次海報的分工",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditTeamJobs",
+      "caption": "工作分工的具體情境",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "同學",
@@ -20432,9 +22225,20 @@ window.REVIEW_EXAM_ITEMS=[
             "口頭介紹"
           ]
         ]
-      }
+      },
+      "sceneText": "〈小安的小組各有專長：追加資料〉哪個新表格最有助解決這次問題？",
+      "articleTitle": "小安的小組各有專長：追加資料",
+      "articleText": "",
+      "unitId": 24,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "按原表的人物和工作作圖，不使用無關的三人通用插畫。"
+    }
   },
   {
     "id": "u24-t99-r5",
@@ -20463,9 +22267,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "referenceData",
-      "caption": "這次海報的分工",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditTeamJobs",
+      "caption": "工作分工的具體情境",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "同學",
@@ -20485,9 +22289,20 @@ window.REVIEW_EXAM_ITEMS=[
             "口頭介紹"
           ]
         ]
-      }
+      },
+      "sceneText": "〈小安的小組各有專長：追加資料〉甲願意示範畫圖，最能說明哪個分工原則？",
+      "articleTitle": "小安的小組各有專長：追加資料",
+      "articleText": "",
+      "unitId": 24,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "按原表的人物和工作作圖，不使用無關的三人通用插畫。"
+    }
   },
   {
     "id": "u24-t98-r1",
@@ -20516,9 +22331,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "referenceData",
-      "caption": "三種訂正做法",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditStudySteps",
+      "caption": "訂正的操作步驟",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "做法",
@@ -20538,9 +22353,20 @@ window.REVIEW_EXAM_ITEMS=[
             "檢查是否能獨立完成"
           ]
         ]
-      }
+      },
+      "sceneText": "〈小宇的把錯誤變成下一步：追加資料〉依原始紀錄：哪個做法能檢查是否能獨立完成？",
+      "articleTitle": "小宇的把錯誤變成下一步：追加資料",
+      "articleText": "",
+      "unitId": 24,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "呈現抄答案、找錯因、自己再試的不同活動。"
+    }
   },
   {
     "id": "u24-t98-r2",
@@ -20569,9 +22395,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "referenceData",
-      "caption": "三種訂正做法",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditStudySteps",
+      "caption": "訂正的操作步驟",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "做法",
@@ -20591,9 +22417,20 @@ window.REVIEW_EXAM_ITEMS=[
             "檢查是否能獨立完成"
           ]
         ]
-      }
+      },
+      "sceneText": "〈小宇的把錯誤變成下一步：追加資料〉依原始紀錄：哪個順序較符合文章的方法？",
+      "articleTitle": "小宇的把錯誤變成下一步：追加資料",
+      "articleText": "",
+      "unitId": 24,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "呈現抄答案、找錯因、自己再試的不同活動。"
+    }
   },
   {
     "id": "u24-t98-r3",
@@ -20622,9 +22459,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "referenceData",
-      "caption": "三種訂正做法",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditStudySteps",
+      "caption": "訂正的操作步驟",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "做法",
@@ -20644,9 +22481,20 @@ window.REVIEW_EXAM_ITEMS=[
             "檢查是否能獨立完成"
           ]
         ]
-      }
+      },
+      "sceneText": "〈小宇的把錯誤變成下一步：追加資料〉遮住答案後仍卡住，最能說明什麼？",
+      "articleTitle": "小宇的把錯誤變成下一步：追加資料",
+      "articleText": "",
+      "unitId": 24,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "呈現抄答案、找錯因、自己再試的不同活動。"
+    }
   },
   {
     "id": "u24-t98-r4",
@@ -20675,9 +22523,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "referenceData",
-      "caption": "三種訂正做法",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditStudySteps",
+      "caption": "訂正的操作步驟",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "做法",
@@ -20697,9 +22545,20 @@ window.REVIEW_EXAM_ITEMS=[
             "檢查是否能獨立完成"
           ]
         ]
-      }
+      },
+      "sceneText": "〈小宇的把錯誤變成下一步：追加資料〉向老師提問時，哪句最具體？",
+      "articleTitle": "小宇的把錯誤變成下一步：追加資料",
+      "articleText": "",
+      "unitId": 24,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "呈現抄答案、找錯因、自己再試的不同活動。"
+    }
   },
   {
     "id": "u24-t98-r5",
@@ -20728,9 +22587,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "referenceData",
-      "caption": "三種訂正做法",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditStudySteps",
+      "caption": "訂正的操作步驟",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "做法",
@@ -20750,9 +22609,20 @@ window.REVIEW_EXAM_ITEMS=[
             "檢查是否能獨立完成"
           ]
         ]
-      }
+      },
+      "sceneText": "〈小宇的把錯誤變成下一步：追加資料〉為什麼保留先前錯誤，不只留下最後正解？",
+      "articleTitle": "小宇的把錯誤變成下一步：追加資料",
+      "articleText": "",
+      "unitId": 24,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "呈現抄答案、找錯因、自己再試的不同活動。"
+    }
   },
   {
     "id": "u25-t98-r1",
@@ -20781,9 +22651,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "referenceData",
-      "caption": "這一週的值日分工",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditTeamJobs",
+      "caption": "工作分工的具體情境",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "同學",
@@ -20803,9 +22673,20 @@ window.REVIEW_EXAM_ITEMS=[
             "檢查用品"
           ]
         ]
-      }
+      },
+      "sceneText": "〈小晴的值日工作的接力：追加資料〉依原始紀錄：誰負責檢查用品？",
+      "articleTitle": "小晴的值日工作的接力：追加資料",
+      "articleText": "",
+      "unitId": 25,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "按原表的人物和工作作圖，不使用無關的三人通用插畫。"
+    }
   },
   {
     "id": "u25-t98-r2",
@@ -20834,9 +22715,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "referenceData",
-      "caption": "這一週的值日分工",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditTeamJobs",
+      "caption": "工作分工的具體情境",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "同學",
@@ -20856,9 +22737,20 @@ window.REVIEW_EXAM_ITEMS=[
             "檢查用品"
           ]
         ]
-      }
+      },
+      "sceneText": "〈小晴的值日工作的接力：追加資料〉依原始紀錄：甲與乙依序負責什麼？",
+      "articleTitle": "小晴的值日工作的接力：追加資料",
+      "articleText": "",
+      "unitId": 25,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "按原表的人物和工作作圖，不使用無關的三人通用插畫。"
+    }
   },
   {
     "id": "u25-t98-r3",
@@ -20887,9 +22779,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "referenceData",
-      "caption": "這一週的值日分工",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditTeamJobs",
+      "caption": "工作分工的具體情境",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "同學",
@@ -20909,9 +22801,20 @@ window.REVIEW_EXAM_ITEMS=[
             "檢查用品"
           ]
         ]
-      }
+      },
+      "sceneText": "〈小晴的值日工作的接力：追加資料〉「每人一項」為何不一定表示負擔公平？",
+      "articleTitle": "小晴的值日工作的接力：追加資料",
+      "articleText": "",
+      "unitId": 25,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "按原表的人物和工作作圖，不使用無關的三人通用插畫。"
+    }
   },
   {
     "id": "u25-t98-r4",
@@ -20940,9 +22843,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "referenceData",
-      "caption": "這一週的值日分工",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditTeamJobs",
+      "caption": "工作分工的具體情境",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "同學",
@@ -20962,9 +22865,20 @@ window.REVIEW_EXAM_ITEMS=[
             "檢查用品"
           ]
         ]
-      }
+      },
+      "sceneText": "〈小晴的值日工作的接力：追加資料〉要檢討長期分工，哪組紀錄最相關？",
+      "articleTitle": "小晴的值日工作的接力：追加資料",
+      "articleText": "",
+      "unitId": 25,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "按原表的人物和工作作圖，不使用無關的三人通用插畫。"
+    }
   },
   {
     "id": "u25-t98-r5",
@@ -20993,9 +22907,9 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "visual": {
-      "kind": "referenceData",
-      "caption": "這一週的值日分工",
-      "description": "依題目、文章與資料表判斷。",
+      "kind": "auditTeamJobs",
+      "caption": "工作分工的具體情境",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "同學",
@@ -21015,9 +22929,20 @@ window.REVIEW_EXAM_ITEMS=[
             "檢查用品"
           ]
         ]
-      }
+      },
+      "sceneText": "〈小晴的值日工作的接力：追加資料〉先完成的人想協助，哪種做法較合適？",
+      "articleTitle": "小晴的值日工作的接力：追加資料",
+      "articleText": "",
+      "unitId": 25,
+      "conceptIndex": null,
+      "examLineArt": false
     },
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "按原表的人物和工作作圖，不使用無關的三人通用插畫。"
+    }
   },
   {
     "type": "single",
@@ -21042,7 +22967,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u17-t99-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+    }
   },
   {
     "type": "numeric",
@@ -21071,7 +23001,12 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u17-t99-n1"
+    "family": "b-u17-t99-n1",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "type": "numeric",
@@ -21100,7 +23035,12 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u17-t98-n1"
+    "family": "b-u17-t98-n1",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "type": "numeric",
@@ -21139,7 +23079,12 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u17-t97-n1"
+    "family": "b-u17-t97-n1",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "type": "numeric",
@@ -21168,7 +23113,12 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u17-t96-n1"
+    "family": "b-u17-t96-n1",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "type": "single",
@@ -21193,7 +23143,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u18-t99-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+    }
   },
   {
     "type": "numeric",
@@ -21222,7 +23177,12 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u18-t99-n1"
+    "family": "b-u18-t99-n1",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "type": "numeric",
@@ -21242,7 +23202,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u18-t98-n1",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+    }
   },
   {
     "type": "numeric",
@@ -21281,7 +23246,12 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u18-t97-n1"
+    "family": "b-u18-t97-n1",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "type": "numeric",
@@ -21310,7 +23280,12 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u18-t96-n1"
+    "family": "b-u18-t96-n1",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "type": "single",
@@ -21323,6 +23298,20 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "answer": 1,
     "explanation": "長度是兩端位置之差，73－8＝65 毫米。",
+    "visual": {
+      "kind": "auditRuler",
+      "caption": "非零起點量尺",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "一支鉛筆放在尺上，左端對準 8 毫米，右端對準 73 毫米。小安直接寫長 73 毫米，哪個說明最能修正？",
+      "articleTitle": "",
+      "articleText": "",
+      "unitId": 19,
+      "conceptIndex": null,
+      "start": 8,
+      "end": 73,
+      "max": 80,
+      "examLineArt": false
+    },
     "id": "u19-t99-b",
     "unit": 19,
     "topic": 98,
@@ -21335,7 +23324,11 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u19-t99-b",
-    "visualPolicy": "none"
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "標出鉛筆起終點與毫米刻度，顯示非零起點。"
+    }
   },
   {
     "type": "numeric",
@@ -21362,7 +23355,12 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u19-t99-n1"
+    "family": "b-u19-t99-n1",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "type": "numeric",
@@ -21370,6 +23368,20 @@ window.REVIEW_EXAM_ITEMS=[
     "answer": 79,
     "unitLabel": "毫米",
     "explanation": "47＋38－6＝79 毫米，接合的重疊部分只算一次。",
+    "visual": {
+      "kind": "overlapStrips",
+      "caption": "紙條、繩段或裁切配置",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "兩段細繩分別是 4 公分 7 毫米、3 公分 8 毫米，接在一起後重疊 6 毫米。接好後的總長是多少毫米？",
+      "articleTitle": "",
+      "articleText": "",
+      "unitId": 19,
+      "conceptIndex": null,
+      "a": 47,
+      "b": 38,
+      "overlap": 6,
+      "examLineArt": false
+    },
     "id": "u19-t98-n1",
     "unit": 19,
     "topic": 97,
@@ -21382,7 +23394,11 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u19-t98-n1",
-    "visualPolicy": "none"
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "將重疊或裁切位置畫出來，未知量留問號，不只用數字列表。"
+    }
   },
   {
     "type": "numeric",
@@ -21413,7 +23429,12 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u19-t97-n1"
+    "family": "b-u19-t97-n1",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "type": "numeric",
@@ -21421,6 +23442,21 @@ window.REVIEW_EXAM_ITEMS=[
     "answer": 30,
     "unitLabel": "毫米",
     "explanation": "總長原有 18 公分，接後 15 公分，重疊 3 公分＝30 毫米。",
+    "visual": {
+      "kind": "auditStrips",
+      "caption": "紙條、繩段或裁切配置",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "小組要用 2 條各長 9 公分的紙條接成一條 15 公分長的紙帶，不剪掉任何部分。兩條必須重疊多少毫米？",
+      "articleTitle": "",
+      "articleText": "",
+      "unitId": 19,
+      "conceptIndex": null,
+      "mode": "unknownOverlap",
+      "a": 90,
+      "b": 90,
+      "total": 150,
+      "examLineArt": false
+    },
     "id": "u19-t96-n1",
     "unit": 19,
     "topic": 95,
@@ -21433,7 +23469,11 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u19-t96-n1",
-    "visualPolicy": "none"
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "將重疊或裁切位置畫出來，未知量留問號，不只用數字列表。"
+    }
   },
   {
     "type": "single",
@@ -21458,7 +23498,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u20-t99-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+    }
   },
   {
     "type": "numeric",
@@ -21478,7 +23523,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u20-t99-n1",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+    }
   },
   {
     "type": "numeric",
@@ -21498,7 +23548,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u20-t98-n1",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+    }
   },
   {
     "type": "numeric",
@@ -21533,7 +23588,12 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u20-t97-n1"
+    "family": "b-u20-t97-n1",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "type": "numeric",
@@ -21572,7 +23632,12 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u20-t96-n1"
+    "family": "b-u20-t96-n1",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "type": "single",
@@ -21617,7 +23682,12 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u8-t99-b"
+    "family": "b-u8-t99-b",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "type": "numeric",
@@ -21657,7 +23727,12 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u8-t99-n1"
+    "family": "b-u8-t99-n1",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "type": "numeric",
@@ -21697,7 +23772,12 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u8-t98-n1"
+    "family": "b-u8-t98-n1",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "type": "numeric",
@@ -21737,7 +23817,12 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u8-t97-n1"
+    "family": "b-u8-t97-n1",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "type": "single",
@@ -21782,7 +23867,12 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u8-t98-b"
+    "family": "b-u8-t98-b",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "type": "single",
@@ -21807,7 +23897,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u9-t99-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+    }
   },
   {
     "type": "numeric",
@@ -21827,7 +23922,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u9-t99-n1",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+    }
   },
   {
     "type": "numeric",
@@ -21847,7 +23947,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u9-t98-n1",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+    }
   },
   {
     "type": "numeric",
@@ -21867,7 +23972,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u9-t97-n1",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+    }
   },
   {
     "type": "numeric",
@@ -21887,7 +23997,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u9-t96-n1",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+    }
   },
   {
     "type": "single",
@@ -21928,7 +24043,12 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u10-t99-b"
+    "family": "b-u10-t99-b",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "type": "numeric",
@@ -21952,7 +24072,12 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u10-t99-n1"
+    "family": "b-u10-t99-n1",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "type": "numeric",
@@ -21976,7 +24101,12 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u10-t98-n1"
+    "family": "b-u10-t98-n1",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "type": "numeric",
@@ -22000,7 +24130,12 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u10-t95-n1"
+    "family": "b-u10-t95-n1",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "type": "single",
@@ -22013,6 +24148,17 @@ window.REVIEW_EXAM_ITEMS=[
     ],
     "answer": 1,
     "explanation": "四邊等長可維持菱形特徵；正方形還需四直角，四邊形內角和仍為360。",
+    "visual": {
+      "kind": "rhombus",
+      "caption": "已知條件的幾何圖",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "小組用同樣四根棒子圍出一個四邊形，再推動接點使角度改變，邊長都保持原樣。若四邊原本都等長，哪項判斷仍有充分依據？",
+      "articleTitle": "",
+      "articleText": "",
+      "unitId": 10,
+      "conceptIndex": null,
+      "examLineArt": false
+    },
     "id": "u10-t98-b",
     "unit": 10,
     "topic": 97,
@@ -22025,7 +24171,11 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u10-t98-b",
-    "visualPolicy": "none"
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "標出已知角或邊；不以文字省略幾何關係，也不標待求答案。"
+    }
   },
   {
     "type": "single",
@@ -22050,7 +24200,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u11-t99-b",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+    }
   },
   {
     "type": "numeric",
@@ -22070,7 +24225,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u11-t99-n1",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+    }
   },
   {
     "type": "numeric",
@@ -22078,6 +24238,20 @@ window.REVIEW_EXAM_ITEMS=[
     "answer": 35,
     "unitLabel": "張",
     "explanation": "最大公因數12，84÷12＝7、60÷12＝5，合35。",
+    "visual": {
+      "kind": "auditStrips",
+      "caption": "紙條、繩段或裁切配置",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "長 84 公分、寬 60 公分的紙，切成邊長最大的相同正方形，沒有剩餘。共能切幾張？",
+      "articleTitle": "",
+      "articleText": "",
+      "unitId": 11,
+      "conceptIndex": null,
+      "mode": "rectangleCut",
+      "width": 84,
+      "height": 60,
+      "examLineArt": false
+    },
     "id": "u11-t98-n1",
     "unit": 11,
     "topic": 97,
@@ -22090,7 +24264,11 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u11-t98-n1",
-    "visualPolicy": "none"
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "將重疊或裁切位置畫出來，未知量留問號，不只用數字列表。"
+    }
   },
   {
     "type": "numeric",
@@ -22110,7 +24288,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u11-t97-n1",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+    }
   },
   {
     "type": "numeric",
@@ -22130,7 +24313,12 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "variant": "B",
     "family": "b-u11-t96-n1",
-    "visualPolicy": "none"
+    "visualPolicy": "none",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "純計算或因倍數條件可由題幹完整表達，不需要虛構量測圖。"
+    }
   },
   {
     "type": "single",
@@ -22159,7 +24347,12 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u12-t99-b"
+    "family": "b-u12-t99-b",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "type": "numeric",
@@ -22183,7 +24376,12 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u12-t99-n1"
+    "family": "b-u12-t99-n1",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "type": "numeric",
@@ -22208,7 +24406,12 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u12-t98-n1"
+    "family": "b-u12-t98-n1",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "type": "numeric",
@@ -22233,7 +24436,12 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u12-t97-n1"
+    "family": "b-u12-t97-n1",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "type": "single",
@@ -22262,7 +24470,12 @@ window.REVIEW_EXAM_ITEMS=[
     "sourceType": "B卷依仁美既定範圍改編；公開原卷僅參考題型與設計。新增條件判讀及多步驟應用，非課文或原卷原文。",
     "difficulty": "challenge",
     "variant": "B",
-    "family": "b-u12-t98-b"
+    "family": "b-u12-t98-b",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "id": "u17-t82-n2",
@@ -22296,7 +24509,12 @@ window.REVIEW_EXAM_ITEMS=[
       "M3B"
     ],
     "sourceType": "依三上第 1～4 單元原創命題",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "id": "u18-t83-n2",
@@ -22324,7 +24542,12 @@ window.REVIEW_EXAM_ITEMS=[
       "M3B"
     ],
     "sourceType": "依三上第 1～4 單元原創命題",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "id": "u19-t84-n2",
@@ -22349,7 +24572,12 @@ window.REVIEW_EXAM_ITEMS=[
       "M3B"
     ],
     "sourceType": "依三上第 1～4 單元原創命題",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "id": "u20-t85-n2",
@@ -22377,7 +24605,12 @@ window.REVIEW_EXAM_ITEMS=[
       "M3B"
     ],
     "sourceType": "依三上第 1～4 單元原創命題",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "id": "u19-t86-n2",
@@ -22403,7 +24636,12 @@ window.REVIEW_EXAM_ITEMS=[
       "M3B"
     ],
     "sourceType": "依三上第 1～4 單元原創命題",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "id": "u17-t88-n2",
@@ -22437,7 +24675,12 @@ window.REVIEW_EXAM_ITEMS=[
       "M3B"
     ],
     "sourceType": "依三上第 1～4 單元原創命題",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "id": "u18-t89-n2",
@@ -22465,7 +24708,12 @@ window.REVIEW_EXAM_ITEMS=[
       "M3B"
     ],
     "sourceType": "依三上第 1～4 單元原創命題",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "id": "u19-t90-n2",
@@ -22494,7 +24742,12 @@ window.REVIEW_EXAM_ITEMS=[
       "M3B"
     ],
     "sourceType": "依三上第 1～4 單元原創命題",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "id": "u20-t91-n2",
@@ -22528,7 +24781,12 @@ window.REVIEW_EXAM_ITEMS=[
       "M3B"
     ],
     "sourceType": "依三上第 1～4 單元原創命題",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "id": "u19-t92-n2",
@@ -22561,7 +24819,12 @@ window.REVIEW_EXAM_ITEMS=[
       "M3B"
     ],
     "sourceType": "依三上第 1～4 單元原創命題",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有尺圖、數線、幾何或數量圖已提供題目所需條件，保留已知量與未知量區別。"
+    }
   },
   {
     "id": "u13-t94-b",
@@ -22593,7 +24856,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t201-a",
     "examRevision": 16,
     "examOrigin": "u13-t51-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u13-t93-b",
@@ -22625,7 +24893,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t202-a",
     "examRevision": 16,
     "examOrigin": "u13-t52-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u13-t92-b",
@@ -22657,7 +24930,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t203-a",
     "examRevision": 16,
     "examOrigin": "u13-t53-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u14-t94-b",
@@ -22689,7 +24967,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t201-a",
     "examRevision": 16,
     "examOrigin": "u14-t51-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u14-t93-b",
@@ -22721,7 +25004,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t202-a",
     "examRevision": 16,
     "examOrigin": "u14-t52-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u13-t91-b",
@@ -22753,7 +25041,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t204-a",
     "examRevision": 16,
     "examOrigin": "u13-t54-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u13-t90-b",
@@ -22785,7 +25078,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t205-a",
     "examRevision": 16,
     "examOrigin": "u13-t55-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u14-t92-b",
@@ -22817,7 +25115,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t203-a",
     "examRevision": 16,
     "examOrigin": "u14-t53-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u14-t91-b",
@@ -22849,7 +25152,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t204-a",
     "examRevision": 16,
     "examOrigin": "u14-t54-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u14-t90-b",
@@ -22881,7 +25189,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t205-a",
     "examRevision": 16,
     "examOrigin": "u14-t55-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u13-t89-b",
@@ -22903,7 +25216,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "七點十分，阿禾又在找水壺。他把書包翻了兩遍，最後才發現水壺留在昨天的餐袋裡。走到校門時，早自習已經開始。\n\n放學後，他在門旁貼一張便條，寫下「聯絡簿、水壺、餐袋」。睡前先照便條準備，準備好一項便在旁邊畫記號。隔天早晨，他只再檢查一次，就能準時出門。\n\n星期五，媽媽問他是不是跑得更快了。阿禾笑說：「我沒有跑快，是少找了一次東西。」他把便條留在原位，打算下星期繼續使用。",
     "readingOrder": 1,
     "readingSkill": "擷取細節",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "core",
     "family": "library-chinese-13-0",
@@ -22917,7 +25229,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t221-r1",
     "examRevision": 16,
     "examOrigin": "u13-t63-r1",
-    "variant": "A"
+    "variant": "A",
+    "visual": {
+      "kind": "auditReminder",
+      "caption": "門旁的用品提醒便條",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈早晨少了一場尋找〉第一天阿禾花時間找什麼？",
+      "articleTitle": "早晨少了一場尋找",
+      "articleText": "",
+      "unitId": 13,
+      "conceptIndex": 20,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "便條內容為聯絡簿、水壺、餐袋，搭配實際用品形狀。"
+    }
   },
   {
     "id": "u13-t88-b",
@@ -22939,7 +25267,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "七點十分，阿禾又在找水壺。他把書包翻了兩遍，最後才發現水壺留在昨天的餐袋裡。走到校門時，早自習已經開始。\n\n放學後，他在門旁貼一張便條，寫下「聯絡簿、水壺、餐袋」。睡前先照便條準備，準備好一項便在旁邊畫記號。隔天早晨，他只再檢查一次，就能準時出門。\n\n星期五，媽媽問他是不是跑得更快了。阿禾笑說：「我沒有跑快，是少找了一次東西。」他把便條留在原位，打算下星期繼續使用。",
     "readingOrder": 2,
     "readingSkill": "理解詞句",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "core",
     "family": "library-chinese-13-0",
@@ -22953,7 +25280,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t221-r2",
     "examRevision": 16,
     "examOrigin": "u13-t63-r2",
-    "variant": "A"
+    "variant": "A",
+    "visual": {
+      "kind": "auditReminder",
+      "caption": "門旁的用品提醒便條",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈早晨少了一場尋找〉水壺原本在哪裡？",
+      "articleTitle": "早晨少了一場尋找",
+      "articleText": "",
+      "unitId": 13,
+      "conceptIndex": 20,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "便條內容為聯絡簿、水壺、餐袋，搭配實際用品形狀。"
+    }
   },
   {
     "id": "u13-t87-b",
@@ -22975,7 +25318,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "七點十分，阿禾又在找水壺。他把書包翻了兩遍，最後才發現水壺留在昨天的餐袋裡。走到校門時，早自習已經開始。\n\n放學後，他在門旁貼一張便條，寫下「聯絡簿、水壺、餐袋」。睡前先照便條準備，準備好一項便在旁邊畫記號。隔天早晨，他只再檢查一次，就能準時出門。\n\n星期五，媽媽問他是不是跑得更快了。阿禾笑說：「我沒有跑快，是少找了一次東西。」他把便條留在原位，打算下星期繼續使用。",
     "readingOrder": 3,
     "readingSkill": "因果整合",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "challenge",
     "family": "library-chinese-13-0",
@@ -22989,7 +25331,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t221-r3",
     "examRevision": 16,
     "examOrigin": "u13-t63-r3",
-    "variant": "A"
+    "variant": "A",
+    "visual": {
+      "kind": "auditReminder",
+      "caption": "門旁的用品提醒便條",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈早晨少了一場尋找〉後來的便條主要有什麼作用？",
+      "articleTitle": "早晨少了一場尋找",
+      "articleText": "",
+      "unitId": 13,
+      "conceptIndex": 20,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "便條內容為聯絡簿、水壺、餐袋，搭配實際用品形狀。"
+    }
   },
   {
     "id": "u13-t86-b",
@@ -23025,7 +25383,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t222-r1",
     "examRevision": 16,
     "examOrigin": "u13-t64-r1",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u13-t85-b",
@@ -23061,7 +25424,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t222-r2",
     "examRevision": 16,
     "examOrigin": "u13-t64-r2",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u13-t84-b",
@@ -23097,7 +25465,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t222-r3",
     "examRevision": 16,
     "examOrigin": "u13-t64-r3",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u13-t83-b",
@@ -23119,7 +25492,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "小宇把「星期四帶彩色筆」寫在便條上，貼在書桌底下。到了星期四，他仍空著手進教室，才想起自己根本沒看見那張便條。\n\n回家後，他沒有多寫十張，而是把原來的一張移到鉛筆盒旁。準備書包時，便條正好在視線裡；把彩色筆放進去後，他再取下便條。\n\n下次要帶剪刀時，小宇也用同一個位置。他發現，提醒不只要寫對內容，還要放在會看見、會用到的地方。",
     "readingOrder": 1,
     "readingSkill": "擷取細節",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "core",
     "family": "library-chinese-13-2",
@@ -23133,7 +25505,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t223-r1",
     "examRevision": 16,
     "examOrigin": "u13-t65-r1",
-    "variant": "A"
+    "variant": "A",
+    "visual": {
+      "kind": "auditReminderLocation",
+      "caption": "便條的前後位置",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈不會再掉下來的便條〉第一次便條貼在哪裡？",
+      "articleTitle": "不會再掉下來的便條",
+      "articleText": "",
+      "unitId": 13,
+      "conceptIndex": 22,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "比較書桌底下與鉛筆盒旁，箭頭表示移動而非新增物品。"
+    }
   },
   {
     "id": "u13-t82-b",
@@ -23155,7 +25543,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "小宇把「星期四帶彩色筆」寫在便條上，貼在書桌底下。到了星期四，他仍空著手進教室，才想起自己根本沒看見那張便條。\n\n回家後，他沒有多寫十張，而是把原來的一張移到鉛筆盒旁。準備書包時，便條正好在視線裡；把彩色筆放進去後，他再取下便條。\n\n下次要帶剪刀時，小宇也用同一個位置。他發現，提醒不只要寫對內容，還要放在會看見、會用到的地方。",
     "readingOrder": 2,
     "readingSkill": "理解詞句",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "core",
     "family": "library-chinese-13-2",
@@ -23169,7 +25556,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t223-r2",
     "examRevision": 16,
     "examOrigin": "u13-t65-r2",
-    "variant": "A"
+    "variant": "A",
+    "visual": {
+      "kind": "auditReminderLocation",
+      "caption": "便條的前後位置",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈不會再掉下來的便條〉為什麼寫了便條仍忘記？",
+      "articleTitle": "不會再掉下來的便條",
+      "articleText": "",
+      "unitId": 13,
+      "conceptIndex": 22,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "比較書桌底下與鉛筆盒旁，箭頭表示移動而非新增物品。"
+    }
   },
   {
     "id": "u13-t81-b",
@@ -23191,7 +25594,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "小宇把「星期四帶彩色筆」寫在便條上，貼在書桌底下。到了星期四，他仍空著手進教室，才想起自己根本沒看見那張便條。\n\n回家後，他沒有多寫十張，而是把原來的一張移到鉛筆盒旁。準備書包時，便條正好在視線裡；把彩色筆放進去後，他再取下便條。\n\n下次要帶剪刀時，小宇也用同一個位置。他發現，提醒不只要寫對內容，還要放在會看見、會用到的地方。",
     "readingOrder": 3,
     "readingSkill": "因果整合",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "challenge",
     "family": "library-chinese-13-2",
@@ -23205,7 +25607,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t223-r3",
     "examRevision": 16,
     "examOrigin": "u13-t65-r3",
-    "variant": "A"
+    "variant": "A",
+    "visual": {
+      "kind": "auditReminderLocation",
+      "caption": "便條的前後位置",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈不會再掉下來的便條〉後來他把便條移到哪裡？",
+      "articleTitle": "不會再掉下來的便條",
+      "articleText": "",
+      "unitId": 13,
+      "conceptIndex": 22,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "比較書桌底下與鉛筆盒旁，箭頭表示移動而非新增物品。"
+    }
   },
   {
     "id": "u13-t80-b",
@@ -23227,7 +25645,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "小宇把「星期四帶彩色筆」寫在便條上，貼在書桌底下。到了星期四，他仍空著手進教室，才想起自己根本沒看見那張便條。\n\n回家後，他沒有多寫十張，而是把原來的一張移到鉛筆盒旁。準備書包時，便條正好在視線裡；把彩色筆放進去後，他再取下便條。\n\n下次要帶剪刀時，小宇也用同一個位置。他發現，提醒不只要寫對內容，還要放在會看見、會用到的地方。",
     "readingOrder": 4,
     "readingSkill": "事件順序與應用",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "challenge",
     "family": "library-chinese-13-2",
@@ -23241,7 +25658,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t223-r4",
     "examRevision": 16,
     "examOrigin": "u13-t65-r4",
-    "variant": "A"
+    "variant": "A",
+    "visual": {
+      "kind": "auditReminderLocation",
+      "caption": "便條的前後位置",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈不會再掉下來的便條〉哪個做法最符合後來的方法？",
+      "articleTitle": "不會再掉下來的便條",
+      "articleText": "",
+      "unitId": 13,
+      "conceptIndex": 22,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "比較書桌底下與鉛筆盒旁，箭頭表示移動而非新增物品。"
+    }
   },
   {
     "id": "u14-t89-b",
@@ -23263,7 +25696,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "小安把一張平紙搭在兩本書之間，放上一枚硬幣，紙橋就彎了。他正想再加一張紙，同學卻指著紙扇問：「摺過的紙會不會不一樣？」\n\n小安用相同大小的另一張紙摺出連續折痕，書本距離不變，再放同樣硬幣。這次紙橋沒有立刻彎下。他把兩次的紙張形狀和結果畫在紀錄上。\n\n他沒有說所有紙橋都一定承受得住，而是先寫下這次比較的條件。下次，他想再試試書本距離改變後會怎樣。",
     "readingOrder": 1,
     "readingSkill": "擷取細節",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "core",
     "family": "library-chinese-14-0",
@@ -23277,7 +25709,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t221-r1",
     "examRevision": 16,
     "examOrigin": "u14-t63-r1",
-    "variant": "A"
+    "variant": "A",
+    "visual": {
+      "kind": "auditPaperBridge",
+      "caption": "平紙橋與摺紙橋",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈紙橋第二次站起來〉第一次紙橋發生什麼事？",
+      "articleTitle": "紙橋第二次站起來",
+      "articleText": "",
+      "unitId": 14,
+      "conceptIndex": 20,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "兩側支撐與間距相同、同一枚硬幣，只改變紙形；無承重測量數值。"
+    }
   },
   {
     "id": "u14-t88-b",
@@ -23299,7 +25747,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "小安把一張平紙搭在兩本書之間，放上一枚硬幣，紙橋就彎了。他正想再加一張紙，同學卻指著紙扇問：「摺過的紙會不會不一樣？」\n\n小安用相同大小的另一張紙摺出連續折痕，書本距離不變，再放同樣硬幣。這次紙橋沒有立刻彎下。他把兩次的紙張形狀和結果畫在紀錄上。\n\n他沒有說所有紙橋都一定承受得住，而是先寫下這次比較的條件。下次，他想再試試書本距離改變後會怎樣。",
     "readingOrder": 2,
     "readingSkill": "理解詞句",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "core",
     "family": "library-chinese-14-0",
@@ -23313,7 +25760,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t221-r2",
     "examRevision": 16,
     "examOrigin": "u14-t63-r2",
-    "variant": "A"
+    "variant": "A",
+    "visual": {
+      "kind": "auditPaperBridge",
+      "caption": "平紙橋與摺紙橋",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈紙橋第二次站起來〉同學用什麼提醒他想新方法？",
+      "articleTitle": "紙橋第二次站起來",
+      "articleText": "",
+      "unitId": 14,
+      "conceptIndex": 20,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "兩側支撐與間距相同、同一枚硬幣，只改變紙形；無承重測量數值。"
+    }
   },
   {
     "id": "u14-t87-b",
@@ -23335,7 +25798,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "小安把一張平紙搭在兩本書之間，放上一枚硬幣，紙橋就彎了。他正想再加一張紙，同學卻指著紙扇問：「摺過的紙會不會不一樣？」\n\n小安用相同大小的另一張紙摺出連續折痕，書本距離不變，再放同樣硬幣。這次紙橋沒有立刻彎下。他把兩次的紙張形狀和結果畫在紀錄上。\n\n他沒有說所有紙橋都一定承受得住，而是先寫下這次比較的條件。下次，他想再試試書本距離改變後會怎樣。",
     "readingOrder": 3,
     "readingSkill": "因果整合",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "challenge",
     "family": "library-chinese-14-0",
@@ -23349,7 +25811,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t221-r3",
     "examRevision": 16,
     "examOrigin": "u14-t63-r3",
-    "variant": "A"
+    "variant": "A",
+    "visual": {
+      "kind": "auditPaperBridge",
+      "caption": "平紙橋與摺紙橋",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈紙橋第二次站起來〉第二次主要改變什麼？",
+      "articleTitle": "紙橋第二次站起來",
+      "articleText": "",
+      "unitId": 14,
+      "conceptIndex": 20,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "兩側支撐與間距相同、同一枚硬幣，只改變紙形；無承重測量數值。"
+    }
   },
   {
     "id": "u14-t86-b",
@@ -23371,7 +25849,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "小涵的圓鉛筆常從微斜的桌面滾下。她先用橡皮擦擋住，拿橡皮擦寫別題時，鉛筆又掉了。\n\n她找一張厚紙摺成淺淺的長槽，把鉛筆放在裡面。下課推椅子時，鉛筆仍留在槽裡。小涵把紙槽貼在桌面不妨礙寫字的一側，也留出拿筆空間。\n\n同學問她為什麼不一直用手扶著，她笑說：「寫字時可以拿筆，休息時也該有個放筆的位置。」她的做法解決了鉛筆滾動，也沒有占去整張桌子。",
     "readingOrder": 1,
     "readingSkill": "擷取細節",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "core",
     "family": "library-chinese-14-1",
@@ -23385,7 +25862,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t222-r1",
     "examRevision": 16,
     "examOrigin": "u14-t64-r1",
-    "variant": "A"
+    "variant": "A",
+    "visual": {
+      "kind": "auditPencilTray",
+      "caption": "擋住鉛筆與紙槽放筆",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈鉛筆不再滾下桌〉鉛筆為什麼容易掉下？",
+      "articleTitle": "鉛筆不再滾下桌",
+      "articleText": "",
+      "unitId": 14,
+      "conceptIndex": 21,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "呈現傾斜桌面、圓鉛筆、可移開的橡皮擦及有邊緣的紙槽。"
+    }
   },
   {
     "id": "u14-t85-b",
@@ -23407,7 +25900,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "小涵的圓鉛筆常從微斜的桌面滾下。她先用橡皮擦擋住，拿橡皮擦寫別題時，鉛筆又掉了。\n\n她找一張厚紙摺成淺淺的長槽，把鉛筆放在裡面。下課推椅子時，鉛筆仍留在槽裡。小涵把紙槽貼在桌面不妨礙寫字的一側，也留出拿筆空間。\n\n同學問她為什麼不一直用手扶著，她笑說：「寫字時可以拿筆，休息時也該有個放筆的位置。」她的做法解決了鉛筆滾動，也沒有占去整張桌子。",
     "readingOrder": 2,
     "readingSkill": "理解詞句",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "core",
     "family": "library-chinese-14-1",
@@ -23421,7 +25913,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t222-r2",
     "examRevision": 16,
     "examOrigin": "u14-t64-r2",
-    "variant": "A"
+    "variant": "A",
+    "visual": {
+      "kind": "auditPencilTray",
+      "caption": "擋住鉛筆與紙槽放筆",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈鉛筆不再滾下桌〉最初用什麼擋住鉛筆？",
+      "articleTitle": "鉛筆不再滾下桌",
+      "articleText": "",
+      "unitId": 14,
+      "conceptIndex": 21,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "呈現傾斜桌面、圓鉛筆、可移開的橡皮擦及有邊緣的紙槽。"
+    }
   },
   {
     "id": "u14-t84-b",
@@ -23443,7 +25951,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "小涵的圓鉛筆常從微斜的桌面滾下。她先用橡皮擦擋住，拿橡皮擦寫別題時，鉛筆又掉了。\n\n她找一張厚紙摺成淺淺的長槽，把鉛筆放在裡面。下課推椅子時，鉛筆仍留在槽裡。小涵把紙槽貼在桌面不妨礙寫字的一側，也留出拿筆空間。\n\n同學問她為什麼不一直用手扶著，她笑說：「寫字時可以拿筆，休息時也該有個放筆的位置。」她的做法解決了鉛筆滾動，也沒有占去整張桌子。",
     "readingOrder": 3,
     "readingSkill": "因果整合",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "challenge",
     "family": "library-chinese-14-1",
@@ -23457,7 +25964,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t222-r3",
     "examRevision": 16,
     "examOrigin": "u14-t64-r3",
-    "variant": "A"
+    "variant": "A",
+    "visual": {
+      "kind": "auditPencilTray",
+      "caption": "擋住鉛筆與紙槽放筆",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈鉛筆不再滾下桌〉原先的方法有何困難？",
+      "articleTitle": "鉛筆不再滾下桌",
+      "articleText": "",
+      "unitId": 14,
+      "conceptIndex": 21,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "呈現傾斜桌面、圓鉛筆、可移開的橡皮擦及有邊緣的紙槽。"
+    }
   },
   {
     "id": "u14-t83-b",
@@ -23479,7 +26002,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "校慶海報完成後，小琳把它貼在教室後方。站近時看得清楚，站到門口的同學卻只看見彩色圖案，不知道集合時間。\n\n小琳沒有只把花邊畫得更粗。她把集合時間和地點改成較大的字，減少不必要的裝飾，再請同學站到門口讀一次。這回，同學順利說出兩項資訊。\n\n她把修改前後的海報放在一起，發現美觀之外，公告更要讓需要的人看清楚。下一次，她打算先從遠處檢查，再正式張貼。",
     "readingOrder": 1,
     "readingSkill": "擷取細節",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "core",
     "family": "library-chinese-14-2",
@@ -23493,7 +26015,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t223-r1",
     "examRevision": 16,
     "examOrigin": "u14-t65-r1",
-    "variant": "A"
+    "variant": "A",
+    "visual": {
+      "kind": "auditNoticeSize",
+      "caption": "公告的閱讀距離與字級",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈公告上的小字〉從門口原先看不清什麼？",
+      "articleTitle": "公告上的小字",
+      "articleText": "",
+      "unitId": 14,
+      "conceptIndex": 22,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "將時間地點視為重要資訊，比較小字與放大後的公告；不填入未給的時刻。"
+    }
   },
   {
     "id": "u14-t82-b",
@@ -23515,7 +26053,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "校慶海報完成後，小琳把它貼在教室後方。站近時看得清楚，站到門口的同學卻只看見彩色圖案，不知道集合時間。\n\n小琳沒有只把花邊畫得更粗。她把集合時間和地點改成較大的字，減少不必要的裝飾，再請同學站到門口讀一次。這回，同學順利說出兩項資訊。\n\n她把修改前後的海報放在一起，發現美觀之外，公告更要讓需要的人看清楚。下一次，她打算先從遠處檢查，再正式張貼。",
     "readingOrder": 2,
     "readingSkill": "理解詞句",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "core",
     "family": "library-chinese-14-2",
@@ -23529,7 +26066,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t223-r2",
     "examRevision": 16,
     "examOrigin": "u14-t65-r2",
-    "variant": "A"
+    "variant": "A",
+    "visual": {
+      "kind": "auditNoticeSize",
+      "caption": "公告的閱讀距離與字級",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈公告上的小字〉小琳主要做了什麼修改？",
+      "articleTitle": "公告上的小字",
+      "articleText": "",
+      "unitId": 14,
+      "conceptIndex": 22,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "將時間地點視為重要資訊，比較小字與放大後的公告；不填入未給的時刻。"
+    }
   },
   {
     "id": "u14-t81-b",
@@ -23551,7 +26104,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "校慶海報完成後，小琳把它貼在教室後方。站近時看得清楚，站到門口的同學卻只看見彩色圖案，不知道集合時間。\n\n小琳沒有只把花邊畫得更粗。她把集合時間和地點改成較大的字，減少不必要的裝飾，再請同學站到門口讀一次。這回，同學順利說出兩項資訊。\n\n她把修改前後的海報放在一起，發現美觀之外，公告更要讓需要的人看清楚。下一次，她打算先從遠處檢查，再正式張貼。",
     "readingOrder": 3,
     "readingSkill": "因果整合",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "challenge",
     "family": "library-chinese-14-2",
@@ -23565,7 +26117,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t223-r3",
     "examRevision": 16,
     "examOrigin": "u14-t65-r3",
-    "variant": "A"
+    "variant": "A",
+    "visual": {
+      "kind": "auditNoticeSize",
+      "caption": "公告的閱讀距離與字級",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈公告上的小字〉如何確認修改有效？",
+      "articleTitle": "公告上的小字",
+      "articleText": "",
+      "unitId": 14,
+      "conceptIndex": 22,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "將時間地點視為重要資訊，比較小字與放大後的公告；不填入未給的時刻。"
+    }
   },
   {
     "id": "u14-t80-b",
@@ -23587,7 +26155,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "校慶海報完成後，小琳把它貼在教室後方。站近時看得清楚，站到門口的同學卻只看見彩色圖案，不知道集合時間。\n\n小琳沒有只把花邊畫得更粗。她把集合時間和地點改成較大的字，減少不必要的裝飾，再請同學站到門口讀一次。這回，同學順利說出兩項資訊。\n\n她把修改前後的海報放在一起，發現美觀之外，公告更要讓需要的人看清楚。下一次，她打算先從遠處檢查，再正式張貼。",
     "readingOrder": 4,
     "readingSkill": "事件順序與應用",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "challenge",
     "family": "library-chinese-14-2",
@@ -23601,7 +26168,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t223-r4",
     "examRevision": 16,
     "examOrigin": "u14-t65-r4",
-    "variant": "A"
+    "variant": "A",
+    "visual": {
+      "kind": "auditNoticeSize",
+      "caption": "公告的閱讀距離與字級",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈公告上的小字〉「美觀之外」在文中提醒什麼？",
+      "articleTitle": "公告上的小字",
+      "articleText": "",
+      "unitId": 14,
+      "conceptIndex": 22,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "將時間地點視為重要資訊，比較小字與放大後的公告；不填入未給的時刻。"
+    }
   },
   {
     "unit": 15,
@@ -23633,7 +26216,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u15-t201-a",
     "examRevision": 16,
     "examOrigin": "u15-t51-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 15,
@@ -23665,7 +26253,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u15-t202-a",
     "examRevision": 16,
     "examOrigin": "u15-t52-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 15,
@@ -23697,7 +26290,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u15-t203-a",
     "examRevision": 16,
     "examOrigin": "u15-t53-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 16,
@@ -23729,7 +26327,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u16-t201-a",
     "examRevision": 16,
     "examOrigin": "u16-t51-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 16,
@@ -23761,7 +26364,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u16-t202-a",
     "examRevision": 16,
     "examOrigin": "u16-t52-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 15,
@@ -23793,7 +26401,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u15-t204-a",
     "examRevision": 16,
     "examOrigin": "u15-t54-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 15,
@@ -23825,7 +26438,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u15-t205-a",
     "examRevision": 16,
     "examOrigin": "u15-t55-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 16,
@@ -23863,7 +26481,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u16-t203-a",
     "examRevision": 16,
     "examOrigin": "u16-t53-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "unit": 16,
@@ -23895,7 +26518,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u16-t204-a",
     "examRevision": 16,
     "examOrigin": "u16-t54-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 16,
@@ -23927,7 +26555,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u16-t205-a",
     "examRevision": 16,
     "examOrigin": "u16-t55-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 15,
@@ -23940,7 +26573,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Meet our friends 1〉第一個介紹自己的人是誰？",
@@ -23962,9 +26594,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "找資料",
     "family": "library-english-15-0",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name"
@@ -23980,12 +26612,24 @@ window.REVIEW_EXAM_ITEMS=[
             "Cody"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Meet our friends 1〉第一個介紹自己的人是誰？",
+      "articleTitle": "Meet our friends 1",
+      "articleText": "",
+      "unitId": 15,
+      "conceptIndex": 20,
+      "showAges": false,
+      "examLineArt": false
     },
     "libraryKey": "u15-t221-r1",
     "examRevision": 16,
     "examOrigin": "u15-t63-r1",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 15,
@@ -23998,7 +26642,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Meet our friends 1〉誰回答 Amy 的姓名問題？",
@@ -24020,9 +26663,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "配對資訊",
     "family": "library-english-15-0",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name"
@@ -24038,12 +26681,24 @@ window.REVIEW_EXAM_ITEMS=[
             "Cody"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Meet our friends 1〉誰回答 Amy 的姓名問題？",
+      "articleTitle": "Meet our friends 1",
+      "articleText": "",
+      "unitId": 15,
+      "conceptIndex": 20,
+      "showAges": false,
+      "examLineArt": false
     },
     "libraryKey": "u15-t221-r2",
     "examRevision": 16,
     "examOrigin": "u15-t63-r2",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 15,
@@ -24056,7 +26711,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Meet our friends 1〉Hi, Ben! My name is Cody. 是誰說的？",
@@ -24078,9 +26732,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "句型理解",
     "family": "library-english-15-0",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name"
@@ -24096,12 +26750,24 @@ window.REVIEW_EXAM_ITEMS=[
             "Cody"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Meet our friends 1〉Hi, Ben! My name is Cody. 是誰說的？",
+      "articleTitle": "Meet our friends 1",
+      "articleText": "",
+      "unitId": 15,
+      "conceptIndex": 20,
+      "showAges": false,
+      "examLineArt": false
     },
     "libraryKey": "u15-t221-r3",
     "examRevision": 16,
     "examOrigin": "u15-t63-r3",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 15,
@@ -24114,7 +26780,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Meet our friends 1〉哪組名單與三人介紹一致？",
@@ -24136,9 +26801,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "整合對話",
     "family": "library-english-15-0",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name"
@@ -24154,12 +26819,24 @@ window.REVIEW_EXAM_ITEMS=[
             "Cody"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Meet our friends 1〉哪組名單與三人介紹一致？",
+      "articleTitle": "Meet our friends 1",
+      "articleText": "",
+      "unitId": 15,
+      "conceptIndex": 20,
+      "showAges": false,
+      "examLineArt": false
     },
     "libraryKey": "u15-t221-r4",
     "examRevision": 16,
     "examOrigin": "u15-t63-r4",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 15,
@@ -24172,7 +26849,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Meet our friends 1〉哪句適合回應 Nice to meet you.?",
@@ -24194,9 +26870,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "情境應用",
     "family": "library-english-15-0",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name"
@@ -24212,12 +26888,24 @@ window.REVIEW_EXAM_ITEMS=[
             "Cody"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Meet our friends 1〉哪句適合回應 Nice to meet you.?",
+      "articleTitle": "Meet our friends 1",
+      "articleText": "",
+      "unitId": 15,
+      "conceptIndex": 20,
+      "showAges": false,
+      "examLineArt": false
     },
     "libraryKey": "u15-t221-r5",
     "examRevision": 16,
     "examOrigin": "u15-t63-r5",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 15,
@@ -24230,7 +26918,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Meet our friends 2〉第一個介紹自己的人是誰？",
@@ -24252,9 +26939,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "找資料",
     "family": "library-english-15-1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name"
@@ -24270,12 +26957,24 @@ window.REVIEW_EXAM_ITEMS=[
             "Gina"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Meet our friends 2〉第一個介紹自己的人是誰？",
+      "articleTitle": "Meet our friends 2",
+      "articleText": "",
+      "unitId": 15,
+      "conceptIndex": 21,
+      "showAges": false,
+      "examLineArt": false
     },
     "libraryKey": "u15-t222-r1",
     "examRevision": 16,
     "examOrigin": "u15-t64-r1",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 15,
@@ -24288,7 +26987,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Meet our friends 2〉誰回答 Emma 的姓名問題？",
@@ -24310,9 +27008,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "配對資訊",
     "family": "library-english-15-1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name"
@@ -24328,12 +27026,24 @@ window.REVIEW_EXAM_ITEMS=[
             "Gina"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Meet our friends 2〉誰回答 Emma 的姓名問題？",
+      "articleTitle": "Meet our friends 2",
+      "articleText": "",
+      "unitId": 15,
+      "conceptIndex": 21,
+      "showAges": false,
+      "examLineArt": false
     },
     "libraryKey": "u15-t222-r2",
     "examRevision": 16,
     "examOrigin": "u15-t64-r2",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 15,
@@ -24346,7 +27056,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Meet our friends 2〉Hi, Fred! My name is Gina. 是誰說的？",
@@ -24368,9 +27077,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "句型理解",
     "family": "library-english-15-1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name"
@@ -24386,12 +27095,24 @@ window.REVIEW_EXAM_ITEMS=[
             "Gina"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Meet our friends 2〉Hi, Fred! My name is Gina. 是誰說的？",
+      "articleTitle": "Meet our friends 2",
+      "articleText": "",
+      "unitId": 15,
+      "conceptIndex": 21,
+      "showAges": false,
+      "examLineArt": false
     },
     "libraryKey": "u15-t222-r3",
     "examRevision": 16,
     "examOrigin": "u15-t64-r3",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 15,
@@ -24404,7 +27125,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Meet our friends 2〉哪組名單與三人介紹一致？",
@@ -24426,9 +27146,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "整合對話",
     "family": "library-english-15-1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name"
@@ -24444,12 +27164,24 @@ window.REVIEW_EXAM_ITEMS=[
             "Gina"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Meet our friends 2〉哪組名單與三人介紹一致？",
+      "articleTitle": "Meet our friends 2",
+      "articleText": "",
+      "unitId": 15,
+      "conceptIndex": 21,
+      "showAges": false,
+      "examLineArt": false
     },
     "libraryKey": "u15-t222-r4",
     "examRevision": 16,
     "examOrigin": "u15-t64-r4",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 15,
@@ -24462,7 +27194,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Meet our friends 2〉哪句適合回應 Nice to meet you.?",
@@ -24484,9 +27215,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "情境應用",
     "family": "library-english-15-1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name"
@@ -24502,12 +27233,24 @@ window.REVIEW_EXAM_ITEMS=[
             "Gina"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Meet our friends 2〉哪句適合回應 Nice to meet you.?",
+      "articleTitle": "Meet our friends 2",
+      "articleText": "",
+      "unitId": 15,
+      "conceptIndex": 21,
+      "showAges": false,
+      "examLineArt": false
     },
     "libraryKey": "u15-t222-r5",
     "examRevision": 16,
     "examOrigin": "u15-t64-r5",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 16,
@@ -24520,7 +27263,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Names and ages 1〉Amy 幾歲？",
@@ -24542,9 +27284,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "找資料",
     "family": "library-english-16-0",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name",
@@ -24564,12 +27306,24 @@ window.REVIEW_EXAM_ITEMS=[
             8
           ]
         ]
-      }
+      },
+      "sceneText": "〈Names and ages 1〉Amy 幾歲？",
+      "articleTitle": "Names and ages 1",
+      "articleText": "",
+      "unitId": 16,
+      "conceptIndex": 20,
+      "showAges": true,
+      "examLineArt": false
     },
     "libraryKey": "u16-t221-r1",
     "examRevision": 16,
     "examOrigin": "u16-t63-r1",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 16,
@@ -24582,7 +27336,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Names and ages 1〉誰說 I’m nine years old.?",
@@ -24604,9 +27357,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "配對資訊",
     "family": "library-english-16-0",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name",
@@ -24626,12 +27379,24 @@ window.REVIEW_EXAM_ITEMS=[
             8
           ]
         ]
-      }
+      },
+      "sceneText": "〈Names and ages 1〉誰說 I’m nine years old.?",
+      "articleTitle": "Names and ages 1",
+      "articleText": "",
+      "unitId": 16,
+      "conceptIndex": 20,
+      "showAges": true,
+      "examLineArt": false
     },
     "libraryKey": "u16-t221-r2",
     "examRevision": 16,
     "examOrigin": "u16-t63-r2",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 16,
@@ -24644,7 +27409,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Names and ages 1〉誰向 Cody 說 Nice to meet you?",
@@ -24666,9 +27430,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "句型理解",
     "family": "library-english-16-0",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name",
@@ -24688,12 +27452,24 @@ window.REVIEW_EXAM_ITEMS=[
             8
           ]
         ]
-      }
+      },
+      "sceneText": "〈Names and ages 1〉誰向 Cody 說 Nice to meet you?",
+      "articleTitle": "Names and ages 1",
+      "articleText": "",
+      "unitId": 16,
+      "conceptIndex": 20,
+      "showAges": true,
+      "examLineArt": false
     },
     "libraryKey": "u16-t221-r3",
     "examRevision": 16,
     "examOrigin": "u16-t63-r3",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 16,
@@ -24706,7 +27482,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Names and ages 1〉哪筆姓名年齡資料正確？",
@@ -24728,9 +27503,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "整合對話",
     "family": "library-english-16-0",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name",
@@ -24750,12 +27525,24 @@ window.REVIEW_EXAM_ITEMS=[
             8
           ]
         ]
-      }
+      },
+      "sceneText": "〈Names and ages 1〉哪筆姓名年齡資料正確？",
+      "articleTitle": "Names and ages 1",
+      "articleText": "",
+      "unitId": 16,
+      "conceptIndex": 20,
+      "showAges": true,
+      "examLineArt": false
     },
     "libraryKey": "u16-t221-r4",
     "examRevision": 16,
     "examOrigin": "u16-t63-r4",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 16,
@@ -24768,7 +27555,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Names and ages 1〉How old are you? 是要確認哪項資料？",
@@ -24790,9 +27576,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "情境應用",
     "family": "library-english-16-0",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name",
@@ -24812,12 +27598,24 @@ window.REVIEW_EXAM_ITEMS=[
             8
           ]
         ]
-      }
+      },
+      "sceneText": "〈Names and ages 1〉How old are you? 是要確認哪項資料？",
+      "articleTitle": "Names and ages 1",
+      "articleText": "",
+      "unitId": 16,
+      "conceptIndex": 20,
+      "showAges": true,
+      "examLineArt": false
     },
     "libraryKey": "u16-t221-r5",
     "examRevision": 16,
     "examOrigin": "u16-t63-r5",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 16,
@@ -24830,7 +27628,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Names and ages 2〉Emma 幾歲？",
@@ -24852,9 +27649,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "找資料",
     "family": "library-english-16-1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name",
@@ -24874,12 +27671,24 @@ window.REVIEW_EXAM_ITEMS=[
             8
           ]
         ]
-      }
+      },
+      "sceneText": "〈Names and ages 2〉Emma 幾歲？",
+      "articleTitle": "Names and ages 2",
+      "articleText": "",
+      "unitId": 16,
+      "conceptIndex": 21,
+      "showAges": true,
+      "examLineArt": false
     },
     "libraryKey": "u16-t222-r1",
     "examRevision": 16,
     "examOrigin": "u16-t64-r1",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 16,
@@ -24892,7 +27701,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Names and ages 2〉誰說 I’m nine years old.?",
@@ -24914,9 +27722,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "配對資訊",
     "family": "library-english-16-1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name",
@@ -24936,12 +27744,24 @@ window.REVIEW_EXAM_ITEMS=[
             8
           ]
         ]
-      }
+      },
+      "sceneText": "〈Names and ages 2〉誰說 I’m nine years old.?",
+      "articleTitle": "Names and ages 2",
+      "articleText": "",
+      "unitId": 16,
+      "conceptIndex": 21,
+      "showAges": true,
+      "examLineArt": false
     },
     "libraryKey": "u16-t222-r2",
     "examRevision": 16,
     "examOrigin": "u16-t64-r2",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 16,
@@ -24954,7 +27774,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Names and ages 2〉誰向 Gina 說 Nice to meet you?",
@@ -24976,9 +27795,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "句型理解",
     "family": "library-english-16-1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name",
@@ -24998,12 +27817,24 @@ window.REVIEW_EXAM_ITEMS=[
             8
           ]
         ]
-      }
+      },
+      "sceneText": "〈Names and ages 2〉誰向 Gina 說 Nice to meet you?",
+      "articleTitle": "Names and ages 2",
+      "articleText": "",
+      "unitId": 16,
+      "conceptIndex": 21,
+      "showAges": true,
+      "examLineArt": false
     },
     "libraryKey": "u16-t222-r3",
     "examRevision": 16,
     "examOrigin": "u16-t64-r3",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 16,
@@ -25016,7 +27847,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Names and ages 2〉哪筆姓名年齡資料正確？",
@@ -25038,9 +27868,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "整合對話",
     "family": "library-english-16-1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name",
@@ -25060,12 +27890,24 @@ window.REVIEW_EXAM_ITEMS=[
             8
           ]
         ]
-      }
+      },
+      "sceneText": "〈Names and ages 2〉哪筆姓名年齡資料正確？",
+      "articleTitle": "Names and ages 2",
+      "articleText": "",
+      "unitId": 16,
+      "conceptIndex": 21,
+      "showAges": true,
+      "examLineArt": false
     },
     "libraryKey": "u16-t222-r4",
     "examRevision": 16,
     "examOrigin": "u16-t64-r4",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 16,
@@ -25078,7 +27920,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Names and ages 2〉How old are you? 是要確認哪項資料？",
@@ -25100,9 +27941,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "情境應用",
     "family": "library-english-16-1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name",
@@ -25122,12 +27963,24 @@ window.REVIEW_EXAM_ITEMS=[
             8
           ]
         ]
-      }
+      },
+      "sceneText": "〈Names and ages 2〉How old are you? 是要確認哪項資料？",
+      "articleTitle": "Names and ages 2",
+      "articleText": "",
+      "unitId": 16,
+      "conceptIndex": 21,
+      "showAges": true,
+      "examLineArt": false
     },
     "libraryKey": "u16-t222-r5",
     "examRevision": 16,
     "examOrigin": "u16-t64-r5",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 6,
@@ -25159,7 +28012,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u6-t201-a",
     "examRevision": 16,
     "examOrigin": "u6-t51-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 6,
@@ -25191,7 +28049,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u6-t202-a",
     "examRevision": 16,
     "examOrigin": "u6-t52-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 6,
@@ -25223,7 +28086,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u6-t203-a",
     "examRevision": 16,
     "examOrigin": "u6-t53-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 7,
@@ -25255,7 +28123,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u7-t201-a",
     "examRevision": 16,
     "examOrigin": "u7-t51-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 7,
@@ -25287,7 +28160,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u7-t202-a",
     "examRevision": 16,
     "examOrigin": "u7-t52-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 6,
@@ -25319,7 +28197,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u6-t204-a",
     "examRevision": 16,
     "examOrigin": "u6-t54-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 6,
@@ -25351,7 +28234,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u6-t205-a",
     "examRevision": 16,
     "examOrigin": "u6-t55-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 7,
@@ -25383,7 +28271,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u7-t203-a",
     "examRevision": 16,
     "examOrigin": "u7-t53-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 7,
@@ -25415,7 +28308,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u7-t204-a",
     "examRevision": 16,
     "examOrigin": "u7-t54-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 7,
@@ -25447,7 +28345,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u7-t205-a",
     "examRevision": 16,
     "examOrigin": "u7-t55-a",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 6,
@@ -25460,7 +28363,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Check the drink order 1〉What does Ben like?",
@@ -25482,9 +28384,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "找資料",
     "family": "library-english-6-0",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditDrinkOrders",
+      "caption": "人物與飲料",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Person",
@@ -25508,12 +28410,23 @@ window.REVIEW_EXAM_ITEMS=[
             "milk tea"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Check the drink order 1〉What does Ben like?",
+      "articleTitle": "Check the drink order 1",
+      "articleText": "",
+      "unitId": 6,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u6-t221-r1",
     "examRevision": 16,
     "examOrigin": "u6-t63-r1",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+    }
   },
   {
     "unit": 6,
@@ -25526,7 +28439,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Check the drink order 1〉Who likes water?",
@@ -25548,9 +28460,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "配對資訊",
     "family": "library-english-6-0",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditDrinkOrders",
+      "caption": "人物與飲料",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Person",
@@ -25574,12 +28486,23 @@ window.REVIEW_EXAM_ITEMS=[
             "milk tea"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Check the drink order 1〉Who likes water?",
+      "articleTitle": "Check the drink order 1",
+      "articleText": "",
+      "unitId": 6,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u6-t221-r2",
     "examRevision": 16,
     "examOrigin": "u6-t63-r2",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+    }
   },
   {
     "unit": 6,
@@ -25592,7 +28515,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Check the drink order 2〉What does Fred like?",
@@ -25614,9 +28536,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "找資料",
     "family": "library-english-6-1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditDrinkOrders",
+      "caption": "人物與飲料",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Person",
@@ -25640,12 +28562,23 @@ window.REVIEW_EXAM_ITEMS=[
             "orange juice"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Check the drink order 2〉What does Fred like?",
+      "articleTitle": "Check the drink order 2",
+      "articleText": "",
+      "unitId": 6,
+      "conceptIndex": 21,
+      "examLineArt": false
     },
     "libraryKey": "u6-t222-r1",
     "examRevision": 16,
     "examOrigin": "u6-t64-r1",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+    }
   },
   {
     "unit": 6,
@@ -25658,7 +28591,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Check the drink order 2〉Who likes milk?",
@@ -25680,9 +28612,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "配對資訊",
     "family": "library-english-6-1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditDrinkOrders",
+      "caption": "人物與飲料",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Person",
@@ -25706,12 +28638,23 @@ window.REVIEW_EXAM_ITEMS=[
             "orange juice"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Check the drink order 2〉Who likes milk?",
+      "articleTitle": "Check the drink order 2",
+      "articleText": "",
+      "unitId": 6,
+      "conceptIndex": 21,
+      "examLineArt": false
     },
     "libraryKey": "u6-t222-r2",
     "examRevision": 16,
     "examOrigin": "u6-t64-r2",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+    }
   },
   {
     "unit": 6,
@@ -25724,7 +28667,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Check the drink order 2〉Does Gina’s mom like water?",
@@ -25746,9 +28688,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "句型理解",
     "family": "library-english-6-1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditDrinkOrders",
+      "caption": "人物與飲料",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Person",
@@ -25772,12 +28714,23 @@ window.REVIEW_EXAM_ITEMS=[
             "orange juice"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Check the drink order 2〉Does Gina’s mom like water?",
+      "articleTitle": "Check the drink order 2",
+      "articleText": "",
+      "unitId": 6,
+      "conceptIndex": 21,
+      "examLineArt": false
     },
     "libraryKey": "u6-t222-r3",
     "examRevision": 16,
     "examOrigin": "u6-t64-r3",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+    }
   },
   {
     "unit": 6,
@@ -25790,7 +28743,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Check the drink order 2〉Which order is for Emma?",
@@ -25812,9 +28764,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "整合對話",
     "family": "library-english-6-1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditDrinkOrders",
+      "caption": "人物與飲料",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Person",
@@ -25838,12 +28790,23 @@ window.REVIEW_EXAM_ITEMS=[
             "orange juice"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Check the drink order 2〉Which order is for Emma?",
+      "articleTitle": "Check the drink order 2",
+      "articleText": "",
+      "unitId": 6,
+      "conceptIndex": 21,
+      "examLineArt": false
     },
     "libraryKey": "u6-t222-r4",
     "examRevision": 16,
     "examOrigin": "u6-t64-r4",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+    }
   },
   {
     "unit": 6,
@@ -25856,7 +28819,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Check the drink order 3〉What does May like?",
@@ -25878,9 +28840,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "找資料",
     "family": "library-english-6-2",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditDrinkOrders",
+      "caption": "人物與飲料",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Person",
@@ -25904,12 +28866,23 @@ window.REVIEW_EXAM_ITEMS=[
             "water"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Check the drink order 3〉What does May like?",
+      "articleTitle": "Check the drink order 3",
+      "articleText": "",
+      "unitId": 6,
+      "conceptIndex": 22,
+      "examLineArt": false
     },
     "libraryKey": "u6-t223-r1",
     "examRevision": 16,
     "examOrigin": "u6-t65-r1",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+    }
   },
   {
     "unit": 6,
@@ -25922,7 +28895,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Check the drink order 3〉Who likes milk tea?",
@@ -25944,9 +28916,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "配對資訊",
     "family": "library-english-6-2",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditDrinkOrders",
+      "caption": "人物與飲料",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Person",
@@ -25970,12 +28942,23 @@ window.REVIEW_EXAM_ITEMS=[
             "water"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Check the drink order 3〉Who likes milk tea?",
+      "articleTitle": "Check the drink order 3",
+      "articleText": "",
+      "unitId": 6,
+      "conceptIndex": 22,
+      "examLineArt": false
     },
     "libraryKey": "u6-t223-r2",
     "examRevision": 16,
     "examOrigin": "u6-t65-r2",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+    }
   },
   {
     "unit": 6,
@@ -25988,7 +28971,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Check the drink order 3〉Does Nick’s mom like milk?",
@@ -26010,9 +28992,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "句型理解",
     "family": "library-english-6-2",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditDrinkOrders",
+      "caption": "人物與飲料",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Person",
@@ -26036,12 +29018,23 @@ window.REVIEW_EXAM_ITEMS=[
             "water"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Check the drink order 3〉Does Nick’s mom like milk?",
+      "articleTitle": "Check the drink order 3",
+      "articleText": "",
+      "unitId": 6,
+      "conceptIndex": 22,
+      "examLineArt": false
     },
     "libraryKey": "u6-t223-r3",
     "examRevision": 16,
     "examOrigin": "u6-t65-r3",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+    }
   },
   {
     "unit": 6,
@@ -26054,7 +29047,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Check the drink order 3〉Which order is for Leo?",
@@ -26076,9 +29068,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "整合對話",
     "family": "library-english-6-2",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditDrinkOrders",
+      "caption": "人物與飲料",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Person",
@@ -26102,12 +29094,23 @@ window.REVIEW_EXAM_ITEMS=[
             "water"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Check the drink order 3〉Which order is for Leo?",
+      "articleTitle": "Check the drink order 3",
+      "articleText": "",
+      "unitId": 6,
+      "conceptIndex": 22,
+      "examLineArt": false
     },
     "libraryKey": "u6-t223-r4",
     "examRevision": 16,
     "examOrigin": "u6-t65-r4",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+    }
   },
   {
     "unit": 6,
@@ -26120,7 +29123,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Check the drink order 3〉Why must they check the names in the order?",
@@ -26142,9 +29144,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "情境應用",
     "family": "library-english-6-2",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditDrinkOrders",
+      "caption": "人物與飲料",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Person",
@@ -26168,12 +29170,23 @@ window.REVIEW_EXAM_ITEMS=[
             "water"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Check the drink order 3〉Why must they check the names in the order?",
+      "articleTitle": "Check the drink order 3",
+      "articleText": "",
+      "unitId": 6,
+      "conceptIndex": 22,
+      "examLineArt": false
     },
     "libraryKey": "u6-t223-r5",
     "examRevision": 16,
     "examOrigin": "u6-t65-r5",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+    }
   },
   {
     "unit": 7,
@@ -26186,7 +29199,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Fruit for our salad 1〉How many apples do they need in all?",
@@ -26208,9 +29220,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "找資料",
     "family": "library-english-7-0",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditFruitInventory",
+      "caption": "需求與現有水果",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Fruit",
@@ -26229,12 +29241,23 @@ window.REVIEW_EXAM_ITEMS=[
             2
           ]
         ]
-      }
+      },
+      "sceneText": "〈Fruit for our salad 1〉How many apples do they need in all?",
+      "articleTitle": "Fruit for our salad 1",
+      "articleText": "",
+      "unitId": 7,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u7-t221-r1",
     "examRevision": 16,
     "examOrigin": "u7-t63-r1",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+    }
   },
   {
     "unit": 7,
@@ -26247,7 +29270,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Fruit for our salad 1〉How many more apples do they need at first?",
@@ -26269,9 +29291,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "配對資訊",
     "family": "library-english-7-0",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditFruitInventory",
+      "caption": "需求與現有水果",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Fruit",
@@ -26290,12 +29312,23 @@ window.REVIEW_EXAM_ITEMS=[
             2
           ]
         ]
-      }
+      },
+      "sceneText": "〈Fruit for our salad 1〉How many more apples do they need at first?",
+      "articleTitle": "Fruit for our salad 1",
+      "articleText": "",
+      "unitId": 7,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u7-t221-r2",
     "examRevision": 16,
     "examOrigin": "u7-t63-r2",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+    }
   },
   {
     "unit": 7,
@@ -26308,7 +29341,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Fruit for our salad 1〉Do they need more bananas?",
@@ -26330,9 +29362,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "句型理解",
     "family": "library-english-7-0",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditFruitInventory",
+      "caption": "需求與現有水果",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Fruit",
@@ -26351,12 +29383,23 @@ window.REVIEW_EXAM_ITEMS=[
             2
           ]
         ]
-      }
+      },
+      "sceneText": "〈Fruit for our salad 1〉Do they need more bananas?",
+      "articleTitle": "Fruit for our salad 1",
+      "articleText": "",
+      "unitId": 7,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u7-t221-r3",
     "examRevision": 16,
     "examOrigin": "u7-t63-r3",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+    }
   },
   {
     "unit": 7,
@@ -26369,7 +29412,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Fruit for our salad 1〉Who brings three apples?",
@@ -26391,9 +29433,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "整合對話",
     "family": "library-english-7-0",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditFruitInventory",
+      "caption": "需求與現有水果",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Fruit",
@@ -26412,12 +29454,23 @@ window.REVIEW_EXAM_ITEMS=[
             2
           ]
         ]
-      }
+      },
+      "sceneText": "〈Fruit for our salad 1〉Who brings three apples?",
+      "articleTitle": "Fruit for our salad 1",
+      "articleText": "",
+      "unitId": 7,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u7-t221-r4",
     "examRevision": 16,
     "examOrigin": "u7-t63-r4",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+    }
   },
   {
     "unit": 7,
@@ -26430,7 +29483,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Fruit for our salad 2〉How many apples do they need in all?",
@@ -26452,9 +29504,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "找資料",
     "family": "library-english-7-1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditFruitInventory",
+      "caption": "需求與現有水果",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Fruit",
@@ -26473,12 +29525,23 @@ window.REVIEW_EXAM_ITEMS=[
             3
           ]
         ]
-      }
+      },
+      "sceneText": "〈Fruit for our salad 2〉How many apples do they need in all?",
+      "articleTitle": "Fruit for our salad 2",
+      "articleText": "",
+      "unitId": 7,
+      "conceptIndex": 21,
+      "examLineArt": false
     },
     "libraryKey": "u7-t222-r1",
     "examRevision": 16,
     "examOrigin": "u7-t64-r1",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+    }
   },
   {
     "unit": 7,
@@ -26491,7 +29554,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Fruit for our salad 2〉How many more apples do they need at first?",
@@ -26513,9 +29575,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "配對資訊",
     "family": "library-english-7-1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditFruitInventory",
+      "caption": "需求與現有水果",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Fruit",
@@ -26534,12 +29596,23 @@ window.REVIEW_EXAM_ITEMS=[
             3
           ]
         ]
-      }
+      },
+      "sceneText": "〈Fruit for our salad 2〉How many more apples do they need at first?",
+      "articleTitle": "Fruit for our salad 2",
+      "articleText": "",
+      "unitId": 7,
+      "conceptIndex": 21,
+      "examLineArt": false
     },
     "libraryKey": "u7-t222-r2",
     "examRevision": 16,
     "examOrigin": "u7-t64-r2",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+    }
   },
   {
     "unit": 7,
@@ -26552,7 +29625,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Fruit for our salad 2〉Do they need more bananas?",
@@ -26574,9 +29646,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "句型理解",
     "family": "library-english-7-1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditFruitInventory",
+      "caption": "需求與現有水果",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Fruit",
@@ -26595,12 +29667,23 @@ window.REVIEW_EXAM_ITEMS=[
             3
           ]
         ]
-      }
+      },
+      "sceneText": "〈Fruit for our salad 2〉Do they need more bananas?",
+      "articleTitle": "Fruit for our salad 2",
+      "articleText": "",
+      "unitId": 7,
+      "conceptIndex": 21,
+      "examLineArt": false
     },
     "libraryKey": "u7-t222-r3",
     "examRevision": 16,
     "examOrigin": "u7-t64-r3",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+    }
   },
   {
     "unit": 7,
@@ -26613,7 +29696,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Fruit for our salad 2〉Who brings three apples?",
@@ -26635,9 +29717,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "整合對話",
     "family": "library-english-7-1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditFruitInventory",
+      "caption": "需求與現有水果",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Fruit",
@@ -26656,12 +29738,23 @@ window.REVIEW_EXAM_ITEMS=[
             3
           ]
         ]
-      }
+      },
+      "sceneText": "〈Fruit for our salad 2〉Who brings three apples?",
+      "articleTitle": "Fruit for our salad 2",
+      "articleText": "",
+      "unitId": 7,
+      "conceptIndex": 21,
+      "examLineArt": false
     },
     "libraryKey": "u7-t222-r4",
     "examRevision": 16,
     "examOrigin": "u7-t64-r4",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+    }
   },
   {
     "unit": 7,
@@ -26674,7 +29767,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Fruit for our salad 2〉What do they do before making the salad?",
@@ -26696,9 +29788,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "情境應用",
     "family": "library-english-7-1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditFruitInventory",
+      "caption": "需求與現有水果",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Fruit",
@@ -26717,12 +29809,23 @@ window.REVIEW_EXAM_ITEMS=[
             3
           ]
         ]
-      }
+      },
+      "sceneText": "〈Fruit for our salad 2〉What do they do before making the salad?",
+      "articleTitle": "Fruit for our salad 2",
+      "articleText": "",
+      "unitId": 7,
+      "conceptIndex": 21,
+      "examLineArt": false
     },
     "libraryKey": "u7-t222-r5",
     "examRevision": 16,
     "examOrigin": "u7-t64-r5",
-    "variant": "A"
+    "variant": "A",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+    }
   },
   {
     "id": "u13-t79-b",
@@ -26754,7 +29857,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t206-a",
     "examRevision": 16,
     "examOrigin": "u13-t56-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u13-t78-b",
@@ -26786,7 +29894,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t207-a",
     "examRevision": 16,
     "examOrigin": "u13-t57-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u13-t77-b",
@@ -26818,7 +29931,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t208-a",
     "examRevision": 16,
     "examOrigin": "u13-t58-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u14-t79-b",
@@ -26850,7 +29968,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t206-a",
     "examRevision": 16,
     "examOrigin": "u14-t56-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u14-t78-b",
@@ -26882,7 +30005,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t207-a",
     "examRevision": 16,
     "examOrigin": "u14-t57-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u13-t76-b",
@@ -26914,7 +30042,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t209-a",
     "examRevision": 16,
     "examOrigin": "u13-t59-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u13-t75-b",
@@ -26946,7 +30079,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t210-a",
     "examRevision": 16,
     "examOrigin": "u13-t60-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u14-t77-b",
@@ -26978,7 +30116,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t208-a",
     "examRevision": 16,
     "examOrigin": "u14-t58-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u14-t76-b",
@@ -27010,7 +30153,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t209-a",
     "examRevision": 16,
     "examOrigin": "u14-t59-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u14-t75-b",
@@ -27042,7 +30190,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t210-a",
     "examRevision": 16,
     "examOrigin": "u14-t60-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量語詞、修辭、因果或敘事理解；文中有完整線索，不以裝飾圖替代閱讀。"
+    }
   },
   {
     "id": "u13-t74-b",
@@ -27064,7 +30217,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "合唱練習九點開始，阿安總在九點才走進校門。等他放好水壺、找到座位，大家已經唱完第一遍。他原本覺得自己沒有遲到，卻常接不上老師的指示。\n\n老師請他把「到校」與「準備好開始」分開想。下次他提早十分鐘到，先整理物品，再看今天練習的段落。九點時，他已坐在位置上。\n\n那天結束後，阿安沒有請同學重說第一遍的內容。他在行事曆寫下：開始前的準備，也要算進需要的時間。",
     "readingOrder": 1,
     "readingSkill": "擷取細節",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "core",
     "family": "library-chinese-13-3",
@@ -27078,7 +30230,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t224-r1",
     "examRevision": 16,
     "examOrigin": "u13-t66-r1",
-    "variant": "B"
+    "variant": "B",
+    "visual": {
+      "kind": "auditPracticeTimeline",
+      "caption": "到校與準備好的時間",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈提早到的練習〉練習幾點開始？",
+      "articleTitle": "提早到的練習",
+      "articleText": "",
+      "unitId": 13,
+      "conceptIndex": 23,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "區分 8：50 到校、準備與 9：00 開始，不把兩種時刻混為一談。"
+    }
   },
   {
     "id": "u13-t73-b",
@@ -27100,7 +30268,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "合唱練習九點開始，阿安總在九點才走進校門。等他放好水壺、找到座位，大家已經唱完第一遍。他原本覺得自己沒有遲到，卻常接不上老師的指示。\n\n老師請他把「到校」與「準備好開始」分開想。下次他提早十分鐘到，先整理物品，再看今天練習的段落。九點時，他已坐在位置上。\n\n那天結束後，阿安沒有請同學重說第一遍的內容。他在行事曆寫下：開始前的準備，也要算進需要的時間。",
     "readingOrder": 2,
     "readingSkill": "理解詞句",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "core",
     "family": "library-chinese-13-3",
@@ -27114,7 +30281,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t224-r2",
     "examRevision": 16,
     "examOrigin": "u13-t66-r2",
-    "variant": "B"
+    "variant": "B",
+    "visual": {
+      "kind": "auditPracticeTimeline",
+      "caption": "到校與準備好的時間",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈提早到的練習〉原先阿安九點時在哪個階段？",
+      "articleTitle": "提早到的練習",
+      "articleText": "",
+      "unitId": 13,
+      "conceptIndex": 23,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "區分 8：50 到校、準備與 9：00 開始，不把兩種時刻混為一談。"
+    }
   },
   {
     "id": "u13-t72-b",
@@ -27136,7 +30319,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "合唱練習九點開始，阿安總在九點才走進校門。等他放好水壺、找到座位，大家已經唱完第一遍。他原本覺得自己沒有遲到，卻常接不上老師的指示。\n\n老師請他把「到校」與「準備好開始」分開想。下次他提早十分鐘到，先整理物品，再看今天練習的段落。九點時，他已坐在位置上。\n\n那天結束後，阿安沒有請同學重說第一遍的內容。他在行事曆寫下：開始前的準備，也要算進需要的時間。",
     "readingOrder": 3,
     "readingSkill": "因果整合",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "challenge",
     "family": "library-chinese-13-3",
@@ -27150,7 +30332,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t224-r3",
     "examRevision": 16,
     "examOrigin": "u13-t66-r3",
-    "variant": "B"
+    "variant": "B",
+    "visual": {
+      "kind": "auditPracticeTimeline",
+      "caption": "到校與準備好的時間",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈提早到的練習〉老師請他分清楚哪兩件事？",
+      "articleTitle": "提早到的練習",
+      "articleText": "",
+      "unitId": 13,
+      "conceptIndex": 23,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "區分 8：50 到校、準備與 9：00 開始，不把兩種時刻混為一談。"
+    }
   },
   {
     "id": "u13-t71-b",
@@ -27172,7 +30370,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "合唱練習九點開始，阿安總在九點才走進校門。等他放好水壺、找到座位，大家已經唱完第一遍。他原本覺得自己沒有遲到，卻常接不上老師的指示。\n\n老師請他把「到校」與「準備好開始」分開想。下次他提早十分鐘到，先整理物品，再看今天練習的段落。九點時，他已坐在位置上。\n\n那天結束後，阿安沒有請同學重說第一遍的內容。他在行事曆寫下：開始前的準備，也要算進需要的時間。",
     "readingOrder": 4,
     "readingSkill": "事件順序與應用",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "challenge",
     "family": "library-chinese-13-3",
@@ -27186,7 +30383,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t224-r4",
     "examRevision": 16,
     "examOrigin": "u13-t66-r4",
-    "variant": "B"
+    "variant": "B",
+    "visual": {
+      "kind": "auditPracticeTimeline",
+      "caption": "到校與準備好的時間",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈提早到的練習〉後來有什麼改變？",
+      "articleTitle": "提早到的練習",
+      "articleText": "",
+      "unitId": 13,
+      "conceptIndex": 23,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "區分 8：50 到校、準備與 9：00 開始，不把兩種時刻混為一談。"
+    }
   },
   {
     "id": "u13-t70-b",
@@ -27208,7 +30421,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "合唱練習九點開始，阿安總在九點才走進校門。等他放好水壺、找到座位，大家已經唱完第一遍。他原本覺得自己沒有遲到，卻常接不上老師的指示。\n\n老師請他把「到校」與「準備好開始」分開想。下次他提早十分鐘到，先整理物品，再看今天練習的段落。九點時，他已坐在位置上。\n\n那天結束後，阿安沒有請同學重說第一遍的內容。他在行事曆寫下：開始前的準備，也要算進需要的時間。",
     "readingOrder": 5,
     "readingSkill": "主旨與推論",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "challenge",
     "family": "library-chinese-13-3",
@@ -27222,7 +30434,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t224-r5",
     "examRevision": 16,
     "examOrigin": "u13-t66-r5",
-    "variant": "B"
+    "variant": "B",
+    "visual": {
+      "kind": "auditPracticeTimeline",
+      "caption": "到校與準備好的時間",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈提早到的練習〉行事曆上的話表示他學到什麼？",
+      "articleTitle": "提早到的練習",
+      "articleText": "",
+      "unitId": 13,
+      "conceptIndex": 23,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "區分 8：50 到校、準備與 9：00 開始，不把兩種時刻混為一談。"
+    }
   },
   {
     "id": "u13-t69-b",
@@ -27244,7 +30472,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "班上明天要戶外教學，小蓉寫了兩張表。第一張是要帶的物品，第二張是集合到出發的時間。她原本把所有內容混在一張紙上，查水壺時卻一直看到公車發車時間。\n\n分開後，她先依物品表收拾書包，再依時間表設定鬧鐘。爸爸問她為什麼不只留一張，她說：「我要找什麼，就看哪一張。」\n\n隔天她順利到達集合地點，也把兩張表帶在身邊。老師臨時調整出發時間時，她只修改時間表，不必重寫整份物品清單。",
     "readingOrder": 1,
     "readingSkill": "擷取細節",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "core",
     "family": "library-chinese-13-4",
@@ -27258,7 +30485,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t225-r1",
     "examRevision": 16,
     "examOrigin": "u13-t67-r1",
-    "variant": "B"
+    "variant": "B",
+    "visual": {
+      "kind": "auditTwoLists",
+      "caption": "物品清單與時間安排",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈兩張不一樣的表〉兩張表分別記什麼？",
+      "articleTitle": "兩張不一樣的表",
+      "articleText": "",
+      "unitId": 13,
+      "conceptIndex": 24,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "以兩張用途不同的紙本清單呈現資訊分類，不虛構班車時刻。"
+    }
   },
   {
     "id": "u13-t68-b",
@@ -27280,7 +30523,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "班上明天要戶外教學，小蓉寫了兩張表。第一張是要帶的物品，第二張是集合到出發的時間。她原本把所有內容混在一張紙上，查水壺時卻一直看到公車發車時間。\n\n分開後，她先依物品表收拾書包，再依時間表設定鬧鐘。爸爸問她為什麼不只留一張，她說：「我要找什麼，就看哪一張。」\n\n隔天她順利到達集合地點，也把兩張表帶在身邊。老師臨時調整出發時間時，她只修改時間表，不必重寫整份物品清單。",
     "readingOrder": 2,
     "readingSkill": "理解詞句",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "core",
     "family": "library-chinese-13-4",
@@ -27294,7 +30536,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t225-r2",
     "examRevision": 16,
     "examOrigin": "u13-t67-r2",
-    "variant": "B"
+    "variant": "B",
+    "visual": {
+      "kind": "auditTwoLists",
+      "caption": "物品清單與時間安排",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈兩張不一樣的表〉原先混在一起有什麼困難？",
+      "articleTitle": "兩張不一樣的表",
+      "articleText": "",
+      "unitId": 13,
+      "conceptIndex": 24,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "以兩張用途不同的紙本清單呈現資訊分類，不虛構班車時刻。"
+    }
   },
   {
     "id": "u13-t67-b",
@@ -27316,7 +30574,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "班上明天要戶外教學，小蓉寫了兩張表。第一張是要帶的物品，第二張是集合到出發的時間。她原本把所有內容混在一張紙上，查水壺時卻一直看到公車發車時間。\n\n分開後，她先依物品表收拾書包，再依時間表設定鬧鐘。爸爸問她為什麼不只留一張，她說：「我要找什麼，就看哪一張。」\n\n隔天她順利到達集合地點，也把兩張表帶在身邊。老師臨時調整出發時間時，她只修改時間表，不必重寫整份物品清單。",
     "readingOrder": 3,
     "readingSkill": "因果整合",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "challenge",
     "family": "library-chinese-13-4",
@@ -27330,7 +30587,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t225-r3",
     "examRevision": 16,
     "examOrigin": "u13-t67-r3",
-    "variant": "B"
+    "variant": "B",
+    "visual": {
+      "kind": "auditTwoLists",
+      "caption": "物品清單與時間安排",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈兩張不一樣的表〉她先做哪件事？",
+      "articleTitle": "兩張不一樣的表",
+      "articleText": "",
+      "unitId": 13,
+      "conceptIndex": 24,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "以兩張用途不同的紙本清單呈現資訊分類，不虛構班車時刻。"
+    }
   },
   {
     "id": "u13-t66-b",
@@ -27352,7 +30625,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "班上明天要戶外教學，小蓉寫了兩張表。第一張是要帶的物品，第二張是集合到出發的時間。她原本把所有內容混在一張紙上，查水壺時卻一直看到公車發車時間。\n\n分開後，她先依物品表收拾書包，再依時間表設定鬧鐘。爸爸問她為什麼不只留一張，她說：「我要找什麼，就看哪一張。」\n\n隔天她順利到達集合地點，也把兩張表帶在身邊。老師臨時調整出發時間時，她只修改時間表，不必重寫整份物品清單。",
     "readingOrder": 4,
     "readingSkill": "事件順序與應用",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "challenge",
     "family": "library-chinese-13-4",
@@ -27366,7 +30638,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t225-r4",
     "examRevision": 16,
     "examOrigin": "u13-t67-r4",
-    "variant": "B"
+    "variant": "B",
+    "visual": {
+      "kind": "auditTwoLists",
+      "caption": "物品清單與時間安排",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈兩張不一樣的表〉出發時間改變時，需修改哪張？",
+      "articleTitle": "兩張不一樣的表",
+      "articleText": "",
+      "unitId": 13,
+      "conceptIndex": 24,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "以兩張用途不同的紙本清單呈現資訊分類，不虛構班車時刻。"
+    }
   },
   {
     "id": "u13-t65-b",
@@ -27388,7 +30676,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "班上明天要戶外教學，小蓉寫了兩張表。第一張是要帶的物品，第二張是集合到出發的時間。她原本把所有內容混在一張紙上，查水壺時卻一直看到公車發車時間。\n\n分開後，她先依物品表收拾書包，再依時間表設定鬧鐘。爸爸問她為什麼不只留一張，她說：「我要找什麼，就看哪一張。」\n\n隔天她順利到達集合地點，也把兩張表帶在身邊。老師臨時調整出發時間時，她只修改時間表，不必重寫整份物品清單。",
     "readingOrder": 5,
     "readingSkill": "主旨與推論",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "challenge",
     "family": "library-chinese-13-4",
@@ -27402,7 +30689,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u13-t225-r5",
     "examRevision": 16,
     "examOrigin": "u13-t67-r5",
-    "variant": "B"
+    "variant": "B",
+    "visual": {
+      "kind": "auditTwoLists",
+      "caption": "物品清單與時間安排",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈兩張不一樣的表〉「我要找什麼，就看哪一張」表示什麼？",
+      "articleTitle": "兩張不一樣的表",
+      "articleText": "",
+      "unitId": 13,
+      "conceptIndex": 24,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "以兩張用途不同的紙本清單呈現資訊分類，不虛構班車時刻。"
+    }
   },
   {
     "id": "u14-t74-b",
@@ -27424,7 +30727,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "戶外教學後，桌上擺著四個一樣的藍水壺。小禾伸手拿了一個，卻發現吸管不是自己習慣的款式。他停下來，先看水壺底部。\n\n其中一個底部貼有自己的姓名，另一個卻只有圖案。小禾拿回有姓名的水壺，並提醒同學先辨認標記，不要只看外表顏色。回家後，他又把快脫落的姓名貼換好。\n\n媽媽問他為什麼不只貼最喜歡的圖案。他說：「圖案可能一樣，姓名比較能讓大家知道是誰的。」標記不必很華麗，清楚而牢固才有用。",
     "readingOrder": 1,
     "readingSkill": "擷取細節",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "core",
     "family": "library-chinese-14-3",
@@ -27438,7 +30740,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t224-r1",
     "examRevision": 16,
     "examOrigin": "u14-t66-r1",
-    "variant": "B"
+    "variant": "B",
+    "visual": {
+      "kind": "auditBottleLabels",
+      "caption": "相同外形水壺的標記",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈認得自己的水壺〉桌上水壺有什麼相同處？",
+      "articleTitle": "認得自己的水壺",
+      "articleText": "",
+      "unitId": 14,
+      "conceptIndex": 23,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "四個相同藍水壺，其中一個有小禾姓名；靠標記而非外形辨識。"
+    }
   },
   {
     "id": "u14-t73-b",
@@ -27460,7 +30778,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "戶外教學後，桌上擺著四個一樣的藍水壺。小禾伸手拿了一個，卻發現吸管不是自己習慣的款式。他停下來，先看水壺底部。\n\n其中一個底部貼有自己的姓名，另一個卻只有圖案。小禾拿回有姓名的水壺，並提醒同學先辨認標記，不要只看外表顏色。回家後，他又把快脫落的姓名貼換好。\n\n媽媽問他為什麼不只貼最喜歡的圖案。他說：「圖案可能一樣，姓名比較能讓大家知道是誰的。」標記不必很華麗，清楚而牢固才有用。",
     "readingOrder": 2,
     "readingSkill": "理解詞句",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "core",
     "family": "library-chinese-14-3",
@@ -27474,7 +30791,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t224-r2",
     "examRevision": 16,
     "examOrigin": "u14-t66-r2",
-    "variant": "B"
+    "variant": "B",
+    "visual": {
+      "kind": "auditBottleLabels",
+      "caption": "相同外形水壺的標記",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈認得自己的水壺〉什麼讓小禾停下來確認？",
+      "articleTitle": "認得自己的水壺",
+      "articleText": "",
+      "unitId": 14,
+      "conceptIndex": 23,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "四個相同藍水壺，其中一個有小禾姓名；靠標記而非外形辨識。"
+    }
   },
   {
     "id": "u14-t72-b",
@@ -27496,7 +30829,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "戶外教學後，桌上擺著四個一樣的藍水壺。小禾伸手拿了一個，卻發現吸管不是自己習慣的款式。他停下來，先看水壺底部。\n\n其中一個底部貼有自己的姓名，另一個卻只有圖案。小禾拿回有姓名的水壺，並提醒同學先辨認標記，不要只看外表顏色。回家後，他又把快脫落的姓名貼換好。\n\n媽媽問他為什麼不只貼最喜歡的圖案。他說：「圖案可能一樣，姓名比較能讓大家知道是誰的。」標記不必很華麗，清楚而牢固才有用。",
     "readingOrder": 3,
     "readingSkill": "因果整合",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "challenge",
     "family": "library-chinese-14-3",
@@ -27510,7 +30842,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t224-r3",
     "examRevision": 16,
     "examOrigin": "u14-t66-r3",
-    "variant": "B"
+    "variant": "B",
+    "visual": {
+      "kind": "auditBottleLabels",
+      "caption": "相同外形水壺的標記",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈認得自己的水壺〉最後依什麼拿回水壺？",
+      "articleTitle": "認得自己的水壺",
+      "articleText": "",
+      "unitId": 14,
+      "conceptIndex": 23,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "四個相同藍水壺，其中一個有小禾姓名；靠標記而非外形辨識。"
+    }
   },
   {
     "id": "u14-t71-b",
@@ -27532,7 +30880,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "戶外教學後，桌上擺著四個一樣的藍水壺。小禾伸手拿了一個，卻發現吸管不是自己習慣的款式。他停下來，先看水壺底部。\n\n其中一個底部貼有自己的姓名，另一個卻只有圖案。小禾拿回有姓名的水壺，並提醒同學先辨認標記，不要只看外表顏色。回家後，他又把快脫落的姓名貼換好。\n\n媽媽問他為什麼不只貼最喜歡的圖案。他說：「圖案可能一樣，姓名比較能讓大家知道是誰的。」標記不必很華麗，清楚而牢固才有用。",
     "readingOrder": 4,
     "readingSkill": "事件順序與應用",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "challenge",
     "family": "library-chinese-14-3",
@@ -27546,7 +30893,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t224-r4",
     "examRevision": 16,
     "examOrigin": "u14-t66-r4",
-    "variant": "B"
+    "variant": "B",
+    "visual": {
+      "kind": "auditBottleLabels",
+      "caption": "相同外形水壺的標記",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈認得自己的水壺〉回家後他做什麼？",
+      "articleTitle": "認得自己的水壺",
+      "articleText": "",
+      "unitId": 14,
+      "conceptIndex": 23,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "四個相同藍水壺，其中一個有小禾姓名；靠標記而非外形辨識。"
+    }
   },
   {
     "id": "u14-t70-b",
@@ -27568,7 +30931,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "戶外教學後，桌上擺著四個一樣的藍水壺。小禾伸手拿了一個，卻發現吸管不是自己習慣的款式。他停下來，先看水壺底部。\n\n其中一個底部貼有自己的姓名，另一個卻只有圖案。小禾拿回有姓名的水壺，並提醒同學先辨認標記，不要只看外表顏色。回家後，他又把快脫落的姓名貼換好。\n\n媽媽問他為什麼不只貼最喜歡的圖案。他說：「圖案可能一樣，姓名比較能讓大家知道是誰的。」標記不必很華麗，清楚而牢固才有用。",
     "readingOrder": 5,
     "readingSkill": "主旨與推論",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "challenge",
     "family": "library-chinese-14-3",
@@ -27582,7 +30944,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t224-r5",
     "examRevision": 16,
     "examOrigin": "u14-t66-r5",
-    "variant": "B"
+    "variant": "B",
+    "visual": {
+      "kind": "auditBottleLabels",
+      "caption": "相同外形水壺的標記",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈認得自己的水壺〉「清楚而牢固才有用」強調什麼？",
+      "articleTitle": "認得自己的水壺",
+      "articleText": "",
+      "unitId": 14,
+      "conceptIndex": 23,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "四個相同藍水壺，其中一個有小禾姓名；靠標記而非外形辨識。"
+    }
   },
   {
     "id": "u14-t69-b",
@@ -27604,7 +30982,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "紙工課上，四人小組只有一把剪刀，大家都伸手想拿。紙張推來推去，十分鐘過去，沒有一件作品完成。\n\n小德提議先把紙上輪廓畫好，再輪流剪；等待的人負責摺紙或整理材料。他們把剪刀放在桌上指定位置，交接時先握好安全的一端，不互相拉扯。\n\n下課前，四件作品終於排成一列。大家發現，工具數量沒有增加，但工作順序改了，等待的人也能做別的步驟，整體反而更順利。",
     "readingOrder": 1,
     "readingSkill": "擷取細節",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "core",
     "family": "library-chinese-14-4",
@@ -27618,7 +30995,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t225-r1",
     "examRevision": 16,
     "examOrigin": "u14-t67-r1",
-    "variant": "B"
+    "variant": "B",
+    "visual": {
+      "kind": "auditPaperWorkflow",
+      "caption": "四人的紙工步驟",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈只有一把剪刀〉小組原先有什麼困難？",
+      "articleTitle": "只有一把剪刀",
+      "articleText": "",
+      "unitId": 14,
+      "conceptIndex": 24,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "畫輪廓、輪流剪、等待時摺紙整理，呈現一把剪刀的分配。"
+    }
   },
   {
     "id": "u14-t68-b",
@@ -27640,7 +31033,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "紙工課上，四人小組只有一把剪刀，大家都伸手想拿。紙張推來推去，十分鐘過去，沒有一件作品完成。\n\n小德提議先把紙上輪廓畫好，再輪流剪；等待的人負責摺紙或整理材料。他們把剪刀放在桌上指定位置，交接時先握好安全的一端，不互相拉扯。\n\n下課前，四件作品終於排成一列。大家發現，工具數量沒有增加，但工作順序改了，等待的人也能做別的步驟，整體反而更順利。",
     "readingOrder": 2,
     "readingSkill": "理解詞句",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "core",
     "family": "library-chinese-14-4",
@@ -27654,7 +31046,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t225-r2",
     "examRevision": 16,
     "examOrigin": "u14-t67-r2",
-    "variant": "B"
+    "variant": "B",
+    "visual": {
+      "kind": "auditPaperWorkflow",
+      "caption": "四人的紙工步驟",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈只有一把剪刀〉小德先建議什麼？",
+      "articleTitle": "只有一把剪刀",
+      "articleText": "",
+      "unitId": 14,
+      "conceptIndex": 24,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "畫輪廓、輪流剪、等待時摺紙整理，呈現一把剪刀的分配。"
+    }
   },
   {
     "id": "u14-t67-b",
@@ -27676,7 +31084,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "紙工課上，四人小組只有一把剪刀，大家都伸手想拿。紙張推來推去，十分鐘過去，沒有一件作品完成。\n\n小德提議先把紙上輪廓畫好，再輪流剪；等待的人負責摺紙或整理材料。他們把剪刀放在桌上指定位置，交接時先握好安全的一端，不互相拉扯。\n\n下課前，四件作品終於排成一列。大家發現，工具數量沒有增加，但工作順序改了，等待的人也能做別的步驟，整體反而更順利。",
     "readingOrder": 3,
     "readingSkill": "因果整合",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "challenge",
     "family": "library-chinese-14-4",
@@ -27690,7 +31097,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t225-r3",
     "examRevision": 16,
     "examOrigin": "u14-t67-r3",
-    "variant": "B"
+    "variant": "B",
+    "visual": {
+      "kind": "auditPaperWorkflow",
+      "caption": "四人的紙工步驟",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈只有一把剪刀〉等待的人做什麼？",
+      "articleTitle": "只有一把剪刀",
+      "articleText": "",
+      "unitId": 14,
+      "conceptIndex": 24,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "畫輪廓、輪流剪、等待時摺紙整理，呈現一把剪刀的分配。"
+    }
   },
   {
     "id": "u14-t66-b",
@@ -27712,7 +31135,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "紙工課上，四人小組只有一把剪刀，大家都伸手想拿。紙張推來推去，十分鐘過去，沒有一件作品完成。\n\n小德提議先把紙上輪廓畫好，再輪流剪；等待的人負責摺紙或整理材料。他們把剪刀放在桌上指定位置，交接時先握好安全的一端，不互相拉扯。\n\n下課前，四件作品終於排成一列。大家發現，工具數量沒有增加，但工作順序改了，等待的人也能做別的步驟，整體反而更順利。",
     "readingOrder": 4,
     "readingSkill": "事件順序與應用",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "challenge",
     "family": "library-chinese-14-4",
@@ -27726,7 +31148,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t225-r4",
     "examRevision": 16,
     "examOrigin": "u14-t67-r4",
-    "variant": "B"
+    "variant": "B",
+    "visual": {
+      "kind": "auditPaperWorkflow",
+      "caption": "四人的紙工步驟",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈只有一把剪刀〉工具數量有增加嗎？",
+      "articleTitle": "只有一把剪刀",
+      "articleText": "",
+      "unitId": 14,
+      "conceptIndex": 24,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "畫輪廓、輪流剪、等待時摺紙整理，呈現一把剪刀的分配。"
+    }
   },
   {
     "id": "u14-t65-b",
@@ -27748,7 +31186,6 @@ window.REVIEW_EXAM_ITEMS=[
     "passage": "紙工課上，四人小組只有一把剪刀，大家都伸手想拿。紙張推來推去，十分鐘過去，沒有一件作品完成。\n\n小德提議先把紙上輪廓畫好，再輪流剪；等待的人負責摺紙或整理材料。他們把剪刀放在桌上指定位置，交接時先握好安全的一端，不互相拉扯。\n\n下課前，四件作品終於排成一列。大家發現，工具數量沒有增加，但工作順序改了，等待的人也能做別的步驟，整體反而更順利。",
     "readingOrder": 5,
     "readingSkill": "主旨與推論",
-    "visualPolicy": "none",
     "revision": 16,
     "difficulty": "challenge",
     "family": "library-chinese-14-4",
@@ -27762,7 +31199,23 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u14-t225-r5",
     "examRevision": 16,
     "examOrigin": "u14-t67-r5",
-    "variant": "B"
+    "variant": "B",
+    "visual": {
+      "kind": "auditPaperWorkflow",
+      "caption": "四人的紙工步驟",
+      "description": "依題目條件繪製的示意圖；請觀察圖中的物體與配置。",
+      "sceneText": "〈只有一把剪刀〉哪項最能說明成功原因？",
+      "articleTitle": "只有一把剪刀",
+      "articleText": "",
+      "unitId": 14,
+      "conceptIndex": 24,
+      "examLineArt": false
+    },
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "畫輪廓、輪流剪、等待時摺紙整理，呈現一把剪刀的分配。"
+    }
   },
   {
     "unit": 15,
@@ -27794,7 +31247,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u15-t206-a",
     "examRevision": 16,
     "examOrigin": "u15-t56-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 15,
@@ -27826,7 +31284,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u15-t207-a",
     "examRevision": 16,
     "examOrigin": "u15-t57-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 15,
@@ -27858,7 +31321,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u15-t208-a",
     "examRevision": 16,
     "examOrigin": "u15-t58-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 16,
@@ -27890,7 +31358,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u16-t206-a",
     "examRevision": 16,
     "examOrigin": "u16-t56-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 16,
@@ -27922,7 +31395,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u16-t207-a",
     "examRevision": 16,
     "examOrigin": "u16-t57-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 15,
@@ -27954,7 +31432,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u15-t209-a",
     "examRevision": 16,
     "examOrigin": "u15-t59-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 15,
@@ -27986,7 +31469,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u15-t210-a",
     "examRevision": 16,
     "examOrigin": "u15-t60-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 16,
@@ -28018,7 +31506,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u16-t208-a",
     "examRevision": 16,
     "examOrigin": "u16-t58-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 16,
@@ -28050,7 +31543,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u16-t209-a",
     "examRevision": 16,
     "examOrigin": "u16-t59-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 16,
@@ -28082,7 +31580,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u16-t210-a",
     "examRevision": 16,
     "examOrigin": "u16-t60-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 15,
@@ -28095,7 +31598,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Meet our friends 3〉第一個介紹自己的人是誰？",
@@ -28117,9 +31619,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "找資料",
     "family": "library-english-15-2",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name"
@@ -28135,12 +31637,24 @@ window.REVIEW_EXAM_ITEMS=[
             "Nick"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Meet our friends 3〉第一個介紹自己的人是誰？",
+      "articleTitle": "Meet our friends 3",
+      "articleText": "",
+      "unitId": 15,
+      "conceptIndex": 22,
+      "showAges": false,
+      "examLineArt": false
     },
     "libraryKey": "u15-t223-r1",
     "examRevision": 16,
     "examOrigin": "u15-t65-r1",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 15,
@@ -28153,7 +31667,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Meet our friends 3〉誰回答 Leo 的姓名問題？",
@@ -28175,9 +31688,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "配對資訊",
     "family": "library-english-15-2",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name"
@@ -28193,12 +31706,24 @@ window.REVIEW_EXAM_ITEMS=[
             "Nick"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Meet our friends 3〉誰回答 Leo 的姓名問題？",
+      "articleTitle": "Meet our friends 3",
+      "articleText": "",
+      "unitId": 15,
+      "conceptIndex": 22,
+      "showAges": false,
+      "examLineArt": false
     },
     "libraryKey": "u15-t223-r2",
     "examRevision": 16,
     "examOrigin": "u15-t65-r2",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 15,
@@ -28211,7 +31736,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Meet our friends 3〉Hi, May! My name is Nick. 是誰說的？",
@@ -28233,9 +31757,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "句型理解",
     "family": "library-english-15-2",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name"
@@ -28251,12 +31775,24 @@ window.REVIEW_EXAM_ITEMS=[
             "Nick"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Meet our friends 3〉Hi, May! My name is Nick. 是誰說的？",
+      "articleTitle": "Meet our friends 3",
+      "articleText": "",
+      "unitId": 15,
+      "conceptIndex": 22,
+      "showAges": false,
+      "examLineArt": false
     },
     "libraryKey": "u15-t223-r3",
     "examRevision": 16,
     "examOrigin": "u15-t65-r3",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 15,
@@ -28269,7 +31805,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Meet our friends 3〉哪組名單與三人介紹一致？",
@@ -28291,9 +31826,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "整合對話",
     "family": "library-english-15-2",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name"
@@ -28309,12 +31844,24 @@ window.REVIEW_EXAM_ITEMS=[
             "Nick"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Meet our friends 3〉哪組名單與三人介紹一致？",
+      "articleTitle": "Meet our friends 3",
+      "articleText": "",
+      "unitId": 15,
+      "conceptIndex": 22,
+      "showAges": false,
+      "examLineArt": false
     },
     "libraryKey": "u15-t223-r4",
     "examRevision": 16,
     "examOrigin": "u15-t65-r4",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 15,
@@ -28327,7 +31874,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Meet our friends 3〉哪句適合回應 Nice to meet you.?",
@@ -28349,9 +31895,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "情境應用",
     "family": "library-english-15-2",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name"
@@ -28367,12 +31913,24 @@ window.REVIEW_EXAM_ITEMS=[
             "Nick"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Meet our friends 3〉哪句適合回應 Nice to meet you.?",
+      "articleTitle": "Meet our friends 3",
+      "articleText": "",
+      "unitId": 15,
+      "conceptIndex": 22,
+      "showAges": false,
+      "examLineArt": false
     },
     "libraryKey": "u15-t223-r5",
     "examRevision": 16,
     "examOrigin": "u15-t65-r5",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 15,
@@ -28385,7 +31943,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Meet our friends 4〉第一個介紹自己的人是誰？",
@@ -28407,9 +31964,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "找資料",
     "family": "library-english-15-3",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name"
@@ -28425,12 +31982,24 @@ window.REVIEW_EXAM_ITEMS=[
             "Mia"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Meet our friends 4〉第一個介紹自己的人是誰？",
+      "articleTitle": "Meet our friends 4",
+      "articleText": "",
+      "unitId": 15,
+      "conceptIndex": 23,
+      "showAges": false,
+      "examLineArt": false
     },
     "libraryKey": "u15-t224-r1",
     "examRevision": 16,
     "examOrigin": "u15-t66-r1",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 15,
@@ -28443,7 +32012,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Meet our friends 4〉誰回答 Tina 的姓名問題？",
@@ -28465,9 +32033,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "配對資訊",
     "family": "library-english-15-3",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name"
@@ -28483,12 +32051,24 @@ window.REVIEW_EXAM_ITEMS=[
             "Mia"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Meet our friends 4〉誰回答 Tina 的姓名問題？",
+      "articleTitle": "Meet our friends 4",
+      "articleText": "",
+      "unitId": 15,
+      "conceptIndex": 23,
+      "showAges": false,
+      "examLineArt": false
     },
     "libraryKey": "u15-t224-r2",
     "examRevision": 16,
     "examOrigin": "u15-t66-r2",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 15,
@@ -28501,7 +32081,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Meet our friends 4〉Hi, Tom! My name is Mia. 是誰說的？",
@@ -28523,9 +32102,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "句型理解",
     "family": "library-english-15-3",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name"
@@ -28541,12 +32120,24 @@ window.REVIEW_EXAM_ITEMS=[
             "Mia"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Meet our friends 4〉Hi, Tom! My name is Mia. 是誰說的？",
+      "articleTitle": "Meet our friends 4",
+      "articleText": "",
+      "unitId": 15,
+      "conceptIndex": 23,
+      "showAges": false,
+      "examLineArt": false
     },
     "libraryKey": "u15-t224-r3",
     "examRevision": 16,
     "examOrigin": "u15-t66-r3",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 15,
@@ -28559,7 +32150,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Meet our friends 4〉哪組名單與三人介紹一致？",
@@ -28581,9 +32171,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "整合對話",
     "family": "library-english-15-3",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name"
@@ -28599,12 +32189,24 @@ window.REVIEW_EXAM_ITEMS=[
             "Mia"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Meet our friends 4〉哪組名單與三人介紹一致？",
+      "articleTitle": "Meet our friends 4",
+      "articleText": "",
+      "unitId": 15,
+      "conceptIndex": 23,
+      "showAges": false,
+      "examLineArt": false
     },
     "libraryKey": "u15-t224-r4",
     "examRevision": 16,
     "examOrigin": "u15-t66-r4",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 15,
@@ -28617,7 +32219,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Meet our friends 4〉哪句適合回應 Nice to meet you.?",
@@ -28639,9 +32240,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "情境應用",
     "family": "library-english-15-3",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name"
@@ -28657,12 +32258,24 @@ window.REVIEW_EXAM_ITEMS=[
             "Mia"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Meet our friends 4〉哪句適合回應 Nice to meet you.?",
+      "articleTitle": "Meet our friends 4",
+      "articleText": "",
+      "unitId": 15,
+      "conceptIndex": 23,
+      "showAges": false,
+      "examLineArt": false
     },
     "libraryKey": "u15-t224-r5",
     "examRevision": 16,
     "examOrigin": "u15-t66-r5",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 16,
@@ -28675,7 +32288,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Names and ages 3〉Leo 幾歲？",
@@ -28697,9 +32309,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "找資料",
     "family": "library-english-16-2",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name",
@@ -28719,12 +32331,24 @@ window.REVIEW_EXAM_ITEMS=[
             8
           ]
         ]
-      }
+      },
+      "sceneText": "〈Names and ages 3〉Leo 幾歲？",
+      "articleTitle": "Names and ages 3",
+      "articleText": "",
+      "unitId": 16,
+      "conceptIndex": 22,
+      "showAges": true,
+      "examLineArt": false
     },
     "libraryKey": "u16-t223-r1",
     "examRevision": 16,
     "examOrigin": "u16-t65-r1",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 16,
@@ -28737,7 +32361,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Names and ages 3〉誰說 I’m nine years old.?",
@@ -28759,9 +32382,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "配對資訊",
     "family": "library-english-16-2",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name",
@@ -28781,12 +32404,24 @@ window.REVIEW_EXAM_ITEMS=[
             8
           ]
         ]
-      }
+      },
+      "sceneText": "〈Names and ages 3〉誰說 I’m nine years old.?",
+      "articleTitle": "Names and ages 3",
+      "articleText": "",
+      "unitId": 16,
+      "conceptIndex": 22,
+      "showAges": true,
+      "examLineArt": false
     },
     "libraryKey": "u16-t223-r2",
     "examRevision": 16,
     "examOrigin": "u16-t65-r2",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 16,
@@ -28799,7 +32434,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Names and ages 3〉誰向 Nick 說 Nice to meet you?",
@@ -28821,9 +32455,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "句型理解",
     "family": "library-english-16-2",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name",
@@ -28843,12 +32477,24 @@ window.REVIEW_EXAM_ITEMS=[
             8
           ]
         ]
-      }
+      },
+      "sceneText": "〈Names and ages 3〉誰向 Nick 說 Nice to meet you?",
+      "articleTitle": "Names and ages 3",
+      "articleText": "",
+      "unitId": 16,
+      "conceptIndex": 22,
+      "showAges": true,
+      "examLineArt": false
     },
     "libraryKey": "u16-t223-r3",
     "examRevision": 16,
     "examOrigin": "u16-t65-r3",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 16,
@@ -28861,7 +32507,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Names and ages 3〉哪筆姓名年齡資料正確？",
@@ -28883,9 +32528,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "整合對話",
     "family": "library-english-16-2",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name",
@@ -28905,12 +32550,24 @@ window.REVIEW_EXAM_ITEMS=[
             8
           ]
         ]
-      }
+      },
+      "sceneText": "〈Names and ages 3〉哪筆姓名年齡資料正確？",
+      "articleTitle": "Names and ages 3",
+      "articleText": "",
+      "unitId": 16,
+      "conceptIndex": 22,
+      "showAges": true,
+      "examLineArt": false
     },
     "libraryKey": "u16-t223-r4",
     "examRevision": 16,
     "examOrigin": "u16-t65-r4",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 16,
@@ -28923,7 +32580,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Names and ages 3〉How old are you? 是要確認哪項資料？",
@@ -28945,9 +32601,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "情境應用",
     "family": "library-english-16-2",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name",
@@ -28967,12 +32623,24 @@ window.REVIEW_EXAM_ITEMS=[
             8
           ]
         ]
-      }
+      },
+      "sceneText": "〈Names and ages 3〉How old are you? 是要確認哪項資料？",
+      "articleTitle": "Names and ages 3",
+      "articleText": "",
+      "unitId": 16,
+      "conceptIndex": 22,
+      "showAges": true,
+      "examLineArt": false
     },
     "libraryKey": "u16-t223-r5",
     "examRevision": 16,
     "examOrigin": "u16-t65-r5",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 16,
@@ -28985,7 +32653,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Names and ages 4〉Tina 幾歲？",
@@ -29007,9 +32674,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "找資料",
     "family": "library-english-16-3",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name",
@@ -29029,12 +32696,24 @@ window.REVIEW_EXAM_ITEMS=[
             8
           ]
         ]
-      }
+      },
+      "sceneText": "〈Names and ages 4〉Tina 幾歲？",
+      "articleTitle": "Names and ages 4",
+      "articleText": "",
+      "unitId": 16,
+      "conceptIndex": 23,
+      "showAges": true,
+      "examLineArt": false
     },
     "libraryKey": "u16-t224-r1",
     "examRevision": 16,
     "examOrigin": "u16-t66-r1",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 16,
@@ -29047,7 +32726,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Names and ages 4〉誰說 I’m nine years old.?",
@@ -29069,9 +32747,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "配對資訊",
     "family": "library-english-16-3",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name",
@@ -29091,12 +32769,24 @@ window.REVIEW_EXAM_ITEMS=[
             8
           ]
         ]
-      }
+      },
+      "sceneText": "〈Names and ages 4〉誰說 I’m nine years old.?",
+      "articleTitle": "Names and ages 4",
+      "articleText": "",
+      "unitId": 16,
+      "conceptIndex": 23,
+      "showAges": true,
+      "examLineArt": false
     },
     "libraryKey": "u16-t224-r2",
     "examRevision": 16,
     "examOrigin": "u16-t66-r2",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 16,
@@ -29109,7 +32799,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Names and ages 4〉誰向 Mia 說 Nice to meet you?",
@@ -29131,9 +32820,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "句型理解",
     "family": "library-english-16-3",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name",
@@ -29153,12 +32842,24 @@ window.REVIEW_EXAM_ITEMS=[
             8
           ]
         ]
-      }
+      },
+      "sceneText": "〈Names and ages 4〉誰向 Mia 說 Nice to meet you?",
+      "articleTitle": "Names and ages 4",
+      "articleText": "",
+      "unitId": 16,
+      "conceptIndex": 23,
+      "showAges": true,
+      "examLineArt": false
     },
     "libraryKey": "u16-t224-r3",
     "examRevision": 16,
     "examOrigin": "u16-t66-r3",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 16,
@@ -29171,7 +32872,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Names and ages 4〉哪筆姓名年齡資料正確？",
@@ -29193,9 +32893,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "整合對話",
     "family": "library-english-16-3",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name",
@@ -29215,12 +32915,24 @@ window.REVIEW_EXAM_ITEMS=[
             8
           ]
         ]
-      }
+      },
+      "sceneText": "〈Names and ages 4〉哪筆姓名年齡資料正確？",
+      "articleTitle": "Names and ages 4",
+      "articleText": "",
+      "unitId": 16,
+      "conceptIndex": 23,
+      "showAges": true,
+      "examLineArt": false
     },
     "libraryKey": "u16-t224-r4",
     "examRevision": 16,
     "examOrigin": "u16-t66-r4",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 16,
@@ -29233,7 +32945,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Names and ages 4〉How old are you? 是要確認哪項資料？",
@@ -29255,9 +32966,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "情境應用",
     "family": "library-english-16-3",
     "visual": {
-      "kind": "referenceData",
-      "caption": "對話資料卡",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditPeopleCards",
+      "caption": "人物、姓名與年齡",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Name",
@@ -29277,12 +32988,24 @@ window.REVIEW_EXAM_ITEMS=[
             8
           ]
         ]
-      }
+      },
+      "sceneText": "〈Names and ages 4〉How old are you? 是要確認哪項資料？",
+      "articleTitle": "Names and ages 4",
+      "articleText": "",
+      "unitId": 16,
+      "conceptIndex": 23,
+      "showAges": true,
+      "examLineArt": false
     },
     "libraryKey": "u16-t224-r5",
     "examRevision": 16,
     "examOrigin": "u16-t66-r5",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "人物胸前姓名牌與生日數字搭配對話，替代表格單獨承擔人物辨識。"
+    }
   },
   {
     "unit": 6,
@@ -29314,7 +33037,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u6-t206-a",
     "examRevision": 16,
     "examOrigin": "u6-t56-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 6,
@@ -29346,7 +33074,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u6-t207-a",
     "examRevision": 16,
     "examOrigin": "u6-t57-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 6,
@@ -29378,7 +33111,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u6-t208-a",
     "examRevision": 16,
     "examOrigin": "u6-t58-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 7,
@@ -29421,7 +33159,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u7-t206-a",
     "examRevision": 16,
     "examOrigin": "u7-t56-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "既有圖已呈現原文所需的構造、器材或位置，未改為通用插畫。"
+    }
   },
   {
     "unit": 7,
@@ -29453,7 +33196,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u7-t207-a",
     "examRevision": 16,
     "examOrigin": "u7-t57-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 6,
@@ -29485,7 +33233,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u6-t209-a",
     "examRevision": 16,
     "examOrigin": "u6-t59-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 6,
@@ -29517,7 +33270,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u6-t210-a",
     "examRevision": 16,
     "examOrigin": "u6-t60-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 7,
@@ -29549,7 +33307,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u7-t208-a",
     "examRevision": 16,
     "examOrigin": "u7-t58-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 7,
@@ -29581,7 +33344,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u7-t209-a",
     "examRevision": 16,
     "examOrigin": "u7-t59-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 7,
@@ -29613,7 +33381,12 @@ window.REVIEW_EXAM_ITEMS=[
     "libraryKey": "u7-t210-a",
     "examRevision": 16,
     "examOrigin": "u7-t60-a",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "文字作答適當",
+      "reason": "測量單字、數字、句型或語法，已提供必要文字，不需用圖直接提示答案。"
+    }
   },
   {
     "unit": 6,
@@ -29626,7 +33399,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Check the drink order 4〉What does Tom like?",
@@ -29648,9 +33420,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "找資料",
     "family": "library-english-6-3",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditDrinkOrders",
+      "caption": "人物與飲料",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Person",
@@ -29674,12 +33446,23 @@ window.REVIEW_EXAM_ITEMS=[
             "milk"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Check the drink order 4〉What does Tom like?",
+      "articleTitle": "Check the drink order 4",
+      "articleText": "",
+      "unitId": 6,
+      "conceptIndex": 23,
+      "examLineArt": false
     },
     "libraryKey": "u6-t224-r1",
     "examRevision": 16,
     "examOrigin": "u6-t66-r1",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+    }
   },
   {
     "unit": 6,
@@ -29692,7 +33475,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Check the drink order 4〉Who likes orange juice?",
@@ -29714,9 +33496,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "配對資訊",
     "family": "library-english-6-3",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditDrinkOrders",
+      "caption": "人物與飲料",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Person",
@@ -29740,12 +33522,23 @@ window.REVIEW_EXAM_ITEMS=[
             "milk"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Check the drink order 4〉Who likes orange juice?",
+      "articleTitle": "Check the drink order 4",
+      "articleText": "",
+      "unitId": 6,
+      "conceptIndex": 23,
+      "examLineArt": false
     },
     "libraryKey": "u6-t224-r2",
     "examRevision": 16,
     "examOrigin": "u6-t66-r2",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+    }
   },
   {
     "unit": 6,
@@ -29758,7 +33551,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Check the drink order 4〉Does Mia’s mom like milk tea?",
@@ -29780,9 +33572,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "句型理解",
     "family": "library-english-6-3",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditDrinkOrders",
+      "caption": "人物與飲料",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Person",
@@ -29806,12 +33598,23 @@ window.REVIEW_EXAM_ITEMS=[
             "milk"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Check the drink order 4〉Does Mia’s mom like milk tea?",
+      "articleTitle": "Check the drink order 4",
+      "articleText": "",
+      "unitId": 6,
+      "conceptIndex": 23,
+      "examLineArt": false
     },
     "libraryKey": "u6-t224-r3",
     "examRevision": 16,
     "examOrigin": "u6-t66-r3",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+    }
   },
   {
     "unit": 6,
@@ -29824,7 +33627,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Check the drink order 4〉Which order is for Tina?",
@@ -29846,9 +33648,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "整合對話",
     "family": "library-english-6-3",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditDrinkOrders",
+      "caption": "人物與飲料",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Person",
@@ -29872,12 +33674,23 @@ window.REVIEW_EXAM_ITEMS=[
             "milk"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Check the drink order 4〉Which order is for Tina?",
+      "articleTitle": "Check the drink order 4",
+      "articleText": "",
+      "unitId": 6,
+      "conceptIndex": 23,
+      "examLineArt": false
     },
     "libraryKey": "u6-t224-r4",
     "examRevision": 16,
     "examOrigin": "u6-t66-r4",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+    }
   },
   {
     "unit": 6,
@@ -29890,7 +33703,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Check the drink order 4〉Why must they check the names in the order?",
@@ -29912,9 +33724,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "情境應用",
     "family": "library-english-6-3",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditDrinkOrders",
+      "caption": "人物與飲料",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Person",
@@ -29938,12 +33750,23 @@ window.REVIEW_EXAM_ITEMS=[
             "milk"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Check the drink order 4〉Why must they check the names in the order?",
+      "articleTitle": "Check the drink order 4",
+      "articleText": "",
+      "unitId": 6,
+      "conceptIndex": 23,
+      "examLineArt": false
     },
     "libraryKey": "u6-t224-r5",
     "examRevision": 16,
     "examOrigin": "u6-t66-r5",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+    }
   },
   {
     "unit": 6,
@@ -29956,7 +33779,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Choose from the menu〉Which drink is NOT available?",
@@ -29978,9 +33800,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "找資料",
     "family": "library-english-6-4",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditDrinkOrders",
+      "caption": "人物與飲料",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Menu",
@@ -30000,12 +33822,23 @@ window.REVIEW_EXAM_ITEMS=[
             "Yes"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Choose from the menu〉Which drink is NOT available?",
+      "articleTitle": "Choose from the menu",
+      "articleText": "",
+      "unitId": 6,
+      "conceptIndex": 24,
+      "examLineArt": false
     },
     "libraryKey": "u6-t225-r1",
     "examRevision": 16,
     "examOrigin": "u6-t67-r1",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+    }
   },
   {
     "unit": 6,
@@ -30018,7 +33851,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Choose from the menu〉What does Owen NOT like?",
@@ -30040,9 +33872,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "配對資訊",
     "family": "library-english-6-4",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditDrinkOrders",
+      "caption": "人物與飲料",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Menu",
@@ -30062,12 +33894,23 @@ window.REVIEW_EXAM_ITEMS=[
             "Yes"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Choose from the menu〉What does Owen NOT like?",
+      "articleTitle": "Choose from the menu",
+      "articleText": "",
+      "unitId": 6,
+      "conceptIndex": 24,
+      "examLineArt": false
     },
     "libraryKey": "u6-t225-r2",
     "examRevision": 16,
     "examOrigin": "u6-t67-r2",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+    }
   },
   {
     "unit": 6,
@@ -30080,7 +33923,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Choose from the menu〉What does Nina choose at the end?",
@@ -30102,9 +33944,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "句型理解",
     "family": "library-english-6-4",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditDrinkOrders",
+      "caption": "人物與飲料",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Menu",
@@ -30124,12 +33966,23 @@ window.REVIEW_EXAM_ITEMS=[
             "Yes"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Choose from the menu〉What does Nina choose at the end?",
+      "articleTitle": "Choose from the menu",
+      "articleText": "",
+      "unitId": 6,
+      "conceptIndex": 24,
+      "examLineArt": false
     },
     "libraryKey": "u6-t225-r3",
     "examRevision": 16,
     "examOrigin": "u6-t67-r3",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+    }
   },
   {
     "unit": 6,
@@ -30142,7 +33995,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Choose from the menu〉How many cups of water does Paul prepare?",
@@ -30164,9 +34016,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "整合對話",
     "family": "library-english-6-4",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditDrinkOrders",
+      "caption": "人物與飲料",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Menu",
@@ -30186,12 +34038,23 @@ window.REVIEW_EXAM_ITEMS=[
             "Yes"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Choose from the menu〉How many cups of water does Paul prepare?",
+      "articleTitle": "Choose from the menu",
+      "articleText": "",
+      "unitId": 6,
+      "conceptIndex": 24,
+      "examLineArt": false
     },
     "libraryKey": "u6-t225-r4",
     "examRevision": 16,
     "examOrigin": "u6-t67-r4",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+    }
   },
   {
     "unit": 6,
@@ -30204,7 +34067,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Choose from the menu〉Why does Nina choose water instead of milk?",
@@ -30226,9 +34088,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "情境應用",
     "family": "library-english-6-4",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditDrinkOrders",
+      "caption": "人物與飲料",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Menu",
@@ -30248,12 +34110,23 @@ window.REVIEW_EXAM_ITEMS=[
             "Yes"
           ]
         ]
-      }
+      },
+      "sceneText": "〈Choose from the menu〉Why does Nina choose water instead of milk?",
+      "articleTitle": "Choose from the menu",
+      "articleText": "",
+      "unitId": 6,
+      "conceptIndex": 24,
+      "examLineArt": false
     },
     "libraryKey": "u6-t225-r5",
     "examRevision": 16,
     "examOrigin": "u6-t67-r5",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "依對話表格逐人呈現實際飲料種類；不額外推定喜好。"
+    }
   },
   {
     "unit": 7,
@@ -30266,7 +34139,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Fruit for our salad 3〉How many apples do they need in all?",
@@ -30288,9 +34160,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "找資料",
     "family": "library-english-7-2",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditFruitInventory",
+      "caption": "需求與現有水果",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Fruit",
@@ -30309,12 +34181,23 @@ window.REVIEW_EXAM_ITEMS=[
             2
           ]
         ]
-      }
+      },
+      "sceneText": "〈Fruit for our salad 3〉How many apples do they need in all?",
+      "articleTitle": "Fruit for our salad 3",
+      "articleText": "",
+      "unitId": 7,
+      "conceptIndex": 22,
+      "examLineArt": false
     },
     "libraryKey": "u7-t223-r1",
     "examRevision": 16,
     "examOrigin": "u7-t65-r1",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+    }
   },
   {
     "unit": 7,
@@ -30327,7 +34210,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Fruit for our salad 3〉How many more apples do they need at first?",
@@ -30349,9 +34231,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "配對資訊",
     "family": "library-english-7-2",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditFruitInventory",
+      "caption": "需求與現有水果",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Fruit",
@@ -30370,12 +34252,23 @@ window.REVIEW_EXAM_ITEMS=[
             2
           ]
         ]
-      }
+      },
+      "sceneText": "〈Fruit for our salad 3〉How many more apples do they need at first?",
+      "articleTitle": "Fruit for our salad 3",
+      "articleText": "",
+      "unitId": 7,
+      "conceptIndex": 22,
+      "examLineArt": false
     },
     "libraryKey": "u7-t223-r2",
     "examRevision": 16,
     "examOrigin": "u7-t65-r2",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+    }
   },
   {
     "unit": 7,
@@ -30388,7 +34281,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Fruit for our salad 3〉Do they need more bananas?",
@@ -30410,9 +34302,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "句型理解",
     "family": "library-english-7-2",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditFruitInventory",
+      "caption": "需求與現有水果",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Fruit",
@@ -30431,12 +34323,23 @@ window.REVIEW_EXAM_ITEMS=[
             2
           ]
         ]
-      }
+      },
+      "sceneText": "〈Fruit for our salad 3〉Do they need more bananas?",
+      "articleTitle": "Fruit for our salad 3",
+      "articleText": "",
+      "unitId": 7,
+      "conceptIndex": 22,
+      "examLineArt": false
     },
     "libraryKey": "u7-t223-r3",
     "examRevision": 16,
     "examOrigin": "u7-t65-r3",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+    }
   },
   {
     "unit": 7,
@@ -30449,7 +34352,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Fruit for our salad 3〉Who brings three apples?",
@@ -30471,9 +34373,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "整合對話",
     "family": "library-english-7-2",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditFruitInventory",
+      "caption": "需求與現有水果",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Fruit",
@@ -30492,12 +34394,23 @@ window.REVIEW_EXAM_ITEMS=[
             2
           ]
         ]
-      }
+      },
+      "sceneText": "〈Fruit for our salad 3〉Who brings three apples?",
+      "articleTitle": "Fruit for our salad 3",
+      "articleText": "",
+      "unitId": 7,
+      "conceptIndex": 22,
+      "examLineArt": false
     },
     "libraryKey": "u7-t223-r4",
     "examRevision": 16,
     "examOrigin": "u7-t65-r4",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+    }
   },
   {
     "unit": 7,
@@ -30510,7 +34423,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Fruit for our salad 3〉What do they do before making the salad?",
@@ -30532,9 +34444,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "情境應用",
     "family": "library-english-7-2",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditFruitInventory",
+      "caption": "需求與現有水果",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Fruit",
@@ -30553,12 +34465,23 @@ window.REVIEW_EXAM_ITEMS=[
             2
           ]
         ]
-      }
+      },
+      "sceneText": "〈Fruit for our salad 3〉What do they do before making the salad?",
+      "articleTitle": "Fruit for our salad 3",
+      "articleText": "",
+      "unitId": 7,
+      "conceptIndex": 22,
+      "examLineArt": false
     },
     "libraryKey": "u7-t223-r5",
     "examRevision": 16,
     "examOrigin": "u7-t65-r5",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+    }
   },
   {
     "unit": 7,
@@ -30571,7 +34494,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Fruit for our salad 4〉How many apples do they need in all?",
@@ -30593,9 +34515,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "找資料",
     "family": "library-english-7-3",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditFruitInventory",
+      "caption": "需求與現有水果",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Fruit",
@@ -30614,12 +34536,23 @@ window.REVIEW_EXAM_ITEMS=[
             3
           ]
         ]
-      }
+      },
+      "sceneText": "〈Fruit for our salad 4〉How many apples do they need in all?",
+      "articleTitle": "Fruit for our salad 4",
+      "articleText": "",
+      "unitId": 7,
+      "conceptIndex": 23,
+      "examLineArt": false
     },
     "libraryKey": "u7-t224-r1",
     "examRevision": 16,
     "examOrigin": "u7-t66-r1",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+    }
   },
   {
     "unit": 7,
@@ -30632,7 +34565,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Fruit for our salad 4〉How many more apples do they need at first?",
@@ -30654,9 +34586,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "配對資訊",
     "family": "library-english-7-3",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditFruitInventory",
+      "caption": "需求與現有水果",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Fruit",
@@ -30675,12 +34607,23 @@ window.REVIEW_EXAM_ITEMS=[
             3
           ]
         ]
-      }
+      },
+      "sceneText": "〈Fruit for our salad 4〉How many more apples do they need at first?",
+      "articleTitle": "Fruit for our salad 4",
+      "articleText": "",
+      "unitId": 7,
+      "conceptIndex": 23,
+      "examLineArt": false
     },
     "libraryKey": "u7-t224-r2",
     "examRevision": 16,
     "examOrigin": "u7-t66-r2",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+    }
   },
   {
     "unit": 7,
@@ -30693,7 +34636,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Fruit for our salad 4〉Do they need more bananas?",
@@ -30715,9 +34657,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "句型理解",
     "family": "library-english-7-3",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditFruitInventory",
+      "caption": "需求與現有水果",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Fruit",
@@ -30736,12 +34678,23 @@ window.REVIEW_EXAM_ITEMS=[
             3
           ]
         ]
-      }
+      },
+      "sceneText": "〈Fruit for our salad 4〉Do they need more bananas?",
+      "articleTitle": "Fruit for our salad 4",
+      "articleText": "",
+      "unitId": 7,
+      "conceptIndex": 23,
+      "examLineArt": false
     },
     "libraryKey": "u7-t224-r3",
     "examRevision": 16,
     "examOrigin": "u7-t66-r3",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+    }
   },
   {
     "unit": 7,
@@ -30754,7 +34707,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Fruit for our salad 4〉Who brings three apples?",
@@ -30776,9 +34728,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "整合對話",
     "family": "library-english-7-3",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditFruitInventory",
+      "caption": "需求與現有水果",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Fruit",
@@ -30797,12 +34749,23 @@ window.REVIEW_EXAM_ITEMS=[
             3
           ]
         ]
-      }
+      },
+      "sceneText": "〈Fruit for our salad 4〉Who brings three apples?",
+      "articleTitle": "Fruit for our salad 4",
+      "articleText": "",
+      "unitId": 7,
+      "conceptIndex": 23,
+      "examLineArt": false
     },
     "libraryKey": "u7-t224-r4",
     "examRevision": 16,
     "examOrigin": "u7-t66-r4",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+    }
   },
   {
     "unit": 7,
@@ -30815,7 +34778,6 @@ window.REVIEW_EXAM_ITEMS=[
       2
     ],
     "sourceType": "依公開英語卷共同句型與圖文題型重新編寫",
-    "visualPolicy": "none",
     "difficulty": "core",
     "type": "single",
     "text": "〈Fruit for our salad 4〉What do they do before making the salad?",
@@ -30837,9 +34799,9 @@ window.REVIEW_EXAM_ITEMS=[
     "readingSkill": "情境應用",
     "family": "library-english-7-3",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇訂單資料",
-      "description": "搭配完整對話核對人物及資訊。",
+      "kind": "auditFruitInventory",
+      "caption": "需求與現有水果",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "Fruit",
@@ -30858,12 +34820,23 @@ window.REVIEW_EXAM_ITEMS=[
             3
           ]
         ]
-      }
+      },
+      "sceneText": "〈Fruit for our salad 4〉What do they do before making the salad?",
+      "articleTitle": "Fruit for our salad 4",
+      "articleText": "",
+      "unitId": 7,
+      "conceptIndex": 23,
+      "examLineArt": false
     },
     "libraryKey": "u7-t224-r5",
     "examRevision": 16,
     "examOrigin": "u7-t66-r5",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "分別畫出 Need 與 Have at first 的蘋果、香蕉數量，不用表格取代可數物件。"
+    }
   },
   {
     "id": "u2-t94-b",
@@ -30899,7 +34872,7 @@ window.REVIEW_EXAM_ITEMS=[
     "visual": {
       "kind": "referenceMap",
       "caption": "臺灣與澎湖位置示意",
-      "description": "圖與本文資料相互對照；示意圖未依比例。",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "項目",
@@ -30919,12 +34892,23 @@ window.REVIEW_EXAM_ITEMS=[
             "表示北方"
           ]
         ]
-      }
+      },
+      "sceneText": "〈旅行前先看位置圖〉從本島前往澎湖，大致朝哪個方向？",
+      "articleTitle": "旅行前先看位置圖",
+      "articleText": "",
+      "unitId": 2,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u2-t221-r1",
     "examRevision": 16,
     "examOrigin": "u2-t63-r1",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "位置判讀須有指北、島嶼與海域，保留既有位置圖。"
+    }
   },
   {
     "id": "u2-t93-b",
@@ -30960,7 +34944,7 @@ window.REVIEW_EXAM_ITEMS=[
     "visual": {
       "kind": "referenceMap",
       "caption": "臺灣與澎湖位置示意",
-      "description": "圖與本文資料相互對照；示意圖未依比例。",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "項目",
@@ -30980,12 +34964,23 @@ window.REVIEW_EXAM_ITEMS=[
             "表示北方"
           ]
         ]
-      }
+      },
+      "sceneText": "〈旅行前先看位置圖〉本島東側是哪個海洋？",
+      "articleTitle": "旅行前先看位置圖",
+      "articleText": "",
+      "unitId": 2,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u2-t221-r2",
     "examRevision": 16,
     "examOrigin": "u2-t63-r2",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "位置判讀須有指北、島嶼與海域，保留既有位置圖。"
+    }
   },
   {
     "id": "u2-t92-b",
@@ -31021,7 +35016,7 @@ window.REVIEW_EXAM_ITEMS=[
     "visual": {
       "kind": "referenceMap",
       "caption": "臺灣與澎湖位置示意",
-      "description": "圖與本文資料相互對照；示意圖未依比例。",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "項目",
@@ -31041,12 +35036,23 @@ window.REVIEW_EXAM_ITEMS=[
             "表示北方"
           ]
         ]
-      }
+      },
+      "sceneText": "〈旅行前先看位置圖〉哪項資訊不能單由本文的位置圖確定？",
+      "articleTitle": "旅行前先看位置圖",
+      "articleText": "",
+      "unitId": 2,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u2-t221-r3",
     "examRevision": 16,
     "examOrigin": "u2-t63-r3",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "位置判讀須有指北、島嶼與海域，保留既有位置圖。"
+    }
   },
   {
     "id": "u2-t91-b",
@@ -31082,7 +35088,7 @@ window.REVIEW_EXAM_ITEMS=[
     "visual": {
       "kind": "referenceMap",
       "caption": "臺灣與澎湖位置示意",
-      "description": "圖與本文資料相互對照；示意圖未依比例。",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "項目",
@@ -31102,12 +35108,23 @@ window.REVIEW_EXAM_ITEMS=[
             "表示北方"
           ]
         ]
-      }
+      },
+      "sceneText": "〈旅行前先看位置圖〉出發前核對船班與海象的主要原因為何？",
+      "articleTitle": "旅行前先看位置圖",
+      "articleText": "",
+      "unitId": 2,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u2-t221-r4",
     "examRevision": 16,
     "examOrigin": "u2-t63-r4",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "位置判讀須有指北、島嶼與海域，保留既有位置圖。"
+    }
   },
   {
     "id": "u2-t90-b",
@@ -31143,7 +35160,7 @@ window.REVIEW_EXAM_ITEMS=[
     "visual": {
       "kind": "referenceMap",
       "caption": "臺灣與澎湖位置示意",
-      "description": "圖與本文資料相互對照；示意圖未依比例。",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "項目",
@@ -31163,12 +35180,23 @@ window.REVIEW_EXAM_ITEMS=[
             "表示北方"
           ]
         ]
-      }
+      },
+      "sceneText": "〈旅行前先看位置圖〉哪種整理方式最適合這次準備？",
+      "articleTitle": "旅行前先看位置圖",
+      "articleText": "",
+      "unitId": 2,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u2-t221-r5",
     "examRevision": 16,
     "examOrigin": "u2-t63-r5",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "保留並核對",
+      "reason": "位置判讀須有指北、島嶼與海域，保留既有位置圖。"
+    }
   },
   {
     "id": "u3-t94-b",
@@ -31202,9 +35230,9 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "core",
     "family": "library-u3-case1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇觀察與資料",
-      "description": "根據本文與表格核對資訊。",
+      "kind": "auditTeaTerrain",
+      "caption": "甲、乙茶園的地勢與用水",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "地點",
@@ -31223,12 +35251,23 @@ window.REVIEW_EXAM_ITEMS=[
             "蓄水池"
           ]
         ]
-      }
+      },
+      "sceneText": "〈兩座茶園的用水〉甲地最符合哪種地形？",
+      "articleTitle": "兩座茶園的用水",
+      "articleText": "",
+      "unitId": 3,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u3-t221-r1",
     "examRevision": 16,
     "examOrigin": "u3-t63-r1",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "甲為高起平坦臺地與埤塘，乙為起伏坡地與分層茶園、蓄水池。"
+    }
   },
   {
     "id": "u3-t93-b",
@@ -31262,9 +35301,9 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "core",
     "family": "library-u3-case1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇觀察與資料",
-      "description": "根據本文與表格核對資訊。",
+      "kind": "auditTeaTerrain",
+      "caption": "甲、乙茶園的地勢與用水",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "地點",
@@ -31283,12 +35322,23 @@ window.REVIEW_EXAM_ITEMS=[
             "蓄水池"
           ]
         ]
-      }
+      },
+      "sceneText": "〈兩座茶園的用水〉乙地分層種植主要在配合什麼？",
+      "articleTitle": "兩座茶園的用水",
+      "articleText": "",
+      "unitId": 3,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u3-t221-r2",
     "examRevision": 16,
     "examOrigin": "u3-t63-r2",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "甲為高起平坦臺地與埤塘，乙為起伏坡地與分層茶園、蓄水池。"
+    }
   },
   {
     "id": "u3-t92-b",
@@ -31322,9 +35372,9 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "family": "library-u3-case1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇觀察與資料",
-      "description": "根據本文與表格核對資訊。",
+      "kind": "auditTeaTerrain",
+      "caption": "甲、乙茶園的地勢與用水",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "地點",
@@ -31343,12 +35393,23 @@ window.REVIEW_EXAM_ITEMS=[
             "蓄水池"
           ]
         ]
-      }
+      },
+      "sceneText": "〈兩座茶園的用水〉哪項是兩地的共同點？",
+      "articleTitle": "兩座茶園的用水",
+      "articleText": "",
+      "unitId": 3,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u3-t221-r3",
     "examRevision": 16,
     "examOrigin": "u3-t63-r3",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "甲為高起平坦臺地與埤塘，乙為起伏坡地與分層茶園、蓄水池。"
+    }
   },
   {
     "id": "u3-t91-b",
@@ -31382,9 +35443,9 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "family": "library-u3-case1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇觀察與資料",
-      "description": "根據本文與表格核對資訊。",
+      "kind": "auditTeaTerrain",
+      "caption": "甲、乙茶園的地勢與用水",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "地點",
@@ -31403,12 +35464,23 @@ window.REVIEW_EXAM_ITEMS=[
             "蓄水池"
           ]
         ]
-      }
+      },
+      "sceneText": "〈兩座茶園的用水〉為什麼不能直接把甲地方法搬到乙地？",
+      "articleTitle": "兩座茶園的用水",
+      "articleText": "",
+      "unitId": 3,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u3-t221-r4",
     "examRevision": 16,
     "examOrigin": "u3-t63-r4",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "甲為高起平坦臺地與埤塘，乙為起伏坡地與分層茶園、蓄水池。"
+    }
   },
   {
     "id": "u3-t90-b",
@@ -31442,9 +35514,9 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "family": "library-u3-case1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇觀察與資料",
-      "description": "根據本文與表格核對資訊。",
+      "kind": "auditTeaTerrain",
+      "caption": "甲、乙茶園的地勢與用水",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "地點",
@@ -31463,12 +35535,23 @@ window.REVIEW_EXAM_ITEMS=[
             "蓄水池"
           ]
         ]
-      }
+      },
+      "sceneText": "〈兩座茶園的用水〉哪個結論最符合全文？",
+      "articleTitle": "兩座茶園的用水",
+      "articleText": "",
+      "unitId": 3,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u3-t221-r5",
     "examRevision": 16,
     "examOrigin": "u3-t63-r5",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "甲為高起平坦臺地與埤塘，乙為起伏坡地與分層茶園、蓄水池。"
+    }
   },
   {
     "id": "u23-t94-b",
@@ -31502,9 +35585,9 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "core",
     "family": "library-u23-case1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇觀察與資料",
-      "description": "根據本文與表格核對資訊。",
+      "kind": "auditCupAir",
+      "caption": "倒扣杯：垂直與傾斜比較",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "操作",
@@ -31523,12 +35606,23 @@ window.REVIEW_EXAM_ITEMS=[
             "氣泡冒出，紙團變溼"
           ]
         ]
-      }
+      },
+      "sceneText": "〈紙團為什麼沒有溼〉第一次杯子如何進入水中？",
+      "articleTitle": "紙團為什麼沒有溼",
+      "articleText": "",
+      "unitId": 23,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u23-t221-r1",
     "examRevision": 16,
     "examOrigin": "u23-t63-r1",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "呈現水盆、杯口、紙團、留在杯內的空氣及傾斜後逸出的氣泡。"
+    }
   },
   {
     "id": "u23-t93-b",
@@ -31562,9 +35656,9 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "core",
     "family": "library-u23-case1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇觀察與資料",
-      "description": "根據本文與表格核對資訊。",
+      "kind": "auditCupAir",
+      "caption": "倒扣杯：垂直與傾斜比較",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "操作",
@@ -31583,12 +35677,23 @@ window.REVIEW_EXAM_ITEMS=[
             "氣泡冒出，紙團變溼"
           ]
         ]
-      }
+      },
+      "sceneText": "〈紙團為什麼沒有溼〉第二次冒出的氣泡主要是什麼？",
+      "articleTitle": "紙團為什麼沒有溼",
+      "articleText": "",
+      "unitId": 23,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u23-t221-r2",
     "examRevision": 16,
     "examOrigin": "u23-t63-r2",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "呈現水盆、杯口、紙團、留在杯內的空氣及傾斜後逸出的氣泡。"
+    }
   },
   {
     "id": "u23-t92-b",
@@ -31622,9 +35727,9 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "family": "library-u23-case1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇觀察與資料",
-      "description": "根據本文與表格核對資訊。",
+      "kind": "auditCupAir",
+      "caption": "倒扣杯：垂直與傾斜比較",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "操作",
@@ -31643,12 +35748,23 @@ window.REVIEW_EXAM_ITEMS=[
             "氣泡冒出，紙團變溼"
           ]
         ]
-      }
+      },
+      "sceneText": "〈紙團為什麼沒有溼〉兩次主要改變哪個條件？",
+      "articleTitle": "紙團為什麼沒有溼",
+      "articleText": "",
+      "unitId": 23,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u23-t221-r3",
     "examRevision": 16,
     "examOrigin": "u23-t63-r3",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "呈現水盆、杯口、紙團、留在杯內的空氣及傾斜後逸出的氣泡。"
+    }
   },
   {
     "id": "u23-t91-b",
@@ -31682,9 +35798,9 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "family": "library-u23-case1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇觀察與資料",
-      "description": "根據本文與表格核對資訊。",
+      "kind": "auditCupAir",
+      "caption": "倒扣杯：垂直與傾斜比較",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "操作",
@@ -31703,12 +35819,23 @@ window.REVIEW_EXAM_ITEMS=[
             "氣泡冒出，紙團變溼"
           ]
         ]
-      }
+      },
+      "sceneText": "〈紙團為什麼沒有溼〉第一次紙團沒有溼，主要支持什麼？",
+      "articleTitle": "紙團為什麼沒有溼",
+      "articleText": "",
+      "unitId": 23,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u23-t221-r4",
     "examRevision": 16,
     "examOrigin": "u23-t63-r4",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "呈現水盆、杯口、紙團、留在杯內的空氣及傾斜後逸出的氣泡。"
+    }
   },
   {
     "id": "u23-t90-b",
@@ -31742,9 +35869,9 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "family": "library-u23-case1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇觀察與資料",
-      "description": "根據本文與表格核對資訊。",
+      "kind": "auditCupAir",
+      "caption": "倒扣杯：垂直與傾斜比較",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "操作",
@@ -31763,12 +35890,23 @@ window.REVIEW_EXAM_ITEMS=[
             "氣泡冒出，紙團變溼"
           ]
         ]
-      }
+      },
+      "sceneText": "〈紙團為什麼沒有溼〉第二次紙團變溼，與哪個過程最有關？",
+      "articleTitle": "紙團為什麼沒有溼",
+      "articleText": "",
+      "unitId": 23,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u23-t221-r5",
     "examRevision": 16,
     "examOrigin": "u23-t63-r5",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "呈現水盆、杯口、紙團、留在杯內的空氣及傾斜後逸出的氣泡。"
+    }
   },
   {
     "id": "u25-t94-b",
@@ -31802,9 +35940,9 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "core",
     "family": "library-u25-case1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇觀察與資料",
-      "description": "根據本文與表格核對資訊。",
+      "kind": "auditBallTurns",
+      "caption": "一顆球與兩組使用者",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "項目",
@@ -31828,12 +35966,23 @@ window.REVIEW_EXAM_ITEMS=[
             "兩週後討論執行情形"
           ]
         ]
-      }
+      },
+      "sceneText": "〈一顆球的借用規則〉原先需要解決什麼問題？",
+      "articleTitle": "一顆球的借用規則",
+      "articleText": "",
+      "unitId": 25,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u25-t221-r1",
     "examRevision": 16,
     "examOrigin": "u25-t63-r1",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "呈現有限器材與兩組輪替方向；不虛構日期或次數。"
+    }
   },
   {
     "id": "u25-t93-b",
@@ -31867,9 +36016,9 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "core",
     "family": "library-u25-case1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇觀察與資料",
-      "description": "根據本文與表格核對資訊。",
+      "kind": "auditBallTurns",
+      "caption": "一顆球與兩組使用者",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "項目",
@@ -31893,12 +36042,23 @@ window.REVIEW_EXAM_ITEMS=[
             "兩週後討論執行情形"
           ]
         ]
-      }
+      },
+      "sceneText": "〈一顆球的借用規則〉乙組擔心先到先借的哪項問題？",
+      "articleTitle": "一顆球的借用規則",
+      "articleText": "",
+      "unitId": 25,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u25-t221-r2",
     "examRevision": 16,
     "examOrigin": "u25-t63-r2",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "呈現有限器材與兩組輪替方向；不虛構日期或次數。"
+    }
   },
   {
     "id": "u25-t92-b",
@@ -31932,9 +36092,9 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "family": "library-u25-case1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇觀察與資料",
-      "description": "根據本文與表格核對資訊。",
+      "kind": "auditBallTurns",
+      "caption": "一顆球與兩組使用者",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "項目",
@@ -31958,12 +36118,23 @@ window.REVIEW_EXAM_ITEMS=[
             "兩週後討論執行情形"
           ]
         ]
-      }
+      },
+      "sceneText": "〈一顆球的借用規則〉主席讓兩組說明理由，主要有助於什麼？",
+      "articleTitle": "一顆球的借用規則",
+      "articleText": "",
+      "unitId": 25,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u25-t221-r3",
     "examRevision": 16,
     "examOrigin": "u25-t63-r3",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "呈現有限器材與兩組輪替方向；不虛構日期或次數。"
+    }
   },
   {
     "id": "u25-t91-b",
@@ -31997,9 +36168,9 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "family": "library-u25-case1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇觀察與資料",
-      "description": "根據本文與表格核對資訊。",
+      "kind": "auditBallTurns",
+      "caption": "一顆球與兩組使用者",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "項目",
@@ -32023,12 +36194,23 @@ window.REVIEW_EXAM_ITEMS=[
             "兩週後討論執行情形"
           ]
         ]
-      }
+      },
+      "sceneText": "〈一顆球的借用規則〉下雨造成無法使用，接下來怎麼做？",
+      "articleTitle": "一顆球的借用規則",
+      "articleText": "",
+      "unitId": 25,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u25-t221-r4",
     "examRevision": 16,
     "examOrigin": "u25-t63-r4",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "呈現有限器材與兩組輪替方向；不虛構日期或次數。"
+    }
   },
   {
     "id": "u25-t90-b",
@@ -32062,9 +36244,9 @@ window.REVIEW_EXAM_ITEMS=[
     "difficulty": "challenge",
     "family": "library-u25-case1",
     "visual": {
-      "kind": "referenceData",
-      "caption": "本篇觀察與資料",
-      "description": "根據本文與表格核對資訊。",
+      "kind": "auditBallTurns",
+      "caption": "一顆球與兩組使用者",
+      "description": "依題文條件重繪的教學示意；圖與下方紀錄表需一起閱讀。",
       "table": {
         "headers": [
           "項目",
@@ -32088,11 +36270,22 @@ window.REVIEW_EXAM_ITEMS=[
             "兩週後討論執行情形"
           ]
         ]
-      }
+      },
+      "sceneText": "〈一顆球的借用規則〉為什麼要約定兩週後檢查？",
+      "articleTitle": "一顆球的借用規則",
+      "articleText": "",
+      "unitId": 25,
+      "conceptIndex": 20,
+      "examLineArt": false
     },
     "libraryKey": "u25-t221-r5",
     "examRevision": 16,
     "examOrigin": "u25-t63-r5",
-    "variant": "B"
+    "variant": "B",
+    "visualReview": {
+      "version": 17,
+      "decision": "補足具體圖示",
+      "reason": "呈現有限器材與兩組輪替方向；不虛構日期或次數。"
+    }
   }
 ];

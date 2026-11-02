@@ -9,6 +9,7 @@ import applyScope from './scope-v12.mjs';
 import supplementVisuals from './supplement-visuals.mjs';
 import addB from './mock-exams-b.mjs';
 import applyLibrary from './library-revision.mjs';
+import reviewVisuals from './visual-review-v17.mjs';
 
 // 固定 A 卷的命題藍圖；不用隨機抽題，也不用只換數字的題目湊分。
 export default function writeMockExams(units){
@@ -55,6 +56,7 @@ export default function writeMockExams(units){
  supplementVisuals(units,extras);
  addSubjectVisuals(units,extras);
  applyLibrary(units,papers,extras);
+ reviewVisuals(units,extras);
  const examBank=new Map(units.flatMap(u=>u.questions).concat(extras).map(q=>[q.id,q]));
  for(const p of papers)p.signature=createHash('sha256').update(JSON.stringify({entries:p.entries,questions:p.entries.map(e=>examBank.get(e.questionId))})).digest('hex').slice(0,20);
  fs.writeFileSync('dist/mock-content.js','window.REVIEW_EXAMS='+JSON.stringify(papers,null,2)+';\nwindow.REVIEW_EXAM_ITEMS='+JSON.stringify(extras,null,2)+';\n');
