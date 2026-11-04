@@ -36,6 +36,7 @@ jobs:
       - run: node test-exam-diagrams.cjs
       - run: node test-exam-editorial.cjs
       - run: node test-exam-b.cjs
+      - run: node test-exam-c.cjs
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:

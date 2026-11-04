@@ -1,3 +1,4 @@
+import writeC from './mock-exams-c.mjs';
 import fs from 'node:fs';
 import {createHash} from 'node:crypto';
 import chineseExamItems from './mock-chinese.mjs';
@@ -60,6 +61,7 @@ export default function writeMockExams(units){
  const examBank=new Map(units.flatMap(u=>u.questions).concat(extras).map(q=>[q.id,q]));
  for(const p of papers)p.signature=createHash('sha256').update(JSON.stringify({entries:p.entries,questions:p.entries.map(e=>examBank.get(e.questionId))})).digest('hex').slice(0,20);
  fs.writeFileSync('dist/mock-content.js','window.REVIEW_EXAMS='+JSON.stringify(papers,null,2)+';\nwindow.REVIEW_EXAM_ITEMS='+JSON.stringify(extras,null,2)+';\n');
+ writeC(units,papers,extras);
  writeFormatPage(papers);
  writeBlueprint(papers);
  return papers;

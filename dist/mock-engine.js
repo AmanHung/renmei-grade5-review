@@ -4,7 +4,7 @@
  function create(paper,bank,owner,uuid,rng=Math.random){
   if(!paper.entries.length||paper.entries.length>100||paper.entries.some(e=>!Number.isInteger(e.points)||e.points<1)||paper.entries.reduce((n,e)=>n+e.points,0)!==100)throw Error('考卷配分錯誤');
   const questions=paper.entries.map(e=>{const q=bank.find(q=>q.id===e.questionId);if(!q)throw Error('找不到考題');return {...E.prepare(q,rng),points:e.points,section:e.section};});
-  return {paperId:paper.id,signature:paper.signature,owner,sessionId:uuid(),startedAt:Date.now(),questions,answers:{},result:null,logged:false};
+  return {adaptive:!!paper.adaptive,selection:paper.selection,coverage:paper.coverage,paperId:paper.id,signature:paper.signature,owner,sessionId:uuid(),startedAt:Date.now(),questions,answers:{},result:null,logged:false};
  }
  const missing=d=>d.questions.flatMap((q,i)=>E.ready(q,d.answers[q.id])?[]:[i]);
  function grade(d){
@@ -13,7 +13,7 @@
   const rows=d.questions.map(q=>({id:q.id,correct:E.correct(q,d.answers[q.id]),points:E.correct(q,d.answers[q.id])?q.points:0}));
   return {score:rows.reduce((n,r)=>n+r.points,0),right:rows.filter(r=>r.correct).length,total:rows.length,rows,finishedAt:Date.now()};
  }
- function compatible(d,paper,owner){return !!d&&d.owner===owner&&d.paperId===paper.id&&d.signature===paper.signature&&Array.isArray(d.questions)&&d.questions.length===paper.entries.length&&d.questions.every((q,i)=>q.id===paper.entries[i].questionId&&q.points===paper.entries[i].points)&&d.answers&&typeof d.answers==='object';}
+ function compatible(d,paper,owner){return !!d&&d.owner===owner&&d.paperId===paper.id&&d.signature===paper.signature&&Array.isArray(d.questions)&&d.questions.length===paper.entries.length&&new Set(d.questions.map(q=>q.id)).size===d.questions.length&&d.questions.every((q,i)=>(paper.adaptive||q.id===paper.entries[i].questionId)&&q.points===paper.entries[i].points&&q.section===paper.entries[i].section)&&d.answers&&typeof d.answers==='object';}
  const api={create,missing,grade,compatible};
  if(typeof module!=='undefined'&&module.exports)module.exports=api;else root.MockEngine=api;
 })(globalThis);
